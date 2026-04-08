@@ -28916,5 +28916,26 @@
     "file": "The Legend of Zelda The Minish Cap/Dark Hyrule Castle.mmrs",
     "preview": "The Legend of Zelda The Minish Cap/Dark Hyrule Castle.ogg"
   },
+  {
+    "uuid": "e468345e-429c-4324-a85e-d2495728730f",
+    "creationDate": "2026-04-08T23:20:10.917Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Faron Woods (Variant B)",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda Twilight Princess/Faron Woods (Variant B).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Faron Woods (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
