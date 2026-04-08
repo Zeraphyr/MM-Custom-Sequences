@@ -28897,5 +28897,24 @@
     "file": "The Legend of Zelda Twilight Princess/Shop Theme.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Shop Theme.ogg"
   },
+  {
+    "uuid": "1eec0b78-5dbd-4c39-8cf8-bdf4e92f9ed0",
+    "creationDate": "2026-04-08T23:19:13.758Z",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "song": "Dark Hyrule Castle",
+    "composers": [
+      "Mitsuhiko Takano"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda The Minish Cap/Dark Hyrule Castle.mmrs",
+    "preview": "The Legend of Zelda The Minish Cap/Dark Hyrule Castle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
