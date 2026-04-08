@@ -28605,5 +28605,25 @@
     "file": "Kingdom Hearts/Scherzodinotte.mmrs",
     "preview": "Kingdom Hearts/Scherzodinotte.ogg"
   },
+  {
+    "uuid": "689187e6-f688-4397-bedd-ef81b526bf2d",
+    "creationDate": "2026-04-08T22:53:15.979Z",
+    "game": "Animal Crossing: Wild World",
+    "song": "Able Sisters",
+    "composers": [
+      "Kazumi Totaka",
+      "Asuka Hayazaki"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "file": "Animal Crossing Wild World/Able Sisters.mmrs",
+    "preview": "Animal Crossing Wild World/Able Sisters.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
