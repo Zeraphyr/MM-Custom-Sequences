@@ -8498,7 +8498,7 @@
     "uuid": "6d6dd2be-6809-45f2-98a1-e1b643d08c06",
     "creationDate": "2026-03-16T00:05:02.282Z",
     "game": "Super Mario World 2: Yoshi's Island",
-    "song": "Athletic",
+    "song": "Athletic (Variant A)",
     "composers": [
       "Koji Kondo"
     ],
@@ -8511,10 +8511,9 @@
       "4"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Super Mario World 2 Yoshi's Island/Athletic.mmrs",
-    "preview": "https://www.youtube.com/watch?v=8WaX18TzPfQ"
+    "file": "Super Mario World 2 Yoshi's Island/Athletic (Variant A).mmrs",
+    "preview": "https://www.youtube.com/watch?v=8WaX18TzPfQ",
+    "lastUpdateDate": "2026-04-08T23:01:01.821Z"
   },
   {
     "uuid": "4a899fbd-4411-44ab-b4f5-7dfb245c910c",
@@ -16083,7 +16082,7 @@
     "uuid": "cb8ed21f-a62b-434f-a70b-6930c2b5375f",
     "creationDate": "2026-03-22T23:59:47.704Z",
     "game": "The Legend of Zelda: Twilight Princess",
-    "song": "Faron Woods",
+    "song": "Faron Woods (Variant A)",
     "composers": [
       "Toru Minegishi",
       "Asuka Ohta"
@@ -16097,11 +16096,9 @@
       "2",
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "The Legend of Zelda Twilight Princess/Faron Woods.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Faron Woods.ogg"
+    "preview": "The Legend of Zelda Twilight Princess/Faron Woods.ogg",
+    "lastUpdateDate": "2026-04-08T23:21:02.317Z"
   },
   {
     "uuid": "a7c942f8-6315-433d-9399-393f3c8b5331",
@@ -28495,6 +28492,512 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
+  },
+  {
+    "uuid": "ed052f9d-b9d1-4dc2-8a58-f9ffd4cc26a1",
+    "creationDate": "2026-04-08T22:47:15.764Z",
+    "game": "Terranigma",
+    "song": "Underworld",
+    "composers": [
+      "Miyoko Takaoka",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "Terranigma/Underworld.mmrs",
+    "preview": "Terranigma/Underworld.ogg"
+  },
+  {
+    "uuid": "d7249991-0f7e-4ca5-95f3-939030847854",
+    "creationDate": "2026-04-08T22:48:46.083Z",
+    "game": "Chrono Cross",
+    "song": "Another Arni Village",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "0",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Chrono Cross/Another Arni Village.mmrs",
+    "preview": "Chrono Cross/Another Arni Village.ogg"
+  },
+  {
+    "uuid": "a530e41c-331c-4054-9b62-c5251b03e57f",
+    "creationDate": "2026-04-08T22:49:19.148Z",
+    "game": "Chrono Cross",
+    "song": "Another Voyage",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "0",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Chrono Cross/Another Voyage.mmrs",
+    "preview": "Chrono Cross/Another Voyage.ogg"
+  },
+  {
+    "uuid": "3105dbf3-51aa-42fe-9a87-40701d4291b0",
+    "creationDate": "2026-04-08T22:49:56.390Z",
+    "game": "Kingdom Hearts II",
+    "song": "Sinister Sundown",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "1",
+      "2",
+      "3",
+      "4",
+      "7"
+    ],
+    "file": "Kingdom Hearts II/Sinister Sundown.mmrs",
+    "preview": "Kingdom Hearts II/Sinister Sundown.ogg"
+  },
+  {
+    "uuid": "4d92555f-f0d7-441f-81d9-8d48b79c7526",
+    "creationDate": "2026-04-08T22:52:07.646Z",
+    "game": "Kingdom Hearts",
+    "song": "Scherzodinotte",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "file": "Kingdom Hearts/Scherzodinotte.mmrs",
+    "preview": "Kingdom Hearts/Scherzodinotte.ogg"
+  },
+  {
+    "uuid": "689187e6-f688-4397-bedd-ef81b526bf2d",
+    "creationDate": "2026-04-08T22:53:15.979Z",
+    "game": "Animal Crossing: Wild World",
+    "song": "Able Sisters",
+    "composers": [
+      "Kazumi Totaka",
+      "Asuka Hayazaki"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "file": "Animal Crossing Wild World/Able Sisters.mmrs",
+    "preview": "Animal Crossing Wild World/Able Sisters.ogg"
+  },
+  {
+    "uuid": "85764d27-b3d8-430e-93af-792dca96aad4",
+    "creationDate": "2026-04-08T22:54:03.708Z",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "song": "Temple of Droplets",
+    "composers": [
+      "Mitsuhiko Takano"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda The Minish Cap/Temple of Droplets.mmrs",
+    "preview": "The Legend of Zelda The Minish Cap/Temple of Droplets.ogg"
+  },
+  {
+    "uuid": "41dadc0c-0050-471b-99cf-e28b7ba29869",
+    "creationDate": "2026-04-08T22:55:31.041Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Up the River",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda Twilight Princess/Up the River.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Up the River.ogg"
+  },
+  {
+    "uuid": "8395e564-49ed-45df-948d-af5742f7f99d",
+    "creationDate": "2026-04-08T22:57:11.706Z",
+    "game": "Rune Factory: A Fantasy Harvest Moon",
+    "song": "Greed Cave",
+    "composers": [
+      "Tomoko Morita"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "Rune Factory A Fantasy Harvest Moon/Greed Cave.mmrs",
+    "preview": "Rune Factory A Fantasy Harvest Moon/Greed Cave.ogg"
+  },
+  {
+    "uuid": "326c1741-39b9-4948-a93f-12d8f94402dd",
+    "creationDate": "2026-04-08T22:57:48.680Z",
+    "game": "Kingdom Hearts II",
+    "song": "Lazy Afternoons",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Kingdom Hearts II/Lazy Afternoons.mmrs",
+    "preview": "Kingdom Hearts II/Lazy Afternoons.ogg"
+  },
+  {
+    "uuid": "e18bdbf0-8e48-4608-8edb-4c4de3326327",
+    "creationDate": "2026-04-08T22:59:24.939Z",
+    "game": "Super Mario World 2: Yoshi's Island",
+    "song": "Athletic (Variant B)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "file": "Super Mario World 2 Yoshi's Island/Athletic (Variant B).mmrs",
+    "preview": "Super Mario World 2 Yoshi's Island/Athletic (Variant B).ogg"
+  },
+  {
+    "uuid": "3dbf8faf-ef22-4344-aa15-7f0b48bf8f4e",
+    "creationDate": "2026-04-08T23:00:12.704Z",
+    "game": "Kingdom Hearts",
+    "song": "Wonderland",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "4",
+      "5"
+    ],
+    "file": "Kingdom Hearts/Wonderland.mmrs",
+    "preview": "Kingdom Hearts/Wonderland.ogg"
+  },
+  {
+    "uuid": "b4273f29-388a-4d48-9e47-97e702cf6976",
+    "creationDate": "2026-04-08T23:01:57.126Z",
+    "game": "Rune Factory 3: A Fantasy Harvest Moon",
+    "song": "Summer",
+    "composers": [
+      "Tomoko Morita"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "file": "Rune Factory 3 A Fantasy Harvest Moon/Summer.mmrs",
+    "preview": "Rune Factory 3 A Fantasy Harvest Moon/Summer.ogg"
+  },
+  {
+    "uuid": "c9efadb6-f3de-48fb-a357-6df53b87545a",
+    "creationDate": "2026-04-08T23:02:44.547Z",
+    "game": "Banjo-Kazooie",
+    "song": "Grunty's Lair",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Banjo-Kazooie/Grunty's Lair.mmrs",
+    "preview": "Banjo-Kazooie/Grunty's Lair.ogg"
+  },
+  {
+    "uuid": "a57fcfd0-1484-4230-8bf1-77518b74586c",
+    "creationDate": "2026-04-08T23:03:19.999Z",
+    "game": "Rune Factory 3: A Fantasy Harvest Moon",
+    "song": "Solterrano",
+    "composers": [
+      "Tomoko Morita"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "file": "Rune Factory 3 A Fantasy Harvest Moon/Solterrano.mmrs",
+    "preview": "Rune Factory 3 A Fantasy Harvest Moon/Solterrano.ogg"
+  },
+  {
+    "uuid": "232a2256-5970-43b4-aff3-ab32fa39d1f6",
+    "creationDate": "2026-04-08T23:03:58.107Z",
+    "game": "Kingdom Hearts",
+    "song": "Nightflying",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Kingdom Hearts/Nightflying.mmrs",
+    "preview": "Kingdom Hearts/Nightflying.ogg"
+  },
+  {
+    "uuid": "7f3220cf-95ca-4563-bb18-cf97b9f0e622",
+    "creationDate": "2026-04-08T23:05:18.415Z",
+    "game": "Kingdom Hearts",
+    "song": "Agrabah",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "Kingdom Hearts/Agrabah.mmrs",
+    "preview": "Kingdom Hearts/Agrabah.ogg"
+  },
+  {
+    "uuid": "8b36ca57-9f8e-4191-bba0-64ccbca26db3",
+    "creationDate": "2026-04-08T23:10:20.900Z",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "song": "Hyrule Castle",
+    "composers": [
+      "Mitsuhiko Takano"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda The Minish Cap/Hyrule Castle.mmrs",
+    "preview": "The Legend of Zelda The Minish Cap/Hyrule Castle.ogg"
+  },
+  {
+    "uuid": "297ab83f-b282-463c-9486-9f59b277725b",
+    "creationDate": "2026-04-08T23:17:49.881Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Shop Theme",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda Twilight Princess/Shop Theme.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Shop Theme.ogg"
+  },
+  {
+    "uuid": "1eec0b78-5dbd-4c39-8cf8-bdf4e92f9ed0",
+    "creationDate": "2026-04-08T23:19:13.758Z",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "song": "Dark Hyrule Castle",
+    "composers": [
+      "Mitsuhiko Takano"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda The Minish Cap/Dark Hyrule Castle.mmrs",
+    "preview": "The Legend of Zelda The Minish Cap/Dark Hyrule Castle.ogg"
+  },
+  {
+    "uuid": "e468345e-429c-4324-a85e-d2495728730f",
+    "creationDate": "2026-04-08T23:20:10.917Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Faron Woods (Variant B)",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda Twilight Princess/Faron Woods (Variant B).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Faron Woods (Variant B).ogg"
+  },
+  {
+    "uuid": "fd68c452-8e41-46f6-ac88-6cf5b8256ab5",
+    "creationDate": "2026-04-08T23:21:51.527Z",
+    "game": "Luigi's Mansion",
+    "song": "Exterior",
+    "composers": [
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "0",
+      "16e"
+    ],
+    "file": "Luigi's Mansion/Exterior.mmrs",
+    "preview": "Luigi's Mansion/Exterior.ogg"
+  },
+  {
+    "uuid": "fc5c3c12-e8df-4616-99d4-b28b211b6456",
+    "creationDate": "2026-04-08T23:23:23.781Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Overworld",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Overworld.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Overworld.ogg"
+  },
+  {
+    "uuid": "7316c901-b744-4b55-a7f5-fbc1ad94c192",
+    "creationDate": "2026-04-08T23:24:40.215Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Windfall",
+    "composers": [
+      "Kenta Nagata",
+      "Hajime Wakai",
+      "Toru Minegishi",
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Windfall.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Windfall.ogg"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
