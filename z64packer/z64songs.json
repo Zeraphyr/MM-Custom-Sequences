@@ -28775,5 +28775,26 @@
     "file": "Rune Factory 3 A Fantasy Harvest Moon/Summer.mmrs",
     "preview": "Rune Factory 3 A Fantasy Harvest Moon/Summer.ogg"
   },
+  {
+    "uuid": "c9efadb6-f3de-48fb-a357-6df53b87545a",
+    "creationDate": "2026-04-08T23:02:44.547Z",
+    "game": "Banjo-Kazooie",
+    "song": "Grunty's Lair",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Banjo-Kazooie/Grunty's Lair.mmrs",
+    "preview": "Banjo-Kazooie/Grunty's Lair.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
