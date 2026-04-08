@@ -28496,5 +28496,28 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "ed052f9d-b9d1-4dc2-8a58-f9ffd4cc26a1",
+    "creationDate": "2026-04-08T22:47:15.764Z",
+    "game": "Terranigma",
+    "song": "Underworld",
+    "composers": [
+      "Miyoko Takaoka",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "Terranigma/Underworld.mmrs",
+    "preview": "Terranigma/Underworld.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
