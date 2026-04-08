@@ -28935,5 +28935,25 @@
     "file": "The Legend of Zelda Twilight Princess/Faron Woods (Variant B).mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Faron Woods (Variant B).ogg"
   },
+  {
+    "uuid": "fd68c452-8e41-46f6-ac88-6cf5b8256ab5",
+    "creationDate": "2026-04-08T23:21:51.527Z",
+    "game": "Luigi's Mansion",
+    "song": "Exterior",
+    "composers": [
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "0",
+      "16e"
+    ],
+    "file": "Luigi's Mansion/Exterior.mmrs",
+    "preview": "Luigi's Mansion/Exterior.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
