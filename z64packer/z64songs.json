@@ -28731,5 +28731,27 @@
     "file": "Super Mario World 2 Yoshi's Island/Athletic (Variant B).mmrs",
     "preview": "Super Mario World 2 Yoshi's Island/Athletic (Variant B).ogg"
   },
+  {
+    "uuid": "3dbf8faf-ef22-4344-aa15-7f0b48bf8f4e",
+    "creationDate": "2026-04-08T23:00:12.704Z",
+    "game": "Kingdom Hearts",
+    "song": "Wonderland",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "4",
+      "5"
+    ],
+    "file": "Kingdom Hearts/Wonderland.mmrs",
+    "preview": "Kingdom Hearts/Wonderland.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
