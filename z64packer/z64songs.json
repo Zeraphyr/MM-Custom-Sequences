@@ -8513,7 +8513,9 @@
     "usesCustomBank": true,
     "file": "Super Mario World 2 Yoshi's Island/Athletic (Variant A).mmrs",
     "preview": "https://www.youtube.com/watch?v=8WaX18TzPfQ",
-    "lastUpdateDate": "2026-04-08T23:01:01.821Z"
+    "lastUpdateDate": "2026-04-08T23:01:01.821Z",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4a899fbd-4411-44ab-b4f5-7dfb245c910c",
@@ -16098,7 +16100,10 @@
     ],
     "file": "The Legend of Zelda Twilight Princess/Faron Woods.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Faron Woods.ogg",
-    "lastUpdateDate": "2026-04-08T23:21:02.317Z"
+    "lastUpdateDate": "2026-04-08T23:21:02.317Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a7c942f8-6315-433d-9399-393f3c8b5331",
@@ -28514,7 +28519,9 @@
     ],
     "usesCustomBank": true,
     "file": "Terranigma/Underworld.mmrs",
-    "preview": "Terranigma/Underworld.ogg"
+    "preview": "Terranigma/Underworld.ogg",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d7249991-0f7e-4ca5-95f3-939030847854",
@@ -28536,7 +28543,10 @@
       "16"
     ],
     "file": "Chrono Cross/Another Arni Village.mmrs",
-    "preview": "Chrono Cross/Another Arni Village.ogg"
+    "preview": "Chrono Cross/Another Arni Village.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a530e41c-331c-4054-9b62-c5251b03e57f",
@@ -28558,7 +28568,10 @@
       "16"
     ],
     "file": "Chrono Cross/Another Voyage.mmrs",
-    "preview": "Chrono Cross/Another Voyage.ogg"
+    "preview": "Chrono Cross/Another Voyage.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "3105dbf3-51aa-42fe-9a87-40701d4291b0",
@@ -28581,7 +28594,10 @@
       "7"
     ],
     "file": "Kingdom Hearts II/Sinister Sundown.mmrs",
-    "preview": "Kingdom Hearts II/Sinister Sundown.ogg"
+    "preview": "Kingdom Hearts II/Sinister Sundown.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4d92555f-f0d7-441f-81d9-8d48b79c7526",
@@ -28600,7 +28616,10 @@
       "7"
     ],
     "file": "Kingdom Hearts/Scherzodinotte.mmrs",
-    "preview": "Kingdom Hearts/Scherzodinotte.ogg"
+    "preview": "Kingdom Hearts/Scherzodinotte.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "689187e6-f688-4397-bedd-ef81b526bf2d",
@@ -28620,7 +28639,10 @@
       "6"
     ],
     "file": "Animal Crossing Wild World/Able Sisters.mmrs",
-    "preview": "Animal Crossing Wild World/Able Sisters.ogg"
+    "preview": "Animal Crossing Wild World/Able Sisters.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "85764d27-b3d8-430e-93af-792dca96aad4",
@@ -28639,7 +28661,9 @@
     ],
     "usesCustomBank": true,
     "file": "The Legend of Zelda The Minish Cap/Temple of Droplets.mmrs",
-    "preview": "The Legend of Zelda The Minish Cap/Temple of Droplets.ogg"
+    "preview": "The Legend of Zelda The Minish Cap/Temple of Droplets.ogg",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "41dadc0c-0050-471b-99cf-e28b7ba29869",
@@ -28661,7 +28685,9 @@
     ],
     "usesCustomBank": true,
     "file": "The Legend of Zelda Twilight Princess/Up the River.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Up the River.ogg"
+    "preview": "The Legend of Zelda Twilight Princess/Up the River.ogg",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "8395e564-49ed-45df-948d-af5742f7f99d",
@@ -28681,7 +28707,9 @@
     ],
     "usesCustomBank": true,
     "file": "Rune Factory A Fantasy Harvest Moon/Greed Cave.mmrs",
-    "preview": "Rune Factory A Fantasy Harvest Moon/Greed Cave.ogg"
+    "preview": "Rune Factory A Fantasy Harvest Moon/Greed Cave.ogg",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "326c1741-39b9-4948-a93f-12d8f94402dd",
@@ -28701,7 +28729,10 @@
       "6"
     ],
     "file": "Kingdom Hearts II/Lazy Afternoons.mmrs",
-    "preview": "Kingdom Hearts II/Lazy Afternoons.ogg"
+    "preview": "Kingdom Hearts II/Lazy Afternoons.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e18bdbf0-8e48-4608-8edb-4c4de3326327",
@@ -28726,7 +28757,10 @@
       "7"
     ],
     "file": "Super Mario World 2 Yoshi's Island/Athletic (Variant B).mmrs",
-    "preview": "Super Mario World 2 Yoshi's Island/Athletic (Variant B).ogg"
+    "preview": "Super Mario World 2 Yoshi's Island/Athletic (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "3dbf8faf-ef22-4344-aa15-7f0b48bf8f4e",
@@ -28748,7 +28782,10 @@
       "5"
     ],
     "file": "Kingdom Hearts/Wonderland.mmrs",
-    "preview": "Kingdom Hearts/Wonderland.ogg"
+    "preview": "Kingdom Hearts/Wonderland.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b4273f29-388a-4d48-9e47-97e702cf6976",
@@ -28771,7 +28808,9 @@
     ],
     "usesCustomBank": true,
     "file": "Rune Factory 3 A Fantasy Harvest Moon/Summer.mmrs",
-    "preview": "Rune Factory 3 A Fantasy Harvest Moon/Summer.ogg"
+    "preview": "Rune Factory 3 A Fantasy Harvest Moon/Summer.ogg",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c9efadb6-f3de-48fb-a357-6df53b87545a",
@@ -28792,7 +28831,9 @@
     ],
     "usesCustomBank": true,
     "file": "Banjo-Kazooie/Grunty's Lair.mmrs",
-    "preview": "Banjo-Kazooie/Grunty's Lair.ogg"
+    "preview": "Banjo-Kazooie/Grunty's Lair.ogg",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a57fcfd0-1484-4230-8bf1-77518b74586c",
@@ -28813,7 +28854,9 @@
     ],
     "usesCustomBank": true,
     "file": "Rune Factory 3 A Fantasy Harvest Moon/Solterrano.mmrs",
-    "preview": "Rune Factory 3 A Fantasy Harvest Moon/Solterrano.ogg"
+    "preview": "Rune Factory 3 A Fantasy Harvest Moon/Solterrano.ogg",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "232a2256-5970-43b4-aff3-ab32fa39d1f6",
@@ -28834,7 +28877,9 @@
     ],
     "usesCustomBank": true,
     "file": "Kingdom Hearts/Nightflying.mmrs",
-    "preview": "Kingdom Hearts/Nightflying.ogg"
+    "preview": "Kingdom Hearts/Nightflying.ogg",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "7f3220cf-95ca-4563-bb18-cf97b9f0e622",
@@ -28854,7 +28899,9 @@
     ],
     "usesCustomBank": true,
     "file": "Kingdom Hearts/Agrabah.mmrs",
-    "preview": "Kingdom Hearts/Agrabah.ogg"
+    "preview": "Kingdom Hearts/Agrabah.ogg",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "8b36ca57-9f8e-4191-bba0-64ccbca26db3",
@@ -28873,7 +28920,9 @@
     ],
     "usesCustomBank": true,
     "file": "The Legend of Zelda The Minish Cap/Hyrule Castle.mmrs",
-    "preview": "The Legend of Zelda The Minish Cap/Hyrule Castle.ogg"
+    "preview": "The Legend of Zelda The Minish Cap/Hyrule Castle.ogg",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "297ab83f-b282-463c-9486-9f59b277725b",
@@ -28893,7 +28942,9 @@
     ],
     "usesCustomBank": true,
     "file": "The Legend of Zelda Twilight Princess/Shop Theme.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Shop Theme.ogg"
+    "preview": "The Legend of Zelda Twilight Princess/Shop Theme.ogg",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1eec0b78-5dbd-4c39-8cf8-bdf4e92f9ed0",
@@ -28912,7 +28963,9 @@
     ],
     "usesCustomBank": true,
     "file": "The Legend of Zelda The Minish Cap/Dark Hyrule Castle.mmrs",
-    "preview": "The Legend of Zelda The Minish Cap/Dark Hyrule Castle.ogg"
+    "preview": "The Legend of Zelda The Minish Cap/Dark Hyrule Castle.ogg",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e468345e-429c-4324-a85e-d2495728730f",
@@ -28933,7 +28986,9 @@
     ],
     "usesCustomBank": true,
     "file": "The Legend of Zelda Twilight Princess/Faron Woods (Variant B).mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Faron Woods (Variant B).ogg"
+    "preview": "The Legend of Zelda Twilight Princess/Faron Woods (Variant B).ogg",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "fd68c452-8e41-46f6-ac88-6cf5b8256ab5",
@@ -28953,7 +29008,10 @@
       "16e"
     ],
     "file": "Luigi's Mansion/Exterior.mmrs",
-    "preview": "Luigi's Mansion/Exterior.ogg"
+    "preview": "Luigi's Mansion/Exterior.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "fc5c3c12-e8df-4616-99d4-b28b211b6456",
@@ -28973,7 +29031,10 @@
       "0"
     ],
     "file": "The Legend of Zelda Link's Awakening/Overworld.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Overworld.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Overworld.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "7316c901-b744-4b55-a7f5-fbc1ad94c192",
@@ -28997,7 +29058,10 @@
       "6"
     ],
     "file": "The Legend of Zelda The Wind Waker/Windfall.mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Windfall.ogg"
+    "preview": "The Legend of Zelda The Wind Waker/Windfall.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
