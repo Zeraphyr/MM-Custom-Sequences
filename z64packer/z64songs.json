@@ -28519,5 +28519,27 @@
     "file": "Terranigma/Underworld.mmrs",
     "preview": "Terranigma/Underworld.ogg"
   },
+  {
+    "uuid": "d7249991-0f7e-4ca5-95f3-939030847854",
+    "creationDate": "2026-04-08T22:48:46.083Z",
+    "game": "Chrono Cross",
+    "song": "Another Arni Village",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "0",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Chrono Cross/Another Arni Village.mmrs",
+    "preview": "Chrono Cross/Another Arni Village.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
