@@ -28858,5 +28858,24 @@
     "file": "Kingdom Hearts/Agrabah.mmrs",
     "preview": "Kingdom Hearts/Agrabah.ogg"
   },
+  {
+    "uuid": "8b36ca57-9f8e-4191-bba0-64ccbca26db3",
+    "creationDate": "2026-04-08T23:10:20.900Z",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "song": "Hyrule Castle",
+    "composers": [
+      "Mitsuhiko Takano"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda The Minish Cap/Hyrule Castle.mmrs",
+    "preview": "The Legend of Zelda The Minish Cap/Hyrule Castle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
