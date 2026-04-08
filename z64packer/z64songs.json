@@ -28752,5 +28752,28 @@
     "file": "Kingdom Hearts/Wonderland.mmrs",
     "preview": "Kingdom Hearts/Wonderland.ogg"
   },
+  {
+    "uuid": "b4273f29-388a-4d48-9e47-97e702cf6976",
+    "creationDate": "2026-04-08T23:01:57.126Z",
+    "game": "Rune Factory 3: A Fantasy Harvest Moon",
+    "song": "Summer",
+    "composers": [
+      "Tomoko Morita"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "file": "Rune Factory 3 A Fantasy Harvest Moon/Summer.mmrs",
+    "preview": "Rune Factory 3 A Fantasy Harvest Moon/Summer.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
