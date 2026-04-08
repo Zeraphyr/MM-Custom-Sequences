@@ -28644,5 +28644,27 @@
     "file": "The Legend of Zelda The Minish Cap/Temple of Droplets.mmrs",
     "preview": "The Legend of Zelda The Minish Cap/Temple of Droplets.ogg"
   },
+  {
+    "uuid": "41dadc0c-0050-471b-99cf-e28b7ba29869",
+    "creationDate": "2026-04-08T22:55:31.041Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Up the River",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda Twilight Princess/Up the River.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Up the River.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
