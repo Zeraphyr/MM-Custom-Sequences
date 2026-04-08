@@ -28586,5 +28586,24 @@
     "file": "Kingdom Hearts II/Sinister Sundown.mmrs",
     "preview": "Kingdom Hearts II/Sinister Sundown.ogg"
   },
+  {
+    "uuid": "4d92555f-f0d7-441f-81d9-8d48b79c7526",
+    "creationDate": "2026-04-08T22:52:07.646Z",
+    "game": "Kingdom Hearts",
+    "song": "Scherzodinotte",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "file": "Kingdom Hearts/Scherzodinotte.mmrs",
+    "preview": "Kingdom Hearts/Scherzodinotte.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
