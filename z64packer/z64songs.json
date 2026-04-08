@@ -28625,5 +28625,24 @@
     "file": "Animal Crossing Wild World/Able Sisters.mmrs",
     "preview": "Animal Crossing Wild World/Able Sisters.ogg"
   },
+  {
+    "uuid": "85764d27-b3d8-430e-93af-792dca96aad4",
+    "creationDate": "2026-04-08T22:54:03.708Z",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "song": "Temple of Droplets",
+    "composers": [
+      "Mitsuhiko Takano"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda The Minish Cap/Temple of Droplets.mmrs",
+    "preview": "The Legend of Zelda The Minish Cap/Temple of Droplets.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
