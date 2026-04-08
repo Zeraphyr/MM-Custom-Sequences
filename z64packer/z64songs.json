@@ -28686,5 +28686,25 @@
     "file": "Rune Factory A Fantasy Harvest Moon/Greed Cave.mmrs",
     "preview": "Rune Factory A Fantasy Harvest Moon/Greed Cave.ogg"
   },
+  {
+    "uuid": "326c1741-39b9-4948-a93f-12d8f94402dd",
+    "creationDate": "2026-04-08T22:57:48.680Z",
+    "game": "Kingdom Hearts II",
+    "song": "Lazy Afternoons",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Kingdom Hearts II/Lazy Afternoons.mmrs",
+    "preview": "Kingdom Hearts II/Lazy Afternoons.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
