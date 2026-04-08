@@ -28666,5 +28666,25 @@
     "file": "The Legend of Zelda Twilight Princess/Up the River.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Up the River.ogg"
   },
+  {
+    "uuid": "8395e564-49ed-45df-948d-af5742f7f99d",
+    "creationDate": "2026-04-08T22:57:11.706Z",
+    "game": "Rune Factory: A Fantasy Harvest Moon",
+    "song": "Greed Cave",
+    "composers": [
+      "Tomoko Morita"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "Rune Factory A Fantasy Harvest Moon/Greed Cave.mmrs",
+    "preview": "Rune Factory A Fantasy Harvest Moon/Greed Cave.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
