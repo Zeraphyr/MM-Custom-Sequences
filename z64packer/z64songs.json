@@ -28563,5 +28563,28 @@
     "file": "Chrono Cross/Another Voyage.mmrs",
     "preview": "Chrono Cross/Another Voyage.ogg"
   },
+  {
+    "uuid": "3105dbf3-51aa-42fe-9a87-40701d4291b0",
+    "creationDate": "2026-04-08T22:49:56.390Z",
+    "game": "Kingdom Hearts II",
+    "song": "Sinister Sundown",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "1",
+      "2",
+      "3",
+      "4",
+      "7"
+    ],
+    "file": "Kingdom Hearts II/Sinister Sundown.mmrs",
+    "preview": "Kingdom Hearts II/Sinister Sundown.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
