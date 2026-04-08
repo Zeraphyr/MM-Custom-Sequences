@@ -28541,5 +28541,27 @@
     "file": "Chrono Cross/Another Arni Village.mmrs",
     "preview": "Chrono Cross/Another Arni Village.ogg"
   },
+  {
+    "uuid": "a530e41c-331c-4054-9b62-c5251b03e57f",
+    "creationDate": "2026-04-08T22:49:19.148Z",
+    "game": "Chrono Cross",
+    "song": "Another Voyage",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "0",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Chrono Cross/Another Voyage.mmrs",
+    "preview": "Chrono Cross/Another Voyage.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
