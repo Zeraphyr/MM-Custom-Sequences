@@ -28877,5 +28877,25 @@
     "file": "The Legend of Zelda The Minish Cap/Hyrule Castle.mmrs",
     "preview": "The Legend of Zelda The Minish Cap/Hyrule Castle.ogg"
   },
+  {
+    "uuid": "297ab83f-b282-463c-9486-9f59b277725b",
+    "creationDate": "2026-04-08T23:17:49.881Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Shop Theme",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda Twilight Princess/Shop Theme.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Shop Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
