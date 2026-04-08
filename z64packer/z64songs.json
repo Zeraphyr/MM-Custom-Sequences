@@ -28796,5 +28796,26 @@
     "file": "Banjo-Kazooie/Grunty's Lair.mmrs",
     "preview": "Banjo-Kazooie/Grunty's Lair.ogg"
   },
+  {
+    "uuid": "a57fcfd0-1484-4230-8bf1-77518b74586c",
+    "creationDate": "2026-04-08T23:03:19.999Z",
+    "game": "Rune Factory 3: A Fantasy Harvest Moon",
+    "song": "Solterrano",
+    "composers": [
+      "Tomoko Morita"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "file": "Rune Factory 3 A Fantasy Harvest Moon/Solterrano.mmrs",
+    "preview": "Rune Factory 3 A Fantasy Harvest Moon/Solterrano.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
