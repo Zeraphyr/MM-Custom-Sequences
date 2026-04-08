@@ -28955,5 +28955,25 @@
     "file": "Luigi's Mansion/Exterior.mmrs",
     "preview": "Luigi's Mansion/Exterior.ogg"
   },
+  {
+    "uuid": "fc5c3c12-e8df-4616-99d4-b28b211b6456",
+    "creationDate": "2026-04-08T23:23:23.781Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Overworld",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Overworld.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Overworld.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
