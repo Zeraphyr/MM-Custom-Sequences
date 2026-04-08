@@ -28838,5 +28838,25 @@
     "file": "Kingdom Hearts/Nightflying.mmrs",
     "preview": "Kingdom Hearts/Nightflying.ogg"
   },
+  {
+    "uuid": "7f3220cf-95ca-4563-bb18-cf97b9f0e622",
+    "creationDate": "2026-04-08T23:05:18.415Z",
+    "game": "Kingdom Hearts",
+    "song": "Agrabah",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "Kingdom Hearts/Agrabah.mmrs",
+    "preview": "Kingdom Hearts/Agrabah.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
