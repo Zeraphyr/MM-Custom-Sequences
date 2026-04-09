@@ -29063,5 +29063,25 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "5e16fb62-b4da-4136-88f0-a2f178fe1d00",
+    "creationDate": "2026-04-09T00:25:53.534Z",
+    "game": "Xenoblade Chronicles 2",
+    "song": "Mor Ardain",
+    "composers": [
+      "Kenji Hiramatsu"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "file": "Xenoblade Chronicles 2/Mor Ardain.mmrs",
+    "preview": "https://www.youtube.com/watch?v=dvGMeHgyXiY"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
