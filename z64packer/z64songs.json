@@ -29612,5 +29612,25 @@
     "file": "Sonic Adventure/Azure Blue World ...for Emerald Coast.mmrs",
     "preview": "Sonic Adventure/Azure Blue World ...for Emerald Coast.mp3"
   },
+  {
+    "uuid": "d43e14ce-f105-42a9-ad33-9e004a94c8b3",
+    "creationDate": "2026-04-09T01:50:28.324Z",
+    "game": "Sonic Adventure 2",
+    "song": "It Doesn't Matter",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Sonic Adventure 2/It Doesn't Matter.mmrs",
+    "preview": "Sonic Adventure 2/It Doesn't Matter.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
