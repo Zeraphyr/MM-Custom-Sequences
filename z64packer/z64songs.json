@@ -30025,5 +30025,26 @@
     "file": "Sonic Unleashed/Endless Possibility.mmrs",
     "preview": "Sonic Unleashed/Endless Possibility.ogg"
   },
+  {
+    "uuid": "93de81c6-9a11-42e4-b205-f89454f90e3a",
+    "creationDate": "2026-04-09T02:37:50.554Z",
+    "game": "Sonic Unleashed",
+    "song": "Rooftop Run (Day)",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Sonic Unleashed/Rooftop Run (Day).mmrs",
+    "preview": "Sonic Unleashed/Rooftop Run (Day).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
