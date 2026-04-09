@@ -30258,5 +30258,25 @@
     "preview": "The Legend of Zelda Twilight Princess/Fishing Pond Theme.mp3",
     "lastUpdateDate": "2026-04-09T13:47:31.007Z"
   },
+  {
+    "uuid": "f78ec931-6b21-4aa0-88dc-1a4c0efe542d",
+    "creationDate": "2026-04-09T13:48:17.529Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Rollgoal",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda Twilight Princess/Rollgoal.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Rollgoal.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
