@@ -29784,5 +29784,25 @@
     "file": "Super Mario 3D Land/Overworld.mmrs",
     "preview": "Super Mario 3D Land/Overworld.mp3"
   },
+  {
+    "uuid": "70ea52d1-6d02-4730-84f0-b405d3321131",
+    "creationDate": "2026-04-09T02:07:57.306Z",
+    "game": "Sonic Mania",
+    "song": "Green Hill Zone Act 2",
+    "composers": [
+      "Tee Lopes"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Sonic Mania/Green Hill Zone Act 2.mmrs",
+    "preview": "Sonic Mania/Green Hill Zone Act 2.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
