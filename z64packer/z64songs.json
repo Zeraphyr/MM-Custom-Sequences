@@ -29145,5 +29145,26 @@
     "file": "Silent Hill 2/True (Variant B).mmrs",
     "preview": "https://www.youtube.com/watch?v=erRJDcE91dA"
   },
+  {
+    "uuid": "18d4546a-9ebf-4fdd-9042-eb3ef47c5f4c",
+    "creationDate": "2026-04-09T00:33:12.122Z",
+    "game": "Deltarune",
+    "song": "TV World",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "Deltarune/TV World.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Nm4uwdVaiKU"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
