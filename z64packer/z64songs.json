@@ -29739,5 +29739,27 @@
     "file": "Sonic Heroes/Follow Me (Variant B).mmrs",
     "preview": "Sonic Heroes/Follow Me (Variant B).mp3"
   },
+  {
+    "uuid": "d88b4f65-0500-4dac-8820-99fb14fca3c6",
+    "creationDate": "2026-04-09T02:06:31.312Z",
+    "game": "Sonic Mania",
+    "song": "Flying Battery Zone Act 1",
+    "composers": [
+      "Tee Lopes"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Sonic Mania/Flying Battery Zone Act 1.mmrs",
+    "preview": "Sonic Mania/Flying Battery Zone Act 1.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
