@@ -29675,5 +29675,27 @@
     "file": "Sonic Generations/Green Hill Act 2.mmrs",
     "preview": "Sonic Generations/Green Hill Act 2.mp3"
   },
+  {
+    "uuid": "9a5eb093-c853-482a-af1d-8fd723dd82a3",
+    "creationDate": "2026-04-09T01:59:04.593Z",
+    "game": "Shadowgate",
+    "song": "Castle Halls",
+    "composers": [
+      "Hiroyuki Masuno"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "7"
+    ],
+    "file": "Shadowgate/Castle Halls.mmrs",
+    "preview": "Shadowgate/Castle Halls.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
