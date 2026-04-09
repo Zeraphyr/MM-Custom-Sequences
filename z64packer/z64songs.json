@@ -18612,7 +18612,9 @@
     "usesCustomBank": true,
     "file": "Chrono Trigger/Corridors of Time.mmrs",
     "preview": "Chrono Trigger/Corridors of Time.mp3",
-    "lastUpdateDate": "2026-04-09T13:54:25.453Z"
+    "lastUpdateDate": "2026-04-09T13:54:25.453Z",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "65b313d9-7557-41fa-a3ff-35935cda03fc",
@@ -30255,7 +30257,9 @@
     "usesCustomBank": true,
     "file": "The Legend of Zelda Twilight Princess/Fishing Pond Theme.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Fishing Pond Theme.mp3",
-    "lastUpdateDate": "2026-04-09T13:47:31.007Z"
+    "lastUpdateDate": "2026-04-09T13:47:31.007Z",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "f78ec931-6b21-4aa0-88dc-1a4c0efe542d",
@@ -30275,7 +30279,9 @@
     ],
     "usesCustomBank": true,
     "file": "The Legend of Zelda Twilight Princess/Rollgoal.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Rollgoal.mp3"
+    "preview": "The Legend of Zelda Twilight Princess/Rollgoal.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b0f37ee2-baa2-4844-a5ca-34c87de53501",
@@ -30295,7 +30301,9 @@
     ],
     "usesCustomBank": true,
     "file": "Chrono Trigger/Secret of the Forest.mmrs",
-    "preview": "Chrono Trigger/Secret of the Forest.mp3"
+    "preview": "Chrono Trigger/Secret of the Forest.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2e68ec6e-a38d-4dc2-9634-29f213e4b880",
@@ -30315,7 +30323,9 @@
     ],
     "usesCustomBank": true,
     "file": "Banjo-Tooie/Weldar.mmrs",
-    "preview": "Banjo-Tooie/Weldar.mp3"
+    "preview": "Banjo-Tooie/Weldar.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ca045476-4aab-4757-aa8b-4028f805b9a0",
@@ -30335,7 +30345,9 @@
     ],
     "usesCustomBank": true,
     "file": "Rune Factory 3 A Fantasy Harvest Moon/Spring.mmrs",
-    "preview": "Rune Factory 3 A Fantasy Harvest Moon/Spring.mp3"
+    "preview": "Rune Factory 3 A Fantasy Harvest Moon/Spring.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "0e8c2cbb-6f7c-4cbc-a980-51d0044033d2",
@@ -30354,7 +30366,10 @@
       "2"
     ],
     "file": "Star Fox 64/Aquas.mmrs",
-    "preview": "Star Fox 64/Aquas.mp3"
+    "preview": "Star Fox 64/Aquas.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "5a42ebe4-f8e6-4b3e-be4e-43a97b2a9195",
@@ -30375,7 +30390,9 @@
     ],
     "usesCustomBank": true,
     "file": "Chrono Trigger/Corridors of Time (Variant B).mmrs",
-    "preview": "Chrono Trigger/Corridors of Time (Variant B).mp3"
+    "preview": "Chrono Trigger/Corridors of Time (Variant B).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
