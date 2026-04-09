@@ -29125,5 +29125,25 @@
     "file": "Xenoblade Chronicles 2/The Ancient Vessel.mmrs",
     "preview": "https://www.youtube.com/watch?v=H8QBr9teBeE"
   },
+  {
+    "uuid": "82050a03-2475-43d9-9b3e-9673b0b7cc16",
+    "creationDate": "2026-04-09T00:31:58.668Z",
+    "game": "Silent Hill 2",
+    "song": "True (Variant B)",
+    "composers": [
+      "Akira Yamaoka"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "file": "Silent Hill 2/True (Variant B).mmrs",
+    "preview": "https://www.youtube.com/watch?v=erRJDcE91dA"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
