@@ -30338,5 +30338,24 @@
     "file": "Rune Factory 3 A Fantasy Harvest Moon/Spring.mmrs",
     "preview": "Rune Factory 3 A Fantasy Harvest Moon/Spring.mp3"
   },
+  {
+    "uuid": "0e8c2cbb-6f7c-4cbc-a980-51d0044033d2",
+    "creationDate": "2026-04-09T13:52:50.990Z",
+    "game": "Star Fox 64",
+    "song": "Aquas",
+    "composers": [
+      "Koji Kondo",
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "Star Fox 64/Aquas.mmrs",
+    "preview": "Star Fox 64/Aquas.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
