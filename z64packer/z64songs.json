@@ -29258,5 +29258,28 @@
     "file": "Pokémon Black & White/Bicycle.mmrs",
     "preview": "Pokémon Black & White/Bicycle.mp3"
   },
+  {
+    "uuid": "ad1ef165-7958-47cd-89cc-47ec2ed26682",
+    "creationDate": "2026-04-09T00:52:43.826Z",
+    "game": "Pokémon Ranger",
+    "song": "Ranger Base",
+    "composers": [
+      "Takuto Kitsuta",
+      "Kinta Sato"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "118",
+      "176"
+    ],
+    "file": "Pokémon Ranger/Ranger Base.mmrs",
+    "preview": "Pokémon Ranger/Ranger Base.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
