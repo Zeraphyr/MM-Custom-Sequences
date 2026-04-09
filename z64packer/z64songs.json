@@ -29083,5 +29083,25 @@
     "file": "Mario Party 3/Don't Hurry.mmrs",
     "preview": "Mario Party 3/Don't Hurry.mp3"
   },
+  {
+    "uuid": "ed82867a-8133-45fb-ad8a-f3ff9b490d0a",
+    "creationDate": "2026-04-09T00:38:35.317Z",
+    "game": "Mario Party",
+    "song": "Mini-Game Victory 5",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Mario Party/Mini-Game Victory 5.mmrs",
+    "preview": "Mario Party/Mini-Game Victory 5.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
