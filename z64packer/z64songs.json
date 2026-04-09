@@ -6199,7 +6199,7 @@
     "uuid": "38c3cc30-0899-4f79-a41d-128c51736edb",
     "creationDate": "2026-03-14T02:13:22.805Z",
     "game": "Persona 3",
-    "song": "The Battle for Everyone's Souls",
+    "song": "The Battle for Everyone's Souls (Variant A)",
     "composers": [
       "Shoji Meguro"
     ],
@@ -6211,10 +6211,9 @@
       "7"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Persona 3/The Battle for Everyone's Souls.mmrs",
-    "preview": "https://www.youtube.com/watch?v=WRgZ0tmrmqE"
+    "preview": "https://www.youtube.com/watch?v=WRgZ0tmrmqE",
+    "lastUpdateDate": "2026-04-09T04:45:05.435Z"
   },
   {
     "uuid": "ee84a8f1-04f0-4f78-8769-77607486fa9a",
