@@ -30357,5 +30357,26 @@
     "file": "Star Fox 64/Aquas.mmrs",
     "preview": "Star Fox 64/Aquas.mp3"
   },
+  {
+    "uuid": "5a42ebe4-f8e6-4b3e-be4e-43a97b2a9195",
+    "creationDate": "2026-04-09T13:53:51.169Z",
+    "game": "Chrono Trigger",
+    "song": "Corridors of Time (Variant B)",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6",
+      "107"
+    ],
+    "usesCustomBank": true,
+    "file": "Chrono Trigger/Corridors of Time (Variant B).mmrs",
+    "preview": "Chrono Trigger/Corridors of Time (Variant B).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
