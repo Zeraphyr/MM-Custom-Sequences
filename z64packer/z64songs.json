@@ -29870,5 +29870,29 @@
     "file": "Super Mario Odyssey/Fossil Falls.mmrs",
     "preview": "Super Mario Odyssey/Fossil Falls.mp3"
   },
+  {
+    "uuid": "3ad0d793-e92f-419e-83dc-d6a68d81bdb3",
+    "creationDate": "2026-04-09T02:14:01.060Z",
+    "game": "Super Mario Sunshine",
+    "song": "Red Coin Fish",
+    "composers": [
+      "Koji Kondo",
+      "Shinobu Tanaka"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Super Mario Sunshine/Red Coin Fish.mmrs",
+    "preview": "Super Mario Sunshine/Red Coin Fish.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
