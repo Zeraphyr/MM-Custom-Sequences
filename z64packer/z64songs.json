@@ -29655,5 +29655,25 @@
     "file": "Sonic Adventure 2/Chao Garden (Neutral).mmrs",
     "preview": "Sonic Adventure 2/Chao Garden (Neutral).mp3"
   },
+  {
+    "uuid": "220014ab-34e7-4fa6-84fa-1f84884c8db0",
+    "creationDate": "2026-04-09T01:58:07.950Z",
+    "game": "Sonic Generations",
+    "song": "Green Hill: Act 2",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Sonic Generations/Green Hill Act 2.mmrs",
+    "preview": "Sonic Generations/Green Hill Act 2.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
