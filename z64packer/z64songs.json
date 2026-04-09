@@ -29188,5 +29188,28 @@
     "file": "Killer7/Dissociative Identity.mmrs",
     "preview": "https://www.youtube.com/watch?v=yYu53fy-Z2Q"
   },
+  {
+    "uuid": "a836d885-e95e-4ac7-89e5-aa6a3e612545",
+    "creationDate": "2026-04-09T00:36:32.049Z",
+    "game": "Killer7",
+    "song": "Dissociative Identity (No Intro)",
+    "composers": [
+      "Masafumi Takada"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "notes": "Version without the minute long intro.",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "file": "Killer7/Dissociative Identity (No Intro).mmrs",
+    "preview": "https://www.youtube.com/watch?v=yYu53fy-Z2Q"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
