@@ -29232,5 +29232,26 @@
     "file": "NieR Replicant/Yonah Piano Ver..mmrs",
     "preview": "https://www.youtube.com/watch?v=hi9w_WZI6Iw"
   },
+  {
+    "uuid": "3a72904a-eea9-4b50-af2f-0be33601b9fa",
+    "creationDate": "2026-04-09T00:41:15.930Z",
+    "game": "NieR Replicant",
+    "song": "The Wretched Automatons",
+    "composers": [
+      "Keiichi Okabe"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "NieR Replicant/The Wretched Automatons.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Hdxj7BZXqSg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
