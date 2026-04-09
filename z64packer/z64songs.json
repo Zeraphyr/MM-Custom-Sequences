@@ -29168,5 +29168,29 @@
     "file": "OutRun/Magical Sound Shower (Short Version).mmrs",
     "preview": "OutRun/Magical Sound Shower (Short Version).ogg"
   },
+  {
+    "uuid": "fd5e4be3-c4df-42a8-885b-385d7460ebdb",
+    "creationDate": "2026-04-09T00:43:41.583Z",
+    "game": "Persona 3 Portable",
+    "song": "Danger Zone",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "7",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Persona 3 Portable/Danger Zone.mmrs",
+    "preview": "Persona 3 Portable/Danger Zone.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
