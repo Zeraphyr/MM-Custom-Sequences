@@ -29804,5 +29804,28 @@
     "file": "Sonic Mania/Green Hill Zone Act 2.mmrs",
     "preview": "Sonic Mania/Green Hill Zone Act 2.ogg"
   },
+  {
+    "uuid": "24055b84-df34-44d7-ae52-3da7d09cc84e",
+    "creationDate": "2026-04-09T02:09:14.853Z",
+    "game": "Super Mario Land",
+    "song": "Birabuto Kingdom",
+    "composers": [
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Super Mario Land/Birabuto Kingdom.mmrs",
+    "preview": "Super Mario Land/Birabuto Kingdom.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
