@@ -29083,5 +29083,26 @@
     "file": "Xenoblade Chronicles 2/Mor Ardain.mmrs",
     "preview": "https://www.youtube.com/watch?v=dvGMeHgyXiY"
   },
+  {
+    "uuid": "f02990db-a979-4a2c-b501-efc6f6ecb3ee",
+    "creationDate": "2026-04-09T00:29:11.809Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Diababa 2nd Battle",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta",
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda Twilight Princess/Diababa 2nd Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=YcjDzcOXJBQ"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
