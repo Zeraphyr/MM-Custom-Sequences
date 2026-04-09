@@ -3245,28 +3245,43 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/d556b595eef47660153b8eddebbc2b12.png"
   },
   {
-    "game": "Kingdom Hearts Birth by Sleep"
+    "game": "Kingdom Hearts Birth by Sleep",
+    "series": "Kingdom Hearts Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/c2073ffa77b5357a498057413bb09d3a.png"
   },
   {
-    "game": "Rune Factory 3: A Fantasy Harvest Moon"
+    "game": "Rune Factory 3: A Fantasy Harvest Moon",
+    "series": "Rune Factory Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/5f4f25d269af35abf542f09062624683.png",
+    "short_name": "Rune Factory 3"
   },
   {
-    "game": "Trials of Mana"
+    "game": "Trials of Mana",
+    "series": "Mana Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/6a71825dbf6d876764b845e0fd664e0b.png"
   },
   {
-    "game": "Rune Factory: A Fantasy Harvest Moon"
+    "game": "Rune Factory: A Fantasy Harvest Moon",
+    "series": "Rune Factory Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/8f682c02cb7b13eb05e2e780a580190f.png",
+    "short_name": "Rune Factory"
   },
   {
-    "game": "RPG Maker VX Ace"
+    "game": "RPG Maker VX Ace",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/8339611181c6b2622eec0551fbd4d298.png"
   },
   {
-    "game": "OutRun"
+    "game": "OutRun",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/59be87529097e488e3b631d6a4c62bc7.png"
   },
   {
-    "game": "Persona 3 Portable"
+    "game": "Persona 3 Portable",
+    "series": "Persona Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/3776a248dc131a2684faf81d916ae23e.png"
   },
   {
-    "game": "Killer7"
+    "game": "Killer7",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/db8fd996bde03224bfb6808f56734712.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
