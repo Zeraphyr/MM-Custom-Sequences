@@ -29616,5 +29616,545 @@
     "file": "Banjo-Tooie/Witchyworld (Variant B).mmrs",
     "preview": "https://www.youtube.com/watch?v=8GKEYZDl6Ak"
   },
+  {
+    "uuid": "554fad50-4d42-4307-ad3f-9f616791219d",
+    "creationDate": "2026-04-09T01:46:32.617Z",
+    "game": "Sonic Adventure",
+    "song": "Azure Blue World ...for Emerald Coast",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Sonic Adventure/Azure Blue World ...for Emerald Coast.mmrs",
+    "preview": "Sonic Adventure/Azure Blue World ...for Emerald Coast.mp3"
+  },
+  {
+    "uuid": "d43e14ce-f105-42a9-ad33-9e004a94c8b3",
+    "creationDate": "2026-04-09T01:50:28.324Z",
+    "game": "Sonic Adventure 2",
+    "song": "It Doesn't Matter",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Sonic Adventure 2/It Doesn't Matter.mmrs",
+    "preview": "Sonic Adventure 2/It Doesn't Matter.mp3"
+  },
+  {
+    "uuid": "5de3a44a-d6d8-49ed-8271-0a861a142e66",
+    "creationDate": "2026-04-09T01:54:04.426Z",
+    "game": "Sonic Adventure 2",
+    "song": "Chao Garden (Neutral)",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Sonic Adventure 2/Chao Garden (Neutral).mmrs",
+    "preview": "Sonic Adventure 2/Chao Garden (Neutral).mp3"
+  },
+  {
+    "uuid": "220014ab-34e7-4fa6-84fa-1f84884c8db0",
+    "creationDate": "2026-04-09T01:58:07.950Z",
+    "game": "Sonic Generations",
+    "song": "Green Hill: Act 2",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Sonic Generations/Green Hill Act 2.mmrs",
+    "preview": "Sonic Generations/Green Hill Act 2.mp3"
+  },
+  {
+    "uuid": "9a5eb093-c853-482a-af1d-8fd723dd82a3",
+    "creationDate": "2026-04-09T01:59:04.593Z",
+    "game": "Shadowgate",
+    "song": "Castle Halls",
+    "composers": [
+      "Hiroyuki Masuno"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "7"
+    ],
+    "file": "Shadowgate/Castle Halls.mmrs",
+    "preview": "Shadowgate/Castle Halls.ogg"
+  },
+  {
+    "uuid": "1b67f125-f43e-468e-a443-65870e7dc5b0",
+    "creationDate": "2026-04-09T02:01:05.712Z",
+    "game": "Sonic Heroes",
+    "song": "Follow Me (Variant A)",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Sonic Heroes/Follow Me (Variant A).mmrs",
+    "preview": "Sonic Heroes/Follow Me (Variant A).ogg"
+  },
+  {
+    "uuid": "24af14fe-9d20-42a5-ae25-0a0ce75d1d6c",
+    "creationDate": "2026-04-09T02:01:59.573Z",
+    "game": "Sonic Heroes",
+    "song": "Follow Me (Variant B)",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Sonic Heroes/Follow Me (Variant B).mmrs",
+    "preview": "Sonic Heroes/Follow Me (Variant B).mp3"
+  },
+  {
+    "uuid": "d88b4f65-0500-4dac-8820-99fb14fca3c6",
+    "creationDate": "2026-04-09T02:06:31.312Z",
+    "game": "Sonic Mania",
+    "song": "Flying Battery Zone Act 1",
+    "composers": [
+      "Tee Lopes"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Sonic Mania/Flying Battery Zone Act 1.mmrs",
+    "preview": "Sonic Mania/Flying Battery Zone Act 1.mp3"
+  },
+  {
+    "uuid": "80be67ae-2f6a-4500-8943-e8968ee04f84",
+    "creationDate": "2026-04-09T02:07:12.332Z",
+    "game": "Super Mario 3D Land",
+    "song": "Overworld",
+    "composers": [
+      "Takeshi Hama"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Super Mario 3D Land/Overworld.mmrs",
+    "preview": "Super Mario 3D Land/Overworld.mp3"
+  },
+  {
+    "uuid": "70ea52d1-6d02-4730-84f0-b405d3321131",
+    "creationDate": "2026-04-09T02:07:57.306Z",
+    "game": "Sonic Mania",
+    "song": "Green Hill Zone Act 2",
+    "composers": [
+      "Tee Lopes"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Sonic Mania/Green Hill Zone Act 2.mmrs",
+    "preview": "Sonic Mania/Green Hill Zone Act 2.ogg"
+  },
+  {
+    "uuid": "24055b84-df34-44d7-ae52-3da7d09cc84e",
+    "creationDate": "2026-04-09T02:09:14.853Z",
+    "game": "Super Mario Land",
+    "song": "Birabuto Kingdom",
+    "composers": [
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Super Mario Land/Birabuto Kingdom.mmrs",
+    "preview": "Super Mario Land/Birabuto Kingdom.mp3"
+  },
+  {
+    "uuid": "2a5679a7-cd43-4c37-8d4f-ad7ec138276b",
+    "creationDate": "2026-04-09T02:10:36.026Z",
+    "game": "Super Mario Maker 2",
+    "song": "Desert (Super Mario World)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157"
+    ],
+    "file": "Super Mario Maker 2/Desert (Super Mario World).mmrs",
+    "preview": "Super Mario Maker 2/Desert (Super Mario World).ogg"
+  },
+  {
+    "uuid": "a3e623af-b51d-4f23-ac14-30d9a0379266",
+    "creationDate": "2026-04-09T02:12:03.698Z",
+    "game": "Super Mario Odyssey",
+    "song": "Fossil Falls",
+    "composers": [
+      "Naoto Kubo"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Super Mario Odyssey/Fossil Falls.mmrs",
+    "preview": "Super Mario Odyssey/Fossil Falls.mp3"
+  },
+  {
+    "uuid": "3ad0d793-e92f-419e-83dc-d6a68d81bdb3",
+    "creationDate": "2026-04-09T02:14:01.060Z",
+    "game": "Super Mario Sunshine",
+    "song": "Red Coin Fish",
+    "composers": [
+      "Koji Kondo",
+      "Shinobu Tanaka"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Super Mario Sunshine/Red Coin Fish.mmrs",
+    "preview": "Super Mario Sunshine/Red Coin Fish.mp3"
+  },
+  {
+    "uuid": "28769218-e460-4412-9db0-f0e3e55ed079",
+    "creationDate": "2026-04-09T02:15:11.593Z",
+    "game": "Sonic Mania",
+    "song": "Lights, Camera, Action! - Studiopolis Zone Act 1",
+    "composers": [
+      "Tee Lopes"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Sonic Mania/Lights, Camera, Action! - Studiopolis Zone Act 1.mmrs",
+    "preview": "Sonic Mania/Lights, Camera, Action! - Studiopolis Zone Act 1.mp3"
+  },
+  {
+    "uuid": "15c17240-af42-44f4-add1-b2015d2de12d",
+    "creationDate": "2026-04-09T02:16:19.919Z",
+    "game": "Sonic Mania",
+    "song": "Prime Time - Studiopolis Zone Act 2",
+    "composers": [
+      "Tee Lopes"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Sonic Mania/Prime Time - Studiopolis Zone Act 2.mmrs",
+    "preview": "Sonic Mania/Prime Time - Studiopolis Zone Act 2.mp3"
+  },
+  {
+    "uuid": "779360b6-0997-42e3-9fad-9886f10569f1",
+    "creationDate": "2026-04-09T02:22:30.058Z",
+    "game": "Sonic Rivals 2",
+    "song": "Race to Win",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "7",
+      "157",
+      "176"
+    ],
+    "file": "Sonic Rivals 2/Race to Win.mmrs",
+    "preview": "Sonic Rivals 2/Race to Win.mp3"
+  },
+  {
+    "uuid": "227ef949-1fc3-47c3-8eaf-3757526bab68",
+    "creationDate": "2026-04-09T02:23:28.129Z",
+    "game": "Sonic the Hedgehog Spinball",
+    "song": "Toxic Caves",
+    "composers": [
+      "Howard Drossin"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Sonic the Hedgehog Spinball/Toxic Caves.mmrs",
+    "preview": "Sonic the Hedgehog Spinball/Toxic Caves.mp3"
+  },
+  {
+    "uuid": "00a69cdd-d575-4e59-84a7-e9f2003a71d4",
+    "creationDate": "2026-04-09T02:28:42.064Z",
+    "game": "Sonic Unleashed",
+    "song": "Dragon Road (Day)",
+    "composers": [
+      "Kenichi Tokoi"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157"
+    ],
+    "file": "Sonic Unleashed/Dragon Road (Day).mmrs",
+    "preview": "Sonic Unleashed/Dragon Road (Day).ogg"
+  },
+  {
+    "uuid": "3f03f94f-766f-481f-87a1-532ac473fb33",
+    "creationDate": "2026-04-09T02:36:30.394Z",
+    "game": "Sonic Unleashed",
+    "song": "Endless Possibility",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "157"
+    ],
+    "file": "Sonic Unleashed/Endless Possibility.mmrs",
+    "preview": "Sonic Unleashed/Endless Possibility.ogg"
+  },
+  {
+    "uuid": "93de81c6-9a11-42e4-b205-f89454f90e3a",
+    "creationDate": "2026-04-09T02:37:50.554Z",
+    "game": "Sonic Unleashed",
+    "song": "Rooftop Run (Day)",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Sonic Unleashed/Rooftop Run (Day).mmrs",
+    "preview": "Sonic Unleashed/Rooftop Run (Day).ogg"
+  },
+  {
+    "uuid": "47155cff-15ea-432e-887d-0be078bddca6",
+    "creationDate": "2026-04-09T02:46:28.388Z",
+    "game": "Sonic Unleashed",
+    "song": "Savannah Citadel (Day) (Variant A)",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Sonic Unleashed/Savannah Citadel (Day) (Variant A).mmrs",
+    "preview": "Sonic Unleashed/Savannah Citadel (Day) (Variant A).ogg"
+  },
+  {
+    "uuid": "31374ecd-c79e-4c65-8921-2f142323cfa3",
+    "creationDate": "2026-04-09T02:48:02.138Z",
+    "game": "Sonic Unleashed",
+    "song": "Savannah Citadel (Day) (Variant B)",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Sonic Unleashed/Savannah Citadel (Day) (Variant B).mmrs",
+    "preview": "Sonic Unleashed/Savannah Citadel (Day) (Variant B).ogg"
+  },
+  {
+    "uuid": "7f8e625b-d1e2-48ea-bbf9-461e986be65d",
+    "creationDate": "2026-04-09T02:55:19.793Z",
+    "game": "Sonic Unleashed",
+    "song": "Windmill Isle (Day)",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Sonic Unleashed/Windmill Isle (Day).mmrs",
+    "preview": "Sonic Unleashed/Windmill Isle (Day).mp3"
+  },
+  {
+    "uuid": "a9c8b681-b36a-4158-9554-e4853ee9ba04",
+    "creationDate": "2026-04-09T03:04:36.287Z",
+    "game": "Touhou Youyoumu ~ Perfect Cherry Blossom",
+    "song": "Necrofantasia (Variant B)",
+    "composers": [
+      "ZUN"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "7",
+      "157"
+    ],
+    "file": "Touhou Youyoumu ~ Perfect Cherry Blossom/Necrofantasia (Variant B).mmrs",
+    "preview": "Touhou Youyoumu ~ Perfect Cherry Blossom/Necrofantasia (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
