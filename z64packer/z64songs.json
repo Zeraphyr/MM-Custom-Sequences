@@ -29063,5 +29063,25 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "abde6faa-b1bc-41e0-a68a-4e46e14b07f3",
+    "creationDate": "2026-04-09T00:29:45.727Z",
+    "game": "Mario Party 3",
+    "song": "Don't Hurry",
+    "composers": [
+      "Ichiro Shimakura"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Mario Party 3/Don't Hurry.mmrs",
+    "preview": "Mario Party 3/Don't Hurry.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
