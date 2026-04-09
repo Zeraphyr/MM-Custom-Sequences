@@ -29146,5 +29146,27 @@
     "file": "OutRun/Magical Sound Shower (Full Version).mmrs",
     "preview": "OutRun/Magical Sound Shower (Full Version).ogg"
   },
+  {
+    "uuid": "5fdb45da-e3d4-426f-959b-9a667d317970",
+    "creationDate": "2026-04-09T00:42:26.327Z",
+    "game": "OutRun",
+    "song": "Magical Sound Shower (Short Version)",
+    "composers": [
+      "Hiroshi Kawaguchi"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "OutRun/Magical Sound Shower (Short Version).mmrs",
+    "preview": "OutRun/Magical Sound Shower (Short Version).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
