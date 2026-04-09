@@ -29938,5 +29938,28 @@
     "file": "Sonic Mania/Prime Time - Studiopolis Zone Act 2.mmrs",
     "preview": "Sonic Mania/Prime Time - Studiopolis Zone Act 2.mp3"
   },
+  {
+    "uuid": "779360b6-0997-42e3-9fad-9886f10569f1",
+    "creationDate": "2026-04-09T02:22:30.058Z",
+    "game": "Sonic Rivals 2",
+    "song": "Race to Win",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "7",
+      "157",
+      "176"
+    ],
+    "file": "Sonic Rivals 2/Race to Win.mmrs",
+    "preview": "Sonic Rivals 2/Race to Win.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
