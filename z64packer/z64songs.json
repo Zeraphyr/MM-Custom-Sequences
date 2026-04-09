@@ -30090,5 +30090,25 @@
     "file": "Sonic Unleashed/Savannah Citadel (Day) (Variant B).mmrs",
     "preview": "Sonic Unleashed/Savannah Citadel (Day) (Variant B).ogg"
   },
+  {
+    "uuid": "7f8e625b-d1e2-48ea-bbf9-461e986be65d",
+    "creationDate": "2026-04-09T02:55:19.793Z",
+    "game": "Sonic Unleashed",
+    "song": "Windmill Isle (Day)",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Sonic Unleashed/Windmill Isle (Day).mmrs",
+    "preview": "Sonic Unleashed/Windmill Isle (Day).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
