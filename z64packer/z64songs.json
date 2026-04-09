@@ -30318,5 +30318,25 @@
     "file": "Banjo-Tooie/Weldar.mmrs",
     "preview": "Banjo-Tooie/Weldar.mp3"
   },
+  {
+    "uuid": "ca045476-4aab-4757-aa8b-4028f805b9a0",
+    "creationDate": "2026-04-09T13:51:46.746Z",
+    "game": "Rune Factory 3: A Fantasy Harvest Moon",
+    "song": "Spring",
+    "composers": [
+      "Tomoko Morita"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "file": "Rune Factory 3 A Fantasy Harvest Moon/Spring.mmrs",
+    "preview": "Rune Factory 3 A Fantasy Harvest Moon/Spring.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
