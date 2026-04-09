@@ -29213,5 +29213,27 @@
     "file": "Persona 3/The Battle for Everyone's Souls (Variant B).mmrs",
     "preview": "Persona 3/The Battle for Everyone's Souls (Variant B).ogg"
   },
+  {
+    "uuid": "a667d31a-8a1e-48c3-8921-b3996d2d17b0",
+    "creationDate": "2026-04-09T00:50:52.263Z",
+    "game": "Persona 4",
+    "song": "Junes Theme",
+    "composers": [
+      "Ryota Kozuka"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Persona 4/Junes Theme.mmrs",
+    "preview": "Persona 4/Junes Theme.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
