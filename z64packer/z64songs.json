@@ -29632,5 +29632,28 @@
     "file": "Sonic Adventure 2/It Doesn't Matter.mmrs",
     "preview": "Sonic Adventure 2/It Doesn't Matter.mp3"
   },
+  {
+    "uuid": "5de3a44a-d6d8-49ed-8271-0a861a142e66",
+    "creationDate": "2026-04-09T01:54:04.426Z",
+    "game": "Sonic Adventure 2",
+    "song": "Chao Garden (Neutral)",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Sonic Adventure 2/Chao Garden (Neutral).mmrs",
+    "preview": "Sonic Adventure 2/Chao Garden (Neutral).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
