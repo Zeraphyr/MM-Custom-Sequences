@@ -29961,5 +29961,28 @@
     "file": "Sonic Rivals 2/Race to Win.mmrs",
     "preview": "Sonic Rivals 2/Race to Win.mp3"
   },
+  {
+    "uuid": "227ef949-1fc3-47c3-8eaf-3757526bab68",
+    "creationDate": "2026-04-09T02:23:28.129Z",
+    "game": "Sonic the Hedgehog Spinball",
+    "song": "Toxic Caves",
+    "composers": [
+      "Howard Drossin"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Sonic the Hedgehog Spinball/Toxic Caves.mmrs",
+    "preview": "Sonic the Hedgehog Spinball/Toxic Caves.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
