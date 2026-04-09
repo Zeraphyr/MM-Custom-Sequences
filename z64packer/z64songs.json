@@ -6213,7 +6213,9 @@
     "usesCustomBank": true,
     "file": "Persona 3/The Battle for Everyone's Souls.mmrs",
     "preview": "https://www.youtube.com/watch?v=WRgZ0tmrmqE",
-    "lastUpdateDate": "2026-04-09T04:45:05.435Z"
+    "lastUpdateDate": "2026-04-09T04:45:05.435Z",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ee84a8f1-04f0-4f78-8769-77607486fa9a",
