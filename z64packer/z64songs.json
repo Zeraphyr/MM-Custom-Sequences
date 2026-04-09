@@ -30005,5 +30005,25 @@
     "file": "Sonic Unleashed/Dragon Road (Day).mmrs",
     "preview": "Sonic Unleashed/Dragon Road (Day).ogg"
   },
+  {
+    "uuid": "3f03f94f-766f-481f-87a1-532ac473fb33",
+    "creationDate": "2026-04-09T02:36:30.394Z",
+    "game": "Sonic Unleashed",
+    "song": "Endless Possibility",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "157"
+    ],
+    "file": "Sonic Unleashed/Endless Possibility.mmrs",
+    "preview": "Sonic Unleashed/Endless Possibility.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
