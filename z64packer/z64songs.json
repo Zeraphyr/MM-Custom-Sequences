@@ -29848,5 +29848,27 @@
     "file": "Super Mario Maker 2/Desert (Super Mario World).mmrs",
     "preview": "Super Mario Maker 2/Desert (Super Mario World).ogg"
   },
+  {
+    "uuid": "a3e623af-b51d-4f23-ac14-30d9a0379266",
+    "creationDate": "2026-04-09T02:12:03.698Z",
+    "game": "Super Mario Odyssey",
+    "song": "Fossil Falls",
+    "composers": [
+      "Naoto Kubo"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Super Mario Odyssey/Fossil Falls.mmrs",
+    "preview": "Super Mario Odyssey/Fossil Falls.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
