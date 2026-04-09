@@ -29104,5 +29104,26 @@
     "file": "The Legend of Zelda Twilight Princess/Diababa 2nd Battle.mmrs",
     "preview": "https://www.youtube.com/watch?v=YcjDzcOXJBQ"
   },
+  {
+    "uuid": "96a7b60e-560b-4d64-8618-6e9b4f4ecb9b",
+    "creationDate": "2026-04-09T00:30:24.815Z",
+    "game": "Xenoblade Chronicles 2",
+    "song": "The Ancient Vessel",
+    "composers": [
+      "Manami Kiyota"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "file": "Xenoblade Chronicles 2/The Ancient Vessel.mmrs",
+    "preview": "https://www.youtube.com/watch?v=H8QBr9teBeE"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
