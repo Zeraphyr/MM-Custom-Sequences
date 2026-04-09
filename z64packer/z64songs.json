@@ -29592,5 +29592,25 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "554fad50-4d42-4307-ad3f-9f616791219d",
+    "creationDate": "2026-04-09T01:46:32.617Z",
+    "game": "Sonic Adventure",
+    "song": "Azure Blue World ...for Emerald Coast",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Sonic Adventure/Azure Blue World ...for Emerald Coast.mmrs",
+    "preview": "Sonic Adventure/Azure Blue World ...for Emerald Coast.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
