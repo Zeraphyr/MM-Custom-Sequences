@@ -30110,5 +30110,27 @@
     "file": "Sonic Unleashed/Windmill Isle (Day).mmrs",
     "preview": "Sonic Unleashed/Windmill Isle (Day).mp3"
   },
+  {
+    "uuid": "a9c8b681-b36a-4158-9554-e4853ee9ba04",
+    "creationDate": "2026-04-09T03:04:36.287Z",
+    "game": "Touhou Youyoumu ~ Perfect Cherry Blossom",
+    "song": "Necrofantasia (Variant B)",
+    "composers": [
+      "ZUN"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "7",
+      "157"
+    ],
+    "file": "Touhou Youyoumu ~ Perfect Cherry Blossom/Necrofantasia (Variant B).mmrs",
+    "preview": "Touhou Youyoumu ~ Perfect Cherry Blossom/Necrofantasia (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
