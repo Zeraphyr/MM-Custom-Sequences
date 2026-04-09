@@ -29281,5 +29281,28 @@
     "file": "Pokémon Ranger/Ranger Base.mmrs",
     "preview": "Pokémon Ranger/Ranger Base.mp3"
   },
+  {
+    "uuid": "54196a29-65c8-4182-8666-b9fa260b168f",
+    "creationDate": "2026-04-09T00:59:00.079Z",
+    "game": "Paper Mario: The Thousand-Year Door",
+    "song": "Petal Meadows",
+    "composers": [
+      "Yuka Tsujiyoko",
+      "Yoshito Hirano"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Paper Mario The Thousand-Year Door/Petal Meadows.mmrs",
+    "preview": "Paper Mario The Thousand-Year Door/Petal Meadows.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
