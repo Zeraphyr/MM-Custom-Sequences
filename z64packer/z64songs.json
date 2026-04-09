@@ -29592,5 +29592,29 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "7182a460-7c0b-4fb4-9511-8ae5a7d220e9",
+    "creationDate": "2026-04-09T01:38:51.768Z",
+    "game": "Banjo-Tooie",
+    "song": "Witchyworld (Variant B)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "notes": "This song utilises the formmask feature, which changes the song depending on what mask transformation you are, or while you are in combat.",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": true,
+    "file": "Banjo-Tooie/Witchyworld (Variant B).mmrs",
+    "preview": "https://www.youtube.com/watch?v=8GKEYZDl6Ak"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
