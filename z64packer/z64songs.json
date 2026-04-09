@@ -29103,5 +29103,26 @@
     "file": "Mario Party/Mini-Game Victory 5.mmrs",
     "preview": "Mario Party/Mini-Game Victory 5.ogg"
   },
+  {
+    "uuid": "479a7a22-964c-41e8-a8a3-ff23b4b8e4e5",
+    "creationDate": "2026-04-09T00:39:27.568Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Hyrule Field",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Hyrule Field.mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Hyrule Field.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
