@@ -30068,5 +30068,27 @@
     "file": "Sonic Unleashed/Savannah Citadel (Day) (Variant A).mmrs",
     "preview": "Sonic Unleashed/Savannah Citadel (Day) (Variant A).ogg"
   },
+  {
+    "uuid": "31374ecd-c79e-4c65-8921-2f142323cfa3",
+    "creationDate": "2026-04-09T02:48:02.138Z",
+    "game": "Sonic Unleashed",
+    "song": "Savannah Citadel (Day) (Variant B)",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Sonic Unleashed/Savannah Citadel (Day) (Variant B).mmrs",
+    "preview": "Sonic Unleashed/Savannah Citadel (Day) (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
