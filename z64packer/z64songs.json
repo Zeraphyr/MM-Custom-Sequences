@@ -29192,5 +29192,26 @@
     "file": "Persona 3 Portable/Danger Zone.mmrs",
     "preview": "Persona 3 Portable/Danger Zone.mp3"
   },
+  {
+    "uuid": "dd64e41b-5909-4fb3-afe9-a1f03814b7aa",
+    "creationDate": "2026-04-09T00:46:23.069Z",
+    "game": "Persona 3",
+    "song": "The Battle for Everyone's Souls (Variant B)",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157"
+    ],
+    "file": "Persona 3/The Battle for Everyone's Souls (Variant B).mmrs",
+    "preview": "Persona 3/The Battle for Everyone's Souls (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
