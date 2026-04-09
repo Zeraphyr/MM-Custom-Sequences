@@ -3284,13 +3284,19 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/db8fd996bde03224bfb6808f56734712.png"
   },
   {
-    "game": "Sonic Rivals 2"
+    "game": "Sonic Rivals 2",
+    "series": "Sonic the Hedgehog Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/55e0e14567b396c814a22eee053d34cc.png"
   },
   {
-    "game": "Sonic Generations"
+    "game": "Sonic Generations",
+    "series": "Sonic the Hedgehog Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/75f4b15635b6362df162948b296aaef7.png"
   },
   {
-    "game": "Sonic Unleashed"
+    "game": "Sonic Unleashed",
+    "series": "Sonic the Hedgehog Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ce3b5506fc4151c97d646dc6fce8b1f5.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
