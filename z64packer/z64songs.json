@@ -29697,5 +29697,25 @@
     "file": "Shadowgate/Castle Halls.mmrs",
     "preview": "Shadowgate/Castle Halls.ogg"
   },
+  {
+    "uuid": "1b67f125-f43e-468e-a443-65870e7dc5b0",
+    "creationDate": "2026-04-09T02:01:05.712Z",
+    "game": "Sonic Heroes",
+    "song": "Follow Me (Variant A)",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Sonic Heroes/Follow Me (Variant A).mmrs",
+    "preview": "Sonic Heroes/Follow Me (Variant A).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
