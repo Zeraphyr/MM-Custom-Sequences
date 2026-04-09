@@ -25133,7 +25133,7 @@
     "uuid": "972a5cb9-79d3-4a2c-9da3-fde765ba2f3b",
     "creationDate": "2026-03-31T03:04:37.274Z",
     "game": "Banjo-Tooie",
-    "song": "Witchyworld",
+    "song": "Witchyworld (Variant A)",
     "composers": [
       "Grant Kirkhope"
     ],
@@ -25148,9 +25148,7 @@
     ],
     "file": "Banjo-Tooie/Witchyworld.mmrs",
     "preview": "Banjo-Tooie/Witchyworld.ogg",
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
+    "lastUpdateDate": "2026-04-09T04:38:59.677Z"
   },
   {
     "uuid": "557bdd64-bd57-419e-85a4-d42df964731f",
