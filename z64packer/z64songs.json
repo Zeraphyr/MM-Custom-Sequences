@@ -1649,7 +1649,7 @@
     "uuid": "f9ada52c-d71e-4fa9-8ccd-38180c291b0e",
     "creationDate": "2026-03-07T17:05:56.159Z",
     "game": "Sonic Adventure 2",
-    "song": "Pumpkin Hill",
+    "song": "Pumpkin Hill (Variant A)",
     "composers": [
       "Tomoya Ohtani"
     ],
@@ -1663,11 +1663,9 @@
       "3",
       "6"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Sonic Adventure 2/Pumpkin Hill.mmrs",
-    "preview": "https://www.youtube.com/watch?v=jf4ve7-URlY"
+    "preview": "https://www.youtube.com/watch?v=jf4ve7-URlY",
+    "lastUpdateDate": "2026-04-09T04:41:58.841Z"
   },
   {
     "uuid": "651b599a-3421-42bb-bec2-c04be3b7088a",
