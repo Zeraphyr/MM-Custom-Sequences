@@ -29064,6 +29064,327 @@
     "usesFormmask": false
   },
   {
+    "uuid": "abde6faa-b1bc-41e0-a68a-4e46e14b07f3",
+    "creationDate": "2026-04-09T00:29:45.727Z",
+    "game": "Mario Party 3",
+    "song": "Don't Hurry",
+    "composers": [
+      "Ichiro Shimakura"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Mario Party 3/Don't Hurry.mmrs",
+    "preview": "Mario Party 3/Don't Hurry.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "uuid": "ed82867a-8133-45fb-ad8a-f3ff9b490d0a",
+    "creationDate": "2026-04-09T00:38:35.317Z",
+    "game": "Mario Party",
+    "song": "Mini-Game Victory 5",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Mario Party/Mini-Game Victory 5.mmrs",
+    "preview": "Mario Party/Mini-Game Victory 5.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "uuid": "479a7a22-964c-41e8-a8a3-ff23b4b8e4e5",
+    "creationDate": "2026-04-09T00:39:27.568Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Hyrule Field",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Hyrule Field.mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Hyrule Field.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "uuid": "4c9cf094-789a-490f-b2a0-daf36e9abe7d",
+    "creationDate": "2026-04-09T00:41:33.752Z",
+    "game": "OutRun",
+    "song": "Magical Sound Shower (Full Version)",
+    "composers": [
+      "Hiroshi Kawaguchi"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "OutRun/Magical Sound Shower (Full Version).mmrs",
+    "preview": "OutRun/Magical Sound Shower (Full Version).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "uuid": "5fdb45da-e3d4-426f-959b-9a667d317970",
+    "creationDate": "2026-04-09T00:42:26.327Z",
+    "game": "OutRun",
+    "song": "Magical Sound Shower (Short Version)",
+    "composers": [
+      "Hiroshi Kawaguchi"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "OutRun/Magical Sound Shower (Short Version).mmrs",
+    "preview": "OutRun/Magical Sound Shower (Short Version).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "uuid": "fd5e4be3-c4df-42a8-885b-385d7460ebdb",
+    "creationDate": "2026-04-09T00:43:41.583Z",
+    "game": "Persona 3 Portable",
+    "song": "Danger Zone",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "7",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Persona 3 Portable/Danger Zone.mmrs",
+    "preview": "Persona 3 Portable/Danger Zone.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "uuid": "dd64e41b-5909-4fb3-afe9-a1f03814b7aa",
+    "creationDate": "2026-04-09T00:46:23.069Z",
+    "game": "Persona 3",
+    "song": "The Battle for Everyone's Souls (Variant B)",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157"
+    ],
+    "file": "Persona 3/The Battle for Everyone's Souls (Variant B).mmrs",
+    "preview": "Persona 3/The Battle for Everyone's Souls (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "uuid": "a667d31a-8a1e-48c3-8921-b3996d2d17b0",
+    "creationDate": "2026-04-09T00:50:52.263Z",
+    "game": "Persona 4",
+    "song": "Junes Theme",
+    "composers": [
+      "Ryota Kozuka"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Persona 4/Junes Theme.mmrs",
+    "preview": "Persona 4/Junes Theme.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "uuid": "5bc34e58-1baf-4a04-9d70-f3d85d240401",
+    "creationDate": "2026-04-09T00:51:39.738Z",
+    "game": "Pokémon Black & White",
+    "song": "Bicycle",
+    "composers": [
+      "Hitomi Sato"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Pokémon Black & White/Bicycle.mmrs",
+    "preview": "Pokémon Black & White/Bicycle.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "uuid": "ad1ef165-7958-47cd-89cc-47ec2ed26682",
+    "creationDate": "2026-04-09T00:52:43.826Z",
+    "game": "Pokémon Ranger",
+    "song": "Ranger Base",
+    "composers": [
+      "Takuto Kitsuta",
+      "Kinta Sato"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "118",
+      "176"
+    ],
+    "file": "Pokémon Ranger/Ranger Base.mmrs",
+    "preview": "Pokémon Ranger/Ranger Base.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "uuid": "54196a29-65c8-4182-8666-b9fa260b168f",
+    "creationDate": "2026-04-09T00:59:00.079Z",
+    "game": "Paper Mario: The Thousand-Year Door",
+    "song": "Petal Meadows",
+    "composers": [
+      "Yuka Tsujiyoko",
+      "Yoshito Hirano"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Paper Mario The Thousand-Year Door/Petal Meadows.mmrs",
+    "preview": "Paper Mario The Thousand-Year Door/Petal Meadows.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "uuid": "3ca0a4c0-a42e-4172-b1f7-0074623c8e21",
+    "creationDate": "2026-04-09T01:02:38.908Z",
+    "game": "Paper Mario",
+    "song": "Shy Guy's Toy Box",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Paper Mario/Shy Guy's Toy Box.mmrs",
+    "preview": "Paper Mario/Shy Guy's Toy Box.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "uuid": "9be81c83-4cf9-46c6-a8f2-8a1f732e31de",
+    "creationDate": "2026-04-09T01:06:03.308Z",
+    "game": "RPG Maker VX Ace",
+    "song": "Battle 4",
+    "composers": [
+      "Enterbrain Inc."
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "7",
+      "157",
+      "176"
+    ],
+    "file": "RPG Maker VX Ace/Battle 4.mmrs",
+    "preview": "RPG Maker VX Ace/Battle 4.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
     "uuid": "5e16fb62-b4da-4136-88f0-a2f178fe1d00",
     "creationDate": "2026-04-09T00:25:53.534Z",
     "game": "Xenoblade Chronicles 2",
