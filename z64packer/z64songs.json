@@ -26335,7 +26335,7 @@
     "uuid": "8f8b2d81-6066-450e-9671-bb763aede94f",
     "creationDate": "2026-04-01T22:49:35.065Z",
     "game": "Silent Hill 2",
-    "song": "True",
+    "song": "True (Variant A)",
     "composers": [
       "Akira Yamaoka"
     ],
@@ -26352,9 +26352,7 @@
     ],
     "file": "Silent Hill 2/True.mmrs",
     "preview": "Silent Hill 2/True.mp3",
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
+    "lastUpdateDate": "2026-04-09T04:40:08.357Z"
   },
   {
     "uuid": "3e934ca0-e3ee-4e23-b30e-efa1a5a80b73",
