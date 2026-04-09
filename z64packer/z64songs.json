@@ -29984,5 +29984,26 @@
     "file": "Sonic the Hedgehog Spinball/Toxic Caves.mmrs",
     "preview": "Sonic the Hedgehog Spinball/Toxic Caves.mp3"
   },
+  {
+    "uuid": "00a69cdd-d575-4e59-84a7-e9f2003a71d4",
+    "creationDate": "2026-04-09T02:28:42.064Z",
+    "game": "Sonic Unleashed",
+    "song": "Dragon Road (Day)",
+    "composers": [
+      "Kenichi Tokoi"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157"
+    ],
+    "file": "Sonic Unleashed/Dragon Road (Day).mmrs",
+    "preview": "Sonic Unleashed/Dragon Road (Day).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
