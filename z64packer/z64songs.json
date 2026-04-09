@@ -29235,5 +29235,28 @@
     "file": "Persona 4/Junes Theme.mmrs",
     "preview": "Persona 4/Junes Theme.mp3"
   },
+  {
+    "uuid": "5bc34e58-1baf-4a04-9d70-f3d85d240401",
+    "creationDate": "2026-04-09T00:51:39.738Z",
+    "game": "Pokémon Black & White",
+    "song": "Bicycle",
+    "composers": [
+      "Hitomi Sato"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Pokémon Black & White/Bicycle.mmrs",
+    "preview": "Pokémon Black & White/Bicycle.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
