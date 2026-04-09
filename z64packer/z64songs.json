@@ -29761,5 +29761,28 @@
     "file": "Sonic Mania/Flying Battery Zone Act 1.mmrs",
     "preview": "Sonic Mania/Flying Battery Zone Act 1.mp3"
   },
+  {
+    "uuid": "80be67ae-2f6a-4500-8943-e8968ee04f84",
+    "creationDate": "2026-04-09T02:07:12.332Z",
+    "game": "Super Mario 3D Land",
+    "song": "Overworld",
+    "composers": [
+      "Takeshi Hama"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Super Mario 3D Land/Overworld.mmrs",
+    "preview": "Super Mario 3D Land/Overworld.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
