@@ -30235,5 +30235,27 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "6f94e341-646c-433f-ac81-798b1b14ff49",
+    "creationDate": "2026-04-09T13:46:51.085Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Fishing Pond Theme",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda Twilight Princess/Fishing Pond Theme.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Fishing Pond Theme.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
