@@ -29717,5 +29717,27 @@
     "file": "Sonic Heroes/Follow Me (Variant A).mmrs",
     "preview": "Sonic Heroes/Follow Me (Variant A).ogg"
   },
+  {
+    "uuid": "24af14fe-9d20-42a5-ae25-0a0ce75d1d6c",
+    "creationDate": "2026-04-09T02:01:59.573Z",
+    "game": "Sonic Heroes",
+    "song": "Follow Me (Variant B)",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Sonic Heroes/Follow Me (Variant B).mmrs",
+    "preview": "Sonic Heroes/Follow Me (Variant B).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
