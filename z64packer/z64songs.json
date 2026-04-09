@@ -30278,5 +30278,25 @@
     "file": "The Legend of Zelda Twilight Princess/Rollgoal.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Rollgoal.mp3"
   },
+  {
+    "uuid": "b0f37ee2-baa2-4844-a5ca-34c87de53501",
+    "creationDate": "2026-04-09T13:50:05.569Z",
+    "game": "Chrono Trigger",
+    "song": "Secret of the Forest",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "file": "Chrono Trigger/Secret of the Forest.mmrs",
+    "preview": "Chrono Trigger/Secret of the Forest.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
