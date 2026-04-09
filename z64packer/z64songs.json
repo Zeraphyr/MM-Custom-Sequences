@@ -29827,5 +29827,26 @@
     "file": "Super Mario Land/Birabuto Kingdom.mmrs",
     "preview": "Super Mario Land/Birabuto Kingdom.mp3"
   },
+  {
+    "uuid": "2a5679a7-cd43-4c37-8d4f-ad7ec138276b",
+    "creationDate": "2026-04-09T02:10:36.026Z",
+    "game": "Super Mario Maker 2",
+    "song": "Desert (Super Mario World)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157"
+    ],
+    "file": "Super Mario Maker 2/Desert (Super Mario World).mmrs",
+    "preview": "Super Mario Maker 2/Desert (Super Mario World).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
