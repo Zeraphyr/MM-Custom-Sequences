@@ -1665,7 +1665,10 @@
     ],
     "file": "Sonic Adventure 2/Pumpkin Hill.mmrs",
     "preview": "https://www.youtube.com/watch?v=jf4ve7-URlY",
-    "lastUpdateDate": "2026-04-09T04:41:58.841Z"
+    "lastUpdateDate": "2026-04-09T04:41:58.841Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "651b599a-3421-42bb-bec2-c04be3b7088a",
