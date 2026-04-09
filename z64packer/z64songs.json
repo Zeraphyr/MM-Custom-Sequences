@@ -29916,5 +29916,27 @@
     "file": "Sonic Mania/Lights, Camera, Action! - Studiopolis Zone Act 1.mmrs",
     "preview": "Sonic Mania/Lights, Camera, Action! - Studiopolis Zone Act 1.mp3"
   },
+  {
+    "uuid": "15c17240-af42-44f4-add1-b2015d2de12d",
+    "creationDate": "2026-04-09T02:16:19.919Z",
+    "game": "Sonic Mania",
+    "song": "Prime Time - Studiopolis Zone Act 2",
+    "composers": [
+      "Tee Lopes"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Sonic Mania/Prime Time - Studiopolis Zone Act 2.mmrs",
+    "preview": "Sonic Mania/Prime Time - Studiopolis Zone Act 2.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
