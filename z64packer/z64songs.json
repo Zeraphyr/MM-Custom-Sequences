@@ -29402,7 +29402,9 @@
     ],
     "usesCustomBank": true,
     "file": "Xenoblade Chronicles 2/Mor Ardain.mmrs",
-    "preview": "https://www.youtube.com/watch?v=dvGMeHgyXiY"
+    "preview": "https://www.youtube.com/watch?v=dvGMeHgyXiY",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "f02990db-a979-4a2c-b501-efc6f6ecb3ee",
@@ -29423,7 +29425,9 @@
     ],
     "usesCustomBank": true,
     "file": "The Legend of Zelda Twilight Princess/Diababa 2nd Battle.mmrs",
-    "preview": "https://www.youtube.com/watch?v=YcjDzcOXJBQ"
+    "preview": "https://www.youtube.com/watch?v=YcjDzcOXJBQ",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "96a7b60e-560b-4d64-8618-6e9b4f4ecb9b",
@@ -29444,7 +29448,9 @@
     ],
     "usesCustomBank": true,
     "file": "Xenoblade Chronicles 2/The Ancient Vessel.mmrs",
-    "preview": "https://www.youtube.com/watch?v=H8QBr9teBeE"
+    "preview": "https://www.youtube.com/watch?v=H8QBr9teBeE",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "82050a03-2475-43d9-9b3e-9673b0b7cc16",
@@ -29464,7 +29470,9 @@
     ],
     "usesCustomBank": true,
     "file": "Silent Hill 2/True (Variant B).mmrs",
-    "preview": "https://www.youtube.com/watch?v=erRJDcE91dA"
+    "preview": "https://www.youtube.com/watch?v=erRJDcE91dA",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "18d4546a-9ebf-4fdd-9042-eb3ef47c5f4c",
@@ -29485,7 +29493,9 @@
     ],
     "usesCustomBank": true,
     "file": "Deltarune/TV World.mmrs",
-    "preview": "https://www.youtube.com/watch?v=Nm4uwdVaiKU"
+    "preview": "https://www.youtube.com/watch?v=Nm4uwdVaiKU",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "0a661a9f-1b8b-42cd-8d96-cb29d7d1accf",
@@ -29507,7 +29517,9 @@
     ],
     "usesCustomBank": true,
     "file": "Killer7/Dissociative Identity.mmrs",
-    "preview": "https://www.youtube.com/watch?v=yYu53fy-Z2Q"
+    "preview": "https://www.youtube.com/watch?v=yYu53fy-Z2Q",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a836d885-e95e-4ac7-89e5-aa6a3e612545",
@@ -29530,7 +29542,9 @@
     ],
     "usesCustomBank": true,
     "file": "Killer7/Dissociative Identity (No Intro).mmrs",
-    "preview": "https://www.youtube.com/watch?v=yYu53fy-Z2Q"
+    "preview": "https://www.youtube.com/watch?v=yYu53fy-Z2Q",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1af52525-2529-4ba8-b0f2-22536032d3cf",
@@ -29551,7 +29565,9 @@
     ],
     "usesCustomBank": true,
     "file": "NieR Replicant/Yonah Piano Ver..mmrs",
-    "preview": "https://www.youtube.com/watch?v=hi9w_WZI6Iw"
+    "preview": "https://www.youtube.com/watch?v=hi9w_WZI6Iw",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "3a72904a-eea9-4b50-af2f-0be33601b9fa",
@@ -29572,7 +29588,9 @@
     ],
     "usesCustomBank": true,
     "file": "NieR Replicant/The Wretched Automatons.mmrs",
-    "preview": "https://www.youtube.com/watch?v=Hdxj7BZXqSg"
+    "preview": "https://www.youtube.com/watch?v=Hdxj7BZXqSg",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
