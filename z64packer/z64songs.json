@@ -29124,5 +29124,27 @@
     "file": "The Legend of Zelda Ocarina of Time/Hyrule Field.mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Hyrule Field.ogg"
   },
+  {
+    "uuid": "4c9cf094-789a-490f-b2a0-daf36e9abe7d",
+    "creationDate": "2026-04-09T00:41:33.752Z",
+    "game": "OutRun",
+    "song": "Magical Sound Shower (Full Version)",
+    "composers": [
+      "Hiroshi Kawaguchi"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "OutRun/Magical Sound Shower (Full Version).mmrs",
+    "preview": "OutRun/Magical Sound Shower (Full Version).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
