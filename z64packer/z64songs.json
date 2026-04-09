@@ -30046,5 +30046,27 @@
     "file": "Sonic Unleashed/Rooftop Run (Day).mmrs",
     "preview": "Sonic Unleashed/Rooftop Run (Day).ogg"
   },
+  {
+    "uuid": "47155cff-15ea-432e-887d-0be078bddca6",
+    "creationDate": "2026-04-09T02:46:28.388Z",
+    "game": "Sonic Unleashed",
+    "song": "Savannah Citadel (Day) (Variant A)",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Sonic Unleashed/Savannah Citadel (Day) (Variant A).mmrs",
+    "preview": "Sonic Unleashed/Savannah Citadel (Day) (Variant A).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
