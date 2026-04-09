@@ -30298,5 +30298,25 @@
     "file": "Chrono Trigger/Secret of the Forest.mmrs",
     "preview": "Chrono Trigger/Secret of the Forest.mp3"
   },
+  {
+    "uuid": "2e68ec6e-a38d-4dc2-9634-29f213e4b880",
+    "creationDate": "2026-04-09T13:50:50.703Z",
+    "game": "Banjo-Tooie",
+    "song": "Weldar",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "Banjo-Tooie/Weldar.mmrs",
+    "preview": "Banjo-Tooie/Weldar.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
