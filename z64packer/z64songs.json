@@ -29324,5 +29324,26 @@
     "file": "Paper Mario/Shy Guy's Toy Box.mmrs",
     "preview": "Paper Mario/Shy Guy's Toy Box.ogg"
   },
+  {
+    "uuid": "9be81c83-4cf9-46c6-a8f2-8a1f732e31de",
+    "creationDate": "2026-04-09T01:06:03.308Z",
+    "game": "RPG Maker VX Ace",
+    "song": "Battle 4",
+    "composers": [
+      "Enterbrain Inc."
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "7",
+      "157",
+      "176"
+    ],
+    "file": "RPG Maker VX Ace/Battle 4.mmrs",
+    "preview": "RPG Maker VX Ace/Battle 4.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
