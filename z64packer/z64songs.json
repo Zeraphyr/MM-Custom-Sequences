@@ -10331,7 +10331,10 @@
     ],
     "file": "The Legend of Zelda Spirit Tracks/Realm Overworld.mmrs",
     "preview": "The Legend of Zelda Spirit Tracks/Realm Overworld.ogg",
-    "lastUpdateDate": "2026-04-10T13:52:35.999Z"
+    "lastUpdateDate": "2026-04-10T13:52:35.999Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2c1fe19d-c0cb-47db-ae48-faa3b1a2bdf7",
@@ -14085,7 +14088,10 @@
     ],
     "file": "Super Mario RPG Legend of the Seven Stars/Beware of Forest Mushrooms.mmrs",
     "preview": "Super Mario RPG Legend of the Seven Stars/Beware of Forest Mushrooms.ogg",
-    "lastUpdateDate": "2026-04-10T13:25:44.381Z"
+    "lastUpdateDate": "2026-04-10T13:25:44.381Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "17bfb62f-2457-4bb7-b813-e8be734425e8",
@@ -30407,7 +30413,10 @@
       "1"
     ],
     "file": "Super Mario RPG Legend of the Seven Stars/Beware of Forest Mushrooms (Variant B).mmrs",
-    "preview": "Super Mario RPG Legend of the Seven Stars/Beware of Forest Mushrooms (Variant B).ogg"
+    "preview": "Super Mario RPG Legend of the Seven Stars/Beware of Forest Mushrooms (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "46ce6907-e187-4106-b459-bf858f44c855",
@@ -30426,7 +30435,10 @@
       "0"
     ],
     "file": "Final Fantasy IX/Lindblum Castle.mmrs",
-    "preview": "Final Fantasy IX/Lindblum Castle.ogg"
+    "preview": "Final Fantasy IX/Lindblum Castle.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d59d9256-7c68-49c1-974a-52e96aa8b201",
@@ -30449,7 +30461,10 @@
       "7"
     ],
     "file": "The Legend of Zelda Twilight Princess/Falbi's Flight-by-Fowl.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Falbi's Flight-by-Fowl.ogg"
+    "preview": "The Legend of Zelda Twilight Princess/Falbi's Flight-by-Fowl.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a753af32-3d8a-4b34-9fb5-536fadb4d52f",
@@ -30469,7 +30484,10 @@
       "6"
     ],
     "file": "The Legend of Zelda The Minish Cap/Minish Village.mmrs",
-    "preview": "The Legend of Zelda The Minish Cap/Minish Village.ogg"
+    "preview": "The Legend of Zelda The Minish Cap/Minish Village.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "fafdf84b-02b2-495d-8338-e7ac967ad3fc",
@@ -30489,7 +30507,10 @@
       "4"
     ],
     "file": "Banjo-Kazooie/Freezeezy Peak (Variant C).mmrs",
-    "preview": "Banjo-Kazooie/Freezeezy Peak (Variant C).ogg"
+    "preview": "Banjo-Kazooie/Freezeezy Peak (Variant C).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "41379f3a-f8c9-4fbd-9f6d-6340373feb04",
@@ -30514,7 +30535,10 @@
       "7"
     ],
     "file": "Super Mario Bros. 2/Overworld.mmrs",
-    "preview": "Super Mario Bros. 2/Overworld.ogg"
+    "preview": "Super Mario Bros. 2/Overworld.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "05f08c4e-4f74-4bb2-903c-b10bc4e48c58",
@@ -30537,7 +30561,10 @@
       "7"
     ],
     "file": "Castlevania Symphony of the Night/Dance of Pales.mmrs",
-    "preview": "Castlevania Symphony of the Night/Dance of Pales.ogg"
+    "preview": "Castlevania Symphony of the Night/Dance of Pales.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ac062a80-3b56-46cf-9dbb-4f4842b4d589",
@@ -30560,7 +30587,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Twilight Princess/Lake Hylia.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Lake Hylia.ogg"
+    "preview": "The Legend of Zelda Twilight Princess/Lake Hylia.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4863e0dc-3ca0-43a0-b377-68f5b49fd277",
@@ -30582,7 +30612,10 @@
       "7"
     ],
     "file": "The Legend of Zelda Twilight Princess/Agitha's Castle.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Agitha's Castle.ogg"
+    "preview": "The Legend of Zelda Twilight Princess/Agitha's Castle.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ca7629ae-52ab-4b99-a861-0019375a2bb3",
@@ -30604,7 +30637,10 @@
       "6"
     ],
     "file": "Super Mario Sunshine/Delfino Plaza.mmrs",
-    "preview": "Super Mario Sunshine/Delfino Plaza.ogg"
+    "preview": "Super Mario Sunshine/Delfino Plaza.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "91a2d396-6203-4801-8da3-97fb86e27607",
@@ -30626,7 +30662,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Dancing Dragon.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Dancing Dragon.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Dancing Dragon.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "cd71345a-9bfa-491c-bfa6-6e2fd25d85eb",
@@ -30645,7 +30684,10 @@
       "4"
     ],
     "file": "Game Center CX Arino no Chousenjou 2/Super Daemon Returns Stage 4.mmrs",
-    "preview": "Game Center CX Arino no Chousenjou 2/Super Daemon Returns Stage 4.ogg"
+    "preview": "Game Center CX Arino no Chousenjou 2/Super Daemon Returns Stage 4.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "571ba4a6-6fcd-4687-a2d4-a40196331d68",
@@ -30666,7 +30708,10 @@
       "6"
     ],
     "file": "Final Fantasy IX/Treno's Theme.mmrs",
-    "preview": "Final Fantasy IX/Treno's Theme.ogg"
+    "preview": "Final Fantasy IX/Treno's Theme.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "094cfc6b-8bb1-498c-a4f5-cfe29d3c2392",
@@ -30686,7 +30731,10 @@
       "3"
     ],
     "file": "Final Fantasy IX/Dissipating Sorrow.mmrs",
-    "preview": "Final Fantasy IX/Dissipating Sorrow.ogg"
+    "preview": "Final Fantasy IX/Dissipating Sorrow.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "0837fc3c-41a8-47d8-b5fe-3ce8d811ef7a",
@@ -30705,7 +30753,10 @@
       "4"
     ],
     "file": "Banjo-Kazooie/Flibbits Battle.mmrs",
-    "preview": "Banjo-Kazooie/Flibbits Battle.ogg"
+    "preview": "Banjo-Kazooie/Flibbits Battle.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "921a9f35-52d5-438c-8830-a62b2305da33",
@@ -30724,7 +30775,10 @@
     ],
     "file": "Super Mario 64/Wing Cap Theme (Romani).mmrs",
     "preview": "Super Mario 64/Wing Cap Theme (Romani).ogg",
-    "lastUpdateDate": "2026-04-10T13:46:18.811Z"
+    "lastUpdateDate": "2026-04-10T13:46:18.811Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "de1ff4ea-d202-4ce7-8105-e6eae2a7c63b",
@@ -30742,7 +30796,10 @@
       "4"
     ],
     "file": "Super Mario 64/Wing Cap (Original).mmrs",
-    "preview": "Super Mario 64/Wing Cap (Original).ogg"
+    "preview": "Super Mario 64/Wing Cap (Original).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "6ee4581c-710d-45a8-9fe9-e374eb2ce49a",
@@ -30761,7 +30818,10 @@
       "3"
     ],
     "file": "Chrono Trigger/1000 A.D..mmrs",
-    "preview": "Chrono Trigger/1000 A.D..ogg"
+    "preview": "Chrono Trigger/1000 A.D..ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "214cd1bf-e1e0-4ab7-9ac0-a3ef53e9310d",
@@ -30784,7 +30844,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Spirit Tracks/House Theme.mmrs",
-    "preview": "The Legend of Zelda Spirit Tracks/House Theme.ogg"
+    "preview": "The Legend of Zelda Spirit Tracks/House Theme.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "efb9cd26-16fe-47a0-8081-42b883ccf49e",
@@ -30806,7 +30869,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Twilight Princess/Kayak Archery.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Kayak Archery.ogg"
+    "preview": "The Legend of Zelda Twilight Princess/Kayak Archery.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "206c8b27-690b-454e-9627-57fbf2e62076",
@@ -30828,7 +30894,10 @@
       "1"
     ],
     "file": "The Legend of Zelda Spirit Tracks/Realm Overworld (Variant B).mmrs",
-    "preview": "The Legend of Zelda Spirit Tracks/Realm Overworld (Variant B).ogg"
+    "preview": "The Legend of Zelda Spirit Tracks/Realm Overworld (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "9d86b0e5-d4e7-4816-b9fb-644858afcdb6",
@@ -30848,7 +30917,10 @@
       "6"
     ],
     "file": "Ghost Trick Phantom Detective/Chicken Paradise.mmrs",
-    "preview": "Ghost Trick Phantom Detective/Chicken Paradise.ogg"
+    "preview": "Ghost Trick Phantom Detective/Chicken Paradise.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "6736ab22-4917-4cb9-9ee7-29111e7fd72b",
@@ -30867,7 +30939,10 @@
       "3"
     ],
     "file": "Ghost Trick Phantom Detective/Intermission ~ The Deepening of the ''Night''.mmrs",
-    "preview": "Ghost Trick Phantom Detective/Intermission ~ The Deepening of the ''Night''.ogg"
+    "preview": "Ghost Trick Phantom Detective/Intermission ~ The Deepening of the ''Night''.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4eea84d0-9555-4807-ad24-726bc98e98a2",
@@ -30886,7 +30961,10 @@
       "4"
     ],
     "file": "Ghost Trick Phantom Detective/4 Minutes Before Death.mmrs",
-    "preview": "Ghost Trick Phantom Detective/4 Minutes Before Death.ogg"
+    "preview": "Ghost Trick Phantom Detective/4 Minutes Before Death.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4867bf14-cd59-49ee-a832-7c7c7d0db6f1",
@@ -30905,7 +30983,10 @@
       "2"
     ],
     "file": "Ghost Trick Phantom Detective/Chained Past.mmrs",
-    "preview": "Ghost Trick Phantom Detective/Chained Past.ogg"
+    "preview": "Ghost Trick Phantom Detective/Chained Past.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
