@@ -10318,7 +10318,7 @@
     "uuid": "1114dc2f-5966-432c-85dc-3713f82b2be7",
     "creationDate": "2026-03-17T16:30:53.390Z",
     "game": "The Legend of Zelda: Spirit Tracks",
-    "song": "Realm Overworld",
+    "song": "Realm Overworld (Variant A)",
     "composers": [
       "Toru Minegishi"
     ],
@@ -10329,11 +10329,9 @@
     "categories": [
       "0"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "The Legend of Zelda Spirit Tracks/Realm Overworld.mmrs",
-    "preview": "The Legend of Zelda Spirit Tracks/Realm Overworld.ogg"
+    "preview": "The Legend of Zelda Spirit Tracks/Realm Overworld.ogg",
+    "lastUpdateDate": "2026-04-10T13:52:35.999Z"
   },
   {
     "uuid": "2c1fe19d-c0cb-47db-ae48-faa3b1a2bdf7",
@@ -14073,7 +14071,7 @@
     "uuid": "60db1070-f7b2-430a-83b9-80d043e3b1a2",
     "creationDate": "2026-03-21T15:29:48.687Z",
     "game": "Super Mario RPG: Legend of the Seven Stars",
-    "song": "Beware of Forest Mushrooms",
+    "song": "Beware of Forest Mushrooms (Variant A)",
     "composers": [
       "Yoko Shimomura"
     ],
@@ -14085,11 +14083,9 @@
       "0",
       "2"
     ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Super Mario RPG Legend of the Seven Stars/Beware of Forest Mushrooms.mmrs",
-    "preview": "Super Mario RPG Legend of the Seven Stars/Beware of Forest Mushrooms.ogg"
+    "preview": "Super Mario RPG Legend of the Seven Stars/Beware of Forest Mushrooms.ogg",
+    "lastUpdateDate": "2026-04-10T13:25:44.381Z"
   },
   {
     "uuid": "17bfb62f-2457-4bb7-b813-e8be734425e8",
@@ -30393,6 +30389,523 @@
     "preview": "Chrono Trigger/Corridors of Time (Variant B).mp3",
     "usesCustomSamples": false,
     "usesFormmask": false
+  },
+  {
+    "uuid": "ddfe62b6-1766-4b4e-a4c4-fc1489c78055",
+    "creationDate": "2026-04-10T13:26:53.686Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Beware of Forest Mushrooms (Variant B)",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Super Mario RPG Legend of the Seven Stars/Beware of Forest Mushrooms (Variant B).mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Beware of Forest Mushrooms (Variant B).ogg"
+  },
+  {
+    "uuid": "46ce6907-e187-4106-b459-bf858f44c855",
+    "creationDate": "2026-04-10T13:28:03.959Z",
+    "game": "Final Fantasy IX",
+    "song": "Lindblum Castle",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "0"
+    ],
+    "file": "Final Fantasy IX/Lindblum Castle.mmrs",
+    "preview": "Final Fantasy IX/Lindblum Castle.ogg"
+  },
+  {
+    "uuid": "d59d9256-7c68-49c1-974a-52e96aa8b201",
+    "creationDate": "2026-04-10T13:28:49.890Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Falbi's Flight-by-Fowl",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "1",
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Falbi's Flight-by-Fowl.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Falbi's Flight-by-Fowl.ogg"
+  },
+  {
+    "uuid": "a753af32-3d8a-4b34-9fb5-536fadb4d52f",
+    "creationDate": "2026-04-10T13:30:02.464Z",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "song": "Minish Village",
+    "composers": [
+      "Mitsuhiko Takano"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda The Minish Cap/Minish Village.mmrs",
+    "preview": "The Legend of Zelda The Minish Cap/Minish Village.ogg"
+  },
+  {
+    "uuid": "fafdf84b-02b2-495d-8338-e7ac967ad3fc",
+    "creationDate": "2026-04-10T13:30:40.522Z",
+    "game": "Banjo-Kazooie",
+    "song": "Freezeezy Peak (Variant C)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "4"
+    ],
+    "file": "Banjo-Kazooie/Freezeezy Peak (Variant C).mmrs",
+    "preview": "Banjo-Kazooie/Freezeezy Peak (Variant C).ogg"
+  },
+  {
+    "uuid": "41379f3a-f8c9-4fbd-9f6d-6340373feb04",
+    "creationDate": "2026-04-10T13:31:11.156Z",
+    "game": "Super Mario Bros. 2",
+    "song": "Overworld",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "0",
+      "1",
+      "2",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "file": "Super Mario Bros. 2/Overworld.mmrs",
+    "preview": "Super Mario Bros. 2/Overworld.ogg"
+  },
+  {
+    "uuid": "05f08c4e-4f74-4bb2-903c-b10bc4e48c58",
+    "creationDate": "2026-04-10T13:36:30.247Z",
+    "game": "Castlevania: Symphony of the Night",
+    "song": "Dance of Pales",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "0",
+      "5",
+      "6",
+      "7"
+    ],
+    "file": "Castlevania Symphony of the Night/Dance of Pales.mmrs",
+    "preview": "Castlevania Symphony of the Night/Dance of Pales.ogg"
+  },
+  {
+    "uuid": "ac062a80-3b56-46cf-9dbb-4f4842b4d589",
+    "creationDate": "2026-04-10T13:37:09.178Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Lake Hylia",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Lake Hylia.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Lake Hylia.ogg"
+  },
+  {
+    "uuid": "4863e0dc-3ca0-43a0-b377-68f5b49fd277",
+    "creationDate": "2026-04-10T13:38:11.484Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Agitha's Castle",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6",
+      "7"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Agitha's Castle.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Agitha's Castle.ogg"
+  },
+  {
+    "uuid": "ca7629ae-52ab-4b99-a861-0019375a2bb3",
+    "creationDate": "2026-04-10T13:38:55.749Z",
+    "game": "Super Mario Sunshine",
+    "song": "Delfino Plaza",
+    "composers": [
+      "Koji Kondo",
+      "Shinobu Tanaka"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "Super Mario Sunshine/Delfino Plaza.mmrs",
+    "preview": "Super Mario Sunshine/Delfino Plaza.ogg"
+  },
+  {
+    "uuid": "91a2d396-6203-4801-8da3-97fb86e27607",
+    "creationDate": "2026-04-10T13:39:47.779Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Dancing Dragon",
+    "composers": [
+      "Minako Adachi"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Dancing Dragon.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Dancing Dragon.ogg"
+  },
+  {
+    "uuid": "cd71345a-9bfa-491c-bfa6-6e2fd25d85eb",
+    "creationDate": "2026-04-10T13:41:10.701Z",
+    "game": "Game Center CX Arino no Chousenjou 2",
+    "song": "Super Daemon Returns Stage 4",
+    "composers": [
+      "Koji Yamada"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4"
+    ],
+    "file": "Game Center CX Arino no Chousenjou 2/Super Daemon Returns Stage 4.mmrs",
+    "preview": "Game Center CX Arino no Chousenjou 2/Super Daemon Returns Stage 4.ogg"
+  },
+  {
+    "uuid": "571ba4a6-6fcd-4687-a2d4-a40196331d68",
+    "creationDate": "2026-04-10T13:41:46.717Z",
+    "game": "Final Fantasy IX",
+    "song": "Treno's Theme",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "1",
+      "2",
+      "6"
+    ],
+    "file": "Final Fantasy IX/Treno's Theme.mmrs",
+    "preview": "Final Fantasy IX/Treno's Theme.ogg"
+  },
+  {
+    "uuid": "094cfc6b-8bb1-498c-a4f5-cfe29d3c2392",
+    "creationDate": "2026-04-10T13:42:24.736Z",
+    "game": "Final Fantasy IX",
+    "song": "Dissipating Sorrow",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "1",
+      "3"
+    ],
+    "file": "Final Fantasy IX/Dissipating Sorrow.mmrs",
+    "preview": "Final Fantasy IX/Dissipating Sorrow.ogg"
+  },
+  {
+    "uuid": "0837fc3c-41a8-47d8-b5fe-3ce8d811ef7a",
+    "creationDate": "2026-04-10T13:44:21.808Z",
+    "game": "Banjo-Kazooie",
+    "song": "Flibbits Battle",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7",
+      "4"
+    ],
+    "file": "Banjo-Kazooie/Flibbits Battle.mmrs",
+    "preview": "Banjo-Kazooie/Flibbits Battle.ogg"
+  },
+  {
+    "uuid": "921a9f35-52d5-438c-8830-a62b2305da33",
+    "creationDate": "2026-04-10T13:45:00.601Z",
+    "game": "Super Mario 64",
+    "song": "Wing Cap (Romani)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "file": "Super Mario 64/Wing Cap Theme (Romani).mmrs",
+    "preview": "Super Mario 64/Wing Cap Theme (Romani).ogg",
+    "lastUpdateDate": "2026-04-10T13:46:18.811Z"
+  },
+  {
+    "uuid": "de1ff4ea-d202-4ce7-8105-e6eae2a7c63b",
+    "creationDate": "2026-04-10T13:46:01.385Z",
+    "game": "Super Mario 64",
+    "song": "Wing Cap (Original)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "file": "Super Mario 64/Wing Cap (Original).mmrs",
+    "preview": "Super Mario 64/Wing Cap (Original).ogg"
+  },
+  {
+    "uuid": "6ee4581c-710d-45a8-9fe9-e374eb2ce49a",
+    "creationDate": "2026-04-10T13:47:14.497Z",
+    "game": "Chrono Trigger",
+    "song": "1000 A.D.",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "3"
+    ],
+    "file": "Chrono Trigger/1000 A.D..mmrs",
+    "preview": "Chrono Trigger/1000 A.D..ogg"
+  },
+  {
+    "uuid": "214cd1bf-e1e0-4ab7-9ac0-a3ef53e9310d",
+    "creationDate": "2026-04-10T13:48:26.847Z",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "House Theme",
+    "composers": [
+      "Manaka Tominaga",
+      "Asuka Ohta",
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "0",
+      "6"
+    ],
+    "file": "The Legend of Zelda Spirit Tracks/House Theme.mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/House Theme.ogg"
+  },
+  {
+    "uuid": "efb9cd26-16fe-47a0-8081-42b883ccf49e",
+    "creationDate": "2026-04-10T13:49:08.840Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Kayak Archery",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "3",
+      "0",
+      "6"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Kayak Archery.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Kayak Archery.ogg"
+  },
+  {
+    "uuid": "206c8b27-690b-454e-9627-57fbf2e62076",
+    "creationDate": "2026-04-10T13:52:17.939Z",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "Realm Overworld (Variant B)",
+    "composers": [
+      "Manaka Tominaga",
+      "Asuka Ohta",
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6",
+      "1"
+    ],
+    "file": "The Legend of Zelda Spirit Tracks/Realm Overworld (Variant B).mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/Realm Overworld (Variant B).ogg"
+  },
+  {
+    "uuid": "9d86b0e5-d4e7-4816-b9fb-644858afcdb6",
+    "creationDate": "2026-04-10T13:53:15.328Z",
+    "game": "Ghost Trick: Phantom Detective",
+    "song": "Chicken Paradise",
+    "composers": [
+      "Masakazu Sugimori"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "1",
+      "6"
+    ],
+    "file": "Ghost Trick Phantom Detective/Chicken Paradise.mmrs",
+    "preview": "Ghost Trick Phantom Detective/Chicken Paradise.ogg"
+  },
+  {
+    "uuid": "6736ab22-4917-4cb9-9ee7-29111e7fd72b",
+    "creationDate": "2026-04-10T13:54:59.023Z",
+    "game": "Ghost Trick: Phantom Detective",
+    "song": "Intermission ~ The Deepening of the ''Night''",
+    "composers": [
+      "Masakazu Sugimori"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "3"
+    ],
+    "file": "Ghost Trick Phantom Detective/Intermission ~ The Deepening of the ''Night''.mmrs",
+    "preview": "Ghost Trick Phantom Detective/Intermission ~ The Deepening of the ''Night''.ogg"
+  },
+  {
+    "uuid": "4eea84d0-9555-4807-ad24-726bc98e98a2",
+    "creationDate": "2026-04-10T13:56:08.331Z",
+    "game": "Ghost Trick: Phantom Detective",
+    "song": "4 Minutes Before Death",
+    "composers": [
+      "Masakazu Sugimori"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7",
+      "4"
+    ],
+    "file": "Ghost Trick Phantom Detective/4 Minutes Before Death.mmrs",
+    "preview": "Ghost Trick Phantom Detective/4 Minutes Before Death.ogg"
+  },
+  {
+    "uuid": "4867bf14-cd59-49ee-a832-7c7c7d0db6f1",
+    "creationDate": "2026-04-10T13:56:44.942Z",
+    "game": "Ghost Trick: Phantom Detective",
+    "song": "Chained Past",
+    "composers": [
+      "Masakazu Sugimori"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "2"
+    ],
+    "file": "Ghost Trick Phantom Detective/Chained Past.mmrs",
+    "preview": "Ghost Trick Phantom Detective/Chained Past.ogg"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
