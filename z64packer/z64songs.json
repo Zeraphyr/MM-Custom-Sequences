@@ -31234,5 +31234,27 @@
     "file": "Tales of Symphonia/Full Force.mmrs",
     "preview": "Tales of Symphonia/Full Force.ogg"
   },
+  {
+    "uuid": "49aa6816-f774-4399-b6f1-880555dfe1f3",
+    "creationDate": "2026-04-10T15:57:42.014Z",
+    "game": "Final Fantasy IV",
+    "song": "Battle",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Final Fantasy IV/Battle.mmrs",
+    "preview": "Final Fantasy IV/Battle.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
