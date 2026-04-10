@@ -31334,5 +31334,29 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "7e79770a-0c3a-4930-80a2-40afee6b179b",
+    "creationDate": "2026-04-10T20:50:44.367Z",
+    "game": "Kirby 64: The Crystal Shards",
+    "song": "Quiet Forest",
+    "composers": [
+      "Jun Ishikawa",
+      "Hirokazu Ando"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "113",
+      "10C",
+      "13E",
+      "165"
+    ],
+    "usesCustomBank": true,
+    "file": "Kirby 64 The Crystal Shards/Quiet Forest.mmrs",
+    "preview": "Kirby 64 The Crystal Shards/Quiet Forest.ogg",
+    "lastUpdateDate": "2026-04-10T20:53:31.702Z"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
