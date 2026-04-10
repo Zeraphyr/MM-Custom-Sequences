@@ -30690,5 +30690,24 @@
     "file": "Final Fantasy IX/Dissipating Sorrow.mmrs",
     "preview": "Final Fantasy IX/Dissipating Sorrow.ogg"
   },
+  {
+    "uuid": "0837fc3c-41a8-47d8-b5fe-3ce8d811ef7a",
+    "creationDate": "2026-04-10T13:44:21.808Z",
+    "game": "Banjo-Kazooie",
+    "song": "Flibbits Battle",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7",
+      "4"
+    ],
+    "file": "Banjo-Kazooie/Flibbits Battle.mmrs",
+    "preview": "Banjo-Kazooie/Flibbits Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
