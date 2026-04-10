@@ -30586,5 +30586,27 @@
     "file": "The Legend of Zelda Twilight Princess/Agitha's Castle.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Agitha's Castle.ogg"
   },
+  {
+    "uuid": "ca7629ae-52ab-4b99-a861-0019375a2bb3",
+    "creationDate": "2026-04-10T13:38:55.749Z",
+    "game": "Super Mario Sunshine",
+    "song": "Delfino Plaza",
+    "composers": [
+      "Koji Kondo",
+      "Shinobu Tanaka"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "Super Mario Sunshine/Delfino Plaza.mmrs",
+    "preview": "Super Mario Sunshine/Delfino Plaza.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
