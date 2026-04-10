@@ -31078,5 +31078,25 @@
     "file": "Tales of Destiny/Unfinished World.mmrs",
     "preview": "Tales of Destiny/Unfinished World.mp3"
   },
+  {
+    "uuid": "c3d05177-5e31-40ad-af85-58ca5c555de8",
+    "creationDate": "2026-04-10T15:35:57.739Z",
+    "game": "Tales of the Abyss",
+    "song": "The Arrow Was Shot",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Tales of the Abyss/The Arrow Was Shot.mmrs",
+    "preview": "Tales of the Abyss/The Arrow Was Shot.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
