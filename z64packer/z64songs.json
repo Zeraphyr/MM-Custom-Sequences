@@ -31356,7 +31356,9 @@
     "usesCustomBank": true,
     "file": "Kirby 64 The Crystal Shards/Quiet Forest.mmrs",
     "preview": "Kirby 64 The Crystal Shards/Quiet Forest.ogg",
-    "lastUpdateDate": "2026-04-10T20:53:31.702Z"
+    "lastUpdateDate": "2026-04-10T20:53:31.702Z",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
