@@ -31029,7 +31029,10 @@
       "157"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Ganon.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Ganon.mp3"
+    "preview": "The Legend of Zelda Oracle of Seasons/Ganon.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "78c35655-0511-4788-839b-f0c364581f46",
@@ -31052,7 +31055,10 @@
       "176"
     ],
     "file": "Tales of Destiny/Bared Fangs.mmrs",
-    "preview": "Tales of Destiny/Bared Fangs.ogg"
+    "preview": "Tales of Destiny/Bared Fangs.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "eaac7fe3-c0b9-473d-93e0-ddb300131008",
@@ -31076,7 +31082,10 @@
       "176"
     ],
     "file": "Tales of Destiny/Unfinished World.mmrs",
-    "preview": "Tales of Destiny/Unfinished World.mp3"
+    "preview": "Tales of Destiny/Unfinished World.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c3d05177-5e31-40ad-af85-58ca5c555de8",
@@ -31096,7 +31105,10 @@
       "2"
     ],
     "file": "Tales of the Abyss/The Arrow Was Shot.mmrs",
-    "preview": "Tales of the Abyss/The Arrow Was Shot.ogg"
+    "preview": "Tales of the Abyss/The Arrow Was Shot.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "fb59cdaa-2fbc-4184-942a-ad5c069727d7",
@@ -31118,7 +31130,10 @@
       "176"
     ],
     "file": "Tales of Eternia/Inferia Battle.mmrs",
-    "preview": "Tales of Eternia/Inferia Battle.mp3"
+    "preview": "Tales of Eternia/Inferia Battle.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "18c8d88b-549b-4d41-9064-965e3001cac6",
@@ -31141,7 +31156,10 @@
       "176"
     ],
     "file": "Tales of Innocence/Break Through with the Sword.mmrs",
-    "preview": "Tales of Innocence/Break Through with the Sword.mp3"
+    "preview": "Tales of Innocence/Break Through with the Sword.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "15623ae3-b579-400c-b436-4f279c488501",
@@ -31163,7 +31181,10 @@
       "176"
     ],
     "file": "Tales of Phantasia/Fighting of the Spirit.mmrs",
-    "preview": "Tales of Phantasia/Fighting of the Spirit.mp3"
+    "preview": "Tales of Phantasia/Fighting of the Spirit.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "26d7b63b-72bc-420b-9978-0bafad40be5f",
@@ -31186,7 +31207,10 @@
       "176"
     ],
     "file": "Tales of Phantasia/Take up the Cross.mmrs",
-    "preview": "Tales of Phantasia/Take up the Cross.mp3"
+    "preview": "Tales of Phantasia/Take up the Cross.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "0ede8eea-7e60-47c7-805e-b0f4a142da0d",
@@ -31210,7 +31234,10 @@
       "176"
     ],
     "file": "Tales of Symphonia/Fatalize.mmrs",
-    "preview": "Tales of Symphonia/Fatalize.mp3"
+    "preview": "Tales of Symphonia/Fatalize.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b9a9e499-e8c9-4de7-9f36-ac8909bad667",
@@ -31232,7 +31259,10 @@
       "157"
     ],
     "file": "Tales of Symphonia/Full Force.mmrs",
-    "preview": "Tales of Symphonia/Full Force.ogg"
+    "preview": "Tales of Symphonia/Full Force.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "49aa6816-f774-4399-b6f1-880555dfe1f3",
@@ -31254,7 +31284,10 @@
       "176"
     ],
     "file": "Final Fantasy IV/Battle.mmrs",
-    "preview": "Final Fantasy IV/Battle.mp3"
+    "preview": "Final Fantasy IV/Battle.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "69619716-f8cf-4d61-95d9-c6335a562ed8",
@@ -31274,7 +31307,10 @@
       "2"
     ],
     "file": "Yooka-Laylee/Tribalstack Tropics.mmrs",
-    "preview": "Yooka-Laylee/Tribalstack Tropics.mp3"
+    "preview": "Yooka-Laylee/Tribalstack Tropics.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
