@@ -31212,5 +31212,27 @@
     "file": "Tales of Symphonia/Fatalize.mmrs",
     "preview": "Tales of Symphonia/Fatalize.mp3"
   },
+  {
+    "uuid": "b9a9e499-e8c9-4de7-9f36-ac8909bad667",
+    "creationDate": "2026-04-10T15:50:00.023Z",
+    "game": "Tales of Symphonia",
+    "song": "Full Force",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157"
+    ],
+    "file": "Tales of Symphonia/Full Force.mmrs",
+    "preview": "Tales of Symphonia/Full Force.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
