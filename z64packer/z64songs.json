@@ -31120,5 +31120,28 @@
     "file": "Tales of Eternia/Inferia Battle.mmrs",
     "preview": "Tales of Eternia/Inferia Battle.mp3"
   },
+  {
+    "uuid": "18c8d88b-549b-4d41-9064-965e3001cac6",
+    "creationDate": "2026-04-10T15:45:58.289Z",
+    "game": "Tales of Innocence",
+    "song": "Break Through with the Sword",
+    "composers": [
+      "Kazuhiro Nakamura"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "7",
+      "157",
+      "176"
+    ],
+    "file": "Tales of Innocence/Break Through with the Sword.mmrs",
+    "preview": "Tales of Innocence/Break Through with the Sword.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
