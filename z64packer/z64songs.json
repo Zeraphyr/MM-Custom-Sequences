@@ -30493,5 +30493,30 @@
     "file": "Banjo-Kazooie/Freezeezy Peak (Variant C).mmrs",
     "preview": "Banjo-Kazooie/Freezeezy Peak (Variant C).ogg"
   },
+  {
+    "uuid": "41379f3a-f8c9-4fbd-9f6d-6340373feb04",
+    "creationDate": "2026-04-10T13:31:11.156Z",
+    "game": "Super Mario Bros. 2",
+    "song": "Overworld",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "0",
+      "1",
+      "2",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "file": "Super Mario Bros. 2/Overworld.mmrs",
+    "preview": "Super Mario Bros. 2/Overworld.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
