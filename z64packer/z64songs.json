@@ -30869,5 +30869,24 @@
     "file": "Ghost Trick Phantom Detective/Intermission ~ The Deepening of the ''Night''.mmrs",
     "preview": "Ghost Trick Phantom Detective/Intermission ~ The Deepening of the ''Night''.ogg"
   },
+  {
+    "uuid": "4eea84d0-9555-4807-ad24-726bc98e98a2",
+    "creationDate": "2026-04-10T13:56:08.331Z",
+    "game": "Ghost Trick: Phantom Detective",
+    "song": "4 Minutes Before Death",
+    "composers": [
+      "Masakazu Sugimori"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7",
+      "4"
+    ],
+    "file": "Ghost Trick Phantom Detective/4 Minutes Before Death.mmrs",
+    "preview": "Ghost Trick Phantom Detective/4 Minutes Before Death.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
