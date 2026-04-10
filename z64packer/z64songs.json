@@ -30392,5 +30392,24 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "ddfe62b6-1766-4b4e-a4c4-fc1489c78055",
+    "creationDate": "2026-04-10T13:26:53.686Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Beware of Forest Mushrooms (Variant B)",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Super Mario RPG Legend of the Seven Stars/Beware of Forest Mushrooms (Variant B).mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Beware of Forest Mushrooms (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
