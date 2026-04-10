@@ -30473,5 +30473,25 @@
     "file": "The Legend of Zelda The Minish Cap/Minish Village.mmrs",
     "preview": "The Legend of Zelda The Minish Cap/Minish Village.ogg"
   },
+  {
+    "uuid": "fafdf84b-02b2-495d-8338-e7ac967ad3fc",
+    "creationDate": "2026-04-10T13:30:40.522Z",
+    "game": "Banjo-Kazooie",
+    "song": "Freezeezy Peak (Variant C)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "4"
+    ],
+    "file": "Banjo-Kazooie/Freezeezy Peak (Variant C).mmrs",
+    "preview": "Banjo-Kazooie/Freezeezy Peak (Variant C).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
