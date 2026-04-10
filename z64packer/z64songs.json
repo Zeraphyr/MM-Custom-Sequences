@@ -31188,5 +31188,29 @@
     "file": "Tales of Phantasia/Take up the Cross.mmrs",
     "preview": "Tales of Phantasia/Take up the Cross.mp3"
   },
+  {
+    "uuid": "0ede8eea-7e60-47c7-805e-b0f4a142da0d",
+    "creationDate": "2026-04-10T15:49:10.608Z",
+    "game": "Tales of Symphonia",
+    "song": "Fatalize",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Tales of Symphonia/Fatalize.mmrs",
+    "preview": "Tales of Symphonia/Fatalize.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
