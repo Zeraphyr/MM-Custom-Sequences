@@ -31031,5 +31031,28 @@
     "file": "The Legend of Zelda Oracle of Seasons/Ganon.mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Ganon.mp3"
   },
+  {
+    "uuid": "78c35655-0511-4788-839b-f0c364581f46",
+    "creationDate": "2026-04-10T15:23:43.628Z",
+    "game": "Tales of Destiny",
+    "song": "Bared Fangs",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Tales of Destiny/Bared Fangs.mmrs",
+    "preview": "Tales of Destiny/Bared Fangs.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
