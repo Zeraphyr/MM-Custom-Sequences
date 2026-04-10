@@ -30830,5 +30830,25 @@
     "file": "The Legend of Zelda Spirit Tracks/Realm Overworld (Variant B).mmrs",
     "preview": "The Legend of Zelda Spirit Tracks/Realm Overworld (Variant B).ogg"
   },
+  {
+    "uuid": "9d86b0e5-d4e7-4816-b9fb-644858afcdb6",
+    "creationDate": "2026-04-10T13:53:15.328Z",
+    "game": "Ghost Trick: Phantom Detective",
+    "song": "Chicken Paradise",
+    "composers": [
+      "Masakazu Sugimori"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "1",
+      "6"
+    ],
+    "file": "Ghost Trick Phantom Detective/Chicken Paradise.mmrs",
+    "preview": "Ghost Trick Phantom Detective/Chicken Paradise.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
