@@ -30649,5 +30649,26 @@
     "file": "Game Center CX Arino no Chousenjou 2/Super Daemon Returns Stage 4.mmrs",
     "preview": "Game Center CX Arino no Chousenjou 2/Super Daemon Returns Stage 4.ogg"
   },
+  {
+    "uuid": "571ba4a6-6fcd-4687-a2d4-a40196331d68",
+    "creationDate": "2026-04-10T13:41:46.717Z",
+    "game": "Final Fantasy IX",
+    "song": "Treno's Theme",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "1",
+      "2",
+      "6"
+    ],
+    "file": "Final Fantasy IX/Treno's Theme.mmrs",
+    "preview": "Final Fantasy IX/Treno's Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
