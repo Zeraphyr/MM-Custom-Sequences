@@ -1976,6 +1976,7 @@
   },
   {
     "game": "Tales of Symphonia",
+    "series": "Tales of Series",
     "logo": "https://i.imgur.com/im2Z5pR.png"
   },
   {
@@ -3299,22 +3300,33 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/ce3b5506fc4151c97d646dc6fce8b1f5.png"
   },
   {
-    "game": "Game Center CX Arino no Chousenjou 2"
+    "game": "Retro Game Challenge 2",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/2016cd1533bb94b303b2ad39e83b8c6d.png"
   },
   {
-    "game": "Tales of Innocence"
+    "game": "Tales of Innocence",
+    "series": "Tales of Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/4f932163614ec20c6a25e1decb5a6189.pngf"
   },
   {
-    "game": "Tales of Eternia"
+    "game": "Tales of Eternia",
+    "series": "Tales of Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/cfa932116e1a833196044a79151ccba3.png"
   },
   {
-    "game": "Tales of Phantasia"
+    "game": "Tales of Phantasia",
+    "series": "Tales of Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/873111dfe6a0f5f2008f00687567e5d8.png"
   },
   {
-    "game": "Tales of the Abyss"
+    "game": "Tales of the Abyss",
+    "series": "Tales of Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/57ed1337fe4fdf9c65ddaf8555a9a1bb.png"
   },
   {
-    "game": "Tales of Destiny"
+    "game": "Tales of Destiny",
+    "series": "Tales of Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ad1fca5e0453ca6e1e6bbd9ebe303ae6.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
