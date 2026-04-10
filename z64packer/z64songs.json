@@ -31010,5 +31010,26 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "27c78151-ec33-416d-850a-1546cd6e9d07",
+    "creationDate": "2026-04-10T15:18:34.417Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Ganon",
+    "composers": [
+      "Minako Adachi"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7",
+      "157"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Ganon.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Ganon.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
