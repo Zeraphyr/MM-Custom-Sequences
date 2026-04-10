@@ -31143,5 +31143,27 @@
     "file": "Tales of Innocence/Break Through with the Sword.mmrs",
     "preview": "Tales of Innocence/Break Through with the Sword.mp3"
   },
+  {
+    "uuid": "15623ae3-b579-400c-b436-4f279c488501",
+    "creationDate": "2026-04-10T15:46:50.929Z",
+    "game": "Tales of Phantasia",
+    "song": "Fighting of the Spirit",
+    "composers": [
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Tales of Phantasia/Fighting of the Spirit.mmrs",
+    "preview": "Tales of Phantasia/Fighting of the Spirit.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
