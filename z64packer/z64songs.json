@@ -30518,5 +30518,28 @@
     "file": "Super Mario Bros. 2/Overworld.mmrs",
     "preview": "Super Mario Bros. 2/Overworld.ogg"
   },
+  {
+    "uuid": "05f08c4e-4f74-4bb2-903c-b10bc4e48c58",
+    "creationDate": "2026-04-10T13:36:30.247Z",
+    "game": "Castlevania: Symphony of the Night",
+    "song": "Dance of Pales",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "0",
+      "5",
+      "6",
+      "7"
+    ],
+    "file": "Castlevania Symphony of the Night/Dance of Pales.mmrs",
+    "preview": "Castlevania Symphony of the Night/Dance of Pales.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
