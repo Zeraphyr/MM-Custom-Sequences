@@ -31010,5 +31010,271 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "27c78151-ec33-416d-850a-1546cd6e9d07",
+    "creationDate": "2026-04-10T15:18:34.417Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Ganon",
+    "composers": [
+      "Minako Adachi"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7",
+      "157"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Ganon.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Ganon.mp3"
+  },
+  {
+    "uuid": "78c35655-0511-4788-839b-f0c364581f46",
+    "creationDate": "2026-04-10T15:23:43.628Z",
+    "game": "Tales of Destiny",
+    "song": "Bared Fangs",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Tales of Destiny/Bared Fangs.mmrs",
+    "preview": "Tales of Destiny/Bared Fangs.ogg"
+  },
+  {
+    "uuid": "eaac7fe3-c0b9-473d-93e0-ddb300131008",
+    "creationDate": "2026-04-10T15:24:38.757Z",
+    "game": "Tales of Destiny",
+    "song": "Unfinished World",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Tales of Destiny/Unfinished World.mmrs",
+    "preview": "Tales of Destiny/Unfinished World.mp3"
+  },
+  {
+    "uuid": "c3d05177-5e31-40ad-af85-58ca5c555de8",
+    "creationDate": "2026-04-10T15:35:57.739Z",
+    "game": "Tales of the Abyss",
+    "song": "The Arrow Was Shot",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Tales of the Abyss/The Arrow Was Shot.mmrs",
+    "preview": "Tales of the Abyss/The Arrow Was Shot.ogg"
+  },
+  {
+    "uuid": "fb59cdaa-2fbc-4184-942a-ad5c069727d7",
+    "creationDate": "2026-04-10T15:43:31.133Z",
+    "game": "Tales of Eternia",
+    "song": "Inferia Battle",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Tales of Eternia/Inferia Battle.mmrs",
+    "preview": "Tales of Eternia/Inferia Battle.mp3"
+  },
+  {
+    "uuid": "18c8d88b-549b-4d41-9064-965e3001cac6",
+    "creationDate": "2026-04-10T15:45:58.289Z",
+    "game": "Tales of Innocence",
+    "song": "Break Through with the Sword",
+    "composers": [
+      "Kazuhiro Nakamura"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "7",
+      "157",
+      "176"
+    ],
+    "file": "Tales of Innocence/Break Through with the Sword.mmrs",
+    "preview": "Tales of Innocence/Break Through with the Sword.mp3"
+  },
+  {
+    "uuid": "15623ae3-b579-400c-b436-4f279c488501",
+    "creationDate": "2026-04-10T15:46:50.929Z",
+    "game": "Tales of Phantasia",
+    "song": "Fighting of the Spirit",
+    "composers": [
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Tales of Phantasia/Fighting of the Spirit.mmrs",
+    "preview": "Tales of Phantasia/Fighting of the Spirit.mp3"
+  },
+  {
+    "uuid": "26d7b63b-72bc-420b-9978-0bafad40be5f",
+    "creationDate": "2026-04-10T15:47:46.809Z",
+    "game": "Tales of Phantasia",
+    "song": "Take up the Cross",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "7",
+      "157",
+      "176"
+    ],
+    "file": "Tales of Phantasia/Take up the Cross.mmrs",
+    "preview": "Tales of Phantasia/Take up the Cross.mp3"
+  },
+  {
+    "uuid": "0ede8eea-7e60-47c7-805e-b0f4a142da0d",
+    "creationDate": "2026-04-10T15:49:10.608Z",
+    "game": "Tales of Symphonia",
+    "song": "Fatalize",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Tales of Symphonia/Fatalize.mmrs",
+    "preview": "Tales of Symphonia/Fatalize.mp3"
+  },
+  {
+    "uuid": "b9a9e499-e8c9-4de7-9f36-ac8909bad667",
+    "creationDate": "2026-04-10T15:50:00.023Z",
+    "game": "Tales of Symphonia",
+    "song": "Full Force",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157"
+    ],
+    "file": "Tales of Symphonia/Full Force.mmrs",
+    "preview": "Tales of Symphonia/Full Force.ogg"
+  },
+  {
+    "uuid": "49aa6816-f774-4399-b6f1-880555dfe1f3",
+    "creationDate": "2026-04-10T15:57:42.014Z",
+    "game": "Final Fantasy IV",
+    "song": "Battle",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Final Fantasy IV/Battle.mmrs",
+    "preview": "Final Fantasy IV/Battle.mp3"
+  },
+  {
+    "uuid": "69619716-f8cf-4d61-95d9-c6335a562ed8",
+    "creationDate": "2026-04-10T15:58:22.170Z",
+    "game": "Yooka-Laylee",
+    "song": "Tribalstack Tropics",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Yooka-Laylee/Tribalstack Tropics.mmrs",
+    "preview": "Yooka-Laylee/Tribalstack Tropics.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
