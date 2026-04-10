@@ -30888,5 +30888,24 @@
     "file": "Ghost Trick Phantom Detective/4 Minutes Before Death.mmrs",
     "preview": "Ghost Trick Phantom Detective/4 Minutes Before Death.ogg"
   },
+  {
+    "uuid": "4867bf14-cd59-49ee-a832-7c7c7d0db6f1",
+    "creationDate": "2026-04-10T13:56:44.942Z",
+    "game": "Ghost Trick: Phantom Detective",
+    "song": "Chained Past",
+    "composers": [
+      "Masakazu Sugimori"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "2"
+    ],
+    "file": "Ghost Trick Phantom Detective/Chained Past.mmrs",
+    "preview": "Ghost Trick Phantom Detective/Chained Past.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
