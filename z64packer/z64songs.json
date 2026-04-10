@@ -30765,5 +30765,28 @@
     "file": "Chrono Trigger/1000 A.D..mmrs",
     "preview": "Chrono Trigger/1000 A.D..ogg"
   },
+  {
+    "uuid": "214cd1bf-e1e0-4ab7-9ac0-a3ef53e9310d",
+    "creationDate": "2026-04-10T13:48:26.847Z",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "House Theme",
+    "composers": [
+      "Manaka Tominaga",
+      "Asuka Ohta",
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "0",
+      "6"
+    ],
+    "file": "The Legend of Zelda Spirit Tracks/House Theme.mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/House Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
