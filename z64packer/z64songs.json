@@ -31312,5 +31312,24 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "f5a26993-db72-4b95-8df4-6a23d7cb7bdf",
+    "creationDate": "2026-04-10T20:12:43.151Z",
+    "game": "Final Fantasy IX",
+    "song": "Daguerro's Theme",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "file": "Final Fantasy IX/Daguerro's Theme.mmrs",
+    "preview": "Final Fantasy IX/Daguerro's Theme.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
