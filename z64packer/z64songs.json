@@ -31165,5 +31165,28 @@
     "file": "Tales of Phantasia/Fighting of the Spirit.mmrs",
     "preview": "Tales of Phantasia/Fighting of the Spirit.mp3"
   },
+  {
+    "uuid": "26d7b63b-72bc-420b-9978-0bafad40be5f",
+    "creationDate": "2026-04-10T15:47:46.809Z",
+    "game": "Tales of Phantasia",
+    "song": "Take up the Cross",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "7",
+      "157",
+      "176"
+    ],
+    "file": "Tales of Phantasia/Take up the Cross.mmrs",
+    "preview": "Tales of Phantasia/Take up the Cross.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
