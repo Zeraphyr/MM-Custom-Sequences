@@ -30727,5 +30727,23 @@
     "file": "Super Mario 64/Wing Cap Theme (Romani).mmrs",
     "preview": "Super Mario 64/Wing Cap Theme (Romani).ogg"
   },
+  {
+    "uuid": "de1ff4ea-d202-4ce7-8105-e6eae2a7c63b",
+    "creationDate": "2026-04-10T13:46:01.385Z",
+    "game": "Super Mario 64",
+    "song": "Wing Cap (Original)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "file": "Super Mario 64/Wing Cap (Original).mmrs",
+    "preview": "Super Mario 64/Wing Cap (Original).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
