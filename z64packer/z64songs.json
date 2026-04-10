@@ -30541,5 +30541,28 @@
     "file": "Castlevania Symphony of the Night/Dance of Pales.mmrs",
     "preview": "Castlevania Symphony of the Night/Dance of Pales.ogg"
   },
+  {
+    "uuid": "ac062a80-3b56-46cf-9dbb-4f4842b4d589",
+    "creationDate": "2026-04-10T13:37:09.178Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Lake Hylia",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Lake Hylia.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Lake Hylia.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
