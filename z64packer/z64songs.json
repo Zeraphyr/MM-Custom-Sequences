@@ -30608,5 +30608,27 @@
     "file": "Super Mario Sunshine/Delfino Plaza.mmrs",
     "preview": "Super Mario Sunshine/Delfino Plaza.ogg"
   },
+  {
+    "uuid": "91a2d396-6203-4801-8da3-97fb86e27607",
+    "creationDate": "2026-04-10T13:39:47.779Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Dancing Dragon",
+    "composers": [
+      "Minako Adachi"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Dancing Dragon.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Dancing Dragon.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
