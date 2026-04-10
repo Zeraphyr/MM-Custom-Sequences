@@ -30988,5 +30988,24 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "528e83f4-2571-4f8a-9431-3fc5638aa16d",
+    "creationDate": "2026-04-10T13:58:33.068Z",
+    "game": "Final Fantasy IX",
+    "song": "Iifa's Theme",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "5"
+    ],
+    "file": "Final Fantasy IX/Iifa's Theme.mmrs",
+    "preview": "Final Fantasy IX/Iifa's Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
