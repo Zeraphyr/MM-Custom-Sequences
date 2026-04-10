@@ -30788,5 +30788,27 @@
     "file": "The Legend of Zelda Spirit Tracks/House Theme.mmrs",
     "preview": "The Legend of Zelda Spirit Tracks/House Theme.ogg"
   },
+  {
+    "uuid": "efb9cd26-16fe-47a0-8081-42b883ccf49e",
+    "creationDate": "2026-04-10T13:49:08.840Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Kayak Archery",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "3",
+      "0",
+      "6"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Kayak Archery.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Kayak Archery.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
