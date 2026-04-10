@@ -31098,5 +31098,27 @@
     "file": "Tales of the Abyss/The Arrow Was Shot.mmrs",
     "preview": "Tales of the Abyss/The Arrow Was Shot.ogg"
   },
+  {
+    "uuid": "fb59cdaa-2fbc-4184-942a-ad5c069727d7",
+    "creationDate": "2026-04-10T15:43:31.133Z",
+    "game": "Tales of Eternia",
+    "song": "Inferia Battle",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157",
+      "176"
+    ],
+    "file": "Tales of Eternia/Inferia Battle.mmrs",
+    "preview": "Tales of Eternia/Inferia Battle.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
