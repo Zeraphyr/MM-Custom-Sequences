@@ -30411,5 +30411,24 @@
     "file": "Super Mario RPG Legend of the Seven Stars/Beware of Forest Mushrooms (Variant B).mmrs",
     "preview": "Super Mario RPG Legend of the Seven Stars/Beware of Forest Mushrooms (Variant B).ogg"
   },
+  {
+    "uuid": "46ce6907-e187-4106-b459-bf858f44c855",
+    "creationDate": "2026-04-10T13:28:03.959Z",
+    "game": "Final Fantasy IX",
+    "song": "Lindblum Castle",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "0"
+    ],
+    "file": "Final Fantasy IX/Lindblum Castle.mmrs",
+    "preview": "Final Fantasy IX/Lindblum Castle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
