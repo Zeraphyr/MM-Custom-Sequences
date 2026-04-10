@@ -31256,5 +31256,25 @@
     "file": "Final Fantasy IV/Battle.mmrs",
     "preview": "Final Fantasy IV/Battle.mp3"
   },
+  {
+    "uuid": "69619716-f8cf-4d61-95d9-c6335a562ed8",
+    "creationDate": "2026-04-10T15:58:22.170Z",
+    "game": "Yooka-Laylee",
+    "song": "Tribalstack Tropics",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Yooka-Laylee/Tribalstack Tropics.mmrs",
+    "preview": "Yooka-Laylee/Tribalstack Tropics.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
