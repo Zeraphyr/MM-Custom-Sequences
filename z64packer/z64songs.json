@@ -30564,5 +30564,27 @@
     "file": "The Legend of Zelda Twilight Princess/Lake Hylia.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Lake Hylia.ogg"
   },
+  {
+    "uuid": "4863e0dc-3ca0-43a0-b377-68f5b49fd277",
+    "creationDate": "2026-04-10T13:38:11.484Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Agitha's Castle",
+    "composers": [
+      "Toru Minegishi",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6",
+      "7"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Agitha's Castle.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Agitha's Castle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
