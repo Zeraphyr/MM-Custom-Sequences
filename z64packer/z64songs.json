@@ -30850,5 +30850,24 @@
     "file": "Ghost Trick Phantom Detective/Chicken Paradise.mmrs",
     "preview": "Ghost Trick Phantom Detective/Chicken Paradise.ogg"
   },
+  {
+    "uuid": "6736ab22-4917-4cb9-9ee7-29111e7fd72b",
+    "creationDate": "2026-04-10T13:54:59.023Z",
+    "game": "Ghost Trick: Phantom Detective",
+    "song": "Intermission ~ The Deepening of the ''Night''",
+    "composers": [
+      "Masakazu Sugimori"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "3"
+    ],
+    "file": "Ghost Trick Phantom Detective/Intermission ~ The Deepening of the ''Night''.mmrs",
+    "preview": "Ghost Trick Phantom Detective/Intermission ~ The Deepening of the ''Night''.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
