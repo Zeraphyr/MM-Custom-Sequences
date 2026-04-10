@@ -30746,5 +30746,24 @@
     "file": "Super Mario 64/Wing Cap (Original).mmrs",
     "preview": "Super Mario 64/Wing Cap (Original).ogg"
   },
+  {
+    "uuid": "6ee4581c-710d-45a8-9fe9-e374eb2ce49a",
+    "creationDate": "2026-04-10T13:47:14.497Z",
+    "game": "Chrono Trigger",
+    "song": "1000 A.D.",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "3"
+    ],
+    "file": "Chrono Trigger/1000 A.D..mmrs",
+    "preview": "Chrono Trigger/1000 A.D..ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
