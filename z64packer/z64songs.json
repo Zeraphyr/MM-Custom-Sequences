@@ -30709,5 +30709,23 @@
     "file": "Banjo-Kazooie/Flibbits Battle.mmrs",
     "preview": "Banjo-Kazooie/Flibbits Battle.ogg"
   },
+  {
+    "uuid": "921a9f35-52d5-438c-8830-a62b2305da33",
+    "creationDate": "2026-04-10T13:45:00.601Z",
+    "game": "Super Mario 64",
+    "song": "Wing Cap Theme (Romani)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "file": "Super Mario 64/Wing Cap Theme (Romani).mmrs",
+    "preview": "Super Mario 64/Wing Cap Theme (Romani).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
