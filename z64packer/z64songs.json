@@ -30630,5 +30630,24 @@
     "file": "The Legend of Zelda Oracle of Seasons/Dancing Dragon.mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Dancing Dragon.ogg"
   },
+  {
+    "uuid": "cd71345a-9bfa-491c-bfa6-6e2fd25d85eb",
+    "creationDate": "2026-04-10T13:41:10.701Z",
+    "game": "Game Center CX Arino no Chousenjou 2",
+    "song": "Super Daemon Returns Stage 4",
+    "composers": [
+      "Koji Yamada"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4"
+    ],
+    "file": "Game Center CX Arino no Chousenjou 2/Super Daemon Returns Stage 4.mmrs",
+    "preview": "Game Center CX Arino no Chousenjou 2/Super Daemon Returns Stage 4.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
