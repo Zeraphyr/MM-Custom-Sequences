@@ -30670,5 +30670,25 @@
     "file": "Final Fantasy IX/Treno's Theme.mmrs",
     "preview": "Final Fantasy IX/Treno's Theme.ogg"
   },
+  {
+    "uuid": "094cfc6b-8bb1-498c-a4f5-cfe29d3c2392",
+    "creationDate": "2026-04-10T13:42:24.736Z",
+    "game": "Final Fantasy IX",
+    "song": "Dissipating Sorrow",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "1",
+      "3"
+    ],
+    "file": "Final Fantasy IX/Dissipating Sorrow.mmrs",
+    "preview": "Final Fantasy IX/Dissipating Sorrow.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
