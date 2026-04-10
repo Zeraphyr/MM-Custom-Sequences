@@ -30453,5 +30453,25 @@
     "file": "The Legend of Zelda Twilight Princess/Falbi's Flight-by-Fowl.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Falbi's Flight-by-Fowl.ogg"
   },
+  {
+    "uuid": "a753af32-3d8a-4b34-9fb5-536fadb4d52f",
+    "creationDate": "2026-04-10T13:30:02.464Z",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "song": "Minish Village",
+    "composers": [
+      "Mitsuhiko Takano"
+    ],
+    "converters": [
+      "Isghj"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda The Minish Cap/Minish Village.mmrs",
+    "preview": "The Legend of Zelda The Minish Cap/Minish Village.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
