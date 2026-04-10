@@ -31054,5 +31054,29 @@
     "file": "Tales of Destiny/Bared Fangs.mmrs",
     "preview": "Tales of Destiny/Bared Fangs.ogg"
   },
+  {
+    "uuid": "eaac7fe3-c0b9-473d-93e0-ddb300131008",
+    "creationDate": "2026-04-10T15:24:38.757Z",
+    "game": "Tales of Destiny",
+    "song": "Unfinished World",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "118",
+      "157",
+      "176"
+    ],
+    "file": "Tales of Destiny/Unfinished World.mmrs",
+    "preview": "Tales of Destiny/Unfinished World.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
