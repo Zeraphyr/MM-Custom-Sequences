@@ -31005,7 +31005,10 @@
       "5"
     ],
     "file": "Final Fantasy IX/Iifa's Theme.mmrs",
-    "preview": "Final Fantasy IX/Iifa's Theme.ogg"
+    "preview": "Final Fantasy IX/Iifa's Theme.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
