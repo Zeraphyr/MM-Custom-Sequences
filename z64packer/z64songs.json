@@ -31382,5 +31382,26 @@
     "file": "A Hat in Time/Peace and Tranquility.mmrs",
     "preview": "A Hat in Time/Peace and Tranquility.ogg"
   },
+  {
+    "uuid": "ee9d6a15-807d-44f2-8f34-7327d0ade9e7",
+    "creationDate": "2026-04-11T17:35:35.676Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Agahnim's Theme",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Agahnim's Theme.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Agahnim's Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
