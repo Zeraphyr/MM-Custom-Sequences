@@ -33110,5 +33110,23 @@
     "file": "Castlevania III Dracula's Curse/Game Over.mmrs",
     "preview": "Castlevania III Dracula's Curse/Game Over.ogg"
   },
+  {
+    "uuid": "3093c927-8679-4043-9b7c-ff33bef5b170",
+    "creationDate": "2026-04-11T19:38:35.602Z",
+    "game": "Castlevania: Aria of Sorrow",
+    "song": "Hammer's Shop",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "file": "Castlevania Aria of Sorrow/Hammer's Shop.mmrs",
+    "preview": "Castlevania Aria of Sorrow/Hammer's Shop.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
