@@ -31504,5 +31504,25 @@
     "file": "The Legend of Zelda A Link to the Past/Quest Log (GBA ver.).mmrs",
     "preview": "The Legend of Zelda A Link to the Past/Quest Log (GBA ver.).ogg"
   },
+  {
+    "uuid": "93236a3a-fd96-43da-8863-befc84cebc01",
+    "creationDate": "2026-04-11T17:41:54.604Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Sea of Trees (GBA ver.)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Sea of Trees (GBA ver.).mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Sea of Trees (GBA ver.).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
