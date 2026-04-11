@@ -32315,5 +32315,24 @@
     "file": "The Legend of Zelda (Broadcast Satellite)/Title Screen.mmrs",
     "preview": "The Legend of Zelda (Broadcast Satellite)/Title Screen.ogg"
   },
+  {
+    "uuid": "332e6733-c0ca-4bc3-a786-fc4aeec98688",
+    "creationDate": "2026-04-11T18:23:01.636Z",
+    "game": "Banjo-Tooie",
+    "song": "Jamjars' Theme",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "16"
+    ],
+    "file": "Banjo-Tooie/Jamjars' Theme.mmrs",
+    "preview": "Banjo-Tooie/Jamjars' Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
