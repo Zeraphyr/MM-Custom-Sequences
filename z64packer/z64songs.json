@@ -32923,5 +32923,24 @@
     "file": "Chrono Trigger/Sealed Door (DS ver.).mmrs",
     "preview": "Chrono Trigger/Sealed Door (DS ver.).ogg"
   },
+  {
+    "uuid": "95c3a826-80db-4869-8b84-63029c79972e",
+    "creationDate": "2026-04-11T19:28:41.967Z",
+    "game": "Chrono Trigger",
+    "song": "Legendary Enemies",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Chrono Trigger/Legendary Enemies.mmrs",
+    "preview": "Chrono Trigger/Legendary Enemies.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
