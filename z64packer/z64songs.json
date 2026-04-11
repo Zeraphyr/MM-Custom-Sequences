@@ -32080,5 +32080,23 @@
     "file": "Blue Dragon Awakened Shadow/Eternity.mmrs",
     "preview": "Blue Dragon Awakened Shadow/Eternity.ogg"
   },
+  {
+    "uuid": "157b4701-997a-47e7-ba5a-91602445e869",
+    "creationDate": "2026-04-11T18:11:36.231Z",
+    "game": "Breath of Fire II",
+    "song": "World Map",
+    "composers": [
+      "Yuko Takehara"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "file": "Breath of Fire II/World Map.mmrs",
+    "preview": "Breath of Fire II/World Map.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
