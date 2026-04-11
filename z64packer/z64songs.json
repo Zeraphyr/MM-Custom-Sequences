@@ -32453,5 +32453,24 @@
     "file": "Castlevania III Dracula's Curse/Stage Clear.mmrs",
     "preview": "Castlevania III Dracula's Curse/Stage Clear.ogg"
   },
+  {
+    "uuid": "279fe622-b4c1-47e4-9b96-feeee6305fe5",
+    "creationDate": "2026-04-11T18:58:17.525Z",
+    "game": "Castlevania",
+    "song": "Game Over",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Castlevania/Game Over.mmrs",
+    "preview": "Castlevania/Game Over.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
