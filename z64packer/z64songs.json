@@ -33148,5 +33148,26 @@
     "file": "Castlevania Order of Ecclesia/Welcome to Legend.mmrs",
     "preview": "Castlevania Order of Ecclesia/Welcome to Legend.ogg"
   },
+  {
+    "uuid": "623dac20-3a36-4927-89d0-1d272c4e92a3",
+    "creationDate": "2026-04-11T19:46:53.492Z",
+    "game": "Castlevania: Portrait of Ruin",
+    "song": "Cruxifix Held Close",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Castlevania Portrait of Ruin/Cruxifix Held Close.mmrs",
+    "preview": "Castlevania Portrait of Ruin/Cruxifix Held Close.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
