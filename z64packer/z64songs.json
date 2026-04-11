@@ -31403,5 +31403,24 @@
     "file": "The Legend of Zelda A Link to the Past/Agahnim's Theme.mmrs",
     "preview": "The Legend of Zelda A Link to the Past/Agahnim's Theme.ogg"
   },
+  {
+    "uuid": "1cc9aa78-44b2-4bde-854a-029127ec3f79",
+    "creationDate": "2026-04-11T17:36:05.009Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Cave",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Cave.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Cave.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
