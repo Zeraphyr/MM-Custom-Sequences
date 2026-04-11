@@ -32962,5 +32962,24 @@
     "preview": "Chrono Trigger/Manoria Cathedral.ogg",
     "lastUpdateDate": "2026-04-11T19:29:50.273Z"
   },
+  {
+    "uuid": "8e67efe3-eb91-48db-b44b-8f4e11de1ef4",
+    "creationDate": "2026-04-11T19:30:36.881Z",
+    "game": "Chrono Trigger",
+    "song": "Manoria Cathedral (Variant B)",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Chrono Trigger/Manoria Cathedral (Variant B).mmrs",
+    "preview": "Chrono Trigger/Manoria Cathedral (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
