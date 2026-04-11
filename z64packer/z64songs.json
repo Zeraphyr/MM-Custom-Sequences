@@ -25265,7 +25265,7 @@
     "uuid": "981716a9-61c8-4f6f-9ec2-44eb9779f7a6",
     "creationDate": "2026-04-01T15:00:16.359Z",
     "game": "Crusader of Centy",
-    "song": "Rafflesia Training Grounds",
+    "song": "Rafflesia Training Grounds (Variant A)",
     "composers": [
       "Motokazu Shinoda"
     ],
@@ -25282,9 +25282,7 @@
     ],
     "file": "Crusader of Centy/Rafflesia Training Grounds.mmrs",
     "preview": "Crusader of Centy/Rafflesia Training Grounds.mp3",
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
+    "lastUpdateDate": "2026-04-11T19:15:45.731Z"
   },
   {
     "uuid": "3c123601-1506-467a-9eef-1cc697443656",
@@ -25313,7 +25311,7 @@
     "uuid": "13b9df22-3441-44d8-b756-1571ad33d208",
     "creationDate": "2026-04-01T15:10:20.303Z",
     "game": "Chrono Trigger",
-    "song": "Battle 2",
+    "song": "Battle 2 (Variant A)",
     "composers": [
       "Yasunori Mitsuda"
     ],
@@ -25332,9 +25330,7 @@
     ],
     "file": "Chrono Trigger/Battle 2.mmrs",
     "preview": "Chrono Trigger/Battle 2.mp3",
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
+    "lastUpdateDate": "2026-04-11T19:24:24.247Z"
   },
   {
     "uuid": "79c5f3b1-9127-4d1e-85fc-52388546c57d",
@@ -28559,7 +28555,7 @@
     "uuid": "a530e41c-331c-4054-9b62-c5251b03e57f",
     "creationDate": "2026-04-08T22:49:19.148Z",
     "game": "Chrono Cross",
-    "song": "Another Voyage",
+    "song": "Another Voyage (Variant A)",
     "composers": [
       "Yasunori Mitsuda"
     ],
@@ -28576,9 +28572,7 @@
     ],
     "file": "Chrono Cross/Another Voyage.mmrs",
     "preview": "Chrono Cross/Another Voyage.ogg",
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
+    "lastUpdateDate": "2026-04-11T19:01:53.419Z"
   },
   {
     "uuid": "3105dbf3-51aa-42fe-9a87-40701d4291b0",
@@ -31359,6 +31353,1844 @@
     "lastUpdateDate": "2026-04-10T20:53:31.702Z",
     "usesCustomSamples": false,
     "usesFormmask": false
+  },
+  {
+    "uuid": "e6fa98c9-dd15-40e1-9807-68d33507ce40",
+    "creationDate": "2026-04-11T17:34:09.119Z",
+    "game": "A Hat in Time",
+    "song": "Peace and Tranquility",
+    "composers": [
+      "Pascal Michael Stiefel"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16",
+      "157"
+    ],
+    "file": "A Hat in Time/Peace and Tranquility.mmrs",
+    "preview": "A Hat in Time/Peace and Tranquility.ogg"
+  },
+  {
+    "uuid": "ee9d6a15-807d-44f2-8f34-7327d0ade9e7",
+    "creationDate": "2026-04-11T17:35:35.676Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Agahnim's Theme",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Agahnim's Theme.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Agahnim's Theme.ogg"
+  },
+  {
+    "uuid": "1cc9aa78-44b2-4bde-854a-029127ec3f79",
+    "creationDate": "2026-04-11T17:36:05.009Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Cave",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Cave.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Cave.ogg"
+  },
+  {
+    "uuid": "4e4c051f-998f-4f6c-8b5c-2bfe844e7238",
+    "creationDate": "2026-04-11T17:36:35.430Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Credits",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Credits.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Credits.ogg"
+  },
+  {
+    "uuid": "584e77c6-fd6c-4976-9509-7cc4a53e2e03",
+    "creationDate": "2026-04-11T17:38:04.459Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Dark Palace",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Dark Palace.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Dark Palace.ogg"
+  },
+  {
+    "uuid": "5ab3d726-8c0f-4f6f-8f7e-26197736a54c",
+    "creationDate": "2026-04-11T17:40:02.539Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Game Select (GBA ver.)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Game Select (GBA ver.).mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Game Select (GBA ver.).ogg"
+  },
+  {
+    "uuid": "d8b5f3b9-2ca1-4ae3-8735-173b5a7690f7",
+    "creationDate": "2026-04-11T17:40:37.060Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Quest Log (GBA ver.)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Quest Log (GBA ver.).mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Quest Log (GBA ver.).ogg"
+  },
+  {
+    "uuid": "93236a3a-fd96-43da-8863-befc84cebc01",
+    "creationDate": "2026-04-11T17:41:54.604Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Sea of Trees (GBA ver.)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Sea of Trees (GBA ver.).mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Sea of Trees (GBA ver.).ogg"
+  },
+  {
+    "uuid": "8325537f-3dad-4e09-b858-ec2193645df8",
+    "creationDate": "2026-04-11T17:45:40.822Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Vaati's Palace (GBA ver.)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Vaati's Palace (GBA ver.).mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Vaati's Palace (GBA ver.).ogg"
+  },
+  {
+    "uuid": "9b7ea3c6-a036-466f-b478-ba763f3309a1",
+    "creationDate": "2026-04-11T17:47:09.951Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Intro (Jingle)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Intro (Jingle).mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Intro (Jingle).ogg"
+  },
+  {
+    "uuid": "2ca06101-adf6-41e0-b47c-1eeafa2b972f",
+    "creationDate": "2026-04-11T17:47:43.582Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Kakariko Village",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Kakariko Village.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Kakariko Village.ogg"
+  },
+  {
+    "uuid": "bf9197ee-35d5-49ea-bc89-a3071edf4d16",
+    "creationDate": "2026-04-11T17:48:40.608Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Ocarina",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Ocarina.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Ocarina.ogg"
+  },
+  {
+    "uuid": "c9e783bb-91ca-4095-9006-330d14fe22d3",
+    "creationDate": "2026-04-11T17:49:10.695Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Overworld",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "3"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Overworld.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Overworld.ogg"
+  },
+  {
+    "uuid": "b2332739-5712-497e-9d8a-280187b0cacd",
+    "creationDate": "2026-04-11T17:50:15.010Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Magic Mirror",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Magic Mirror.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Magic Mirror.ogg"
+  },
+  {
+    "uuid": "ad87c9da-2260-4fc8-95d9-8d704865454d",
+    "creationDate": "2026-04-11T17:51:14.355Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Time of the Falling Rain",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Time of the Falling Rain.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Time of the Falling Rain.ogg"
+  },
+  {
+    "uuid": "92b7d764-9002-416c-b0ad-9365c9cb7a07",
+    "creationDate": "2026-04-11T17:51:49.121Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Shop Theme",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Shop Theme.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Shop Theme.ogg"
+  },
+  {
+    "uuid": "e98ee427-d9b7-41df-9502-cf35ab528066",
+    "creationDate": "2026-04-11T17:52:24.086Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "The Soldiers of Kakariko",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/The Soldiers of Kakariko.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/The Soldiers of Kakariko.ogg"
+  },
+  {
+    "uuid": "26e11db5-6d39-4184-8868-08069c90395f",
+    "creationDate": "2026-04-11T17:53:18.183Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Turned Into a Rabbit",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Turned Into a Rabbit.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Turned Into a Rabbit.ogg"
+  },
+  {
+    "uuid": "1b3942a8-d39e-4c95-9ce3-70174bec13b3",
+    "creationDate": "2026-04-11T17:54:19.661Z",
+    "game": "Hyrule Warriors: Age of Calamity",
+    "song": "Main Theme (Piano ver.)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "176",
+      "0",
+      "1"
+    ],
+    "file": "Hyrule Warriors Age of Calamity/Main Theme (Piano ver.).mmrs",
+    "preview": "Hyrule Warriors Age of Calamity/Main Theme (Piano ver.).ogg"
+  },
+  {
+    "uuid": "05893c28-0833-4492-9c8c-40f60ea0d07a",
+    "creationDate": "2026-04-11T17:55:35.183Z",
+    "game": "Baten Kaitos: Eternal Wings and the Lost Ocean",
+    "song": "The True Mirror (Guitar ver.)",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Baten Kaitos Eternal Wings and the Lost Ocean/The True Mirror (Guitar ver.).mmrs",
+    "preview": "Baten Kaitos Eternal Wings and the Lost Ocean/The True Mirror (Guitar ver.).ogg"
+  },
+  {
+    "uuid": "c9c8c16f-4590-473f-872b-d0c7d651f441",
+    "creationDate": "2026-04-11T17:56:06.740Z",
+    "game": "Baten Kaitos: Eternal Wings and the Lost Ocean",
+    "song": "Bellflower",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Baten Kaitos Eternal Wings and the Lost Ocean/Bellflower.mmrs",
+    "preview": "Baten Kaitos Eternal Wings and the Lost Ocean/Bellflower.ogg"
+  },
+  {
+    "uuid": "335eb0ac-93ed-42b0-bbb3-07fdab2d8a9d",
+    "creationDate": "2026-04-11T17:56:50.167Z",
+    "game": "Baten Kaitos: Eternal Wings and the Lost Ocean",
+    "song": "Brave Way",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Baten Kaitos Eternal Wings and the Lost Ocean/Brave Way.mmrs",
+    "preview": "Baten Kaitos Eternal Wings and the Lost Ocean/Brave Way.ogg"
+  },
+  {
+    "uuid": "dd807f25-878d-4ba3-b3ff-696091763b9c",
+    "creationDate": "2026-04-11T17:59:17.409Z",
+    "game": "Batman: The Return of the Joker",
+    "song": "Gotham in Danger",
+    "composers": [
+      "Naoki Kodaka",
+      "Nobuyuki Hara",
+      "Shinichi Seya"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Batman The Return of the Joker/Gotham In Danger.mmrs",
+    "preview": "Batman The Return of the Joker/Gotham In Danger.ogg",
+    "lastUpdateDate": "2026-04-11T18:00:51.755Z"
+  },
+  {
+    "uuid": "9df0ba61-cc0d-4123-b548-3d047bb3218e",
+    "creationDate": "2026-04-11T18:00:34.251Z",
+    "game": "Bug Fables",
+    "song": "Team, This One's Stronger!",
+    "composers": [
+      "Tristan Alric"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Bug Fables/Team, This One's Stronger!.mmrs",
+    "preview": "Bug Fables/Team, This One's Stronger!.ogg"
+  },
+  {
+    "uuid": "7c754c0d-5a92-40d0-9b18-608cdd591691",
+    "creationDate": "2026-04-11T18:01:23.784Z",
+    "game": "Banjo-Kazooie",
+    "song": "Click Clock Wood (Fall)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Banjo-Kazooie/Click Clock Wood (Fall).mmrs",
+    "preview": "Banjo-Kazooie/Click Clock Wood (Fall).ogg"
+  },
+  {
+    "uuid": "da0863f5-15e6-46f6-ae9a-33b792eeb3f6",
+    "creationDate": "2026-04-11T18:02:02.149Z",
+    "game": "Banjo-Kazooie",
+    "song": "Click Clock Wood (Lobby)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "file": "Banjo-Kazooie/Click Clock Wood (Lobby).mmrs",
+    "preview": "Banjo-Kazooie/Click Clock Wood (Lobby).ogg"
+  },
+  {
+    "uuid": "2551fed2-28ae-4a3b-8dbf-01ad02f655ae",
+    "creationDate": "2026-04-11T18:02:49.101Z",
+    "game": "Banjo-Kazooie",
+    "song": "Click Clock Wood (Secret Found)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Banjo-Kazooie/Click Clock Wood (Secret Found).mmrs",
+    "preview": "Banjo-Kazooie/Click Clock Wood (Secret Found).ogg"
+  },
+  {
+    "uuid": "2eb364e3-75cc-46c5-847d-b37b88821fac",
+    "creationDate": "2026-04-11T18:03:46.630Z",
+    "game": "Banjo-Kazooie",
+    "song": "Click Clock Wood Secret Found (Jingle)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Banjo-Kazooie/Click Clock Wood Secret Found (Jingle).mmrs",
+    "preview": "Banjo-Kazooie/Click Clock Wood Secret Found (Jingle).ogg"
+  },
+  {
+    "uuid": "c1f6d20d-1d91-41ef-9052-0bda0880db05",
+    "creationDate": "2026-04-11T18:04:41.080Z",
+    "game": "Banjo-Kazooie",
+    "song": "Click Clock Wood (Summer)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Banjo-Kazooie/Click Clock Wood (Summer).mmrs",
+    "preview": "Banjo-Kazooie/Click Clock Wood (Summer).ogg"
+  },
+  {
+    "uuid": "17a48d41-7969-47fc-af0d-cb2414684a3d",
+    "creationDate": "2026-04-11T18:05:20.768Z",
+    "game": "Banjo-Kazooie",
+    "song": "Click Clock Wood (Top of the Tree)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "file": "Banjo-Kazooie/Click Clock Wood (Top of the Tree).mmrs",
+    "preview": "Banjo-Kazooie/Click Clock Wood (Top of the Tree).ogg"
+  },
+  {
+    "uuid": "6d514af3-2e78-4fcb-8887-989e03e4d11f",
+    "creationDate": "2026-04-11T18:06:00.379Z",
+    "game": "Banjo-Kazooie",
+    "song": "Click Clock Wood (Winter)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Banjo-Kazooie/Click Clock Wood (Winter).mmrs",
+    "preview": "Banjo-Kazooie/Click Clock Wood (Winter).ogg"
+  },
+  {
+    "uuid": "db0f65a0-ff11-4a97-a9ef-16e4519a9996",
+    "creationDate": "2026-04-11T18:06:36.139Z",
+    "game": "Banjo-Kazooie",
+    "song": "Collected All Notes",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Banjo-Kazooie/Collected All Notes.mmrs",
+    "preview": "Banjo-Kazooie/Collected All Notes.ogg"
+  },
+  {
+    "uuid": "f0a1805e-2d49-4a9d-8664-f07758cc9fb9",
+    "creationDate": "2026-04-11T18:07:15.631Z",
+    "game": "Banjo-Kazooie",
+    "song": "Collected Extra Honeycomb",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Banjo-Kazooie/Collected Extra Honeycomb.mmrs",
+    "preview": "Banjo-Kazooie/Collected Extra Honeycomb.ogg"
+  },
+  {
+    "uuid": "eb9c3b6a-5c43-437d-877d-876322e42eed",
+    "creationDate": "2026-04-11T18:08:25.200Z",
+    "game": "Banjo-Kazooie Nuts & Bolts",
+    "song": "Klungo Arcade (Boss)",
+    "composers": [
+      "Grant Kirkhope",
+      "Robin Beanland",
+      "David Clynick"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Banjo-Kazooie Nuts & Bolts/Klungo Arcade (Boss).mmrs",
+    "preview": "Banjo-Kazooie Nuts & Bolts/Klungo Arcade (Boss).ogg"
+  },
+  {
+    "uuid": "9df1c9c5-42ae-41e6-98c3-8dbf5cd20163",
+    "creationDate": "2026-04-11T18:09:13.257Z",
+    "game": "Banjo-Kazooie Nuts & Bolts",
+    "song": "Showdown Town (Night)",
+    "composers": [
+      "Grant Kirkhope",
+      "Robin Beanland",
+      "David Clynick"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Banjo-Kazooie Nuts & Bolts/Showdown Town (Night).mmrs",
+    "preview": "Banjo-Kazooie Nuts & Bolts/Showdown Town (Night).ogg"
+  },
+  {
+    "uuid": "bbfd0083-d2f7-4dd8-8fdb-cce656536abc",
+    "creationDate": "2026-04-11T18:10:23.353Z",
+    "game": "Blue Dragon: Awakened Shadow",
+    "song": "Eternity",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Blue Dragon Awakened Shadow/Eternity.mmrs",
+    "preview": "Blue Dragon Awakened Shadow/Eternity.ogg"
+  },
+  {
+    "uuid": "157b4701-997a-47e7-ba5a-91602445e869",
+    "creationDate": "2026-04-11T18:11:36.231Z",
+    "game": "Breath of Fire II",
+    "song": "World Map",
+    "composers": [
+      "Yuko Takehara"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "file": "Breath of Fire II/World Map.mmrs",
+    "preview": "Breath of Fire II/World Map.ogg"
+  },
+  {
+    "uuid": "4d72c461-e3f0-4353-a710-e90d5134eedd",
+    "creationDate": "2026-04-11T18:12:36.729Z",
+    "game": "Breath of Fire III",
+    "song": "Sleep Theme",
+    "composers": [
+      "Akari Kaida",
+      "Yoshino Aoki"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Breath of Fire III/Sleep Theme.mmrs",
+    "preview": "Breath of Fire III/Sleep Theme.ogg"
+  },
+  {
+    "uuid": "0710cbd3-4a04-445d-8713-895db064cb77",
+    "creationDate": "2026-04-11T18:13:27.475Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Cold Fields",
+    "composers": [
+      "Manaka Kataoka",
+      "Yasuaki Iwata",
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "file": "The Legend of Zelda Breath of the Wild/Cold Fields.mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Cold Fields.ogg"
+  },
+  {
+    "uuid": "e9e2e0df-839c-4788-b09d-7ea9e2ac6690",
+    "creationDate": "2026-04-11T18:14:05.311Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Game Over",
+    "composers": [
+      "Manaka Kataoka",
+      "Yasuaki Iwata",
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Breath of the Wild/Game Over.mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Game Over.ogg"
+  },
+  {
+    "uuid": "fe7de064-d4c1-42d1-9f86-fb74f5a2e3a8",
+    "creationDate": "2026-04-11T18:14:37.631Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Get Item",
+    "composers": [
+      "Manaka Kataoka",
+      "Yasuaki Iwata",
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "The Legend of Zelda Breath of the Wild/Get Item.mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Get Item.ogg"
+  },
+  {
+    "uuid": "82e98a9c-2581-45ab-8382-5429951db797",
+    "creationDate": "2026-04-11T18:16:11.431Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Get Item (Majora's Mask Remix)",
+    "composers": [
+      "Manaka Kataoka",
+      "Yasuaki Iwata",
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Breath of the Wild/Get Item (Majora's Mask Remix).mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Get Item (Majora's Mask Remix).ogg"
+  },
+  {
+    "uuid": "c30f43c8-99b0-4525-964b-36b3f4d837eb",
+    "creationDate": "2026-04-11T18:17:06.993Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Get Spirit Orb",
+    "composers": [
+      "Manaka Kataoka",
+      "Yasuaki Iwata",
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Breath of the Wild/Get Spirit Orb.mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Get Spirit Orb.ogg"
+  },
+  {
+    "uuid": "587b5c30-cff7-4285-bbee-4f85158e7838",
+    "creationDate": "2026-04-11T18:18:00.410Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Guardian Battle",
+    "composers": [
+      "Manaka Kataoka",
+      "Yasuaki Iwata",
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7",
+      "157"
+    ],
+    "file": "The Legend of Zelda Breath of the Wild/Guardian Battle.mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Guardian Battle.ogg"
+  },
+  {
+    "uuid": "40fe7d52-61b4-4d15-9102-a97d282206e4",
+    "creationDate": "2026-04-11T18:18:45.985Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Mipha's Theme",
+    "composers": [
+      "Manaka Kataoka",
+      "Yasuaki Iwata",
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6",
+      "16",
+      "157"
+    ],
+    "file": "The Legend of Zelda Breath of the Wild/Mipha's Theme.mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Mipha's Theme.ogg"
+  },
+  {
+    "uuid": "0dfe14cf-d5d1-4e4b-b552-95415d117ff2",
+    "creationDate": "2026-04-11T18:19:38.995Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Riding (Day)",
+    "composers": [
+      "Manaka Kataoka",
+      "Yasuaki Iwata",
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda Breath of the Wild/Riding (Day).mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Riding (Day).ogg"
+  },
+  {
+    "uuid": "abec8d72-3141-406b-ad59-2b4909467316",
+    "creationDate": "2026-04-11T18:22:15.915Z",
+    "game": "The Legend of Zelda (Broadcast Satellite)",
+    "song": "Title Screen",
+    "composers": [
+      "Yuichi Ozaki"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda (Broadcast Satellite)/Title Screen.mmrs",
+    "preview": "The Legend of Zelda (Broadcast Satellite)/Title Screen.ogg"
+  },
+  {
+    "uuid": "332e6733-c0ca-4bc3-a786-fc4aeec98688",
+    "creationDate": "2026-04-11T18:23:01.636Z",
+    "game": "Banjo-Tooie",
+    "song": "Jamjars' Theme",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "16"
+    ],
+    "file": "Banjo-Tooie/Jamjars' Theme.mmrs",
+    "preview": "Banjo-Tooie/Jamjars' Theme.ogg"
+  },
+  {
+    "uuid": "d0789972-bd00-43ba-ae9a-6d1220d5d19c",
+    "creationDate": "2026-04-11T18:25:43.854Z",
+    "game": "Bug Fables",
+    "song": "Elizant II's Promise",
+    "composers": [
+      "Tristan Alric"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Bug Fables/Elizant II's Promise.mmrs",
+    "preview": "Bug Fables/Elizant II's Promise.ogg"
+  },
+  {
+    "uuid": "49e52a75-f520-4940-aa84-84074e10a50c",
+    "creationDate": "2026-04-11T18:26:25.338Z",
+    "game": "Bug Fables",
+    "song": "Harvest Festival",
+    "composers": [
+      "Tristan Alric"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Bug Fables/Harvest Festival.mmrs",
+    "preview": "Bug Fables/Harvest Festival.ogg"
+  },
+  {
+    "uuid": "d2919e00-5eb9-4649-b9c4-d7cf07854b19",
+    "creationDate": "2026-04-11T18:27:03.593Z",
+    "game": "Bug Fables",
+    "song": "Mothiva's Grand Stand",
+    "composers": [
+      "Tristan Alric"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Bug Fables/Mothiva's Grand Stand.mmrs",
+    "preview": "Bug Fables/Mothiva's Grand Stand.ogg"
+  },
+  {
+    "uuid": "8529d764-1a32-44fb-96a4-629a4fa3adb9",
+    "creationDate": "2026-04-11T18:30:03.839Z",
+    "game": "Bug Fables",
+    "song": "Oh No! Wasps!!",
+    "composers": [
+      "Tristan Alric"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Bug Fables/Oh No! Wasps!!.mmrs",
+    "preview": "Bug Fables/Oh No! Wasps!!.ogg"
+  },
+  {
+    "uuid": "fccd36e6-6066-4298-90d2-7b33e2b42767",
+    "creationDate": "2026-04-11T18:31:19.293Z",
+    "game": "Bug Fables",
+    "song": "Termite Kingdom",
+    "composers": [
+      "Tristan Alric"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Bug Fables/Termite Kingdom.mmrs",
+    "preview": "Bug Fables/Termite Kingdom.ogg"
+  },
+  {
+    "uuid": "69cab579-2acb-4d90-93b1-2914b1409087",
+    "creationDate": "2026-04-11T18:57:17.463Z",
+    "game": "Castlevania III: Dracula's Curse",
+    "song": "Stage Clear",
+    "composers": [
+      "Hidenori Maezawa",
+      "Jun Funahashi",
+      "Yukie Morimoto",
+      "Yoshinori Sasaki"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Castlevania III Dracula's Curse/Stage Clear.mmrs",
+    "preview": "Castlevania III Dracula's Curse/Stage Clear.ogg"
+  },
+  {
+    "uuid": "279fe622-b4c1-47e4-9b96-feeee6305fe5",
+    "creationDate": "2026-04-11T18:58:17.525Z",
+    "game": "Castlevania",
+    "song": "Game Over",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Castlevania/Game Over.mmrs",
+    "preview": "Castlevania/Game Over.ogg"
+  },
+  {
+    "uuid": "8397bf35-c29d-451c-ab2b-4274eaabf914",
+    "creationDate": "2026-04-11T18:59:36.671Z",
+    "game": "Castlevania",
+    "song": "Player Miss",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Castlevania/Player Miss.mmrs",
+    "preview": "Castlevania/Player Miss.ogg"
+  },
+  {
+    "uuid": "360b43af-4c1e-4c67-a9d3-1ffdadf020b9",
+    "creationDate": "2026-04-11T19:01:33.321Z",
+    "game": "Chrono Cross",
+    "song": "Another Voyage (Variant B)",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Chrono Cross/Another Voyage (Variant B).mmrs",
+    "preview": "Chrono Cross/Another Voyage (Variant B).ogg"
+  },
+  {
+    "uuid": "6b9ab4ce-f58b-4a9c-a126-2c7a0b464158",
+    "creationDate": "2026-04-11T19:03:22.605Z",
+    "game": "Link: The Faces of Evil",
+    "song": "Map Theme",
+    "composers": [
+      "Tony Trippi",
+      "William Havlicek"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Link The Faces of Evil/Map Theme.mmrs",
+    "preview": "Link The Faces of Evil/Map Theme.ogg"
+  },
+  {
+    "uuid": "da0efbbf-a47b-414f-84f0-ebddf138a00d",
+    "creationDate": "2026-04-11T19:04:56.007Z",
+    "game": "Link: The Faces of Evil",
+    "song": "Nortinka (Abominom Hill)",
+    "composers": [
+      "Tony Trippi",
+      "William Havlicek"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "5"
+    ],
+    "file": "Link The Faces of Evil/Nortinka (Abominom Hill).mmrs",
+    "preview": "Link The Faces of Evil/Nortinka (Abominom Hill).ogg"
+  },
+  {
+    "uuid": "21022b80-38b2-4c9e-ac34-cfd43cfc56e1",
+    "creationDate": "2026-04-11T19:05:47.728Z",
+    "game": "Link: The Faces of Evil",
+    "song": "Nortinka (Aypos Library)",
+    "composers": [
+      "Tony Trippi",
+      "William Havlicek"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "file": "Link The Faces of Evil/Nortinka (Aypos Library).mmrs",
+    "preview": "Link The Faces of Evil/Nortinka (Aypos Library).ogg"
+  },
+  {
+    "uuid": "7dcb09c5-46b2-417b-940d-5e907821ee67",
+    "creationDate": "2026-04-11T19:07:51.774Z",
+    "game": "Castlevania: Dawn of Sorrow",
+    "song": "Shop Theme",
+    "composers": [
+      "Michiru Yamane",
+      "Masahiko Kimura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "16",
+      "4",
+      "6",
+      "144"
+    ],
+    "file": "Castlevania Dawn of Sorrow/Shop Theme.mmrs",
+    "preview": "Castlevania Dawn of Sorrow/Shop Theme.ogg"
+  },
+  {
+    "uuid": "376f6e6e-74bd-4f23-9daf-5616afdbec8d",
+    "creationDate": "2026-04-11T19:09:36.313Z",
+    "game": "Changed",
+    "song": "Black Goo Zone",
+    "composers": [
+      "ShiZi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Changed/Black Goo Zone.mmrs",
+    "preview": "Changed/Black Goo Zone.ogg"
+  },
+  {
+    "uuid": "6e98bfb8-6e41-4a32-9799-ab20854166c3",
+    "creationDate": "2026-04-11T19:13:31.225Z",
+    "game": "Crusader of Centy",
+    "song": "Black Night",
+    "composers": [
+      "Motokazu Shinoda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6",
+      "16",
+      "157"
+    ],
+    "file": "Crusader of Centy/Black Night.mmrs",
+    "preview": "Crusader of Centy/Black Night.ogg"
+  },
+  {
+    "uuid": "c8364466-5d6e-4dc8-8d75-fa7410fad373",
+    "creationDate": "2026-04-11T19:14:03.950Z",
+    "game": "Crusader of Centy",
+    "song": "Freesia",
+    "composers": [
+      "Motokazu Shinoda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Crusader of Centy/Freesia.mmrs",
+    "preview": "Crusader of Centy/Freesia.ogg"
+  },
+  {
+    "uuid": "603b565d-cc97-42b8-a3a7-53a9af04682b",
+    "creationDate": "2026-04-11T19:14:43.020Z",
+    "game": "Crusader of Centy",
+    "song": "Menu",
+    "composers": [
+      "Motokazu Shinoda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "118"
+    ],
+    "file": "Crusader of Centy/Menu.mmrs",
+    "preview": "Crusader of Centy/Menu.ogg"
+  },
+  {
+    "uuid": "fd47d0b8-4576-4388-bf3b-2de1cc0f60f2",
+    "creationDate": "2026-04-11T19:15:27.392Z",
+    "game": "Crusader of Centy",
+    "song": "Rafflesia Training Grounds (Variant B)",
+    "composers": [
+      "Motokazu Shinoda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Crusader of Centy/Rafflesia Training Grounds (Variant B).mmrs",
+    "preview": "Crusader of Centy/Rafflesia Training Grounds (Variant B).ogg"
+  },
+  {
+    "uuid": "81d8aef5-11e0-4108-b9ea-e37516676c36",
+    "creationDate": "2026-04-11T19:16:21.228Z",
+    "game": "Crusader of Centy",
+    "song": "Root Temple",
+    "composers": [
+      "Motokazu Shinoda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Crusader of Centy/Root Temple.mmrs",
+    "preview": "Crusader of Centy/Root Temple.ogg"
+  },
+  {
+    "uuid": "e7cfe461-9117-4034-bb37-6a316ec20a23",
+    "creationDate": "2026-04-11T19:17:57.020Z",
+    "game": "Crusader of Centy",
+    "song": "Town",
+    "composers": [
+      "Motokazu Shinoda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Crusader of Centy/Town.mmrs",
+    "preview": "Crusader of Centy/Town.ogg"
+  },
+  {
+    "uuid": "0b8da987-1eec-4d59-9155-57dd3cae1ff0",
+    "creationDate": "2026-04-11T19:19:45.975Z",
+    "game": "Clock Tower 3",
+    "song": "Time of Confrontation",
+    "composers": [
+      "Kouji Kubo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "6"
+    ],
+    "file": "Clock Tower 3/Time of Confrontation.mmrs",
+    "preview": "Clock Tower 3/Time of Confrontation.ogg"
+  },
+  {
+    "uuid": "949bd1fd-2b14-4581-ae74-417872588a5d",
+    "creationDate": "2026-04-11T19:20:35.496Z",
+    "game": "Chrono Trigger",
+    "song": "A Shot of Crisis",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Chrono Trigger/A Shot of Crisis.mmrs",
+    "preview": "Chrono Trigger/A Shot of Crisis.ogg"
+  },
+  {
+    "uuid": "3a39ec9e-707d-4332-b593-87c617938163",
+    "creationDate": "2026-04-11T19:21:17.309Z",
+    "game": "Chrono Trigger",
+    "song": "A Strange Happening",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "Chrono Trigger/A Strange Happening.mmrs",
+    "preview": "Chrono Trigger/A Strange Happening.ogg"
+  },
+  {
+    "uuid": "2def4a10-c425-40f1-b8b5-cddc2b75baac",
+    "creationDate": "2026-04-11T19:21:56.813Z",
+    "game": "Chrono Trigger",
+    "song": "At the Bottom of the Night",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "file": "Chrono Trigger/At the Bottom of the Night.mmrs",
+    "preview": "Chrono Trigger/At the Bottom of the Night.ogg"
+  },
+  {
+    "uuid": "c85102e9-b805-43de-8dc7-69a23563b850",
+    "creationDate": "2026-04-11T19:23:11.777Z",
+    "game": "Chrono Trigger",
+    "song": "Ayla's Theme",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "6"
+    ],
+    "file": "Chrono Trigger/Ayla's Theme.mmrs",
+    "preview": "Chrono Trigger/Ayla's Theme.ogg"
+  },
+  {
+    "uuid": "dfa6accb-6839-4846-ac7c-b1e22ea01504",
+    "creationDate": "2026-04-11T19:24:06.378Z",
+    "game": "Chrono Trigger",
+    "song": "Battle 2 (Variant B)",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Chrono Trigger/Battle 2 (Variant B).mmrs",
+    "preview": "Chrono Trigger/Battle 2 (Variant B).ogg"
+  },
+  {
+    "uuid": "9eb48950-2849-427e-bcac-45f715e52f9e",
+    "creationDate": "2026-04-11T19:25:13.120Z",
+    "game": "Chrono Trigger",
+    "song": "Bike Chase",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Chrono Trigger/Bike Chase.mmrs",
+    "preview": "Chrono Trigger/Bike Chase.ogg"
+  },
+  {
+    "uuid": "31ddec8a-3d14-4348-9450-7e8e0aa8af8a",
+    "creationDate": "2026-04-11T19:26:08.728Z",
+    "game": "Chrono Trigger",
+    "song": "Get Item (DS Ver.)",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Chrono Trigger/Get Item (DS Ver.).mmrs",
+    "preview": "Chrono Trigger/Get Item (DS Ver.).ogg"
+  },
+  {
+    "uuid": "2aed87d4-d24f-40ca-ac23-35eab1156a0c",
+    "creationDate": "2026-04-11T19:26:52.495Z",
+    "game": "Chrono Trigger",
+    "song": "Learned Magic (DS ver.)",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Chrono Trigger/Learned Magic (DS ver.).mmrs",
+    "preview": "Chrono Trigger/Learned Magic (DS ver.).ogg"
+  },
+  {
+    "uuid": "0017ee3c-ba29-4484-9eae-bb65fc91a3d8",
+    "creationDate": "2026-04-11T19:27:41.137Z",
+    "game": "Chrono Trigger",
+    "song": "Sealed Door (DS ver.)",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Chrono Trigger/Sealed Door (DS ver.).mmrs",
+    "preview": "Chrono Trigger/Sealed Door (DS ver.).ogg"
+  },
+  {
+    "uuid": "95c3a826-80db-4869-8b84-63029c79972e",
+    "creationDate": "2026-04-11T19:28:41.967Z",
+    "game": "Chrono Trigger",
+    "song": "Legendary Enemies",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Chrono Trigger/Legendary Enemies.mmrs",
+    "preview": "Chrono Trigger/Legendary Enemies.ogg"
+  },
+  {
+    "uuid": "ce38efd5-b5d1-4221-97a7-757d1de2a308",
+    "creationDate": "2026-04-11T19:29:24.140Z",
+    "game": "Chrono Trigger",
+    "song": "Manoria Cathedral (Variant A)",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Chrono Trigger/Manoria Cathedral.mmrs",
+    "preview": "Chrono Trigger/Manoria Cathedral.ogg",
+    "lastUpdateDate": "2026-04-11T19:30:52.593Z"
+  },
+  {
+    "uuid": "8e67efe3-eb91-48db-b44b-8f4e11de1ef4",
+    "creationDate": "2026-04-11T19:30:36.881Z",
+    "game": "Chrono Trigger",
+    "song": "Manoria Cathedral (Variant B)",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Chrono Trigger/Manoria Cathedral (Variant B).mmrs",
+    "preview": "Chrono Trigger/Manoria Cathedral (Variant B).ogg"
+  },
+  {
+    "uuid": "7bf26c1a-181e-473b-9ab8-eb3d27667749",
+    "creationDate": "2026-04-11T19:33:11.551Z",
+    "game": "Chrono Trigger",
+    "song": "Peaceful Days",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Chrono Trigger/Peaceful Days.mmrs",
+    "preview": "Chrono Trigger/Peaceful Days.ogg"
+  },
+  {
+    "uuid": "9c45cad4-50db-45ea-8e3d-e247d371d920",
+    "creationDate": "2026-04-11T19:34:23.790Z",
+    "game": "Chrono Trigger",
+    "song": "People Who Thre Away the Will to Live",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Chrono Trigger/People Who Thre Away the Will to Live.mmrs",
+    "preview": "Chrono Trigger/People Who Thre Away the Will to Live.ogg"
+  },
+  {
+    "uuid": "7f68b3e6-4912-44b8-9bbc-48d3a7dad38d",
+    "creationDate": "2026-04-11T19:35:05.819Z",
+    "game": "Chrono Trigger",
+    "song": "Singing Mountain",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6",
+      "157"
+    ],
+    "file": "Chrono Trigger/Singing Mountain.mmrs",
+    "preview": "Chrono Trigger/Singing Mountain.ogg"
+  },
+  {
+    "uuid": "bd676da3-ac71-4bb6-a0c6-7256a1e6821f",
+    "creationDate": "2026-04-11T19:36:18.170Z",
+    "game": "Castlevania III: Dracula's Curse",
+    "song": "Aquarius",
+    "composers": [
+      "Hidenori Maezawa",
+      "Jun Funahashi",
+      "Yukie Morimoto",
+      "Yoshinori Sasaki"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Castlevania III Dracula's Curse/Aquarius.mmrs",
+    "preview": "Castlevania III Dracula's Curse/Aquarius.ogg"
+  },
+  {
+    "uuid": "9fe4af04-f8d8-4a69-8c9c-50610376145e",
+    "creationDate": "2026-04-11T19:37:00.510Z",
+    "game": "Castlevania III: Dracula's Curse",
+    "song": "Big Battle",
+    "composers": [
+      "Hidenori Maezawa",
+      "Jun Funahashi",
+      "Yukie Morimoto",
+      "Yoshinori Sasaki"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "Castlevania III Dracula's Curse/Big Battle.mmrs",
+    "preview": "Castlevania III Dracula's Curse/Big Battle.ogg"
+  },
+  {
+    "uuid": "dbb165cb-3fe5-4934-b04c-eca25efdfb54",
+    "creationDate": "2026-04-11T19:37:41.933Z",
+    "game": "Castlevania III: Dracula's Curse",
+    "song": "Game Over",
+    "composers": [
+      "Hidenori Maezawa",
+      "Jun Funahashi",
+      "Yukie Morimoto",
+      "Yoshinori Sasaki"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Castlevania III Dracula's Curse/Game Over.mmrs",
+    "preview": "Castlevania III Dracula's Curse/Game Over.ogg"
+  },
+  {
+    "uuid": "3093c927-8679-4043-9b7c-ff33bef5b170",
+    "creationDate": "2026-04-11T19:38:35.602Z",
+    "game": "Castlevania: Aria of Sorrow",
+    "song": "Hammer's Shop",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "file": "Castlevania Aria of Sorrow/Hammer's Shop.mmrs",
+    "preview": "Castlevania Aria of Sorrow/Hammer's Shop.ogg"
+  },
+  {
+    "uuid": "d07faf64-a5dc-4160-9bf0-872dedbe6590",
+    "creationDate": "2026-04-11T19:46:05.232Z",
+    "game": "Castlevania: Order of Ecclesia",
+    "song": "Welcome to Legend",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Castlevania Order of Ecclesia/Welcome to Legend.mmrs",
+    "preview": "Castlevania Order of Ecclesia/Welcome to Legend.ogg"
+  },
+  {
+    "uuid": "623dac20-3a36-4927-89d0-1d272c4e92a3",
+    "creationDate": "2026-04-11T19:46:53.492Z",
+    "game": "Castlevania: Portrait of Ruin",
+    "song": "Cruxifix Held Close",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Castlevania Portrait of Ruin/Cruxifix Held Close.mmrs",
+    "preview": "Castlevania Portrait of Ruin/Cruxifix Held Close.ogg"
+  },
+  {
+    "uuid": "a49ee8b1-9ebf-4c39-bb76-c905b254a8fd",
+    "creationDate": "2026-04-11T19:47:48.405Z",
+    "game": "Castlevania: Portrait of Ruin",
+    "song": "Invitation of a Crazed Moon",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Castlevania Portrait of Ruin/Invitation of a Crazed Moon.mmrs",
+    "preview": "Castlevania Portrait of Ruin/Invitation of a Crazed Moon.ogg"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
