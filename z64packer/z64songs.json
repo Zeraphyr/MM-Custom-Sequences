@@ -31717,5 +31717,25 @@
     "file": "The Legend of Zelda A Link to the Past/Turned Into a Rabbit.mmrs",
     "preview": "The Legend of Zelda A Link to the Past/Turned Into a Rabbit.ogg"
   },
+  {
+    "uuid": "1b3942a8-d39e-4c95-9ce3-70174bec13b3",
+    "creationDate": "2026-04-11T17:54:19.661Z",
+    "game": "Hyrule Warriors: Age of Calamity",
+    "song": "Main Theme (Piano ver.)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "176",
+      "0",
+      "1"
+    ],
+    "file": "Hyrule Warriors Age of Calamity/Main Theme (Piano ver.).mmrs",
+    "preview": "Hyrule Warriors Age of Calamity/Main Theme (Piano ver.).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
