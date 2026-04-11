@@ -31678,5 +31678,24 @@
     "file": "The Legend of Zelda A Link to the Past/Shop Theme.mmrs",
     "preview": "The Legend of Zelda A Link to the Past/Shop Theme.ogg"
   },
+  {
+    "uuid": "e98ee427-d9b7-41df-9502-cf35ab528066",
+    "creationDate": "2026-04-11T17:52:24.086Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "The Soldiers of Kakariko",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/The Soldiers of Kakariko.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/The Soldiers of Kakariko.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
