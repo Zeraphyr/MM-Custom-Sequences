@@ -32374,5 +32374,24 @@
     "file": "Bug Fables/Harvest Festival.mmrs",
     "preview": "Bug Fables/Harvest Festival.ogg"
   },
+  {
+    "uuid": "d2919e00-5eb9-4649-b9c4-d7cf07854b19",
+    "creationDate": "2026-04-11T18:27:03.593Z",
+    "game": "Bug Fables",
+    "song": "Mothiva's Grand Stand",
+    "composers": [
+      "Tristan Alric"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Bug Fables/Mothiva's Grand Stand.mmrs",
+    "preview": "Bug Fables/Mothiva's Grand Stand.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
