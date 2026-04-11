@@ -32981,5 +32981,24 @@
     "file": "Chrono Trigger/Manoria Cathedral (Variant B).mmrs",
     "preview": "Chrono Trigger/Manoria Cathedral (Variant B).ogg"
   },
+  {
+    "uuid": "7bf26c1a-181e-473b-9ab8-eb3d27667749",
+    "creationDate": "2026-04-11T19:33:11.551Z",
+    "game": "Chrono Trigger",
+    "song": "Peaceful Days",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Chrono Trigger/Peaceful Days.mmrs",
+    "preview": "Chrono Trigger/Peaceful Days.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
