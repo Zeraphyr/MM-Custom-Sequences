@@ -31462,5 +31462,27 @@
     "file": "The Legend of Zelda A Link to the Past/Dark Palace.mmrs",
     "preview": "The Legend of Zelda A Link to the Past/Dark Palace.ogg"
   },
+  {
+    "uuid": "5ab3d726-8c0f-4f6f-8f7e-26197736a54c",
+    "creationDate": "2026-04-11T17:40:02.539Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Game Select (GBA ver.)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Game Select (GBA ver.).mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Game Select (GBA ver.).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
