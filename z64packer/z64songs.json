@@ -31840,5 +31840,26 @@
     "file": "Bug Fables/Team, This One's Stronger!.mmrs",
     "preview": "Bug Fables/Team, This One's Stronger!.ogg"
   },
+  {
+    "uuid": "7c754c0d-5a92-40d0-9b18-608cdd591691",
+    "creationDate": "2026-04-11T18:01:23.784Z",
+    "game": "Banjo-Kazooie",
+    "song": "Click Clock Wood (Fall)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Banjo-Kazooie/Click Clock Wood (Fall).mmrs",
+    "preview": "Banjo-Kazooie/Click Clock Wood (Fall).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
