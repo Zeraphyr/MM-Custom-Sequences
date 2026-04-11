@@ -32015,5 +32015,27 @@
     "file": "Banjo-Kazooie/Collected Extra Honeycomb.mmrs",
     "preview": "Banjo-Kazooie/Collected Extra Honeycomb.ogg"
   },
+  {
+    "uuid": "eb9c3b6a-5c43-437d-877d-876322e42eed",
+    "creationDate": "2026-04-11T18:08:25.200Z",
+    "game": "Banjo-Kazooie Nuts & Bolts",
+    "song": "Klungo Arcade (Boss)",
+    "composers": [
+      "Grant Kirkhope",
+      "Robin Beanland",
+      "David Clynick"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Banjo-Kazooie Nuts & Bolts/Klungo Arcade (Boss).mmrs",
+    "preview": "Banjo-Kazooie Nuts & Bolts/Klungo Arcade (Boss).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
