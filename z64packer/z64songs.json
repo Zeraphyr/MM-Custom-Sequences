@@ -25265,7 +25265,7 @@
     "uuid": "981716a9-61c8-4f6f-9ec2-44eb9779f7a6",
     "creationDate": "2026-04-01T15:00:16.359Z",
     "game": "Crusader of Centy",
-    "song": "Rafflesia Training Grounds",
+    "song": "Rafflesia Training Grounds (Variant A)",
     "composers": [
       "Motokazu Shinoda"
     ],
@@ -25282,9 +25282,7 @@
     ],
     "file": "Crusader of Centy/Rafflesia Training Grounds.mmrs",
     "preview": "Crusader of Centy/Rafflesia Training Grounds.mp3",
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
+    "lastUpdateDate": "2026-04-11T19:15:45.731Z"
   },
   {
     "uuid": "3c123601-1506-467a-9eef-1cc697443656",
