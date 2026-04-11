@@ -31879,5 +31879,24 @@
     "file": "Banjo-Kazooie/Click Clock Wood (Lobby).mmrs",
     "preview": "Banjo-Kazooie/Click Clock Wood (Lobby).ogg"
   },
+  {
+    "uuid": "2551fed2-28ae-4a3b-8dbf-01ad02f655ae",
+    "creationDate": "2026-04-11T18:02:49.101Z",
+    "game": "Banjo-Kazooie",
+    "song": "Click Clock Wood (Secret Found)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Banjo-Kazooie/Click Clock Wood (Secret Found).mmrs",
+    "preview": "Banjo-Kazooie/Click Clock Wood (Secret Found).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
