@@ -32769,5 +32769,27 @@
     "file": "Chrono Trigger/A Shot of Crisis.mmrs",
     "preview": "Chrono Trigger/A Shot of Crisis.ogg"
   },
+  {
+    "uuid": "3a39ec9e-707d-4332-b593-87c617938163",
+    "creationDate": "2026-04-11T19:21:17.309Z",
+    "game": "Chrono Trigger",
+    "song": "A Strange Happening",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "Chrono Trigger/A Strange Happening.mmrs",
+    "preview": "Chrono Trigger/A Strange Happening.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
