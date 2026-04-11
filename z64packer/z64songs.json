@@ -32866,5 +32866,24 @@
     "file": "Chrono Trigger/Bike Chase.mmrs",
     "preview": "Chrono Trigger/Bike Chase.ogg"
   },
+  {
+    "uuid": "31ddec8a-3d14-4348-9450-7e8e0aa8af8a",
+    "creationDate": "2026-04-11T19:26:08.728Z",
+    "game": "Chrono Trigger",
+    "song": "Get Item (DS Ver.)",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Chrono Trigger/Get Item (DS Ver.).mmrs",
+    "preview": "Chrono Trigger/Get Item (DS Ver.).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
