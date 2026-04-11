@@ -32098,5 +32098,26 @@
     "file": "Breath of Fire II/World Map.mmrs",
     "preview": "Breath of Fire II/World Map.ogg"
   },
+  {
+    "uuid": "4d72c461-e3f0-4353-a710-e90d5134eedd",
+    "creationDate": "2026-04-11T18:12:36.729Z",
+    "game": "Breath of Fire III",
+    "song": "Sleep Theme",
+    "composers": [
+      "Akari Kaida",
+      "Yoshino Aoki"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Breath of Fire III/Sleep Theme.mmrs",
+    "preview": "Breath of Fire III/Sleep Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
