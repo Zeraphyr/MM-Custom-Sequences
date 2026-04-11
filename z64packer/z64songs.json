@@ -31562,5 +31562,24 @@
     "file": "The Legend of Zelda A Link to the Past/Intro (Jingle).mmrs",
     "preview": "The Legend of Zelda A Link to the Past/Intro (Jingle).ogg"
   },
+  {
+    "uuid": "2ca06101-adf6-41e0-b47c-1eeafa2b972f",
+    "creationDate": "2026-04-11T17:47:43.582Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Kakariko Village",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Kakariko Village.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Kakariko Village.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
