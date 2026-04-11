@@ -32904,5 +32904,24 @@
     "file": "Chrono Trigger/Learned Magic (DS ver.).mmrs",
     "preview": "Chrono Trigger/Learned Magic (DS ver.).ogg"
   },
+  {
+    "uuid": "0017ee3c-ba29-4484-9eae-bb65fc91a3d8",
+    "creationDate": "2026-04-11T19:27:41.137Z",
+    "game": "Chrono Trigger",
+    "song": "Sealed Door (DS ver.)",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Chrono Trigger/Sealed Door (DS ver.).mmrs",
+    "preview": "Chrono Trigger/Sealed Door (DS ver.).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
