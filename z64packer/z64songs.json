@@ -31524,5 +31524,24 @@
     "file": "The Legend of Zelda A Link to the Past/Sea of Trees (GBA ver.).mmrs",
     "preview": "The Legend of Zelda A Link to the Past/Sea of Trees (GBA ver.).ogg"
   },
+  {
+    "uuid": "8325537f-3dad-4e09-b858-ec2193645df8",
+    "creationDate": "2026-04-11T17:45:40.822Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Vaati's Palace (GBA ver.)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Vaati's Palace (GBA ver.).mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Vaati's Palace (GBA ver.).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
