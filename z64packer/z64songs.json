@@ -31819,5 +31819,25 @@
     "file": "Batman The Return of the Joker/Gotham In Danger.mmrs",
     "preview": "Batman The Return of the Joker/Gotham In Danger.ogg"
   },
+  {
+    "uuid": "9df0ba61-cc0d-4123-b548-3d047bb3218e",
+    "creationDate": "2026-04-11T18:00:34.251Z",
+    "game": "Bug Fables",
+    "song": "Team, This One's Stronger!",
+    "composers": [
+      "Tristan Alric"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Bug Fables/Team, This One's Stronger!.mmrs",
+    "preview": "Bug Fables/Team, This One's Stronger!.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
