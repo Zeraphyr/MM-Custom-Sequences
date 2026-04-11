@@ -32334,5 +32334,25 @@
     "file": "Banjo-Tooie/Jamjars' Theme.mmrs",
     "preview": "Banjo-Tooie/Jamjars' Theme.ogg"
   },
+  {
+    "uuid": "d0789972-bd00-43ba-ae9a-6d1220d5d19c",
+    "creationDate": "2026-04-11T18:25:43.854Z",
+    "game": "Bug Fables",
+    "song": "Elizant II's Promise",
+    "composers": [
+      "Tristan Alric"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Bug Fables/Elizant II's Promise.mmrs",
+    "preview": "Bug Fables/Elizant II's Promise.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
