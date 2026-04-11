@@ -31938,5 +31938,23 @@
     "file": "Banjo-Kazooie/Click Clock Wood (Summer).mmrs",
     "preview": "Banjo-Kazooie/Click Clock Wood (Summer).ogg"
   },
+  {
+    "uuid": "17a48d41-7969-47fc-af0d-cb2414684a3d",
+    "creationDate": "2026-04-11T18:05:20.768Z",
+    "game": "Banjo-Kazooie",
+    "song": "Click Clock Wood (Top of the Tree)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "file": "Banjo-Kazooie/Click Clock Wood (Top of the Tree).mmrs",
+    "preview": "Banjo-Kazooie/Click Clock Wood (Top of the Tree).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
