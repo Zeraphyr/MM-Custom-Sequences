@@ -32249,5 +32249,28 @@
     "file": "The Legend of Zelda Breath of the Wild/Guardian Battle.mmrs",
     "preview": "The Legend of Zelda Breath of the Wild/Guardian Battle.ogg"
   },
+  {
+    "uuid": "40fe7d52-61b4-4d15-9102-a97d282206e4",
+    "creationDate": "2026-04-11T18:18:45.985Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Mipha's Theme",
+    "composers": [
+      "Manaka Kataoka",
+      "Yasuaki Iwata",
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6",
+      "16",
+      "157"
+    ],
+    "file": "The Legend of Zelda Breath of the Wild/Mipha's Theme.mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Mipha's Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
