@@ -32655,5 +32655,23 @@
     "file": "Crusader of Centy/Freesia.mmrs",
     "preview": "Crusader of Centy/Freesia.ogg"
   },
+  {
+    "uuid": "603b565d-cc97-42b8-a3a7-53a9af04682b",
+    "creationDate": "2026-04-11T19:14:43.020Z",
+    "game": "Crusader of Centy",
+    "song": "Menu",
+    "composers": [
+      "Motokazu Shinoda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "118"
+    ],
+    "file": "Crusader of Centy/Menu.mmrs",
+    "preview": "Crusader of Centy/Menu.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
