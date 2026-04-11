@@ -32354,5 +32354,25 @@
     "file": "Bug Fables/Elizant II's Promise.mmrs",
     "preview": "Bug Fables/Elizant II's Promise.ogg"
   },
+  {
+    "uuid": "49e52a75-f520-4940-aa84-84074e10a50c",
+    "creationDate": "2026-04-11T18:26:25.338Z",
+    "game": "Bug Fables",
+    "song": "Harvest Festival",
+    "composers": [
+      "Tristan Alric"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Bug Fables/Harvest Festival.mmrs",
+    "preview": "Bug Fables/Harvest Festival.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
