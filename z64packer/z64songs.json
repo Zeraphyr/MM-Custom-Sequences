@@ -31757,5 +31757,24 @@
     "file": "Baten Kaitos Eternal Wings and the Lost Ocean/The True Mirror (Guitar ver.).mmrs",
     "preview": "Baten Kaitos Eternal Wings and the Lost Ocean/The True Mirror (Guitar ver.).ogg"
   },
+  {
+    "uuid": "c9c8c16f-4590-473f-872b-d0c7d651f441",
+    "creationDate": "2026-04-11T17:56:06.740Z",
+    "game": "Baten Kaitos: Eternal Wings and the Lost Ocean",
+    "song": "Bellflower",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Baten Kaitos Eternal Wings and the Lost Ocean/Bellflower.mmrs",
+    "preview": "Baten Kaitos Eternal Wings and the Lost Ocean/Bellflower.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
