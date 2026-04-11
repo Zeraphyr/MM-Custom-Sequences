@@ -28559,7 +28559,7 @@
     "uuid": "a530e41c-331c-4054-9b62-c5251b03e57f",
     "creationDate": "2026-04-08T22:49:19.148Z",
     "game": "Chrono Cross",
-    "song": "Another Voyage",
+    "song": "Another Voyage (Variant A)",
     "composers": [
       "Yasunori Mitsuda"
     ],
@@ -28576,9 +28576,7 @@
     ],
     "file": "Chrono Cross/Another Voyage.mmrs",
     "preview": "Chrono Cross/Another Voyage.ogg",
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
+    "lastUpdateDate": "2026-04-11T19:01:53.419Z"
   },
   {
     "uuid": "3105dbf3-51aa-42fe-9a87-40701d4291b0",
