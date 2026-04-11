@@ -32412,5 +32412,24 @@
     "file": "Bug Fables/Oh No! Wasps!!.mmrs",
     "preview": "Bug Fables/Oh No! Wasps!!.ogg"
   },
+  {
+    "uuid": "fccd36e6-6066-4298-90d2-7b33e2b42767",
+    "creationDate": "2026-04-11T18:31:19.293Z",
+    "game": "Bug Fables",
+    "song": "Termite Kingdom",
+    "composers": [
+      "Tristan Alric"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Bug Fables/Termite Kingdom.mmrs",
+    "preview": "Bug Fables/Termite Kingdom.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
