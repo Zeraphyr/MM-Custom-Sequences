@@ -32691,5 +32691,26 @@
     "file": "Crusader of Centy/Rafflesia Training Grounds (Variant B).mmrs",
     "preview": "Crusader of Centy/Rafflesia Training Grounds (Variant B).ogg"
   },
+  {
+    "uuid": "81d8aef5-11e0-4108-b9ea-e37516676c36",
+    "creationDate": "2026-04-11T19:16:21.228Z",
+    "game": "Crusader of Centy",
+    "song": "Root Temple",
+    "composers": [
+      "Motokazu Shinoda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Crusader of Centy/Root Temple.mmrs",
+    "preview": "Crusader of Centy/Root Temple.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
