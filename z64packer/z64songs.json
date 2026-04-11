@@ -33162,7 +33162,10 @@
     ],
     "file": "Chrono Trigger/Sealed Door (DS ver.).mmrs",
     "preview": "Chrono Trigger/Sealed Door (DS ver.).ogg",
-    "lastUpdateDate": "2026-04-11T19:54:35.129Z"
+    "lastUpdateDate": "2026-04-11T19:54:35.129Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "95c3a826-80db-4869-8b84-63029c79972e",
