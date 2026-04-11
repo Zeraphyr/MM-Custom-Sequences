@@ -32731,5 +32731,24 @@
     "file": "Crusader of Centy/Town.mmrs",
     "preview": "Crusader of Centy/Town.ogg"
   },
+  {
+    "uuid": "0b8da987-1eec-4d59-9155-57dd3cae1ff0",
+    "creationDate": "2026-04-11T19:19:45.975Z",
+    "game": "Clock Tower 3",
+    "song": "Time of Confrontation",
+    "composers": [
+      "Kouji Kubo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "6"
+    ],
+    "file": "Clock Tower 3/Time of Confrontation.mmrs",
+    "preview": "Clock Tower 3/Time of Confrontation.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
