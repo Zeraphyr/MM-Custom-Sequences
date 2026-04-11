@@ -32161,5 +32161,26 @@
     "file": "The Legend of Zelda Breath of the Wild/Game Over.mmrs",
     "preview": "The Legend of Zelda Breath of the Wild/Game Over.ogg"
   },
+  {
+    "uuid": "fe7de064-d4c1-42d1-9f86-fb74f5a2e3a8",
+    "creationDate": "2026-04-11T18:14:37.631Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Get Item",
+    "composers": [
+      "Manaka Kataoka",
+      "Yasuaki Iwata",
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "The Legend of Zelda Breath of the Wild/Get Item.mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Get Item.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
