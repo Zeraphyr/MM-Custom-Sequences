@@ -32569,5 +32569,28 @@
     "file": "Link The Faces of Evil/Nortinka (Aypos Library).mmrs",
     "preview": "Link The Faces of Evil/Nortinka (Aypos Library).ogg"
   },
+  {
+    "uuid": "7dcb09c5-46b2-417b-940d-5e907821ee67",
+    "creationDate": "2026-04-11T19:07:51.774Z",
+    "game": "Castlevania: Dawn of Sorrow",
+    "song": "Shop Theme",
+    "composers": [
+      "Michiru Yamane",
+      "Masahiko Kimura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "16",
+      "4",
+      "6",
+      "144"
+    ],
+    "file": "Castlevania Dawn of Sorrow/Shop Theme.mmrs",
+    "preview": "Castlevania Dawn of Sorrow/Shop Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
