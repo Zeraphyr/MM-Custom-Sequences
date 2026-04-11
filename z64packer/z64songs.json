@@ -31600,5 +31600,24 @@
     "file": "The Legend of Zelda A Link to the Past/Ocarina.mmrs",
     "preview": "The Legend of Zelda A Link to the Past/Ocarina.ogg"
   },
+  {
+    "uuid": "c9e783bb-91ca-4095-9006-330d14fe22d3",
+    "creationDate": "2026-04-11T17:49:10.695Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Overworld",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "3"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Overworld.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Overworld.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
