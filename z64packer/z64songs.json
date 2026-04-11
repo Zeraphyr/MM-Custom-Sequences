@@ -33088,5 +33088,27 @@
     "file": "Castlevania III Dracula's Curse/Big Battle.mmrs",
     "preview": "Castlevania III Dracula's Curse/Big Battle.ogg"
   },
+  {
+    "uuid": "dbb165cb-3fe5-4934-b04c-eca25efdfb54",
+    "creationDate": "2026-04-11T19:37:41.933Z",
+    "game": "Castlevania III: Dracula's Curse",
+    "song": "Game Over",
+    "composers": [
+      "Hidenori Maezawa",
+      "Jun Funahashi",
+      "Yukie Morimoto",
+      "Yoshinori Sasaki"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Castlevania III Dracula's Curse/Game Over.mmrs",
+    "preview": "Castlevania III Dracula's Curse/Game Over.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
