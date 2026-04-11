@@ -32119,5 +32119,25 @@
     "file": "Breath of Fire III/Sleep Theme.mmrs",
     "preview": "Breath of Fire III/Sleep Theme.ogg"
   },
+  {
+    "uuid": "0710cbd3-4a04-445d-8713-895db064cb77",
+    "creationDate": "2026-04-11T18:13:27.475Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Cold Fields",
+    "composers": [
+      "Manaka Kataoka",
+      "Yasuaki Iwata",
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "file": "The Legend of Zelda Breath of the Wild/Cold Fields.mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Cold Fields.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
