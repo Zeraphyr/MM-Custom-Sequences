@@ -32830,5 +32830,24 @@
     "file": "Chrono Trigger/Ayla's Theme.mmrs",
     "preview": "Chrono Trigger/Ayla's Theme.ogg"
   },
+  {
+    "uuid": "dfa6accb-6839-4846-ac7c-b1e22ea01504",
+    "creationDate": "2026-04-11T19:24:06.378Z",
+    "game": "Chrono Trigger",
+    "song": "Battle 2 (Variant B)",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Chrono Trigger/Battle 2 (Variant B).mmrs",
+    "preview": "Chrono Trigger/Battle 2 (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
