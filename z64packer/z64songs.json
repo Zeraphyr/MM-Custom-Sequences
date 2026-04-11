@@ -32272,5 +32272,26 @@
     "file": "The Legend of Zelda Breath of the Wild/Mipha's Theme.mmrs",
     "preview": "The Legend of Zelda Breath of the Wild/Mipha's Theme.ogg"
   },
+  {
+    "uuid": "0dfe14cf-d5d1-4e4b-b552-95415d117ff2",
+    "creationDate": "2026-04-11T18:19:38.995Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Riding (Day)",
+    "composers": [
+      "Manaka Kataoka",
+      "Yasuaki Iwata",
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda Breath of the Wild/Riding (Day).mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Riding (Day).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
