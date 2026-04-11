@@ -32431,5 +32431,27 @@
     "file": "Bug Fables/Termite Kingdom.mmrs",
     "preview": "Bug Fables/Termite Kingdom.ogg"
   },
+  {
+    "uuid": "69cab579-2acb-4d90-93b1-2914b1409087",
+    "creationDate": "2026-04-11T18:57:17.463Z",
+    "game": "Castlevania III: Dracula's Curse",
+    "song": "Stage Clear",
+    "composers": [
+      "Hidenori Maezawa",
+      "Jun Funahashi",
+      "Yukie Morimoto",
+      "Yoshinori Sasaki"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Castlevania III Dracula's Curse/Stage Clear.mmrs",
+    "preview": "Castlevania III Dracula's Curse/Stage Clear.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
