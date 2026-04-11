@@ -31422,5 +31422,26 @@
     "file": "The Legend of Zelda A Link to the Past/Cave.mmrs",
     "preview": "The Legend of Zelda A Link to the Past/Cave.ogg"
   },
+  {
+    "uuid": "4e4c051f-998f-4f6c-8b5c-2bfe844e7238",
+    "creationDate": "2026-04-11T17:36:35.430Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Credits",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Credits.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Credits.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
