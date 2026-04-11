@@ -32528,5 +32528,26 @@
     "file": "Link The Faces of Evil/Map Theme.mmrs",
     "preview": "Link The Faces of Evil/Map Theme.ogg"
   },
+  {
+    "uuid": "da0efbbf-a47b-414f-84f0-ebddf138a00d",
+    "creationDate": "2026-04-11T19:04:56.007Z",
+    "game": "Link: The Faces of Evil",
+    "song": "Nortinka (Abominom Hill)",
+    "composers": [
+      "Tony Trippi",
+      "William Havlicek"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "5"
+    ],
+    "file": "Link The Faces of Evil/Nortinka (Abominom Hill).mmrs",
+    "preview": "Link The Faces of Evil/Nortinka (Abominom Hill).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
