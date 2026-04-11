@@ -32885,5 +32885,24 @@
     "file": "Chrono Trigger/Get Item (DS Ver.).mmrs",
     "preview": "Chrono Trigger/Get Item (DS Ver.).ogg"
   },
+  {
+    "uuid": "2aed87d4-d24f-40ca-ac23-35eab1156a0c",
+    "creationDate": "2026-04-11T19:26:52.495Z",
+    "game": "Chrono Trigger",
+    "song": "Learned Magic (DS ver.)",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Chrono Trigger/Learned Magic (DS ver.).mmrs",
+    "preview": "Chrono Trigger/Learned Magic (DS ver.).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
