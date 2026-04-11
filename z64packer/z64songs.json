@@ -32592,5 +32592,26 @@
     "file": "Castlevania Dawn of Sorrow/Shop Theme.mmrs",
     "preview": "Castlevania Dawn of Sorrow/Shop Theme.ogg"
   },
+  {
+    "uuid": "376f6e6e-74bd-4f23-9daf-5616afdbec8d",
+    "creationDate": "2026-04-11T19:09:36.313Z",
+    "game": "Changed",
+    "song": "Black Goo Zone",
+    "composers": [
+      "ShiZi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Changed/Black Goo Zone.mmrs",
+    "preview": "Changed/Black Goo Zone.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
