@@ -31543,5 +31543,24 @@
     "file": "The Legend of Zelda A Link to the Past/Vaati's Palace (GBA ver.).mmrs",
     "preview": "The Legend of Zelda A Link to the Past/Vaati's Palace (GBA ver.).ogg"
   },
+  {
+    "uuid": "9b7ea3c6-a036-466f-b478-ba763f3309a1",
+    "creationDate": "2026-04-11T17:47:09.951Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Intro (Jingle)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Intro (Jingle).mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Intro (Jingle).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
