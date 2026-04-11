@@ -32942,5 +32942,24 @@
     "file": "Chrono Trigger/Legendary Enemies.mmrs",
     "preview": "Chrono Trigger/Legendary Enemies.ogg"
   },
+  {
+    "uuid": "ce38efd5-b5d1-4221-97a7-757d1de2a308",
+    "creationDate": "2026-04-11T19:29:24.140Z",
+    "game": "Chrono Trigger",
+    "song": "Manoria Cathedral",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Chrono Trigger/Manoria Cathedral.mmrs",
+    "preview": "Chrono Trigger/Manoria Cathedral.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
