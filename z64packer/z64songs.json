@@ -31861,5 +31861,23 @@
     "file": "Banjo-Kazooie/Click Clock Wood (Fall).mmrs",
     "preview": "Banjo-Kazooie/Click Clock Wood (Fall).ogg"
   },
+  {
+    "uuid": "da0863f5-15e6-46f6-ae9a-33b792eeb3f6",
+    "creationDate": "2026-04-11T18:02:02.149Z",
+    "game": "Banjo-Kazooie",
+    "song": "Click Clock Wood (Lobby)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "file": "Banjo-Kazooie/Click Clock Wood (Lobby).mmrs",
+    "preview": "Banjo-Kazooie/Click Clock Wood (Lobby).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
