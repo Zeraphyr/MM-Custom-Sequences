@@ -32472,5 +32472,24 @@
     "file": "Castlevania/Game Over.mmrs",
     "preview": "Castlevania/Game Over.ogg"
   },
+  {
+    "uuid": "8397bf35-c29d-451c-ab2b-4274eaabf914",
+    "creationDate": "2026-04-11T18:59:36.671Z",
+    "game": "Castlevania",
+    "song": "Player Miss",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Castlevania/Player Miss.mmrs",
+    "preview": "Castlevania/Player Miss.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
