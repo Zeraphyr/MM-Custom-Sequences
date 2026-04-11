@@ -32037,5 +32037,29 @@
     "file": "Banjo-Kazooie Nuts & Bolts/Klungo Arcade (Boss).mmrs",
     "preview": "Banjo-Kazooie Nuts & Bolts/Klungo Arcade (Boss).ogg"
   },
+  {
+    "uuid": "9df1c9c5-42ae-41e6-98c3-8dbf5cd20163",
+    "creationDate": "2026-04-11T18:09:13.257Z",
+    "game": "Banjo-Kazooie Nuts & Bolts",
+    "song": "Showdown Town (Night)",
+    "composers": [
+      "Grant Kirkhope",
+      "Robin Beanland",
+      "David Clynick"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Banjo-Kazooie Nuts & Bolts/Showdown Town (Night).mmrs",
+    "preview": "Banjo-Kazooie Nuts & Bolts/Showdown Town (Night).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
