@@ -32635,5 +32635,25 @@
     "file": "Crusader of Centy/Black Night.mmrs",
     "preview": "Crusader of Centy/Black Night.ogg"
   },
+  {
+    "uuid": "c8364466-5d6e-4dc8-8d75-fa7410fad373",
+    "creationDate": "2026-04-11T19:14:03.950Z",
+    "game": "Crusader of Centy",
+    "song": "Freesia",
+    "composers": [
+      "Motokazu Shinoda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Crusader of Centy/Freesia.mmrs",
+    "preview": "Crusader of Centy/Freesia.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
