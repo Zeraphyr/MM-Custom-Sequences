@@ -31484,5 +31484,25 @@
     "file": "The Legend of Zelda A Link to the Past/Game Select (GBA ver.).mmrs",
     "preview": "The Legend of Zelda A Link to the Past/Game Select (GBA ver.).ogg"
   },
+  {
+    "uuid": "d8b5f3b9-2ca1-4ae3-8735-173b5a7690f7",
+    "creationDate": "2026-04-11T17:40:37.060Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Quest Log (GBA ver.)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Quest Log (GBA ver.).mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Quest Log (GBA ver.).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
