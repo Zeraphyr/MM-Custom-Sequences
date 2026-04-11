@@ -32673,5 +32673,25 @@
     "file": "Crusader of Centy/Menu.mmrs",
     "preview": "Crusader of Centy/Menu.ogg"
   },
+  {
+    "uuid": "fd47d0b8-4576-4388-bf3b-2de1cc0f60f2",
+    "creationDate": "2026-04-11T19:15:27.392Z",
+    "game": "Crusader of Centy",
+    "song": "Rafflesia Training Grounds (Variant B)",
+    "composers": [
+      "Motokazu Shinoda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Crusader of Centy/Rafflesia Training Grounds (Variant B).mmrs",
+    "preview": "Crusader of Centy/Rafflesia Training Grounds (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
