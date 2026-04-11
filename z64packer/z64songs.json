@@ -31581,5 +31581,24 @@
     "file": "The Legend of Zelda A Link to the Past/Kakariko Village.mmrs",
     "preview": "The Legend of Zelda A Link to the Past/Kakariko Village.ogg"
   },
+  {
+    "uuid": "bf9197ee-35d5-49ea-bc89-a3071edf4d16",
+    "creationDate": "2026-04-11T17:48:40.608Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Ocarina",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Ocarina.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Ocarina.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
