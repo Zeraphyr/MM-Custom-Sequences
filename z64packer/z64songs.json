@@ -32139,5 +32139,27 @@
     "file": "The Legend of Zelda Breath of the Wild/Cold Fields.mmrs",
     "preview": "The Legend of Zelda Breath of the Wild/Cold Fields.ogg"
   },
+  {
+    "uuid": "e9e2e0df-839c-4788-b09d-7ea9e2ac6690",
+    "creationDate": "2026-04-11T18:14:05.311Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Game Over",
+    "composers": [
+      "Manaka Kataoka",
+      "Yasuaki Iwata",
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Breath of the Wild/Game Over.mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Game Over.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
