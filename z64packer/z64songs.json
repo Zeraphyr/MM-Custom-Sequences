@@ -32712,5 +32712,24 @@
     "file": "Crusader of Centy/Root Temple.mmrs",
     "preview": "Crusader of Centy/Root Temple.ogg"
   },
+  {
+    "uuid": "e7cfe461-9117-4034-bb37-6a316ec20a23",
+    "creationDate": "2026-04-11T19:17:57.020Z",
+    "game": "Crusader of Centy",
+    "song": "Town",
+    "composers": [
+      "Motokazu Shinoda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Crusader of Centy/Town.mmrs",
+    "preview": "Crusader of Centy/Town.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
