@@ -32393,5 +32393,24 @@
     "file": "Bug Fables/Mothiva's Grand Stand.mmrs",
     "preview": "Bug Fables/Mothiva's Grand Stand.ogg"
   },
+  {
+    "uuid": "8529d764-1a32-44fb-96a4-629a4fa3adb9",
+    "creationDate": "2026-04-11T18:30:03.839Z",
+    "game": "Bug Fables",
+    "song": "Oh No! Wasps!!",
+    "composers": [
+      "Tristan Alric"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Bug Fables/Oh No! Wasps!!.mmrs",
+    "preview": "Bug Fables/Oh No! Wasps!!.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
