@@ -33020,5 +33020,28 @@
     "file": "Chrono Trigger/People Who Thre Away the Will to Live.mmrs",
     "preview": "Chrono Trigger/People Who Thre Away the Will to Live.ogg"
   },
+  {
+    "uuid": "7f68b3e6-4912-44b8-9bbc-48d3a7dad38d",
+    "creationDate": "2026-04-11T19:35:05.819Z",
+    "game": "Chrono Trigger",
+    "song": "Singing Mountain",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6",
+      "157"
+    ],
+    "file": "Chrono Trigger/Singing Mountain.mmrs",
+    "preview": "Chrono Trigger/Singing Mountain.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
