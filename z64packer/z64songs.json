@@ -31977,5 +31977,24 @@
     "file": "Banjo-Kazooie/Click Clock Wood (Winter).mmrs",
     "preview": "Banjo-Kazooie/Click Clock Wood (Winter).ogg"
   },
+  {
+    "uuid": "db0f65a0-ff11-4a97-a9ef-16e4519a9996",
+    "creationDate": "2026-04-11T18:06:36.139Z",
+    "game": "Banjo-Kazooie",
+    "song": "Collected All Notes",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Banjo-Kazooie/Collected All Notes.mmrs",
+    "preview": "Banjo-Kazooie/Collected All Notes.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
