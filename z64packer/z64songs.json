@@ -31443,5 +31443,24 @@
     "file": "The Legend of Zelda A Link to the Past/Credits.mmrs",
     "preview": "The Legend of Zelda A Link to the Past/Credits.ogg"
   },
+  {
+    "uuid": "584e77c6-fd6c-4976-9509-7cc4a53e2e03",
+    "creationDate": "2026-04-11T17:38:04.459Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Dark Palace",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Dark Palace.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Dark Palace.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
