@@ -33043,5 +33043,29 @@
     "file": "Chrono Trigger/Singing Mountain.mmrs",
     "preview": "Chrono Trigger/Singing Mountain.ogg"
   },
+  {
+    "uuid": "bd676da3-ac71-4bb6-a0c6-7256a1e6821f",
+    "creationDate": "2026-04-11T19:36:18.170Z",
+    "game": "Castlevania III: Dracula's Curse",
+    "song": "Aquarius",
+    "composers": [
+      "Hidenori Maezawa",
+      "Jun Funahashi",
+      "Yukie Morimoto",
+      "Yoshinori Sasaki"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Castlevania III Dracula's Curse/Aquarius.mmrs",
+    "preview": "Castlevania III Dracula's Curse/Aquarius.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
