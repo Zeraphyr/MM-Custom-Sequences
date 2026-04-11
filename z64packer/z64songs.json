@@ -31737,5 +31737,25 @@
     "file": "Hyrule Warriors Age of Calamity/Main Theme (Piano ver.).mmrs",
     "preview": "Hyrule Warriors Age of Calamity/Main Theme (Piano ver.).ogg"
   },
+  {
+    "uuid": "05893c28-0833-4492-9c8c-40f60ea0d07a",
+    "creationDate": "2026-04-11T17:55:35.183Z",
+    "game": "Baten Kaitos: Eternal Wings and the Lost Ocean",
+    "song": "The True Mirror (Guitar ver.)",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Baten Kaitos Eternal Wings and the Lost Ocean/The True Mirror (Guitar ver.).mmrs",
+    "preview": "Baten Kaitos Eternal Wings and the Lost Ocean/The True Mirror (Guitar ver.).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
