@@ -31619,5 +31619,25 @@
     "file": "The Legend of Zelda A Link to the Past/Overworld.mmrs",
     "preview": "The Legend of Zelda A Link to the Past/Overworld.ogg"
   },
+  {
+    "uuid": "b2332739-5712-497e-9d8a-280187b0cacd",
+    "creationDate": "2026-04-11T17:50:15.010Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Magic Mirror",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Magic Mirror.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Magic Mirror.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
