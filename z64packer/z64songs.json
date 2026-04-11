@@ -31639,5 +31639,26 @@
     "file": "The Legend of Zelda A Link to the Past/Magic Mirror.mmrs",
     "preview": "The Legend of Zelda A Link to the Past/Magic Mirror.ogg"
   },
+  {
+    "uuid": "ad87c9da-2260-4fc8-95d9-8d704865454d",
+    "creationDate": "2026-04-11T17:51:14.355Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Time of the Falling Rain",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Time of the Falling Rain.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Time of the Falling Rain.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
