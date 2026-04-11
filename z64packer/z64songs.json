@@ -32549,5 +32549,25 @@
     "file": "Link The Faces of Evil/Nortinka (Abominom Hill).mmrs",
     "preview": "Link The Faces of Evil/Nortinka (Abominom Hill).ogg"
   },
+  {
+    "uuid": "21022b80-38b2-4c9e-ac34-cfd43cfc56e1",
+    "creationDate": "2026-04-11T19:05:47.728Z",
+    "game": "Link: The Faces of Evil",
+    "song": "Nortinka (Aypos Library)",
+    "composers": [
+      "Tony Trippi",
+      "William Havlicek"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "file": "Link The Faces of Evil/Nortinka (Aypos Library).mmrs",
+    "preview": "Link The Faces of Evil/Nortinka (Aypos Library).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
