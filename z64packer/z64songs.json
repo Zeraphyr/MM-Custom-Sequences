@@ -25282,7 +25282,10 @@
     ],
     "file": "Crusader of Centy/Rafflesia Training Grounds.mmrs",
     "preview": "Crusader of Centy/Rafflesia Training Grounds.mp3",
-    "lastUpdateDate": "2026-04-11T19:15:45.731Z"
+    "lastUpdateDate": "2026-04-11T19:15:45.731Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "3c123601-1506-467a-9eef-1cc697443656",
@@ -25330,7 +25333,10 @@
     ],
     "file": "Chrono Trigger/Battle 2.mmrs",
     "preview": "Chrono Trigger/Battle 2.mp3",
-    "lastUpdateDate": "2026-04-11T19:24:24.247Z"
+    "lastUpdateDate": "2026-04-11T19:24:24.247Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "79c5f3b1-9127-4d1e-85fc-52388546c57d",
@@ -28572,7 +28578,10 @@
     ],
     "file": "Chrono Cross/Another Voyage.mmrs",
     "preview": "Chrono Cross/Another Voyage.ogg",
-    "lastUpdateDate": "2026-04-11T19:01:53.419Z"
+    "lastUpdateDate": "2026-04-11T19:01:53.419Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "3105dbf3-51aa-42fe-9a87-40701d4291b0",
@@ -31374,7 +31383,10 @@
       "157"
     ],
     "file": "A Hat in Time/Peace and Tranquility.mmrs",
-    "preview": "A Hat in Time/Peace and Tranquility.ogg"
+    "preview": "A Hat in Time/Peace and Tranquility.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ee9d6a15-807d-44f2-8f34-7327d0ade9e7",
@@ -31395,7 +31407,10 @@
       "16"
     ],
     "file": "The Legend of Zelda A Link to the Past/Agahnim's Theme.mmrs",
-    "preview": "The Legend of Zelda A Link to the Past/Agahnim's Theme.ogg"
+    "preview": "The Legend of Zelda A Link to the Past/Agahnim's Theme.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1cc9aa78-44b2-4bde-854a-029127ec3f79",
@@ -31414,7 +31429,10 @@
       "3"
     ],
     "file": "The Legend of Zelda A Link to the Past/Cave.mmrs",
-    "preview": "The Legend of Zelda A Link to the Past/Cave.ogg"
+    "preview": "The Legend of Zelda A Link to the Past/Cave.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4e4c051f-998f-4f6c-8b5c-2bfe844e7238",
@@ -31435,7 +31453,10 @@
       "16"
     ],
     "file": "The Legend of Zelda A Link to the Past/Credits.mmrs",
-    "preview": "The Legend of Zelda A Link to the Past/Credits.ogg"
+    "preview": "The Legend of Zelda A Link to the Past/Credits.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "584e77c6-fd6c-4976-9509-7cc4a53e2e03",
@@ -31454,7 +31475,10 @@
       "3"
     ],
     "file": "The Legend of Zelda A Link to the Past/Dark Palace.mmrs",
-    "preview": "The Legend of Zelda A Link to the Past/Dark Palace.ogg"
+    "preview": "The Legend of Zelda A Link to the Past/Dark Palace.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "5ab3d726-8c0f-4f6f-8f7e-26197736a54c",
@@ -31476,7 +31500,10 @@
       "16"
     ],
     "file": "The Legend of Zelda A Link to the Past/Game Select (GBA ver.).mmrs",
-    "preview": "The Legend of Zelda A Link to the Past/Game Select (GBA ver.).ogg"
+    "preview": "The Legend of Zelda A Link to the Past/Game Select (GBA ver.).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d8b5f3b9-2ca1-4ae3-8735-173b5a7690f7",
@@ -31496,7 +31523,10 @@
       "16"
     ],
     "file": "The Legend of Zelda A Link to the Past/Quest Log (GBA ver.).mmrs",
-    "preview": "The Legend of Zelda A Link to the Past/Quest Log (GBA ver.).ogg"
+    "preview": "The Legend of Zelda A Link to the Past/Quest Log (GBA ver.).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "93236a3a-fd96-43da-8863-befc84cebc01",
@@ -31516,7 +31546,10 @@
       "3"
     ],
     "file": "The Legend of Zelda A Link to the Past/Sea of Trees (GBA ver.).mmrs",
-    "preview": "The Legend of Zelda A Link to the Past/Sea of Trees (GBA ver.).ogg"
+    "preview": "The Legend of Zelda A Link to the Past/Sea of Trees (GBA ver.).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "8325537f-3dad-4e09-b858-ec2193645df8",
@@ -31535,7 +31568,10 @@
       "3"
     ],
     "file": "The Legend of Zelda A Link to the Past/Vaati's Palace (GBA ver.).mmrs",
-    "preview": "The Legend of Zelda A Link to the Past/Vaati's Palace (GBA ver.).ogg"
+    "preview": "The Legend of Zelda A Link to the Past/Vaati's Palace (GBA ver.).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "9b7ea3c6-a036-466f-b478-ba763f3309a1",
@@ -31554,7 +31590,10 @@
       "10"
     ],
     "file": "The Legend of Zelda A Link to the Past/Intro (Jingle).mmrs",
-    "preview": "The Legend of Zelda A Link to the Past/Intro (Jingle).ogg"
+    "preview": "The Legend of Zelda A Link to the Past/Intro (Jingle).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2ca06101-adf6-41e0-b47c-1eeafa2b972f",
@@ -31573,7 +31612,10 @@
       "3"
     ],
     "file": "The Legend of Zelda A Link to the Past/Kakariko Village.mmrs",
-    "preview": "The Legend of Zelda A Link to the Past/Kakariko Village.ogg"
+    "preview": "The Legend of Zelda A Link to the Past/Kakariko Village.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "bf9197ee-35d5-49ea-bc89-a3071edf4d16",
@@ -31592,7 +31634,10 @@
       "10"
     ],
     "file": "The Legend of Zelda A Link to the Past/Ocarina.mmrs",
-    "preview": "The Legend of Zelda A Link to the Past/Ocarina.ogg"
+    "preview": "The Legend of Zelda A Link to the Past/Ocarina.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c9e783bb-91ca-4095-9006-330d14fe22d3",
@@ -31611,7 +31656,10 @@
       "3"
     ],
     "file": "The Legend of Zelda A Link to the Past/Overworld.mmrs",
-    "preview": "The Legend of Zelda A Link to the Past/Overworld.ogg"
+    "preview": "The Legend of Zelda A Link to the Past/Overworld.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b2332739-5712-497e-9d8a-280187b0cacd",
@@ -31631,7 +31679,10 @@
       "10"
     ],
     "file": "The Legend of Zelda A Link to the Past/Magic Mirror.mmrs",
-    "preview": "The Legend of Zelda A Link to the Past/Magic Mirror.ogg"
+    "preview": "The Legend of Zelda A Link to the Past/Magic Mirror.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ad87c9da-2260-4fc8-95d9-8d704865454d",
@@ -31652,7 +31703,10 @@
       "3"
     ],
     "file": "The Legend of Zelda A Link to the Past/Time of the Falling Rain.mmrs",
-    "preview": "The Legend of Zelda A Link to the Past/Time of the Falling Rain.ogg"
+    "preview": "The Legend of Zelda A Link to the Past/Time of the Falling Rain.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "92b7d764-9002-416c-b0ad-9365c9cb7a07",
@@ -31670,7 +31724,10 @@
       "3"
     ],
     "file": "The Legend of Zelda A Link to the Past/Shop Theme.mmrs",
-    "preview": "The Legend of Zelda A Link to the Past/Shop Theme.ogg"
+    "preview": "The Legend of Zelda A Link to the Past/Shop Theme.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e98ee427-d9b7-41df-9502-cf35ab528066",
@@ -31689,7 +31746,10 @@
       "5"
     ],
     "file": "The Legend of Zelda A Link to the Past/The Soldiers of Kakariko.mmrs",
-    "preview": "The Legend of Zelda A Link to the Past/The Soldiers of Kakariko.ogg"
+    "preview": "The Legend of Zelda A Link to the Past/The Soldiers of Kakariko.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "26e11db5-6d39-4184-8868-08069c90395f",
@@ -31709,7 +31769,10 @@
       "3"
     ],
     "file": "The Legend of Zelda A Link to the Past/Turned Into a Rabbit.mmrs",
-    "preview": "The Legend of Zelda A Link to the Past/Turned Into a Rabbit.ogg"
+    "preview": "The Legend of Zelda A Link to the Past/Turned Into a Rabbit.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1b3942a8-d39e-4c95-9ce3-70174bec13b3",
@@ -31729,7 +31792,10 @@
       "1"
     ],
     "file": "Hyrule Warriors Age of Calamity/Main Theme (Piano ver.).mmrs",
-    "preview": "Hyrule Warriors Age of Calamity/Main Theme (Piano ver.).ogg"
+    "preview": "Hyrule Warriors Age of Calamity/Main Theme (Piano ver.).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "05893c28-0833-4492-9c8c-40f60ea0d07a",
@@ -31749,7 +31815,10 @@
       "7"
     ],
     "file": "Baten Kaitos Eternal Wings and the Lost Ocean/The True Mirror (Guitar ver.).mmrs",
-    "preview": "Baten Kaitos Eternal Wings and the Lost Ocean/The True Mirror (Guitar ver.).ogg"
+    "preview": "Baten Kaitos Eternal Wings and the Lost Ocean/The True Mirror (Guitar ver.).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c9c8c16f-4590-473f-872b-d0c7d651f441",
@@ -31768,7 +31837,10 @@
       "3"
     ],
     "file": "Baten Kaitos Eternal Wings and the Lost Ocean/Bellflower.mmrs",
-    "preview": "Baten Kaitos Eternal Wings and the Lost Ocean/Bellflower.ogg"
+    "preview": "Baten Kaitos Eternal Wings and the Lost Ocean/Bellflower.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "335eb0ac-93ed-42b0-bbb3-07fdab2d8a9d",
@@ -31788,7 +31860,10 @@
       "6"
     ],
     "file": "Baten Kaitos Eternal Wings and the Lost Ocean/Brave Way.mmrs",
-    "preview": "Baten Kaitos Eternal Wings and the Lost Ocean/Brave Way.ogg"
+    "preview": "Baten Kaitos Eternal Wings and the Lost Ocean/Brave Way.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "dd807f25-878d-4ba3-b3ff-696091763b9c",
@@ -31812,7 +31887,10 @@
     ],
     "file": "Batman The Return of the Joker/Gotham In Danger.mmrs",
     "preview": "Batman The Return of the Joker/Gotham In Danger.ogg",
-    "lastUpdateDate": "2026-04-11T18:00:51.755Z"
+    "lastUpdateDate": "2026-04-11T18:00:51.755Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "9df0ba61-cc0d-4123-b548-3d047bb3218e",
@@ -31832,7 +31910,10 @@
       "7"
     ],
     "file": "Bug Fables/Team, This One's Stronger!.mmrs",
-    "preview": "Bug Fables/Team, This One's Stronger!.ogg"
+    "preview": "Bug Fables/Team, This One's Stronger!.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "7c754c0d-5a92-40d0-9b18-608cdd591691",
@@ -31853,7 +31934,10 @@
       "3"
     ],
     "file": "Banjo-Kazooie/Click Clock Wood (Fall).mmrs",
-    "preview": "Banjo-Kazooie/Click Clock Wood (Fall).ogg"
+    "preview": "Banjo-Kazooie/Click Clock Wood (Fall).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "da0863f5-15e6-46f6-ae9a-33b792eeb3f6",
@@ -31871,7 +31955,10 @@
       "3"
     ],
     "file": "Banjo-Kazooie/Click Clock Wood (Lobby).mmrs",
-    "preview": "Banjo-Kazooie/Click Clock Wood (Lobby).ogg"
+    "preview": "Banjo-Kazooie/Click Clock Wood (Lobby).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2551fed2-28ae-4a3b-8dbf-01ad02f655ae",
@@ -31890,7 +31977,10 @@
       "3"
     ],
     "file": "Banjo-Kazooie/Click Clock Wood (Secret Found).mmrs",
-    "preview": "Banjo-Kazooie/Click Clock Wood (Secret Found).ogg"
+    "preview": "Banjo-Kazooie/Click Clock Wood (Secret Found).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2eb364e3-75cc-46c5-847d-b37b88821fac",
@@ -31909,7 +31999,10 @@
       "10"
     ],
     "file": "Banjo-Kazooie/Click Clock Wood Secret Found (Jingle).mmrs",
-    "preview": "Banjo-Kazooie/Click Clock Wood Secret Found (Jingle).ogg"
+    "preview": "Banjo-Kazooie/Click Clock Wood Secret Found (Jingle).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c1f6d20d-1d91-41ef-9052-0bda0880db05",
@@ -31930,7 +32023,10 @@
       "3"
     ],
     "file": "Banjo-Kazooie/Click Clock Wood (Summer).mmrs",
-    "preview": "Banjo-Kazooie/Click Clock Wood (Summer).ogg"
+    "preview": "Banjo-Kazooie/Click Clock Wood (Summer).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "17a48d41-7969-47fc-af0d-cb2414684a3d",
@@ -31948,7 +32044,10 @@
       "3"
     ],
     "file": "Banjo-Kazooie/Click Clock Wood (Top of the Tree).mmrs",
-    "preview": "Banjo-Kazooie/Click Clock Wood (Top of the Tree).ogg"
+    "preview": "Banjo-Kazooie/Click Clock Wood (Top of the Tree).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "6d514af3-2e78-4fcb-8887-989e03e4d11f",
@@ -31969,7 +32068,10 @@
       "3"
     ],
     "file": "Banjo-Kazooie/Click Clock Wood (Winter).mmrs",
-    "preview": "Banjo-Kazooie/Click Clock Wood (Winter).ogg"
+    "preview": "Banjo-Kazooie/Click Clock Wood (Winter).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "db0f65a0-ff11-4a97-a9ef-16e4519a9996",
@@ -31988,7 +32090,10 @@
       "9"
     ],
     "file": "Banjo-Kazooie/Collected All Notes.mmrs",
-    "preview": "Banjo-Kazooie/Collected All Notes.ogg"
+    "preview": "Banjo-Kazooie/Collected All Notes.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "f0a1805e-2d49-4a9d-8664-f07758cc9fb9",
@@ -32007,7 +32112,10 @@
       "9"
     ],
     "file": "Banjo-Kazooie/Collected Extra Honeycomb.mmrs",
-    "preview": "Banjo-Kazooie/Collected Extra Honeycomb.ogg"
+    "preview": "Banjo-Kazooie/Collected Extra Honeycomb.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "eb9c3b6a-5c43-437d-877d-876322e42eed",
@@ -32029,7 +32137,10 @@
       "7"
     ],
     "file": "Banjo-Kazooie Nuts & Bolts/Klungo Arcade (Boss).mmrs",
-    "preview": "Banjo-Kazooie Nuts & Bolts/Klungo Arcade (Boss).ogg"
+    "preview": "Banjo-Kazooie Nuts & Bolts/Klungo Arcade (Boss).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "9df1c9c5-42ae-41e6-98c3-8dbf5cd20163",
@@ -32053,7 +32164,10 @@
       "16"
     ],
     "file": "Banjo-Kazooie Nuts & Bolts/Showdown Town (Night).mmrs",
-    "preview": "Banjo-Kazooie Nuts & Bolts/Showdown Town (Night).ogg"
+    "preview": "Banjo-Kazooie Nuts & Bolts/Showdown Town (Night).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "bbfd0083-d2f7-4dd8-8fdb-cce656536abc",
@@ -32072,7 +32186,10 @@
       "7"
     ],
     "file": "Blue Dragon Awakened Shadow/Eternity.mmrs",
-    "preview": "Blue Dragon Awakened Shadow/Eternity.ogg"
+    "preview": "Blue Dragon Awakened Shadow/Eternity.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "157b4701-997a-47e7-ba5a-91602445e869",
@@ -32090,7 +32207,10 @@
       "0"
     ],
     "file": "Breath of Fire II/World Map.mmrs",
-    "preview": "Breath of Fire II/World Map.ogg"
+    "preview": "Breath of Fire II/World Map.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4d72c461-e3f0-4353-a710-e90d5134eedd",
@@ -32111,7 +32231,10 @@
       "10"
     ],
     "file": "Breath of Fire III/Sleep Theme.mmrs",
-    "preview": "Breath of Fire III/Sleep Theme.ogg"
+    "preview": "Breath of Fire III/Sleep Theme.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "0710cbd3-4a04-445d-8713-895db064cb77",
@@ -32131,7 +32254,10 @@
       "0"
     ],
     "file": "The Legend of Zelda Breath of the Wild/Cold Fields.mmrs",
-    "preview": "The Legend of Zelda Breath of the Wild/Cold Fields.ogg"
+    "preview": "The Legend of Zelda Breath of the Wild/Cold Fields.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e9e2e0df-839c-4788-b09d-7ea9e2ac6690",
@@ -32153,7 +32279,10 @@
       "10"
     ],
     "file": "The Legend of Zelda Breath of the Wild/Game Over.mmrs",
-    "preview": "The Legend of Zelda Breath of the Wild/Game Over.ogg"
+    "preview": "The Legend of Zelda Breath of the Wild/Game Over.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "fe7de064-d4c1-42d1-9f86-fb74f5a2e3a8",
@@ -32174,7 +32303,10 @@
       "9"
     ],
     "file": "The Legend of Zelda Breath of the Wild/Get Item.mmrs",
-    "preview": "The Legend of Zelda Breath of the Wild/Get Item.ogg"
+    "preview": "The Legend of Zelda Breath of the Wild/Get Item.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "82e98a9c-2581-45ab-8382-5429951db797",
@@ -32196,7 +32328,10 @@
       "10"
     ],
     "file": "The Legend of Zelda Breath of the Wild/Get Item (Majora's Mask Remix).mmrs",
-    "preview": "The Legend of Zelda Breath of the Wild/Get Item (Majora's Mask Remix).ogg"
+    "preview": "The Legend of Zelda Breath of the Wild/Get Item (Majora's Mask Remix).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c30f43c8-99b0-4525-964b-36b3f4d837eb",
@@ -32218,7 +32353,10 @@
       "10"
     ],
     "file": "The Legend of Zelda Breath of the Wild/Get Spirit Orb.mmrs",
-    "preview": "The Legend of Zelda Breath of the Wild/Get Spirit Orb.ogg"
+    "preview": "The Legend of Zelda Breath of the Wild/Get Spirit Orb.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "587b5c30-cff7-4285-bbee-4f85158e7838",
@@ -32241,7 +32379,10 @@
       "157"
     ],
     "file": "The Legend of Zelda Breath of the Wild/Guardian Battle.mmrs",
-    "preview": "The Legend of Zelda Breath of the Wild/Guardian Battle.ogg"
+    "preview": "The Legend of Zelda Breath of the Wild/Guardian Battle.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "40fe7d52-61b4-4d15-9102-a97d282206e4",
@@ -32264,7 +32405,10 @@
       "157"
     ],
     "file": "The Legend of Zelda Breath of the Wild/Mipha's Theme.mmrs",
-    "preview": "The Legend of Zelda Breath of the Wild/Mipha's Theme.ogg"
+    "preview": "The Legend of Zelda Breath of the Wild/Mipha's Theme.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "0dfe14cf-d5d1-4e4b-b552-95415d117ff2",
@@ -32285,7 +32429,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Breath of the Wild/Riding (Day).mmrs",
-    "preview": "The Legend of Zelda Breath of the Wild/Riding (Day).ogg"
+    "preview": "The Legend of Zelda Breath of the Wild/Riding (Day).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "abec8d72-3141-406b-ad59-2b4909467316",
@@ -32307,7 +32454,10 @@
       "16"
     ],
     "file": "The Legend of Zelda (Broadcast Satellite)/Title Screen.mmrs",
-    "preview": "The Legend of Zelda (Broadcast Satellite)/Title Screen.ogg"
+    "preview": "The Legend of Zelda (Broadcast Satellite)/Title Screen.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "332e6733-c0ca-4bc3-a786-fc4aeec98688",
@@ -32326,7 +32476,10 @@
       "16"
     ],
     "file": "Banjo-Tooie/Jamjars' Theme.mmrs",
-    "preview": "Banjo-Tooie/Jamjars' Theme.ogg"
+    "preview": "Banjo-Tooie/Jamjars' Theme.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d0789972-bd00-43ba-ae9a-6d1220d5d19c",
@@ -32346,7 +32499,10 @@
       "16"
     ],
     "file": "Bug Fables/Elizant II's Promise.mmrs",
-    "preview": "Bug Fables/Elizant II's Promise.ogg"
+    "preview": "Bug Fables/Elizant II's Promise.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "49e52a75-f520-4940-aa84-84074e10a50c",
@@ -32366,7 +32522,10 @@
       "3"
     ],
     "file": "Bug Fables/Harvest Festival.mmrs",
-    "preview": "Bug Fables/Harvest Festival.ogg"
+    "preview": "Bug Fables/Harvest Festival.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d2919e00-5eb9-4649-b9c4-d7cf07854b19",
@@ -32385,7 +32544,10 @@
       "5"
     ],
     "file": "Bug Fables/Mothiva's Grand Stand.mmrs",
-    "preview": "Bug Fables/Mothiva's Grand Stand.ogg"
+    "preview": "Bug Fables/Mothiva's Grand Stand.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "8529d764-1a32-44fb-96a4-629a4fa3adb9",
@@ -32404,7 +32566,10 @@
       "5"
     ],
     "file": "Bug Fables/Oh No! Wasps!!.mmrs",
-    "preview": "Bug Fables/Oh No! Wasps!!.ogg"
+    "preview": "Bug Fables/Oh No! Wasps!!.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "fccd36e6-6066-4298-90d2-7b33e2b42767",
@@ -32423,7 +32588,10 @@
       "3"
     ],
     "file": "Bug Fables/Termite Kingdom.mmrs",
-    "preview": "Bug Fables/Termite Kingdom.ogg"
+    "preview": "Bug Fables/Termite Kingdom.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "69cab579-2acb-4d90-93b1-2914b1409087",
@@ -32445,7 +32613,10 @@
       "10"
     ],
     "file": "Castlevania III Dracula's Curse/Stage Clear.mmrs",
-    "preview": "Castlevania III Dracula's Curse/Stage Clear.ogg"
+    "preview": "Castlevania III Dracula's Curse/Stage Clear.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "279fe622-b4c1-47e4-9b96-feeee6305fe5",
@@ -32464,7 +32635,10 @@
       "10"
     ],
     "file": "Castlevania/Game Over.mmrs",
-    "preview": "Castlevania/Game Over.ogg"
+    "preview": "Castlevania/Game Over.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "8397bf35-c29d-451c-ab2b-4274eaabf914",
@@ -32483,7 +32657,10 @@
       "10"
     ],
     "file": "Castlevania/Player Miss.mmrs",
-    "preview": "Castlevania/Player Miss.ogg"
+    "preview": "Castlevania/Player Miss.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "360b43af-4c1e-4c67-a9d3-1ffdadf020b9",
@@ -32502,7 +32679,10 @@
       "1"
     ],
     "file": "Chrono Cross/Another Voyage (Variant B).mmrs",
-    "preview": "Chrono Cross/Another Voyage (Variant B).ogg"
+    "preview": "Chrono Cross/Another Voyage (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "6b9ab4ce-f58b-4a9c-a126-2c7a0b464158",
@@ -32522,7 +32702,10 @@
       "1"
     ],
     "file": "Link The Faces of Evil/Map Theme.mmrs",
-    "preview": "Link The Faces of Evil/Map Theme.ogg"
+    "preview": "Link The Faces of Evil/Map Theme.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "da0efbbf-a47b-414f-84f0-ebddf138a00d",
@@ -32543,7 +32726,10 @@
       "5"
     ],
     "file": "Link The Faces of Evil/Nortinka (Abominom Hill).mmrs",
-    "preview": "Link The Faces of Evil/Nortinka (Abominom Hill).ogg"
+    "preview": "Link The Faces of Evil/Nortinka (Abominom Hill).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "21022b80-38b2-4c9e-ac34-cfd43cfc56e1",
@@ -32563,7 +32749,10 @@
       "6"
     ],
     "file": "Link The Faces of Evil/Nortinka (Aypos Library).mmrs",
-    "preview": "Link The Faces of Evil/Nortinka (Aypos Library).ogg"
+    "preview": "Link The Faces of Evil/Nortinka (Aypos Library).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "7dcb09c5-46b2-417b-940d-5e907821ee67",
@@ -32586,7 +32775,10 @@
       "144"
     ],
     "file": "Castlevania Dawn of Sorrow/Shop Theme.mmrs",
-    "preview": "Castlevania Dawn of Sorrow/Shop Theme.ogg"
+    "preview": "Castlevania Dawn of Sorrow/Shop Theme.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "376f6e6e-74bd-4f23-9daf-5616afdbec8d",
@@ -32607,7 +32799,10 @@
       "3"
     ],
     "file": "Changed/Black Goo Zone.mmrs",
-    "preview": "Changed/Black Goo Zone.ogg"
+    "preview": "Changed/Black Goo Zone.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "6e98bfb8-6e41-4a32-9799-ab20854166c3",
@@ -32629,7 +32824,10 @@
       "157"
     ],
     "file": "Crusader of Centy/Black Night.mmrs",
-    "preview": "Crusader of Centy/Black Night.ogg"
+    "preview": "Crusader of Centy/Black Night.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c8364466-5d6e-4dc8-8d75-fa7410fad373",
@@ -32649,7 +32847,10 @@
       "16"
     ],
     "file": "Crusader of Centy/Freesia.mmrs",
-    "preview": "Crusader of Centy/Freesia.ogg"
+    "preview": "Crusader of Centy/Freesia.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "603b565d-cc97-42b8-a3a7-53a9af04682b",
@@ -32667,7 +32868,10 @@
       "118"
     ],
     "file": "Crusader of Centy/Menu.mmrs",
-    "preview": "Crusader of Centy/Menu.ogg"
+    "preview": "Crusader of Centy/Menu.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "fd47d0b8-4576-4388-bf3b-2de1cc0f60f2",
@@ -32687,7 +32891,10 @@
       "2"
     ],
     "file": "Crusader of Centy/Rafflesia Training Grounds (Variant B).mmrs",
-    "preview": "Crusader of Centy/Rafflesia Training Grounds (Variant B).ogg"
+    "preview": "Crusader of Centy/Rafflesia Training Grounds (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "81d8aef5-11e0-4108-b9ea-e37516676c36",
@@ -32708,7 +32915,10 @@
       "16"
     ],
     "file": "Crusader of Centy/Root Temple.mmrs",
-    "preview": "Crusader of Centy/Root Temple.ogg"
+    "preview": "Crusader of Centy/Root Temple.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e7cfe461-9117-4034-bb37-6a316ec20a23",
@@ -32727,7 +32937,10 @@
       "3"
     ],
     "file": "Crusader of Centy/Town.mmrs",
-    "preview": "Crusader of Centy/Town.ogg"
+    "preview": "Crusader of Centy/Town.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "0b8da987-1eec-4d59-9155-57dd3cae1ff0",
@@ -32746,7 +32959,10 @@
       "6"
     ],
     "file": "Clock Tower 3/Time of Confrontation.mmrs",
-    "preview": "Clock Tower 3/Time of Confrontation.ogg"
+    "preview": "Clock Tower 3/Time of Confrontation.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "949bd1fd-2b14-4581-ae74-417872588a5d",
@@ -32765,7 +32981,10 @@
       "5"
     ],
     "file": "Chrono Trigger/A Shot of Crisis.mmrs",
-    "preview": "Chrono Trigger/A Shot of Crisis.ogg"
+    "preview": "Chrono Trigger/A Shot of Crisis.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "3a39ec9e-707d-4332-b593-87c617938163",
@@ -32787,7 +33006,10 @@
       "6"
     ],
     "file": "Chrono Trigger/A Strange Happening.mmrs",
-    "preview": "Chrono Trigger/A Strange Happening.ogg"
+    "preview": "Chrono Trigger/A Strange Happening.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2def4a10-c425-40f1-b8b5-cddc2b75baac",
@@ -32806,7 +33028,10 @@
       "6"
     ],
     "file": "Chrono Trigger/At the Bottom of the Night.mmrs",
-    "preview": "Chrono Trigger/At the Bottom of the Night.ogg"
+    "preview": "Chrono Trigger/At the Bottom of the Night.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c85102e9-b805-43de-8dc7-69a23563b850",
@@ -32826,7 +33051,10 @@
       "6"
     ],
     "file": "Chrono Trigger/Ayla's Theme.mmrs",
-    "preview": "Chrono Trigger/Ayla's Theme.ogg"
+    "preview": "Chrono Trigger/Ayla's Theme.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "dfa6accb-6839-4846-ac7c-b1e22ea01504",
@@ -32845,7 +33073,10 @@
       "5"
     ],
     "file": "Chrono Trigger/Battle 2 (Variant B).mmrs",
-    "preview": "Chrono Trigger/Battle 2 (Variant B).ogg"
+    "preview": "Chrono Trigger/Battle 2 (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "9eb48950-2849-427e-bcac-45f715e52f9e",
@@ -32864,7 +33095,10 @@
       "5"
     ],
     "file": "Chrono Trigger/Bike Chase.mmrs",
-    "preview": "Chrono Trigger/Bike Chase.ogg"
+    "preview": "Chrono Trigger/Bike Chase.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "31ddec8a-3d14-4348-9450-7e8e0aa8af8a",
@@ -32883,7 +33117,10 @@
       "9"
     ],
     "file": "Chrono Trigger/Get Item (DS Ver.).mmrs",
-    "preview": "Chrono Trigger/Get Item (DS Ver.).ogg"
+    "preview": "Chrono Trigger/Get Item (DS Ver.).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2aed87d4-d24f-40ca-ac23-35eab1156a0c",
@@ -32902,7 +33139,10 @@
       "9"
     ],
     "file": "Chrono Trigger/Learned Magic (DS ver.).mmrs",
-    "preview": "Chrono Trigger/Learned Magic (DS ver.).ogg"
+    "preview": "Chrono Trigger/Learned Magic (DS ver.).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "0017ee3c-ba29-4484-9eae-bb65fc91a3d8",
@@ -32921,7 +33161,10 @@
       "9"
     ],
     "file": "Chrono Trigger/Sealed Door (DS ver.).mmrs",
-    "preview": "Chrono Trigger/Sealed Door (DS ver.).ogg"
+    "preview": "Chrono Trigger/Sealed Door (DS ver.).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "95c3a826-80db-4869-8b84-63029c79972e",
@@ -32940,7 +33183,10 @@
       "7"
     ],
     "file": "Chrono Trigger/Legendary Enemies.mmrs",
-    "preview": "Chrono Trigger/Legendary Enemies.ogg"
+    "preview": "Chrono Trigger/Legendary Enemies.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ce38efd5-b5d1-4221-97a7-757d1de2a308",
@@ -32960,7 +33206,10 @@
     ],
     "file": "Chrono Trigger/Manoria Cathedral.mmrs",
     "preview": "Chrono Trigger/Manoria Cathedral.ogg",
-    "lastUpdateDate": "2026-04-11T19:30:52.593Z"
+    "lastUpdateDate": "2026-04-11T19:30:52.593Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "8e67efe3-eb91-48db-b44b-8f4e11de1ef4",
@@ -32979,7 +33228,10 @@
       "3"
     ],
     "file": "Chrono Trigger/Manoria Cathedral (Variant B).mmrs",
-    "preview": "Chrono Trigger/Manoria Cathedral (Variant B).ogg"
+    "preview": "Chrono Trigger/Manoria Cathedral (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "7bf26c1a-181e-473b-9ab8-eb3d27667749",
@@ -32998,7 +33250,10 @@
       "3"
     ],
     "file": "Chrono Trigger/Peaceful Days.mmrs",
-    "preview": "Chrono Trigger/Peaceful Days.ogg"
+    "preview": "Chrono Trigger/Peaceful Days.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "9c45cad4-50db-45ea-8e3d-e247d371d920",
@@ -33018,7 +33273,10 @@
       "3"
     ],
     "file": "Chrono Trigger/People Who Thre Away the Will to Live.mmrs",
-    "preview": "Chrono Trigger/People Who Thre Away the Will to Live.ogg"
+    "preview": "Chrono Trigger/People Who Thre Away the Will to Live.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "7f68b3e6-4912-44b8-9bbc-48d3a7dad38d",
@@ -33041,7 +33299,10 @@
       "157"
     ],
     "file": "Chrono Trigger/Singing Mountain.mmrs",
-    "preview": "Chrono Trigger/Singing Mountain.ogg"
+    "preview": "Chrono Trigger/Singing Mountain.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "bd676da3-ac71-4bb6-a0c6-7256a1e6821f",
@@ -33065,7 +33326,10 @@
       "3"
     ],
     "file": "Castlevania III Dracula's Curse/Aquarius.mmrs",
-    "preview": "Castlevania III Dracula's Curse/Aquarius.ogg"
+    "preview": "Castlevania III Dracula's Curse/Aquarius.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "9fe4af04-f8d8-4a69-8c9c-50610376145e",
@@ -33086,7 +33350,10 @@
       "7"
     ],
     "file": "Castlevania III Dracula's Curse/Big Battle.mmrs",
-    "preview": "Castlevania III Dracula's Curse/Big Battle.ogg"
+    "preview": "Castlevania III Dracula's Curse/Big Battle.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "dbb165cb-3fe5-4934-b04c-eca25efdfb54",
@@ -33108,7 +33375,10 @@
       "10"
     ],
     "file": "Castlevania III Dracula's Curse/Game Over.mmrs",
-    "preview": "Castlevania III Dracula's Curse/Game Over.ogg"
+    "preview": "Castlevania III Dracula's Curse/Game Over.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "3093c927-8679-4043-9b7c-ff33bef5b170",
@@ -33126,7 +33396,10 @@
       "3"
     ],
     "file": "Castlevania Aria of Sorrow/Hammer's Shop.mmrs",
-    "preview": "Castlevania Aria of Sorrow/Hammer's Shop.ogg"
+    "preview": "Castlevania Aria of Sorrow/Hammer's Shop.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d07faf64-a5dc-4160-9bf0-872dedbe6590",
@@ -33146,7 +33419,10 @@
       "16"
     ],
     "file": "Castlevania Order of Ecclesia/Welcome to Legend.mmrs",
-    "preview": "Castlevania Order of Ecclesia/Welcome to Legend.ogg"
+    "preview": "Castlevania Order of Ecclesia/Welcome to Legend.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "623dac20-3a36-4927-89d0-1d272c4e92a3",
@@ -33167,7 +33443,10 @@
       "3"
     ],
     "file": "Castlevania Portrait of Ruin/Cruxifix Held Close.mmrs",
-    "preview": "Castlevania Portrait of Ruin/Cruxifix Held Close.ogg"
+    "preview": "Castlevania Portrait of Ruin/Cruxifix Held Close.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a49ee8b1-9ebf-4c39-bb76-c905b254a8fd",
@@ -33190,7 +33469,10 @@
       "16"
     ],
     "file": "Castlevania Portrait of Ruin/Invitation of a Crazed Moon.mmrs",
-    "preview": "Castlevania Portrait of Ruin/Invitation of a Crazed Moon.ogg"
+    "preview": "Castlevania Portrait of Ruin/Invitation of a Crazed Moon.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
