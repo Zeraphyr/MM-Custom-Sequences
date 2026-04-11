@@ -31796,5 +31796,28 @@
     "file": "Baten Kaitos Eternal Wings and the Lost Ocean/Brave Way.mmrs",
     "preview": "Baten Kaitos Eternal Wings and the Lost Ocean/Brave Way.ogg"
   },
+  {
+    "uuid": "dd807f25-878d-4ba3-b3ff-696091763b9c",
+    "creationDate": "2026-04-11T17:59:17.409Z",
+    "game": "Batman: The Return of the Joker",
+    "song": "Gotham In Danger",
+    "composers": [
+      "Naoki Kodaka",
+      "Nobuyuki Hara",
+      "Shinichi Seya"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Batman The Return of the Joker/Gotham In Danger.mmrs",
+    "preview": "Batman The Return of the Joker/Gotham In Danger.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
