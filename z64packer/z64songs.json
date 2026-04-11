@@ -32491,5 +32491,24 @@
     "file": "Castlevania/Player Miss.mmrs",
     "preview": "Castlevania/Player Miss.ogg"
   },
+  {
+    "uuid": "360b43af-4c1e-4c67-a9d3-1ffdadf020b9",
+    "creationDate": "2026-04-11T19:01:33.321Z",
+    "game": "Chrono Cross",
+    "song": "Another Voyage (Variant B)",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Chrono Cross/Another Voyage (Variant B).mmrs",
+    "preview": "Chrono Cross/Another Voyage (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
