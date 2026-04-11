@@ -32810,5 +32810,25 @@
     "file": "Chrono Trigger/At the Bottom of the Night.mmrs",
     "preview": "Chrono Trigger/At the Bottom of the Night.ogg"
   },
+  {
+    "uuid": "c85102e9-b805-43de-8dc7-69a23563b850",
+    "creationDate": "2026-04-11T19:23:11.777Z",
+    "game": "Chrono Trigger",
+    "song": "Ayla's Theme",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "6"
+    ],
+    "file": "Chrono Trigger/Ayla's Theme.mmrs",
+    "preview": "Chrono Trigger/Ayla's Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
