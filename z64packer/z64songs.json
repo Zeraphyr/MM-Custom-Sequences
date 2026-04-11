@@ -32613,5 +32613,27 @@
     "file": "Changed/Black Goo Zone.mmrs",
     "preview": "Changed/Black Goo Zone.ogg"
   },
+  {
+    "uuid": "6e98bfb8-6e41-4a32-9799-ab20854166c3",
+    "creationDate": "2026-04-11T19:13:31.225Z",
+    "game": "Crusader of Centy",
+    "song": "Black Night",
+    "composers": [
+      "Motokazu Shinoda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6",
+      "16",
+      "157"
+    ],
+    "file": "Crusader of Centy/Black Night.mmrs",
+    "preview": "Crusader of Centy/Black Night.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
