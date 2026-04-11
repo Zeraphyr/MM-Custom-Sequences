@@ -33128,5 +33128,25 @@
     "file": "Castlevania Aria of Sorrow/Hammer's Shop.mmrs",
     "preview": "Castlevania Aria of Sorrow/Hammer's Shop.ogg"
   },
+  {
+    "uuid": "d07faf64-a5dc-4160-9bf0-872dedbe6590",
+    "creationDate": "2026-04-11T19:46:05.232Z",
+    "game": "Castlevania: Order of Ecclesia",
+    "song": "Welcome to Legend",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Castlevania Order of Ecclesia/Welcome to Legend.mmrs",
+    "preview": "Castlevania Order of Ecclesia/Welcome to Legend.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
