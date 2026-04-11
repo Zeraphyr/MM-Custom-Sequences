@@ -32061,5 +32061,24 @@
     "file": "Banjo-Kazooie Nuts & Bolts/Showdown Town (Night).mmrs",
     "preview": "Banjo-Kazooie Nuts & Bolts/Showdown Town (Night).ogg"
   },
+  {
+    "uuid": "bbfd0083-d2f7-4dd8-8fdb-cce656536abc",
+    "creationDate": "2026-04-11T18:10:23.353Z",
+    "game": "Blue Dragon: Awakened Shadow",
+    "song": "Eternity",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Blue Dragon Awakened Shadow/Eternity.mmrs",
+    "preview": "Blue Dragon Awakened Shadow/Eternity.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
