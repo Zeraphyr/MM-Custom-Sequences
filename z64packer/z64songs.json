@@ -32226,5 +32226,28 @@
     "file": "The Legend of Zelda Breath of the Wild/Get Spirit Orb.mmrs",
     "preview": "The Legend of Zelda Breath of the Wild/Get Spirit Orb.ogg"
   },
+  {
+    "uuid": "587b5c30-cff7-4285-bbee-4f85158e7838",
+    "creationDate": "2026-04-11T18:18:00.410Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Guardian Battle",
+    "composers": [
+      "Manaka Kataoka",
+      "Yasuaki Iwata",
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7",
+      "157"
+    ],
+    "file": "The Legend of Zelda Breath of the Wild/Guardian Battle.mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Guardian Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
