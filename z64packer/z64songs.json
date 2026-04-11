@@ -32791,5 +32791,24 @@
     "file": "Chrono Trigger/A Strange Happening.mmrs",
     "preview": "Chrono Trigger/A Strange Happening.ogg"
   },
+  {
+    "uuid": "2def4a10-c425-40f1-b8b5-cddc2b75baac",
+    "creationDate": "2026-04-11T19:21:56.813Z",
+    "game": "Chrono Trigger",
+    "song": "At the Bottom of the Night",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "file": "Chrono Trigger/At the Bottom of the Night.mmrs",
+    "preview": "Chrono Trigger/At the Bottom of the Night.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
