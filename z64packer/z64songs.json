@@ -32508,5 +32508,25 @@
     "file": "Chrono Cross/Another Voyage (Variant B).mmrs",
     "preview": "Chrono Cross/Another Voyage (Variant B).ogg"
   },
+  {
+    "uuid": "6b9ab4ce-f58b-4a9c-a126-2c7a0b464158",
+    "creationDate": "2026-04-11T19:03:22.605Z",
+    "game": "Link: The Faces of Evil",
+    "song": "Map Theme",
+    "composers": [
+      "Tony Trippi",
+      "William Havlicek"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Link The Faces of Evil/Map Theme.mmrs",
+    "preview": "Link The Faces of Evil/Map Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
