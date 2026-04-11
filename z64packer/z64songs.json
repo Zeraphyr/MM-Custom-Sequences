@@ -31800,7 +31800,7 @@
     "uuid": "dd807f25-878d-4ba3-b3ff-696091763b9c",
     "creationDate": "2026-04-11T17:59:17.409Z",
     "game": "Batman: The Return of the Joker",
-    "song": "Gotham In Danger",
+    "song": "Gotham in Danger",
     "composers": [
       "Naoki Kodaka",
       "Nobuyuki Hara",
@@ -31817,7 +31817,8 @@
       "3"
     ],
     "file": "Batman The Return of the Joker/Gotham In Danger.mmrs",
-    "preview": "Batman The Return of the Joker/Gotham In Danger.ogg"
+    "preview": "Batman The Return of the Joker/Gotham In Danger.ogg",
+    "lastUpdateDate": "2026-04-11T18:00:51.755Z"
   },
   {
     "uuid": "9df0ba61-cc0d-4123-b548-3d047bb3218e",
