@@ -31360,5 +31360,27 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "e6fa98c9-dd15-40e1-9807-68d33507ce40",
+    "creationDate": "2026-04-11T17:34:09.119Z",
+    "game": "A Hat in Time",
+    "song": "Peace and Tranquility",
+    "composers": [
+      "Pascal Michael Stiefel"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16",
+      "157"
+    ],
+    "file": "A Hat in Time/Peace and Tranquility.mmrs",
+    "preview": "A Hat in Time/Peace and Tranquility.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
