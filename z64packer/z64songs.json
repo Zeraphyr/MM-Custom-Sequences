@@ -31996,5 +31996,24 @@
     "file": "Banjo-Kazooie/Collected All Notes.mmrs",
     "preview": "Banjo-Kazooie/Collected All Notes.ogg"
   },
+  {
+    "uuid": "f0a1805e-2d49-4a9d-8664-f07758cc9fb9",
+    "creationDate": "2026-04-11T18:07:15.631Z",
+    "game": "Banjo-Kazooie",
+    "song": "Collected Extra Honeycomb",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Banjo-Kazooie/Collected Extra Honeycomb.mmrs",
+    "preview": "Banjo-Kazooie/Collected Extra Honeycomb.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
