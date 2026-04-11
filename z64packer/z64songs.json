@@ -32750,5 +32750,24 @@
     "file": "Clock Tower 3/Time of Confrontation.mmrs",
     "preview": "Clock Tower 3/Time of Confrontation.ogg"
   },
+  {
+    "uuid": "949bd1fd-2b14-4581-ae74-417872588a5d",
+    "creationDate": "2026-04-11T19:20:35.496Z",
+    "game": "Chrono Trigger",
+    "song": "A Shot of Crisis",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Chrono Trigger/A Shot of Crisis.mmrs",
+    "preview": "Chrono Trigger/A Shot of Crisis.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
