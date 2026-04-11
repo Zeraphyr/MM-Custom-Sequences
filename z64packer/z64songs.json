@@ -32182,5 +32182,27 @@
     "file": "The Legend of Zelda Breath of the Wild/Get Item.mmrs",
     "preview": "The Legend of Zelda Breath of the Wild/Get Item.ogg"
   },
+  {
+    "uuid": "82e98a9c-2581-45ab-8382-5429951db797",
+    "creationDate": "2026-04-11T18:16:11.431Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Get Item (Majora's Mask Remix)",
+    "composers": [
+      "Manaka Kataoka",
+      "Yasuaki Iwata",
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Breath of the Wild/Get Item (Majora's Mask Remix).mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Get Item (Majora's Mask Remix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
