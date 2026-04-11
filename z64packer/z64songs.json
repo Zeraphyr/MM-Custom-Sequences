@@ -32204,5 +32204,27 @@
     "file": "The Legend of Zelda Breath of the Wild/Get Item (Majora's Mask Remix).mmrs",
     "preview": "The Legend of Zelda Breath of the Wild/Get Item (Majora's Mask Remix).ogg"
   },
+  {
+    "uuid": "c30f43c8-99b0-4525-964b-36b3f4d837eb",
+    "creationDate": "2026-04-11T18:17:06.993Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Get Spirit Orb",
+    "composers": [
+      "Manaka Kataoka",
+      "Yasuaki Iwata",
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Breath of the Wild/Get Spirit Orb.mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Get Spirit Orb.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
