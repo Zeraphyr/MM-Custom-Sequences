@@ -33148,7 +33148,7 @@
     "uuid": "0017ee3c-ba29-4484-9eae-bb65fc91a3d8",
     "creationDate": "2026-04-11T19:27:41.137Z",
     "game": "Chrono Trigger",
-    "song": "Sealed Door (DS ver.)",
+    "song": "Sealed Chest (DS ver.)",
     "composers": [
       "Yasunori Mitsuda"
     ],
@@ -33162,9 +33162,7 @@
     ],
     "file": "Chrono Trigger/Sealed Door (DS ver.).mmrs",
     "preview": "Chrono Trigger/Sealed Door (DS ver.).ogg",
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
+    "lastUpdateDate": "2026-04-11T19:54:35.129Z"
   },
   {
     "uuid": "95c3a826-80db-4869-8b84-63029c79972e",
