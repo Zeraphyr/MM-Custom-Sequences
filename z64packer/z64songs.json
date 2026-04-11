@@ -32293,5 +32293,27 @@
     "file": "The Legend of Zelda Breath of the Wild/Riding (Day).mmrs",
     "preview": "The Legend of Zelda Breath of the Wild/Riding (Day).ogg"
   },
+  {
+    "uuid": "abec8d72-3141-406b-ad59-2b4909467316",
+    "creationDate": "2026-04-11T18:22:15.915Z",
+    "game": "The Legend of Zelda (Broadcast Satellite)",
+    "song": "Title Screen",
+    "composers": [
+      "Yuichi Ozaki"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda (Broadcast Satellite)/Title Screen.mmrs",
+    "preview": "The Legend of Zelda (Broadcast Satellite)/Title Screen.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
