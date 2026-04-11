@@ -25311,7 +25311,7 @@
     "uuid": "13b9df22-3441-44d8-b756-1571ad33d208",
     "creationDate": "2026-04-01T15:10:20.303Z",
     "game": "Chrono Trigger",
-    "song": "Battle 2",
+    "song": "Battle 2 (Variant A)",
     "composers": [
       "Yasunori Mitsuda"
     ],
@@ -25330,9 +25330,7 @@
     ],
     "file": "Chrono Trigger/Battle 2.mmrs",
     "preview": "Chrono Trigger/Battle 2.mp3",
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
+    "lastUpdateDate": "2026-04-11T19:24:24.247Z"
   },
   {
     "uuid": "79c5f3b1-9127-4d1e-85fc-52388546c57d",
