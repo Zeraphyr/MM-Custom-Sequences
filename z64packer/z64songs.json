@@ -32847,5 +32847,24 @@
     "file": "Chrono Trigger/Battle 2 (Variant B).mmrs",
     "preview": "Chrono Trigger/Battle 2 (Variant B).ogg"
   },
+  {
+    "uuid": "9eb48950-2849-427e-bcac-45f715e52f9e",
+    "creationDate": "2026-04-11T19:25:13.120Z",
+    "game": "Chrono Trigger",
+    "song": "Bike Chase",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Chrono Trigger/Bike Chase.mmrs",
+    "preview": "Chrono Trigger/Bike Chase.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
