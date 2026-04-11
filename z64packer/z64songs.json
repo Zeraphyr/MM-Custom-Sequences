@@ -31697,5 +31697,25 @@
     "file": "The Legend of Zelda A Link to the Past/The Soldiers of Kakariko.mmrs",
     "preview": "The Legend of Zelda A Link to the Past/The Soldiers of Kakariko.ogg"
   },
+  {
+    "uuid": "26e11db5-6d39-4184-8868-08069c90395f",
+    "creationDate": "2026-04-11T17:53:18.183Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Turned Into a Rabbit",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Turned Into a Rabbit.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past/Turned Into a Rabbit.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
