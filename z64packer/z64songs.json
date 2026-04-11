@@ -33169,5 +33169,28 @@
     "file": "Castlevania Portrait of Ruin/Cruxifix Held Close.mmrs",
     "preview": "Castlevania Portrait of Ruin/Cruxifix Held Close.ogg"
   },
+  {
+    "uuid": "a49ee8b1-9ebf-4c39-bb76-c905b254a8fd",
+    "creationDate": "2026-04-11T19:47:48.405Z",
+    "game": "Castlevania: Portrait of Ruin",
+    "song": "Invitation of a Crazed Moon",
+    "composers": [
+      "Michiru Yamane"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Castlevania Portrait of Ruin/Invitation of a Crazed Moon.mmrs",
+    "preview": "Castlevania Portrait of Ruin/Invitation of a Crazed Moon.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
