@@ -33476,5 +33476,583 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "0ade4bdf-a362-470b-804a-7ffc5c1b6a6b",
+    "creationDate": "2026-03-17T23:56:39.240Z",
+    "game": "Air Fortress",
+    "song": "Evacuation (8bit Version)",
+    "composers": [
+      "Hideki Kanazashi"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "157"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Air Fortress/Evacuation (8bit Version).mmrs",
+    "preview": ""
+  },
+  {
+    "uuid": "e80c7af8-d55b-4ce8-8a40-866f9f6e38ee",
+    "creationDate": "2026-03-16T22:34:28.080Z",
+    "game": "EarthBound Beginnings",
+    "song": "Castle (8bit Version)",
+    "composers": [
+      "Keiichi Suzuki",
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "EarthBound Beginnings/Castle (8bit Version).mmrs",
+    "preview": ""
+  },
+  {
+    "uuid": "4b55c358-c5a1-4e01-a097-902d3340ffee",
+    "creationDate": "2026-03-16T23:17:05.801Z",
+    "game": "EarthBound Beginnings",
+    "song": "Flippant (8bit Version)",
+    "composers": [
+      "Keiichi Suzuki",
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "EarthBound Beginnings/Flippant (8bit Version).mmrs",
+    "preview": ""
+  },
+  {
+    "uuid": "8c773d9c-fa74-4a8e-90e9-18eea13bd0cd",
+    "creationDate": "2026-03-16T23:17:40.636Z",
+    "game": "EarthBound Beginnings",
+    "song": "Friends (8bit Version)",
+    "composers": [
+      "Keiichi Suzuki",
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "EarthBound Beginnings/Friends (8bit Version).mmrs",
+    "preview": ""
+  },
+  {
+    "uuid": "62764d1d-12b4-4a12-a50e-e69433ec7057",
+    "creationDate": "2026-03-17T23:43:41.627Z",
+    "game": "EarthBound Beginnings",
+    "song": "Hippy (8bit Version)",
+    "composers": [
+      "Keiichi Suzuki",
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "EarthBound Beginnings/Hippy (8bit Version).mmrs",
+    "preview": ""
+  },
+  {
+    "uuid": "bc93cb2c-4a0e-4837-b6c2-12a238fd630e",
+    "creationDate": "2026-03-17T23:42:03.126Z",
+    "game": "EarthBound Beginnings",
+    "song": "Love (8bit Version)",
+    "composers": [
+      "Keiichi Suzuki",
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "EarthBound Beginnings/Love (8bit Version).mmrs",
+    "preview": ""
+  },
+  {
+    "uuid": "c67718a8-01b4-4584-88b2-fd71b2bafa5a",
+    "creationDate": "2026-03-17T23:43:03.966Z",
+    "game": "EarthBound Beginnings",
+    "song": "Pollyanna (8bit Version)",
+    "composers": [
+      "Keiichi Suzuki",
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "EarthBound Beginnings/Pollyanna (8bit Version).mmrs",
+    "preview": ""
+  },
+  {
+    "uuid": "00dde5fb-6cd0-4169-a74b-6daf3444f8fb",
+    "creationDate": "2026-03-17T23:44:22.310Z",
+    "game": "EarthBound Beginnings",
+    "song": "School (8bit Version)",
+    "composers": [
+      "Keiichi Suzuki",
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "EarthBound Beginnings/School (8bit Version).mmrs",
+    "preview": ""
+  },
+  {
+    "uuid": "bdef7c70-727c-4383-903c-cfc398ac0712",
+    "creationDate": "2026-03-16T00:22:27.777Z",
+    "game": "EarthBound Beginnings",
+    "song": "Youngtown (8bit Version)",
+    "composers": [
+      "Keiichi Suzuki",
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "EarthBound Beginnings/Youngtown (8bit Version).mmrs",
+    "preview": ""
+  },
+  {
+    "uuid": "2bc4dc19-6908-451e-bd41-f9488dd43a55",
+    "creationDate": "2026-03-21T23:26:27.853Z",
+    "game": "M.C. Kids",
+    "song": "Card Clear (8bit Version)",
+    "composers": [
+      "Charles Deenen"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "M.C. Kids/Card Clear (8bit Version).mmrs",
+    "preview": ""
+  },
+  {
+    "uuid": "57931595-31f8-41fd-b572-b255c7516bf2",
+    "creationDate": "2026-03-21T23:25:51.924Z",
+    "game": "M.C. Kids",
+    "song": "Cutscene (8bit Version)",
+    "composers": [
+      "Charles Deenen"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "M.C. Kids/Cutscene (8bit Version).mmrs",
+    "preview": ""
+  },
+  {
+    "uuid": "e9cd3b00-9dfb-4b48-993b-1e0525eb821d",
+    "creationDate": "2026-03-15T02:19:34.025Z",
+    "game": "Sheriff Domestic",
+    "song": "Got Disk (Alternate Version)",
+    "composers": [
+      "Davemension"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Sheriff Domestic/Got Disk (Alternate Version).mmrs",
+    "preview": ""
+  },
+  {
+    "uuid": "be8c9f3a-92d1-44ab-a751-a64dfdd04cce",
+    "creationDate": "2026-03-21T23:23:29.934Z",
+    "game": "Super Robin Hood",
+    "song": "Ground (8bit Version)",
+    "composers": [
+      "David Whittaker"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Super Robin Hood/Ground (8bit Version).mmrs",
+    "preview": ""
+  },
+  {
+    "uuid": "5a79483e-7305-44db-9c83-612d08c75ac1",
+    "creationDate": "2026-03-16T00:25:01.994Z",
+    "game": "The Legend of Zelda",
+    "song": "Death Mountain (8bit Version)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda/Death Mountain (8bit Version).mmrs",
+    "preview": ""
+  },
+  {
+    "uuid": "4db37bf3-4c20-49f8-86ac-6a4d0bb496b1",
+    "creationDate": "2026-03-16T00:23:53.549Z",
+    "game": "The Legend of Zelda",
+    "song": "Dungeon (8bit Version)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda/Dungeon (8bit Version).mmrs",
+    "preview": ""
+  },
+  {
+    "uuid": "76342525-3b13-44ce-8e15-82bb59380557",
+    "creationDate": "2026-03-16T00:26:20.597Z",
+    "game": "The Legend of Zelda",
+    "song": "Temple Clear (8bit Version)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda/Temple Clear (8bit Version).mmrs",
+    "preview": ""
+  },
+  {
+    "uuid": "b3affed7-a82f-40ce-920f-5713ab1245fd",
+    "creationDate": "2026-03-21T23:22:15.400Z",
+    "game": "Treasure Island Dizzy",
+    "song": "Island (8bit Version)",
+    "composers": [
+      "David Whittaker"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "136"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Treasure Island Dizzy/Island (8bit Version).mmrs",
+    "preview": ""
+  },
+  {
+    "uuid": "3624807f-fd3a-465d-904a-c82e317db41b",
+    "creationDate": "2026-03-17T23:59:22.583Z",
+    "game": "Xexyz",
+    "song": "Inside (8bit Version)",
+    "composers": [
+      "Hirohiko Takayama"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "13B",
+      "12C",
+      "131",
+      "16F"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xexyz/Inside (8bit Version).mmrs",
+    "preview": ""
+  },
+  {
+    "uuid": "15ed6bdc-0c26-4dab-892e-d89a54f84c67",
+    "creationDate": "2026-03-18T00:00:01.787Z",
+    "game": "Xexyz",
+    "song": "Outside (8bit Version)",
+    "composers": [
+      "Hirohiko Takayama"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Xexyz/Outside (8bit Version).mmrs",
+    "preview": ""
+  },
+  {
+    "uuid": "e18a0955-70e7-45ff-aec8-d146abc6a54e",
+    "creationDate": "2026-03-16T23:11:14.778Z",
+    "game": "Zelda II: The Adventure of Link",
+    "song": "Encounter (8bit Version)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Zelda II The Adventure of Link/Encounter (8bit Version).mmrs",
+    "preview": ""
+  },
+  {
+    "uuid": "58e321b9-a385-45ac-9ade-b20c70cf5b74",
+    "creationDate": "2026-03-16T23:12:01.906Z",
+    "game": "Zelda II: The Adventure of Link",
+    "song": "Field (8bit Version)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Zelda II The Adventure of Link/Field (8bit Version).mmrs",
+    "preview": ""
+  },
+  {
+    "uuid": "9dc1411c-bf07-4a93-9fd2-de355d1765d7",
+    "creationDate": "2026-03-16T23:10:38.826Z",
+    "game": "Zelda II: The Adventure of Link",
+    "song": "Great Palace (8bit Version)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Zelda II The Adventure of Link/Great Palace (8bit Version).mmrs",
+    "preview": ""
+  },
+  {
+    "uuid": "6267ccb8-3c26-4a5f-b2b4-b8b4b1d148fc",
+    "creationDate": "2026-03-16T22:32:38.673Z",
+    "game": "Zelda II: The Adventure of Link",
+    "song": "House (8bit Version)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Zelda II The Adventure of Link/House (8bit Version).mmrs",
+    "preview": ""
+  },
+  {
+    "uuid": "893f0288-d742-4a44-b5bb-aa4a95f156fa",
+    "creationDate": "2026-03-16T22:33:31.059Z",
+    "game": "Zelda II: The Adventure of Link",
+    "song": "Level Up (8bit Version)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Zelda II The Adventure of Link/Level Up (8bit Version).mmrs",
+    "preview": ""
+  },
+  {
+    "uuid": "d4fbe75e-db25-4d59-bd85-e89469357d2d",
+    "creationDate": "2026-03-16T23:13:16.736Z",
+    "game": "Zelda II: The Adventure of Link",
+    "song": "Temple (Variant A) (8bit Version)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Zelda II The Adventure of Link/Temple (Variant A) (8bit Version).mmrs",
+    "preview": ""
+  },
+  {
+    "uuid": "c2da51eb-c7ab-4960-a481-54e6a0f93649",
+    "creationDate": "2026-03-16T23:12:34.529Z",
+    "game": "Zelda II: The Adventure of Link",
+    "song": "Town (8bit Version)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Darkychao"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Zelda II The Adventure of Link/Town (8bit Version).mmrs",
+    "preview": ""
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
