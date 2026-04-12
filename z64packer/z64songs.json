@@ -33275,7 +33275,10 @@
     ],
     "file": "Chrono Trigger/People Who Thre Away the Will to Live.mmrs",
     "preview": "Chrono Trigger/People Who Thre Away the Will to Live.ogg",
-    "lastUpdateDate": "2026-04-12T02:08:19.065Z"
+    "lastUpdateDate": "2026-04-12T02:08:19.065Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "7f68b3e6-4912-44b8-9bbc-48d3a7dad38d",
