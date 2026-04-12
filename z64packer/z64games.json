@@ -3329,31 +3329,45 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/ad1fca5e0453ca6e1e6bbd9ebe303ae6.png"
   },
   {
-    "game": "Changed"
+    "game": "Changed",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/0cdae06e79196699392ae47709f13851.png"
   },
   {
-    "game": "Banjo-Kazooie Nuts & Bolts"
+    "game": "Banjo-Kazooie Nuts & Bolts",
+    "series": "Banjo-Kazooie Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/c1fb11cad73eaf23ee236ed67e04a36e.png"
   },
   {
-    "game": "Baten Kaitos: Eternal Wings and the Lost Ocean"
+    "game": "Baten Kaitos: Eternal Wings and the Lost Ocean",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/2af1e9eaa807096a11b32ed26ecc2cbb.png",
+    "short_name": "Baten Kaitos"
   },
   {
-    "game": "Batman: The Return of the Joker"
+    "game": "Batman: The Return of the Joker",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/d5adfcff9611d3f00885d6b36b8d4491.png"
   },
   {
-    "game": "The Legend of Zelda (Broadcast Satellite)"
+    "game": "BS The Legend of Zelda",
+    "series": "The Legend of Zelda Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/2d09b0551e56f76f2ad93c45480f25ed.png"
   },
   {
-    "game": "Blue Dragon: Awakened Shadow"
+    "game": "Blue Dragon: Awakened Shadow",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/fc9b0afb85bfffc53285f0478d3e45a8.png"
   },
   {
-    "game": "Link: The Faces of Evil"
+    "game": "Link: The Faces of Evil",
+    "series": "The Legend of Zelda Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/466e695c8ce7c0b5cd5c4109d01ad589.png"
   },
   {
-    "game": "Clock Tower 3"
+    "game": "Clock Tower 3",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/9d702ffd99ad9c70ac37e506facc8c38.png"
   },
   {
-    "game": "Bug Fables"
+    "game": "Bug Fables: The Everlasting Sapling",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/8e7d3d0ae31c367a72211c20d5eb6a49.png",
+    "short_name": "Bug Fables"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
