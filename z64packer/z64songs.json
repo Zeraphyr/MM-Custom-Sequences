@@ -33260,7 +33260,7 @@
     "uuid": "9c45cad4-50db-45ea-8e3d-e247d371d920",
     "creationDate": "2026-04-11T19:34:23.790Z",
     "game": "Chrono Trigger",
-    "song": "People Who Thre Away the Will to Live",
+    "song": "People Who Threw Away the Will to Live",
     "composers": [
       "Yasunori Mitsuda"
     ],
@@ -33275,9 +33275,7 @@
     ],
     "file": "Chrono Trigger/People Who Thre Away the Will to Live.mmrs",
     "preview": "Chrono Trigger/People Who Thre Away the Will to Live.ogg",
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
+    "lastUpdateDate": "2026-04-12T02:08:19.065Z"
   },
   {
     "uuid": "7f68b3e6-4912-44b8-9bbc-48d3a7dad38d",
