@@ -34383,5 +34383,26 @@
     "file": "Discord/Incoming Call.mmrs",
     "preview": "Discord/Incoming Call.ogg"
   },
+  {
+    "uuid": "b2a71a7e-428a-496b-9487-9e00941dfe50",
+    "creationDate": "2026-04-13T22:26:17.715Z",
+    "game": "Donkey Kong 64",
+    "song": "5 Door Temple (Variant A)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "16F",
+      "111"
+    ],
+    "file": "Donkey Kong 64/5 Door Temple (Variant A).mmrs",
+    "preview": "Donkey Kong 64/5 Door Temple (Variant A).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
