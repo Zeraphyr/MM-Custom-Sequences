@@ -34343,5 +34343,24 @@
     "file": "Dinosaur Planet/Jetbike Race (Loss).mmrs",
     "preview": "Dinosaur Planet/Jetbike Race (Loss).ogg"
   },
+  {
+    "uuid": "1ab2eefe-48da-4b82-998d-2f03ca40085c",
+    "creationDate": "2026-04-13T22:24:24.668Z",
+    "game": "Discord",
+    "song": "Discord Call",
+    "composers": [
+      "Discord"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Discord/Discord Call.mmrs",
+    "preview": "Discord/Discord Call.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
