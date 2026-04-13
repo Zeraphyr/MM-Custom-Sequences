@@ -34191,5 +34191,24 @@
     "file": "Dark Cloud 2/Rainbow Butterfly Woods.mmrs",
     "preview": "Dark Cloud 2/Rainbow Butterfly Woods.ogg"
   },
+  {
+    "uuid": "7251146a-216b-4764-ab29-16a2185e6f09",
+    "creationDate": "2026-04-13T22:14:55.409Z",
+    "game": "Dark Cloud 2",
+    "song": "The Battle",
+    "composers": [
+      "Tomohito Nishiura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Dark Cloud 2/The Battle.mmrs",
+    "preview": "Dark Cloud 2/The Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
