@@ -34250,5 +34250,23 @@
     "file": "Doki Doki Panic/Ending (Part 2).mmrs",
     "preview": "Doki Doki Panic/Ending (Part 2).ogg"
   },
+  {
+    "uuid": "798e075e-4d5f-4b9f-82d5-4db97de54af6",
+    "creationDate": "2026-04-13T22:18:11.663Z",
+    "game": "Doki Doki Panic",
+    "song": "Intro",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "16"
+    ],
+    "file": "Doki Doki Panic/Intro.mmrs",
+    "preview": "Doki Doki Panic/Intro.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
