@@ -34734,5 +34734,24 @@
     "file": "Dragon Quest IX Sentinels of the Starry Skies/Good Night.mmrs",
     "preview": "Dragon Quest IX Sentinels of the Starry Skies/Good Night.ogg"
   },
+  {
+    "uuid": "ecd9bdfb-4cf9-49e7-ae68-2312949b75e5",
+    "creationDate": "2026-04-13T22:46:31.700Z",
+    "game": "Dragon Quest IX: Sentinels of the Starry Skies",
+    "song": "Level Up",
+    "composers": [
+      "Koichi Sugiyama"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Dragon Quest IX Sentinels of the Starry Skies/Level Up.mmrs",
+    "preview": "Dragon Quest IX Sentinels of the Starry Skies/Level Up.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
