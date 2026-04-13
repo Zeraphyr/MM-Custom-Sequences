@@ -34054,5 +34054,25 @@
     "file": "Zelda II The Adventure of Link/Town (8bit Version).mmrs",
     "preview": ""
   },
+  {
+    "uuid": "e77e446b-caeb-4db8-8cff-88316bfcb368",
+    "creationDate": "2026-04-13T22:07:06.760Z",
+    "game": "Dragon Ball Z: The Legacy of Goku II",
+    "song": "Inside a House",
+    "composers": [
+      "Yannis Brown"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Dragon Ball Z The Legacy of Goku II/Inside a House.mmrs",
+    "preview": "Dragon Ball Z The Legacy of Goku II/Inside a House.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
