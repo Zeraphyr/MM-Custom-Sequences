@@ -34502,5 +34502,24 @@
     "file": "Donkey Kong 64/Frantic Factory.mmrs",
     "preview": "Donkey Kong 64/Frantic Factory.ogg"
   },
+  {
+    "uuid": "d194a8a5-f617-447b-966d-879ca8d53435",
+    "creationDate": "2026-04-13T22:31:14.686Z",
+    "game": "Donkey Kong 64",
+    "song": "Rabbit Race",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Donkey Kong 64/Rabbit Race.mmrs",
+    "preview": "Donkey Kong 64/Rabbit Race.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
