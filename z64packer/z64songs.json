@@ -34210,5 +34210,25 @@
     "file": "Dark Cloud 2/The Battle.mmrs",
     "preview": "Dark Cloud 2/The Battle.ogg"
   },
+  {
+    "uuid": "ba6b0a33-069e-4fc3-8f9b-0f00d42647d7",
+    "creationDate": "2026-04-13T22:16:52.658Z",
+    "game": "Doki Doki Panic",
+    "song": "Ending (Part 1)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Doki Doki Panic/Ending (Part 1).mmrs",
+    "preview": "Doki Doki Panic/Ending (Part 1).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
