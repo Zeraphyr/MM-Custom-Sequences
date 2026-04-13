@@ -34659,5 +34659,23 @@
     "file": "Dragon Quest IX Sentinels of the Starry Skies/Cursed Equipment.mmrs",
     "preview": "Dragon Quest IX Sentinels of the Starry Skies/Cursed Equipment.ogg"
   },
+  {
+    "uuid": "1406294f-528c-487d-93ed-f5899e623fa9",
+    "creationDate": "2026-04-13T22:41:40.514Z",
+    "game": "Dragon Quest IX: Sentinels of the Starry Skies",
+    "song": "Defeated",
+    "composers": [
+      "Koichi Sugiyama"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "file": "Dragon Quest IX Sentinels of the Starry Skies/Defeated.mmrs",
+    "preview": "Dragon Quest IX Sentinels of the Starry Skies/Defeated.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
