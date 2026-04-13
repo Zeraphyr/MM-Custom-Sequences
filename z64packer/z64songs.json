@@ -34114,7 +34114,7 @@
     "uuid": "52bc8728-3add-4565-802b-feccd3364996",
     "creationDate": "2026-04-13T22:11:24.386Z",
     "game": "Dark Cloud 2",
-    "song": "Losing Consciousness (Short ver.)",
+    "song": "Losing Consciousness (Fanfare ver.)",
     "composers": [
       "Tomohito Nishiura"
     ],
@@ -34127,7 +34127,8 @@
       "9"
     ],
     "file": "Dark Cloud 2/Losing Consciousness (Short ver.).mmrs",
-    "preview": "Dark Cloud 2/Losing Consciousness (Short ver.).ogg"
+    "preview": "Dark Cloud 2/Losing Consciousness (Short ver.).ogg",
+    "lastUpdateDate": "2026-04-13T22:12:10.615Z"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
