@@ -34074,5 +34074,23 @@
     "file": "Dragon Ball Z The Legacy of Goku II/Inside a House.mmrs",
     "preview": "Dragon Ball Z The Legacy of Goku II/Inside a House.ogg"
   },
+  {
+    "uuid": "c6f801c6-7354-4233-8ca7-797639256288",
+    "creationDate": "2026-04-13T22:08:38.261Z",
+    "game": "Dark Cloud 2",
+    "song": "Battle in the Dark",
+    "composers": [
+      "Tomohito Nishiura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "Dark Cloud 2/Battle in the Dark.mmrs",
+    "preview": "Dark Cloud 2/Battle in the Dark.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
