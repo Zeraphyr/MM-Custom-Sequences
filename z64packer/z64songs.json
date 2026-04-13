@@ -34362,5 +34362,25 @@
     "file": "Discord/Discord Call.mmrs",
     "preview": "Discord/Discord Call.ogg"
   },
+  {
+    "uuid": "08067327-2591-4de8-98b7-8f70df5eb5c6",
+    "creationDate": "2026-04-13T22:25:04.994Z",
+    "game": "Discord",
+    "song": "Incoming Call",
+    "composers": [
+      "Discord"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Discord/Incoming Call.mmrs",
+    "preview": "Discord/Incoming Call.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
