@@ -34829,5 +34829,24 @@
     "file": "Dragon Quest IX Sentinels of the Starry Skies/Praying at Church.mmrs",
     "preview": "Dragon Quest IX Sentinels of the Starry Skies/Praying at Church.ogg"
   },
+  {
+    "uuid": "2ab4d07a-4055-41d1-a80f-043bd2388628",
+    "creationDate": "2026-04-13T22:51:55.629Z",
+    "game": "Dragon Quest IX: Sentinels of the Starry Skies",
+    "song": "Precious Item Found",
+    "composers": [
+      "Koichi Sugiyama"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Dragon Quest IX Sentinels of the Starry Skies/Precious Item Found.mmrs",
+    "preview": "Dragon Quest IX Sentinels of the Starry Skies/Precious Item Found.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
