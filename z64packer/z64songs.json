@@ -34130,5 +34130,25 @@
     "preview": "Dark Cloud 2/Losing Consciousness (Short ver.).ogg",
     "lastUpdateDate": "2026-04-13T22:12:10.615Z"
   },
+  {
+    "uuid": "9e8d52ca-f3c6-4859-84fd-c2ad9520f88f",
+    "creationDate": "2026-04-13T22:12:48.666Z",
+    "game": "Dark Cloud 2",
+    "song": "Menu",
+    "composers": [
+      "Tomohito Nishiura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Dark Cloud 2/Menu.mmrs",
+    "preview": "Dark Cloud 2/Menu.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
