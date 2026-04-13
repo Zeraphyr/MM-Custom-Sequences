@@ -34621,5 +34621,24 @@
     "file": "Zelda 64 Dawn & Dusk/Intro.mmrs",
     "preview": "Zelda 64 Dawn & Dusk/Intro.ogg"
   },
+  {
+    "uuid": "572b09bf-df72-4759-a345-9b26de2ece80",
+    "creationDate": "2026-04-13T22:39:59.878Z",
+    "game": "Dragon Quest IX: Sentinels of the Starry Skies",
+    "song": "Church Treatment",
+    "composers": [
+      "Koichi Sugiyama"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Dragon Quest IX Sentinels of the Starry Skies/Church Treatment.mmrs",
+    "preview": "Dragon Quest IX Sentinels of the Starry Skies/Church Treatment.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
