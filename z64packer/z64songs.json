@@ -34324,5 +34324,24 @@
     "file": "Dinosaur Planet/Drakor Battle.mmrs",
     "preview": "Dinosaur Planet/Drakor Battle.ogg"
   },
+  {
+    "uuid": "ff6fd6de-54c4-41a2-9473-3ed33fa6e34a",
+    "creationDate": "2026-04-13T22:23:10.939Z",
+    "game": "Dinosaur Planet",
+    "song": "Jetbike Race (Loss)",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Dinosaur Planet/Jetbike Race (Loss).mmrs",
+    "preview": "Dinosaur Planet/Jetbike Race (Loss).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
