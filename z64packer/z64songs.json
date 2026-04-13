@@ -34772,5 +34772,24 @@
     "file": "Dragon Quest IX Sentinels of the Starry Skies/Mini Medal Obtained.mmrs",
     "preview": "Dragon Quest IX Sentinels of the Starry Skies/Mini Medal Obtained.ogg"
   },
+  {
+    "uuid": "fbf1f1ab-6e50-4543-866a-a5a7b76e8201",
+    "creationDate": "2026-04-13T22:49:15.452Z",
+    "game": "Dragon Quest IX: Sentinels of the Starry Skies",
+    "song": "Mission Begins",
+    "composers": [
+      "Koichi Sugiyama"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Dragon Quest IX Sentinels of the Starry Skies/Mission Begins.mmrs",
+    "preview": "Dragon Quest IX Sentinels of the Starry Skies/Mission Begins.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
