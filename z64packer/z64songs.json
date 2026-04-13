@@ -34715,5 +34715,24 @@
     "file": "Dragon Quest IX Sentinels of the Starry Skies/Victory.mmrs",
     "preview": "Dragon Quest IX Sentinels of the Starry Skies/Victory.ogg"
   },
+  {
+    "uuid": "a7bf43cb-f3e0-4d81-ba5d-753e1fc2f9cb",
+    "creationDate": "2026-04-13T22:45:50.642Z",
+    "game": "Dragon Quest IX: Sentinels of the Starry Skies",
+    "song": "Good Night",
+    "composers": [
+      "Koichi Sugiyama"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Dragon Quest IX Sentinels of the Starry Skies/Good Night.mmrs",
+    "preview": "Dragon Quest IX Sentinels of the Starry Skies/Good Night.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
