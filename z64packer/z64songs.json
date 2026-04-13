@@ -34888,5 +34888,24 @@
     "file": "Deltarune/Dialtone.mmrs",
     "preview": "Deltarune/Dialtone.ogg"
   },
+  {
+    "uuid": "7ca5ef3f-091c-4d2f-8e56-8dcec95d03c4",
+    "creationDate": "2026-04-13T22:54:34.158Z",
+    "game": "Deltarune",
+    "song": "Using the Fountain",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Deltarune/Using the Fountain.mmrs",
+    "preview": "Deltarune/Using the Fountain.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
