@@ -34464,5 +34464,24 @@
     "file": "Donkey Kong 64/Rocketbarrel Boost.mmrs",
     "preview": "Donkey Kong 64/Rocketbarrel Boost.ogg"
   },
+  {
+    "uuid": "142182ec-603b-4ed9-892c-76eb523be6ca",
+    "creationDate": "2026-04-13T22:29:58.488Z",
+    "game": "Donkey Kong 64",
+    "song": "DK Isles",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Donkey Kong 64/DK Isles.mmrs",
+    "preview": "Donkey Kong 64/DK Isles.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
