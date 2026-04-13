@@ -34286,5 +34286,24 @@
     "file": "Doki Doki Panic/Star.mmrs",
     "preview": "Doki Doki Panic/Star.ogg"
   },
+  {
+    "uuid": "ac8fc5eb-adf7-4f17-9ea5-19440ed3c43b",
+    "creationDate": "2026-04-13T22:19:38.160Z",
+    "game": "Doki Doki Panic",
+    "song": "Subspace",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Doki Doki Panic/Subspace.mmrs",
+    "preview": "Doki Doki Panic/Subspace.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
