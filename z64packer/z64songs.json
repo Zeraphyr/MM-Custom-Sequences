@@ -34404,5 +34404,25 @@
     "file": "Donkey Kong 64/5 Door Temple (Variant A).mmrs",
     "preview": "Donkey Kong 64/5 Door Temple (Variant A).ogg"
   },
+  {
+    "uuid": "7416613e-0455-4a10-977e-e4c96b986af3",
+    "creationDate": "2026-04-13T22:26:58.024Z",
+    "game": "Donkey Kong 64",
+    "song": "Boss Defeated",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "121"
+    ],
+    "file": "Donkey Kong 64/Boss Defeated.mmrs",
+    "preview": "Donkey Kong 64/Boss Defeated.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
