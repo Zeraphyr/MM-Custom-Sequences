@@ -34171,5 +34171,25 @@
     "file": "Dark Cloud 2/Peace of the World.mmrs",
     "preview": "Dark Cloud 2/Peace of the World.ogg"
   },
+  {
+    "uuid": "efe121f5-d388-48d5-92a2-53a248ddafbb",
+    "creationDate": "2026-04-13T22:14:24.235Z",
+    "game": "Dark Cloud 2",
+    "song": "Rainbow Butterfly Woods",
+    "composers": [
+      "Tomohito Nishiura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Dark Cloud 2/Rainbow Butterfly Woods.mmrs",
+    "preview": "Dark Cloud 2/Rainbow Butterfly Woods.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
