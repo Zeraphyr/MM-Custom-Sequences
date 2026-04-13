@@ -34580,5 +34580,26 @@
     "file": "Donkey Kong 64/Pause Menu.mmrs",
     "preview": "Donkey Kong 64/Pause Menu.ogg"
   },
+  {
+    "uuid": "164c2435-a84a-4e12-bc72-5d9d1880de8e",
+    "creationDate": "2026-04-13T22:36:38.529Z",
+    "game": "Donkey Kong 64",
+    "song": "Tag Barrel",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6",
+      "16"
+    ],
+    "file": "Donkey Kong 64/Tag Barrel.mmrs",
+    "preview": "Donkey Kong 64/Tag Barrel.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
