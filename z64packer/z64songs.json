@@ -34810,5 +34810,24 @@
     "file": "Dragon Quest IX Sentinels of the Starry Skies/New Party Member.mmrs",
     "preview": "Dragon Quest IX Sentinels of the Starry Skies/New Party Member.ogg"
   },
+  {
+    "uuid": "14c5733c-87ae-4537-9d33-b0857914d607",
+    "creationDate": "2026-04-13T22:50:59.694Z",
+    "game": "Dragon Quest IX: Sentinels of the Starry Skies",
+    "song": "Praying at Church",
+    "composers": [
+      "Koichi Sugiyama"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Dragon Quest IX Sentinels of the Starry Skies/Praying at Church.mmrs",
+    "preview": "Dragon Quest IX Sentinels of the Starry Skies/Praying at Church.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
