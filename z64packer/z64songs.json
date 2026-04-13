@@ -34305,5 +34305,24 @@
     "file": "Doki Doki Panic/Subspace.mmrs",
     "preview": "Doki Doki Panic/Subspace.ogg"
   },
+  {
+    "uuid": "8ef212ad-bf18-4fa5-aaca-11770235568b",
+    "creationDate": "2026-04-13T22:21:31.026Z",
+    "game": "Dinosaur Planet",
+    "song": "Drakor Battle",
+    "composers": [
+      "David Wise"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Dinosaur Planet/Drakor Battle.mmrs",
+    "preview": "Dinosaur Planet/Drakor Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
