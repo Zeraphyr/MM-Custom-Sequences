@@ -34424,5 +34424,26 @@
     "file": "Donkey Kong 64/Boss Defeated.mmrs",
     "preview": "Donkey Kong 64/Boss Defeated.ogg"
   },
+  {
+    "uuid": "5adb5882-f17d-49ee-8686-bba226a2713a",
+    "creationDate": "2026-04-13T22:27:43.798Z",
+    "game": "Donkey Kong 64",
+    "song": "Krem Isle",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Donkey Kong 64/Krem Isle.mmrs",
+    "preview": "Donkey Kong 64/Krem Isle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
