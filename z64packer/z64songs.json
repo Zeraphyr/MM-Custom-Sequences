@@ -34150,5 +34150,26 @@
     "file": "Dark Cloud 2/Menu.mmrs",
     "preview": "Dark Cloud 2/Menu.ogg"
   },
+  {
+    "uuid": "c546b1bb-2177-401e-9711-224d8aa14463",
+    "creationDate": "2026-04-13T22:13:21.254Z",
+    "game": "Dark Cloud 2",
+    "song": "Peace of the World",
+    "composers": [
+      "Tomohito Nishiura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Dark Cloud 2/Peace of the World.mmrs",
+    "preview": "Dark Cloud 2/Peace of the World.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
