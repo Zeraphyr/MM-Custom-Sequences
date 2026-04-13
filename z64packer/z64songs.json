@@ -34541,5 +34541,24 @@
     "file": "Donkey Kong 64/Hideout Helm (Bonus Barrel).mmrs",
     "preview": "Donkey Kong 64/Hideout Helm (Bonus Barrel).ogg"
   },
+  {
+    "uuid": "2fcaf9ff-0e0c-468d-a287-b7cebea2a7d3",
+    "creationDate": "2026-04-13T22:34:54.883Z",
+    "game": "Donkey Kong 64",
+    "song": "Instrument Refill",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Donkey Kong 64/Instrument Refill.mmrs",
+    "preview": "Donkey Kong 64/Instrument Refill.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
