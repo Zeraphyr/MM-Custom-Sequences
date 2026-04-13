@@ -34483,5 +34483,24 @@
     "file": "Donkey Kong 64/DK Isles.mmrs",
     "preview": "Donkey Kong 64/DK Isles.ogg"
   },
+  {
+    "uuid": "be3573dd-bc82-47e1-baba-3eddc6fbe6f8",
+    "creationDate": "2026-04-13T22:30:33.576Z",
+    "game": "Donkey Kong 64",
+    "song": "Frantic Factory",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Donkey Kong 64/Frantic Factory.mmrs",
+    "preview": "Donkey Kong 64/Frantic Factory.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
