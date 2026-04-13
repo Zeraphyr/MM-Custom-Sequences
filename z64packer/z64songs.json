@@ -34868,5 +34868,25 @@
     "file": "Dragon Quest IX Sentinels of the Starry Skies/Surprise!.mmrs",
     "preview": "Dragon Quest IX Sentinels of the Starry Skies/Surprise!.ogg"
   },
+  {
+    "uuid": "e8c0ec47-f37b-4bc5-9582-56415d33303b",
+    "creationDate": "2026-04-13T22:53:58.405Z",
+    "game": "Deltarune",
+    "song": "Dialtone",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Deltarune/Dialtone.mmrs",
+    "preview": "Deltarune/Dialtone.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
