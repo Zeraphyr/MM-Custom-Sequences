@@ -34521,5 +34521,25 @@
     "file": "Donkey Kong 64/Rabbit Race.mmrs",
     "preview": "Donkey Kong 64/Rabbit Race.ogg"
   },
+  {
+    "uuid": "04dff278-aae6-439d-a593-bbe587939704",
+    "creationDate": "2026-04-13T22:34:17.199Z",
+    "game": "Donkey Kong 64",
+    "song": "Hideout Helm (Bonus Barrel)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Donkey Kong 64/Hideout Helm (Bonus Barrel).mmrs",
+    "preview": "Donkey Kong 64/Hideout Helm (Bonus Barrel).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
