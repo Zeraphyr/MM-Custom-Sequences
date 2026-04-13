@@ -34791,5 +34791,24 @@
     "file": "Dragon Quest IX Sentinels of the Starry Skies/Mission Begins.mmrs",
     "preview": "Dragon Quest IX Sentinels of the Starry Skies/Mission Begins.ogg"
   },
+  {
+    "uuid": "7bf7f96c-0e9c-421d-b692-bf9b3db6f162",
+    "creationDate": "2026-04-13T22:50:01.023Z",
+    "game": "Dragon Quest IX: Sentinels of the Starry Skies",
+    "song": "New Party Member",
+    "composers": [
+      "Koichi Sugiyama"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Dragon Quest IX Sentinels of the Starry Skies/New Party Member.mmrs",
+    "preview": "Dragon Quest IX Sentinels of the Starry Skies/New Party Member.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
