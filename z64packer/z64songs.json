@@ -34753,5 +34753,24 @@
     "file": "Dragon Quest IX Sentinels of the Starry Skies/Level Up.mmrs",
     "preview": "Dragon Quest IX Sentinels of the Starry Skies/Level Up.ogg"
   },
+  {
+    "uuid": "127851f7-025f-46ae-b629-cb6d5ff250d1",
+    "creationDate": "2026-04-13T22:47:36.399Z",
+    "game": "Dragon Quest IX: Sentinels of the Starry Skies",
+    "song": "Mini Medal Obtained",
+    "composers": [
+      "Koichi Sugiyama"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Dragon Quest IX Sentinels of the Starry Skies/Mini Medal Obtained.mmrs",
+    "preview": "Dragon Quest IX Sentinels of the Starry Skies/Mini Medal Obtained.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
