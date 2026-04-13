@@ -34560,5 +34560,25 @@
     "file": "Donkey Kong 64/Instrument Refill.mmrs",
     "preview": "Donkey Kong 64/Instrument Refill.ogg"
   },
+  {
+    "uuid": "e88a4ff3-e643-4a1e-99e0-b3e07c0b1ae9",
+    "creationDate": "2026-04-13T22:35:27.367Z",
+    "game": "Donkey Kong 64",
+    "song": "Pause Menu",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Donkey Kong 64/Pause Menu.mmrs",
+    "preview": "Donkey Kong 64/Pause Menu.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
