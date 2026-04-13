@@ -34848,5 +34848,25 @@
     "file": "Dragon Quest IX Sentinels of the Starry Skies/Precious Item Found.mmrs",
     "preview": "Dragon Quest IX Sentinels of the Starry Skies/Precious Item Found.ogg"
   },
+  {
+    "uuid": "d1f3d2e1-c09b-4afd-96e1-f6727aeb1e9a",
+    "creationDate": "2026-04-13T22:52:58.820Z",
+    "game": "Dragon Quest IX: Sentinels of the Starry Skies",
+    "song": "Surprise!",
+    "composers": [
+      "Koichi Sugiyama"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Dragon Quest IX Sentinels of the Starry Skies/Surprise!.mmrs",
+    "preview": "Dragon Quest IX Sentinels of the Starry Skies/Surprise!.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
