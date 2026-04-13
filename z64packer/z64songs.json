@@ -34092,5 +34092,23 @@
     "file": "Dark Cloud 2/Battle in the Dark.mmrs",
     "preview": "Dark Cloud 2/Battle in the Dark.ogg"
   },
+  {
+    "uuid": "ff027c9d-98a1-4b29-8eb3-4d52092b3600",
+    "creationDate": "2026-04-13T22:10:45.956Z",
+    "game": "Dark Cloud 2",
+    "song": "Losing Consciousness",
+    "composers": [
+      "Tomohito Nishiura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "file": "Dark Cloud 2/Losing Consciousness.mmrs",
+    "preview": "Dark Cloud 2/Losing Consciousness.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
