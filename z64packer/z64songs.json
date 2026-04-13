@@ -34445,5 +34445,24 @@
     "file": "Donkey Kong 64/Krem Isle.mmrs",
     "preview": "Donkey Kong 64/Krem Isle.ogg"
   },
+  {
+    "uuid": "d73672da-e93d-4d04-89dc-37b297fd2d9c",
+    "creationDate": "2026-04-13T22:28:47.443Z",
+    "game": "Donkey Kong 64",
+    "song": "Rocketbarrel Boost",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Donkey Kong 64/Rocketbarrel Boost.mmrs",
+    "preview": "Donkey Kong 64/Rocketbarrel Boost.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
