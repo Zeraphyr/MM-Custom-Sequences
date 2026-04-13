@@ -34677,5 +34677,24 @@
     "file": "Dragon Quest IX Sentinels of the Starry Skies/Defeated.mmrs",
     "preview": "Dragon Quest IX Sentinels of the Starry Skies/Defeated.ogg"
   },
+  {
+    "uuid": "3c5d9bba-e0ee-4b0a-8ed1-82cb30be511b",
+    "creationDate": "2026-04-13T22:44:15.574Z",
+    "game": "Dragon Quest IX: Sentinels of the Starry Skies",
+    "song": "Fanfare",
+    "composers": [
+      "Koichi Sugiyama"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Dragon Quest IX Sentinels of the Starry Skies/Fanfare.mmrs",
+    "preview": "Dragon Quest IX Sentinels of the Starry Skies/Fanfare.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
