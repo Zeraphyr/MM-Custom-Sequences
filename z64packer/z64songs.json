@@ -34268,5 +34268,23 @@
     "file": "Doki Doki Panic/Intro.mmrs",
     "preview": "Doki Doki Panic/Intro.ogg"
   },
+  {
+    "uuid": "ef715f36-b02a-49eb-a884-0c62d71b7dad",
+    "creationDate": "2026-04-13T22:18:45.526Z",
+    "game": "Doki Doki Panic",
+    "song": "Star",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "file": "Doki Doki Panic/Star.mmrs",
+    "preview": "Doki Doki Panic/Star.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
