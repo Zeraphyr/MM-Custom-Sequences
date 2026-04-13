@@ -34640,5 +34640,24 @@
     "file": "Dragon Quest IX Sentinels of the Starry Skies/Church Treatment.mmrs",
     "preview": "Dragon Quest IX Sentinels of the Starry Skies/Church Treatment.ogg"
   },
+  {
+    "uuid": "9cdf1f80-9630-4a09-b747-46ed925fe1ee",
+    "creationDate": "2026-04-13T22:40:48.292Z",
+    "game": "Dragon Quest IX: Sentinels of the Starry Skies",
+    "song": "Cursed Equipment",
+    "composers": [
+      "Koichi Sugiyama"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Dragon Quest IX Sentinels of the Starry Skies/Cursed Equipment.mmrs",
+    "preview": "Dragon Quest IX Sentinels of the Starry Skies/Cursed Equipment.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
