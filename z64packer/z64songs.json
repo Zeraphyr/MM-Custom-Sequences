@@ -34601,5 +34601,25 @@
     "file": "Donkey Kong 64/Tag Barrel.mmrs",
     "preview": "Donkey Kong 64/Tag Barrel.ogg"
   },
+  {
+    "uuid": "54fd6803-9d08-4e55-8b59-793286a60f54",
+    "creationDate": "2026-04-13T22:37:53.000Z",
+    "game": "Zelda 64: Dawn & Dusk",
+    "song": "Intro",
+    "composers": [
+      "Unknown"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16",
+      "157"
+    ],
+    "file": "Zelda 64 Dawn & Dusk/Intro.mmrs",
+    "preview": "Zelda 64 Dawn & Dusk/Intro.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
