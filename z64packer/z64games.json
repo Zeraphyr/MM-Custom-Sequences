@@ -320,6 +320,7 @@
   },
   {
     "game": "Dark Cloud",
+    "series": "Dark Cloud Series",
     "logo": "https://i.imgur.com/4kZSzUk.png"
   },
   {
@@ -3370,16 +3371,22 @@
     "short_name": "Bug Fables"
   },
   {
-    "game": "Dark Cloud 2"
+    "game": "Dark Cloud 2",
+    "series": "Dark Cloud Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/194a988102edcd4b67accb0110e20fd3.png"
   },
   {
-    "game": "Digimon World"
+    "game": "Digimon World",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/04e874a9b62747383e22ed9992eec4ab.png"
   },
   {
-    "game": "Doki Doki Panic"
+    "game": "Doki Doki Panic",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/358680ef4f169bc21f0eec123b85119d.png"
   },
   {
-    "game": "Discord"
+    "game": "Discord",
+    "series": "Consoles and BIOS",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/82dc5258e8cf752bf0615f6bb29388a1.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
