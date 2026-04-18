@@ -35341,5 +35341,24 @@
     "file": "Final Fantasy II/Get Important Item.mmrs",
     "preview": "Final Fantasy II/Get Important Item.ogg"
   },
+  {
+    "uuid": "46e711a9-0849-4b75-aa35-b2a28dd5db2c",
+    "creationDate": "2026-04-18T16:34:24.996Z",
+    "game": "Final Fantasy II",
+    "song": "Normal Battle",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Final Fantasy II/Normal Battle.mmrs",
+    "preview": "Final Fantasy II/Normal Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
