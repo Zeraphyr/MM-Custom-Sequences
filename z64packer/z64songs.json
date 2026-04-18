@@ -36586,5 +36586,24 @@
     "file": "Golden Sun Dark Dawn/Saving the Game.mmrs",
     "preview": "Golden Sun Dark Dawn/Saving the Game.ogg"
   },
+  {
+    "uuid": "babcd4ed-48f6-4844-841c-21f88e372733",
+    "creationDate": "2026-04-18T17:54:22.463Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "Sequence Clear",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Golden Sun Dark Dawn/Sequence Clear.mmrs",
+    "preview": "Golden Sun Dark Dawn/Sequence Clear.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
