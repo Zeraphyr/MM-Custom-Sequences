@@ -35543,5 +35543,26 @@
     "file": "Final Fantasy X/Blitzball Gamblers.mmrs",
     "preview": "Final Fantasy X/Blitzball Gamblers.ogg"
   },
+  {
+    "uuid": "0bb23b94-9911-4335-8f9d-768a613a750f",
+    "creationDate": "2026-04-18T16:42:41.865Z",
+    "game": "Final Fantasy X",
+    "song": "Brave Advancement",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "and Junya Nakano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Final Fantasy X/Brave Advancement.mmrs",
+    "preview": "Final Fantasy X/Brave Advancement.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
