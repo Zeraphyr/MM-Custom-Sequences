@@ -35322,5 +35322,24 @@
     "file": "Fire Emblem Fates/Lost in the Waves.mmrs",
     "preview": "Fire Emblem Fates/Lost in the Waves.ogg"
   },
+  {
+    "uuid": "c7bf324d-858b-47ca-81d6-c2749ed13b91",
+    "creationDate": "2026-04-18T16:33:43.700Z",
+    "game": "Final Fantasy II",
+    "song": "Get Important Item",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Final Fantasy II/Get Important Item.mmrs",
+    "preview": "Final Fantasy II/Get Important Item.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
