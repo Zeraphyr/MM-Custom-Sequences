@@ -36151,5 +36151,29 @@
     "file": "Final Fantasy XII/Salika Woods.mmrs",
     "preview": "Final Fantasy XII/Salika Woods.ogg"
   },
+  {
+    "uuid": "5297a2bc-f92e-4e7f-82a9-7cbe9559b096",
+    "creationDate": "2026-04-18T17:13:44.511Z",
+    "game": "Final Fantasy X",
+    "song": "Song of Fayth",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "Junya Nakano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "16F",
+      "111",
+      "157"
+    ],
+    "file": "Final Fantasy X/Song of Fayth.mmrs",
+    "preview": "Final Fantasy X/Song of Fayth.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
