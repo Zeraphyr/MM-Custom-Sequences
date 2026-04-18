@@ -36490,5 +36490,25 @@
     "file": "Golden Sun/Babi Lighthouse.mmrs",
     "preview": "Golden Sun/Babi Lighthouse.ogg"
   },
+  {
+    "uuid": "20c842b0-a29f-46cb-916d-23406e586321",
+    "creationDate": "2026-04-18T17:48:57.086Z",
+    "game": "Golden Sun",
+    "song": "Battle Theme (Remix)",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Golden Sun/Battle Theme (Remix).mmrs",
+    "preview": "Golden Sun/Battle Theme (Remix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
