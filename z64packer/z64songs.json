@@ -36906,5 +36906,24 @@
     "file": "Golden Sun/An Adept's Home  Vale.mmrs",
     "preview": "Golden Sun/An Adept's Home  Vale.ogg"
   },
+  {
+    "uuid": "ba4c8325-ebe4-45c6-8002-90dc29e3858d",
+    "creationDate": "2026-04-18T18:11:43.808Z",
+    "game": "Golden Sun",
+    "song": "Victory",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Golden Sun/Victory.mmrs",
+    "preview": "Golden Sun/Victory.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
