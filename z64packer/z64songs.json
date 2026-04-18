@@ -35455,5 +35455,25 @@
     "file": "Final Fantasy VI/Searching for Friends.mmrs",
     "preview": "Final Fantasy VI/Searching for Friends.ogg"
   },
+  {
+    "uuid": "3649d8eb-fdc9-4ade-898f-52e788a3d228",
+    "creationDate": "2026-04-18T16:39:18.993Z",
+    "game": "Final Fantasy VII",
+    "song": "Gold Saucer",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "16"
+    ],
+    "file": "Final Fantasy VII/Gold Saucer.mmrs",
+    "preview": "Final Fantasy VII/Gold Saucer.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
