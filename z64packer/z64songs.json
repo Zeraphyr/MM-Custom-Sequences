@@ -36106,5 +36106,29 @@
     "file": "Final Fantasy X-2/1000 Words.mmrs",
     "preview": "Final Fantasy X-2/1000 Words.ogg"
   },
+  {
+    "uuid": "25dea1e8-ed86-4479-b545-1d08c24801fb",
+    "creationDate": "2026-04-18T17:11:53.275Z",
+    "game": "Final Fantasy X",
+    "song": "Auron's Theme",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "Junya Nakano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Final Fantasy X/Auron's Theme.mmrs",
+    "preview": "Final Fantasy X/Auron's Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
