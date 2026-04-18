@@ -35278,5 +35278,25 @@
     "file": "Fire Emblem Awakening/But, Frederick, It's Nearly Dark!.mmrs",
     "preview": "Fire Emblem Awakening/But, Frederick, It's Nearly Dark!.ogg"
   },
+  {
+    "uuid": "5c9c11d0-fd12-4ff9-b6c5-4f4bb0ac22a1",
+    "creationDate": "2026-04-18T16:31:14.176Z",
+    "game": "Fire Emblem: Awakening",
+    "song": "Id (Serenity)",
+    "composers": [
+      "Hiroki Morishita"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Fire Emblem Awakening/Id (Serenity).mmrs",
+    "preview": "Fire Emblem Awakening/Id (Serenity).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
