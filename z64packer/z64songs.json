@@ -35987,5 +35987,24 @@
     "file": "Final Fantasy Crystal Chronicles Ring of Fates/Victory Theme.mmrs",
     "preview": "Final Fantasy Crystal Chronicles Ring of Fates/Victory Theme.ogg"
   },
+  {
+    "uuid": "98603558-5e42-4e2f-a2e0-4514e2754ff0",
+    "creationDate": "2026-04-18T17:04:12.924Z",
+    "game": "Final Fantasy Crystal Chronicles: Ring of Fates",
+    "song": "World Map",
+    "composers": [
+      "Kumi Tanioka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6"
+    ],
+    "file": "Final Fantasy Crystal Chronicles Ring of Fates/World Map.mmrs",
+    "preview": "Final Fantasy Crystal Chronicles Ring of Fates/World Map.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
