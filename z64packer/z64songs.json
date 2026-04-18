@@ -36605,5 +36605,26 @@
     "file": "Golden Sun Dark Dawn/Sequence Clear.mmrs",
     "preview": "Golden Sun Dark Dawn/Sequence Clear.ogg"
   },
+  {
+    "uuid": "a00db81c-efd9-4ada-88b1-d57188e266b6",
+    "creationDate": "2026-04-18T17:54:57.147Z",
+    "game": "Golden Sun",
+    "song": "Flooded Altin",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Golden Sun/Flooded Altin.mmrs",
+    "preview": "Golden Sun/Flooded Altin.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
