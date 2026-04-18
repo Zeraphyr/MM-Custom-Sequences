@@ -36691,5 +36691,25 @@
     "file": "Golden Sun/Ivan's Theme.mmrs",
     "preview": "Golden Sun/Ivan's Theme.ogg"
   },
+  {
+    "uuid": "13d64d5b-840b-4f11-a6f3-3dde19bff73c",
+    "creationDate": "2026-04-18T18:02:48.008Z",
+    "game": "Golden Sun",
+    "song": "Kolima Forest",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Golden Sun/Kolima Forest.mmrs",
+    "preview": "Golden Sun/Kolima Forest.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
