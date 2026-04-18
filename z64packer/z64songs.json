@@ -37227,5 +37227,29 @@
     "file": "Harvest Moon Back to Nature/Winter.mmrs",
     "preview": "Harvest Moon Back to Nature/Winter.ogg"
   },
+  {
+    "uuid": "7ddc229e-742e-4b81-9293-2cc9add5c495",
+    "creationDate": "2026-04-18T22:36:24.380Z",
+    "game": "A Hat in Time",
+    "song": "Subcon Forest (Alpha ver.)",
+    "composers": [
+      "Pascal Michael Stiefel"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6",
+      "16",
+      "157"
+    ],
+    "file": "A Hat in Time/Subcon Forest (Alpha ver.).mmrs",
+    "preview": "A Hat in Time/Subcon Forest (Alpha ver.).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
