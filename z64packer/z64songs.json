@@ -36334,5 +36334,24 @@
     "file": "Getsu Fūma Den/Overworld.mmrs",
     "preview": "Getsu Fūma Den/Overworld.ogg"
   },
+  {
+    "uuid": "f2b82522-cdbf-4581-a60b-30ac834f9c18",
+    "creationDate": "2026-04-18T17:42:20.566Z",
+    "game": "Golden Sun",
+    "song": "Battle (Variant B)",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Golden Sun/Battle (Variant B).mmrs",
+    "preview": "Golden Sun/Battle (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
