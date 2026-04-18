@@ -36430,5 +36430,24 @@
     "file": "Golden Sun The Lost Age/Overworld Theme.mmrs",
     "preview": "Golden Sun The Lost Age/Overworld Theme.ogg"
   },
+  {
+    "uuid": "9f88cedb-b8fd-468d-947a-4fe328d08e37",
+    "creationDate": "2026-04-18T17:46:45.444Z",
+    "game": "Golden Sun",
+    "song": "Altin Caves",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "13B"
+    ],
+    "file": "Golden Sun/Altin Caves.mmrs",
+    "preview": "Golden Sun/Altin Caves.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
