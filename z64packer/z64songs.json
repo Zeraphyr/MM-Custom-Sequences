@@ -35754,5 +35754,25 @@
     "file": "Final Fantasy XII/Giza Plains.mmrs",
     "preview": "Final Fantasy XII/Giza Plains.ogg"
   },
+  {
+    "uuid": "83460870-7318-4a80-aeeb-ff4ae0092875",
+    "creationDate": "2026-04-18T16:51:07.965Z",
+    "game": "Final Fantasy XIII",
+    "song": "Victory",
+    "composers": [
+      "Masashi Hamauzu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Final Fantasy XIII/Victory.mmrs",
+    "preview": "Final Fantasy XIII/Victory.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
