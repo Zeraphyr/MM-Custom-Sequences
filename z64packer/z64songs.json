@@ -35475,5 +35475,29 @@
     "file": "Final Fantasy VII/Gold Saucer.mmrs",
     "preview": "Final Fantasy VII/Gold Saucer.ogg"
   },
+  {
+    "uuid": "dc2a12f5-a339-4ee8-b9cf-ff85f6a6f34c",
+    "creationDate": "2026-04-18T16:40:15.784Z",
+    "game": "Final Fantasy X",
+    "song": "Assault",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "Junya Nakano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "157"
+    ],
+    "file": "Final Fantasy X/Assault.mmrs",
+    "preview": "Final Fantasy X/Assault.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
