@@ -36510,5 +36510,24 @@
     "file": "Golden Sun/Battle Theme (Remix).mmrs",
     "preview": "Golden Sun/Battle Theme (Remix).ogg"
   },
+  {
+    "uuid": "cc556a0b-10fd-4d3f-95a3-276ebdbf6ea6",
+    "creationDate": "2026-04-18T17:49:39.223Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "Get Djinn",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Golden Sun Dark Dawn/Get Djinn.mmrs",
+    "preview": "Golden Sun Dark Dawn/Get Djinn.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
