@@ -35397,5 +35397,24 @@
     "file": "Final Fantasy III/Victory.mmrs",
     "preview": "Final Fantasy III/Victory.ogg"
   },
+  {
+    "uuid": "809756af-2347-4e9a-9389-f068271d07f7",
+    "creationDate": "2026-04-18T16:36:48.801Z",
+    "game": "Final Fantasy VI",
+    "song": "Decisive Battle",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Final Fantasy VI/Decisive Battle.mmrs",
+    "preview": "Final Fantasy VI/Decisive Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
