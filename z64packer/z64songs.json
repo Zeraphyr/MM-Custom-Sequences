@@ -36235,5 +36235,26 @@
     "file": "Pokémon Fire Red Team Rocket Edition/Boss Battle.mmrs",
     "preview": "Pokémon Fire Red Team Rocket Edition/Boss Battle.ogg"
   },
+  {
+    "uuid": "15531372-7c1a-4b2c-8b4b-23a4d4347de4",
+    "creationDate": "2026-04-18T17:17:32.036Z",
+    "game": "Pokémon Fire Red: Team Rocket Edition",
+    "song": "Cinnabar Island (Glitched ver.)",
+    "composers": [
+      "Magnus Nyborg Berg"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Pokémon Fire Red Team Rocket Edition/Cinnabar Island (Glitched ver.).mmrs",
+    "preview": "Pokémon Fire Red Team Rocket Edition/Cinnabar Island (Glitched ver.).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
