@@ -35201,5 +35201,24 @@
     "file": "Fire Emblem Genealogy of the Holy War/Fanfare (Short).mmrs",
     "preview": "Fire Emblem Genealogy of the Holy War/Fanfare (Short).ogg"
   },
+  {
+    "uuid": "21b3da01-d169-4bb2-b656-fc31d5b4af15",
+    "creationDate": "2026-04-18T16:27:59.351Z",
+    "game": "Fire Emblem: Genealogy of the Holy War",
+    "song": "Ally Attack",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Fire Emblem Genealogy of the Holy War/Ally Attack.mmrs",
+    "preview": "Fire Emblem Genealogy of the Holy War/Ally Attack.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
