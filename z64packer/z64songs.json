@@ -26530,7 +26530,7 @@
     "uuid": "68f90bef-527e-48c0-b8f1-f6118fb47f56",
     "creationDate": "2026-04-02T01:31:18.573Z",
     "game": "Golden Sun: The Lost Age",
-    "song": "Battle (Jenna)",
+    "song": "Battle (Jenna) Variant A",
     "composers": [
       "Motoi Sakuraba"
     ],
@@ -26547,9 +26547,7 @@
     ],
     "file": "Golden Sun The Lost Age/Battle (Jenna).mmrs",
     "preview": "Golden Sun The Lost Age/Battle (Jenna).mp3",
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
+    "lastUpdateDate": "2026-04-18T18:35:40.260Z"
   },
   {
     "uuid": "06133e05-5e1a-459e-98a1-d86dbdadf3bc",
