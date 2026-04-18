@@ -36006,5 +36006,24 @@
     "file": "Final Fantasy Crystal Chronicles Ring of Fates/World Map.mmrs",
     "preview": "Final Fantasy Crystal Chronicles Ring of Fates/World Map.ogg"
   },
+  {
+    "uuid": "b04c2f48-f52d-4dd9-81ce-2a28ad2aa2e6",
+    "creationDate": "2026-04-18T17:05:17.050Z",
+    "game": "Final Fantasy Crystal Chronicles",
+    "song": "Serenity",
+    "composers": [
+      "Kumi Tanioka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Final Fantasy Crystal Chronicles/Serenity.mmrs",
+    "preview": "Final Fantasy Crystal Chronicles/Serenity.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
