@@ -35673,5 +35673,30 @@
     "file": "Final Fantasy X/Thunder Plains.mmrs",
     "preview": "Final Fantasy X/Thunder Plains.ogg"
   },
+  {
+    "uuid": "c0f8404b-af1a-48b7-969e-1aebde94587a",
+    "creationDate": "2026-04-18T16:47:11.123Z",
+    "game": "Final Fantasy X",
+    "song": "Twilight",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "and Junya Nakano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6",
+      "157"
+    ],
+    "file": "Final Fantasy X/Twilight.mmrs",
+    "preview": "Final Fantasy X/Twilight.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
