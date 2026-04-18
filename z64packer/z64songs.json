@@ -36791,5 +36791,25 @@
     "file": "Golden Sun/Saturos Menardi Battle.mmrs",
     "preview": "Golden Sun/Saturos Menardi Battle.ogg"
   },
+  {
+    "uuid": "d4ad1045-9a44-466c-a00b-f6b5b3483f11",
+    "creationDate": "2026-04-18T18:06:53.469Z",
+    "game": "Golden Sun",
+    "song": "Saturos Menardi Encounter",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "Golden Sun/Saturos Menardi Encounter.mmrs",
+    "preview": "Golden Sun/Saturos Menardi Encounter.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
