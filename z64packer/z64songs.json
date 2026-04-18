@@ -35220,5 +35220,25 @@
     "file": "Fire Emblem Genealogy of the Holy War/Ally Attack.mmrs",
     "preview": "Fire Emblem Genealogy of the Holy War/Ally Attack.ogg"
   },
+  {
+    "uuid": "5e66c6cd-687e-4393-99a5-726446388584",
+    "creationDate": "2026-04-18T16:28:37.713Z",
+    "game": "Fire Emblem: Genealogy of the Holy War",
+    "song": "Lady of the Forest",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Fire Emblem Genealogy of the Holy War/Lady of the Forest.mmrs",
+    "preview": "Fire Emblem Genealogy of the Holy War/Lady of the Forest.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
