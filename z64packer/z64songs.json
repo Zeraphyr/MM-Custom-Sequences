@@ -37271,5 +37271,25 @@
     "preview": "A Hat in Time/Main Theme (Alternatev ver.).ogg",
     "lastUpdateDate": "2026-04-18T22:37:24.588Z"
   },
+  {
+    "uuid": "05c5483b-503e-433b-a44d-17b557f90aba",
+    "creationDate": "2026-04-18T22:38:14.305Z",
+    "game": "A Hat in Time",
+    "song": "Mustache Girl EX",
+    "composers": [
+      "Pascal Michael Stiefel"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "5",
+      "7"
+    ],
+    "file": "A Hat in Time/Mustache Girl EX.mmrs",
+    "preview": "A Hat in Time/Mustache Girl EX.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
