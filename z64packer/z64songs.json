@@ -36868,5 +36868,24 @@
     "file": "Golden Sun/Tolbi Docks.mmrs",
     "preview": "Golden Sun/Tolbi Docks.ogg"
   },
+  {
+    "uuid": "bb877d1e-cf9f-4be3-a996-fdf050a57ed5",
+    "creationDate": "2026-04-18T18:09:47.277Z",
+    "game": "Golden Sun",
+    "song": "Trouble Encounter",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "file": "Golden Sun/Trouble Encounter.mmrs",
+    "preview": "Golden Sun/Trouble Encounter.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
