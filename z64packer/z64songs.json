@@ -35698,5 +35698,25 @@
     "file": "Final Fantasy X/Twilight.mmrs",
     "preview": "Final Fantasy X/Twilight.ogg"
   },
+  {
+    "uuid": "d8939a4f-6d9a-44ef-87be-309ff480bc4a",
+    "creationDate": "2026-04-18T16:48:29.721Z",
+    "game": "Final Fantasy XII",
+    "song": "Chocobo Theme",
+    "composers": [
+      "Hitoshi Sakimoto"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Final Fantasy XII/Chocobo Theme.mmrs",
+    "preview": "Final Fantasy XII/Chocobo Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
