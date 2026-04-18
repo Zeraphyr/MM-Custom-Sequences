@@ -36887,5 +36887,24 @@
     "file": "Golden Sun/Trouble Encounter.mmrs",
     "preview": "Golden Sun/Trouble Encounter.ogg"
   },
+  {
+    "uuid": "979dac90-8188-4c89-a68a-a1f663522625",
+    "creationDate": "2026-04-18T18:11:04.521Z",
+    "game": "Golden Sun",
+    "song": "An Adept's Home / Vale",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Golden Sun/An Adept's Home  Vale.mmrs",
+    "preview": "Golden Sun/An Adept's Home  Vale.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
