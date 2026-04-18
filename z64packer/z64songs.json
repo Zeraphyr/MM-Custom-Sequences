@@ -26555,7 +26555,7 @@
     "uuid": "06133e05-5e1a-459e-98a1-d86dbdadf3bc",
     "creationDate": "2026-04-02T01:33:20.438Z",
     "game": "Golden Sun",
-    "song": "Battle",
+    "song": "Battle (Variant A)",
     "composers": [
       "Motoi Sakuraba"
     ],
@@ -26572,9 +26572,7 @@
     ],
     "file": "Golden Sun/Battle.mmrs",
     "preview": "Golden Sun/Battle.mp3",
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
+    "lastUpdateDate": "2026-04-18T17:42:37.934Z"
   },
   {
     "uuid": "bd9caa87-52d1-4625-a2d0-b0958b2eedb9",
@@ -35062,6 +35060,1870 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
+  },
+  {
+    "uuid": "1871e89d-08b6-4332-b2e8-2ae6181080d4",
+    "creationDate": "2026-04-18T16:16:19.237Z",
+    "game": "Etrian Odyssey II: Heroes of Lagaard",
+    "song": "The First Battle",
+    "composers": [
+      "Yuzo Koshiro"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Etrian Odyssey II Heroes of Lagaard/The First Battle.mmrs",
+    "preview": "Etrian Odyssey II Heroes of Lagaard/The First Battle.ogg"
+  },
+  {
+    "uuid": "6b4581cc-9f35-455a-bbfe-7fcff2a48eba",
+    "creationDate": "2026-04-18T16:18:20.770Z",
+    "game": "Etrian Odyssey",
+    "song": "Saving",
+    "composers": [
+      "Yuzo Koshiro"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Etrian Odyssey/Saving.mmrs",
+    "preview": "Etrian Odyssey/Saving.ogg"
+  },
+  {
+    "uuid": "af8fbfd6-e85a-4bf8-9090-7aa386706c19",
+    "creationDate": "2026-04-18T16:19:53.951Z",
+    "game": "Etrian Odyssey",
+    "song": "Initial Strike (Battle ~ Initial Strike FM ver.)",
+    "composers": [
+      "Yuzo Koshiro"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Etrian Odyssey/Initial Strike (Battle ~ Initial Strike FM ver.).mmrs",
+    "preview": "Etrian Odyssey/Initial Strike (Battle ~ Initial Strike FM ver.).ogg"
+  },
+  {
+    "uuid": "1d8a441a-29e4-455c-9e2c-fa4dac5b5168",
+    "creationDate": "2026-04-18T16:23:44.775Z",
+    "game": "Etrian Odyssey III: The Drowned City",
+    "song": "The First Campaign",
+    "composers": [
+      "Yuzo Koshiro"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Etrian Odyssey III The Drowned City/The First Campaign.mmrs",
+    "preview": "Etrian Odyssey III The Drowned City/The First Campaign.ogg"
+  },
+  {
+    "uuid": "f32586b5-3595-4fdb-93df-c404fb9f11de",
+    "creationDate": "2026-04-18T16:25:17.744Z",
+    "game": "Fable II",
+    "song": "Down by the Reeds",
+    "composers": [
+      "Russell Shaw"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Fable II/Down by the Reeds.mmrs",
+    "preview": "Fable II/Down by the Reeds.ogg"
+  },
+  {
+    "uuid": "7fac3a00-3cbb-4041-8b95-6598b0e6218d",
+    "creationDate": "2026-04-18T16:26:12.581Z",
+    "game": "Fable",
+    "song": "Temple of Light",
+    "composers": [
+      "Russell Shaw"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Fable/Temple of Light.mmrs",
+    "preview": "Fable/Temple of Light.ogg"
+  },
+  {
+    "uuid": "ac6e3291-449f-43b3-9bbe-255833665fa2",
+    "creationDate": "2026-04-18T16:27:21.915Z",
+    "game": "Fire Emblem: Genealogy of the Holy War",
+    "song": "Fanfare (Short)",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Fire Emblem Genealogy of the Holy War/Fanfare (Short).mmrs",
+    "preview": "Fire Emblem Genealogy of the Holy War/Fanfare (Short).ogg"
+  },
+  {
+    "uuid": "21b3da01-d169-4bb2-b656-fc31d5b4af15",
+    "creationDate": "2026-04-18T16:27:59.351Z",
+    "game": "Fire Emblem: Genealogy of the Holy War",
+    "song": "Ally Attack",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Fire Emblem Genealogy of the Holy War/Ally Attack.mmrs",
+    "preview": "Fire Emblem Genealogy of the Holy War/Ally Attack.ogg"
+  },
+  {
+    "uuid": "5e66c6cd-687e-4393-99a5-726446388584",
+    "creationDate": "2026-04-18T16:28:37.713Z",
+    "game": "Fire Emblem: Genealogy of the Holy War",
+    "song": "Lady of the Forest",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Fire Emblem Genealogy of the Holy War/Lady of the Forest.mmrs",
+    "preview": "Fire Emblem Genealogy of the Holy War/Lady of the Forest.ogg"
+  },
+  {
+    "uuid": "d77c0ecf-2218-4c0d-843a-c2c24e714d96",
+    "creationDate": "2026-04-18T16:29:13.765Z",
+    "game": "Fire Emblem: Genealogy of the Holy War",
+    "song": "Level Up",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "121"
+    ],
+    "file": "Fire Emblem Genealogy of the Holy War/Level Up.mmrs",
+    "preview": "Fire Emblem Genealogy of the Holy War/Level Up.ogg"
+  },
+  {
+    "uuid": "4f0b888d-7d8a-46cd-bd5c-3aad7e5980a3",
+    "creationDate": "2026-04-18T16:30:21.303Z",
+    "game": "Fire Emblem: Awakening",
+    "song": "But, Frederick, It's Nearly Dark!",
+    "composers": [
+      "Hiroki Morishita"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Fire Emblem Awakening/But, Frederick, It's Nearly Dark!.mmrs",
+    "preview": "Fire Emblem Awakening/But, Frederick, It's Nearly Dark!.ogg"
+  },
+  {
+    "uuid": "5c9c11d0-fd12-4ff9-b6c5-4f4bb0ac22a1",
+    "creationDate": "2026-04-18T16:31:14.176Z",
+    "game": "Fire Emblem: Awakening",
+    "song": "Id (Serenity)",
+    "composers": [
+      "Hiroki Morishita"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Fire Emblem Awakening/Id (Serenity).mmrs",
+    "preview": "Fire Emblem Awakening/Id (Serenity).ogg"
+  },
+  {
+    "uuid": "8a62bfbf-4a56-4d60-b5ea-eadb3128d13c",
+    "creationDate": "2026-04-18T16:32:59.276Z",
+    "game": "Fire Emblem: Fates",
+    "song": "Lost in the Waves",
+    "composers": [
+      "Hiroki Morishita",
+      "Takeru Kanazaki",
+      "Rei Kondoh",
+      "Masato Kouda",
+      "Yasuhisa Baba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Fire Emblem Fates/Lost in the Waves.mmrs",
+    "preview": "Fire Emblem Fates/Lost in the Waves.ogg"
+  },
+  {
+    "uuid": "c7bf324d-858b-47ca-81d6-c2749ed13b91",
+    "creationDate": "2026-04-18T16:33:43.700Z",
+    "game": "Final Fantasy II",
+    "song": "Get Important Item",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Final Fantasy II/Get Important Item.mmrs",
+    "preview": "Final Fantasy II/Get Important Item.ogg"
+  },
+  {
+    "uuid": "46e711a9-0849-4b75-aa35-b2a28dd5db2c",
+    "creationDate": "2026-04-18T16:34:24.996Z",
+    "game": "Final Fantasy II",
+    "song": "Normal Battle",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Final Fantasy II/Normal Battle.mmrs",
+    "preview": "Final Fantasy II/Normal Battle.ogg"
+  },
+  {
+    "uuid": "d62f1783-bc27-4bf1-98fb-8fe816275da8",
+    "creationDate": "2026-04-18T16:35:15.284Z",
+    "game": "Final Fantasy III",
+    "song": "Battle Theme",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Final Fantasy III/Battle Theme.mmrs",
+    "preview": "Final Fantasy III/Battle Theme.ogg"
+  },
+  {
+    "uuid": "6708cbe0-5a52-43f5-acff-6ac73f458d5b",
+    "creationDate": "2026-04-18T16:35:52.349Z",
+    "game": "Final Fantasy III",
+    "song": "Victory",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "121"
+    ],
+    "file": "Final Fantasy III/Victory.mmrs",
+    "preview": "Final Fantasy III/Victory.ogg"
+  },
+  {
+    "uuid": "809756af-2347-4e9a-9389-f068271d07f7",
+    "creationDate": "2026-04-18T16:36:48.801Z",
+    "game": "Final Fantasy VI",
+    "song": "Decisive Battle",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Final Fantasy VI/Decisive Battle.mmrs",
+    "preview": "Final Fantasy VI/Decisive Battle.ogg"
+  },
+  {
+    "uuid": "462203d1-bf1e-42a7-971c-7659cfda6101",
+    "creationDate": "2026-04-18T16:37:48.423Z",
+    "game": "Final Fantasy VI",
+    "song": "Decisive Battle (Rock Remix)",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Final Fantasy VI/Decisive Battle (Rock Remix).mmrs",
+    "preview": "Final Fantasy VI/Decisive Battle (Rock Remix).ogg"
+  },
+  {
+    "uuid": "0a1be50d-69fb-437d-a8be-3f07737992b9",
+    "creationDate": "2026-04-18T16:38:30.601Z",
+    "game": "Final Fantasy VI",
+    "song": "Searching for Friends",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Final Fantasy VI/Searching for Friends.mmrs",
+    "preview": "Final Fantasy VI/Searching for Friends.ogg"
+  },
+  {
+    "uuid": "3649d8eb-fdc9-4ade-898f-52e788a3d228",
+    "creationDate": "2026-04-18T16:39:18.993Z",
+    "game": "Final Fantasy VII",
+    "song": "Gold Saucer",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "16"
+    ],
+    "file": "Final Fantasy VII/Gold Saucer.mmrs",
+    "preview": "Final Fantasy VII/Gold Saucer.ogg"
+  },
+  {
+    "uuid": "dc2a12f5-a339-4ee8-b9cf-ff85f6a6f34c",
+    "creationDate": "2026-04-18T16:40:15.784Z",
+    "game": "Final Fantasy X",
+    "song": "Assault",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "Junya Nakano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "157"
+    ],
+    "file": "Final Fantasy X/Assault.mmrs",
+    "preview": "Final Fantasy X/Assault.ogg"
+  },
+  {
+    "uuid": "561ec3c9-f58c-424d-a246-6f10ff4c775c",
+    "creationDate": "2026-04-18T16:41:00.208Z",
+    "game": "Final Fantasy X",
+    "song": "Besaid Island",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "and Junya Nakano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "file": "Final Fantasy X/Besaid Island.mmrs",
+    "preview": "Final Fantasy X/Besaid Island.ogg"
+  },
+  {
+    "uuid": "28db7f76-6d04-4473-b9fc-ed1426de1446",
+    "creationDate": "2026-04-18T16:42:02.715Z",
+    "game": "Final Fantasy X",
+    "song": "Blitzball Gamblers",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "and Junya Nakano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "Final Fantasy X/Blitzball Gamblers.mmrs",
+    "preview": "Final Fantasy X/Blitzball Gamblers.ogg"
+  },
+  {
+    "uuid": "0bb23b94-9911-4335-8f9d-768a613a750f",
+    "creationDate": "2026-04-18T16:42:41.865Z",
+    "game": "Final Fantasy X",
+    "song": "Brave Advancement",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "and Junya Nakano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Final Fantasy X/Brave Advancement.mmrs",
+    "preview": "Final Fantasy X/Brave Advancement.ogg"
+  },
+  {
+    "uuid": "6870d0c2-d664-4d88-ac10-b75f89791697",
+    "creationDate": "2026-04-18T16:43:18.342Z",
+    "game": "Final Fantasy X",
+    "song": "Game Over",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "and Junya Nakano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Final Fantasy X/Game Over.mmrs",
+    "preview": "Final Fantasy X/Game Over.ogg"
+  },
+  {
+    "uuid": "b3e7ead6-7dc5-4d77-b63d-10c1ccbc917e",
+    "creationDate": "2026-04-18T16:44:10.469Z",
+    "game": "Final Fantasy X",
+    "song": "Listen to My Story",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "and Junya Nakano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16",
+      "157"
+    ],
+    "file": "Final Fantasy X/Listen to My Story.mmrs",
+    "preview": "Final Fantasy X/Listen to My Story.ogg"
+  },
+  {
+    "uuid": "c8486410-238e-4737-af17-74d0de967390",
+    "creationDate": "2026-04-18T16:44:59.238Z",
+    "game": "Final Fantasy X",
+    "song": "Normal Battle",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "and Junya Nakano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Final Fantasy X/Normal Battle.mmrs",
+    "preview": "Final Fantasy X/Normal Battle.ogg"
+  },
+  {
+    "uuid": "3608e4f7-d486-4f48-8d11-b03b441e0644",
+    "creationDate": "2026-04-18T16:45:50.073Z",
+    "game": "Final Fantasy X",
+    "song": "This is Your Story",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "and Junya Nakano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Final Fantasy X/This is Your Story.mmrs",
+    "preview": "Final Fantasy X/This is Your Story.ogg"
+  },
+  {
+    "uuid": "f1bcd79e-1cbd-4240-950e-155d39a812fe",
+    "creationDate": "2026-04-18T16:46:28.836Z",
+    "game": "Final Fantasy X",
+    "song": "Thunder Plains",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "and Junya Nakano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Final Fantasy X/Thunder Plains.mmrs",
+    "preview": "Final Fantasy X/Thunder Plains.ogg"
+  },
+  {
+    "uuid": "c0f8404b-af1a-48b7-969e-1aebde94587a",
+    "creationDate": "2026-04-18T16:47:11.123Z",
+    "game": "Final Fantasy X",
+    "song": "Twilight",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "and Junya Nakano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6",
+      "157"
+    ],
+    "file": "Final Fantasy X/Twilight.mmrs",
+    "preview": "Final Fantasy X/Twilight.ogg"
+  },
+  {
+    "uuid": "d8939a4f-6d9a-44ef-87be-309ff480bc4a",
+    "creationDate": "2026-04-18T16:48:29.721Z",
+    "game": "Final Fantasy XII",
+    "song": "Chocobo Theme",
+    "composers": [
+      "Hitoshi Sakimoto"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Final Fantasy XII/Chocobo Theme.mmrs",
+    "preview": "Final Fantasy XII/Chocobo Theme.ogg"
+  },
+  {
+    "uuid": "ff8d6875-7706-4a90-8c33-e7014925ceb6",
+    "creationDate": "2026-04-18T16:49:28.466Z",
+    "game": "Final Fantasy XII",
+    "song": "Game Over",
+    "composers": [
+      "Hitoshi Sakimoto"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "file": "Final Fantasy XII/Game Over.mmrs",
+    "preview": "Final Fantasy XII/Game Over.ogg"
+  },
+  {
+    "uuid": "b1913c8b-cb7f-4df2-8f18-00e28363791c",
+    "creationDate": "2026-04-18T16:50:04.637Z",
+    "game": "Final Fantasy XII",
+    "song": "Giza Plains",
+    "composers": [
+      "Hitoshi Sakimoto"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "file": "Final Fantasy XII/Giza Plains.mmrs",
+    "preview": "Final Fantasy XII/Giza Plains.ogg"
+  },
+  {
+    "uuid": "83460870-7318-4a80-aeeb-ff4ae0092875",
+    "creationDate": "2026-04-18T16:51:07.965Z",
+    "game": "Final Fantasy XIII",
+    "song": "Victory",
+    "composers": [
+      "Masashi Hamauzu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Final Fantasy XIII/Victory.mmrs",
+    "preview": "Final Fantasy XIII/Victory.ogg"
+  },
+  {
+    "uuid": "aab9b896-49c0-41bf-b2c5-a0fae97f4d58",
+    "creationDate": "2026-04-18T16:51:46.522Z",
+    "game": "Final Fantasy XIII-2",
+    "song": "Plains of Eternity",
+    "composers": [
+      "Masashi Hamauzu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Final Fantasy XIII-2/Plains of Eternity.mmrs",
+    "preview": "Final Fantasy XIII-2/Plains of Eternity.ogg"
+  },
+  {
+    "uuid": "5f3813fa-51e2-463b-847b-818c8c3bb2eb",
+    "creationDate": "2026-04-18T16:54:29.880Z",
+    "game": "Final Fantasy Adventure",
+    "song": "Mt. Illusia Palace",
+    "composers": [
+      "Kenji Ito"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "Final Fantasy Adventure/Mt. Illusia Palace.mmrs",
+    "preview": "Final Fantasy Adventure/Mt. Illusia Palace.ogg"
+  },
+  {
+    "uuid": "391e9594-e1d1-41a4-b833-c16a2261a1a3",
+    "creationDate": "2026-04-18T16:55:56.167Z",
+    "game": "Final Fantasy Adventure",
+    "song": "Second Overworld (Alternate Version)",
+    "composers": [
+      "Kenji Ito"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Final Fantasy Adventure/Second Overworld (Alternate Version).mmrs",
+    "preview": "Final Fantasy Adventure/Second Overworld (Alternate Version).ogg"
+  },
+  {
+    "uuid": "8ceee2eb-c8bc-4323-aeb1-d5156f8fd8e0",
+    "creationDate": "2026-04-18T16:57:08.143Z",
+    "game": "Final Fantasy Crystal Chronicles",
+    "song": "Daemon's Court",
+    "composers": [
+      "Kumi Tanioka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Final Fantasy Crystal Chronicles/Daemon's Court.mmrs",
+    "preview": "Final Fantasy Crystal Chronicles/Daemon's Court.ogg"
+  },
+  {
+    "uuid": "2c61cb2c-dd22-45ef-8c3e-c3cc366d5227",
+    "creationDate": "2026-04-18T16:57:56.926Z",
+    "game": "Final Fantasy Crystal Chronicles",
+    "song": "Echo of Memories",
+    "composers": [
+      "Kumi Tanioka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16",
+      "157"
+    ],
+    "file": "Final Fantasy Crystal Chronicles/Echo of Memories.mmrs",
+    "preview": "Final Fantasy Crystal Chronicles/Echo of Memories.ogg"
+  },
+  {
+    "uuid": "b142cc42-fb70-4817-a426-db3770cff791",
+    "creationDate": "2026-04-18T16:58:57.139Z",
+    "game": "Final Fantasy Crystal Chronicles: Echoes of Time",
+    "song": "Final Boss",
+    "composers": [
+      "Kumi Tanioka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Final Fantasy Crystal Chronicles Echoes of Time/Final Boss.mmrs",
+    "preview": "Final Fantasy Crystal Chronicles Echoes of Time/Final Boss.ogg"
+  },
+  {
+    "uuid": "44e794af-7bf8-4e9c-a58f-8d17c52fc2f4",
+    "creationDate": "2026-04-18T16:59:40.347Z",
+    "game": "Final Fantasy Crystal Chronicles",
+    "song": "Monster Dance",
+    "composers": [
+      "Kumi Tanioka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "file": "Final Fantasy Crystal Chronicles/Monster Dance.mmrs",
+    "preview": "Final Fantasy Crystal Chronicles/Monster Dance.ogg"
+  },
+  {
+    "uuid": "13d40b96-407d-420c-b13d-dd05ee9234d9",
+    "creationDate": "2026-04-18T17:00:33.046Z",
+    "game": "Final Fantasy Crystal Chronicles: Ring of Fates",
+    "song": "Game Over",
+    "composers": [
+      "Kumi Tanioka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "file": "Final Fantasy Crystal Chronicles Ring of Fates/Game Over.mmrs",
+    "preview": "Final Fantasy Crystal Chronicles Ring of Fates/Game Over.ogg"
+  },
+  {
+    "uuid": "6fe170bc-bbc0-4bd8-9516-fadeb50c6a43",
+    "creationDate": "2026-04-18T17:01:08.424Z",
+    "game": "Final Fantasy Crystal Chronicles: Ring of Fates",
+    "song": "Heroic Theme",
+    "composers": [
+      "Kumi Tanioka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Final Fantasy Crystal Chronicles Ring of Fates/Heroic Theme.mmrs",
+    "preview": "Final Fantasy Crystal Chronicles Ring of Fates/Heroic Theme.ogg"
+  },
+  {
+    "uuid": "968b44f6-5d8c-4ea3-af0d-a141dbb4358b",
+    "creationDate": "2026-04-18T17:01:43.120Z",
+    "game": "Final Fantasy Crystal Chronicles: Ring of Fates",
+    "song": "Title Screen",
+    "composers": [
+      "Kumi Tanioka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Final Fantasy Crystal Chronicles Ring of Fates/Title Screen.mmrs",
+    "preview": "Final Fantasy Crystal Chronicles Ring of Fates/Title Screen.ogg"
+  },
+  {
+    "uuid": "6740cc22-5e3a-436c-a834-b88af6248487",
+    "creationDate": "2026-04-18T17:03:29.650Z",
+    "game": "Final Fantasy Crystal Chronicles: Ring of Fates",
+    "song": "Victory Theme",
+    "composers": [
+      "Kumi Tanioka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Final Fantasy Crystal Chronicles Ring of Fates/Victory Theme.mmrs",
+    "preview": "Final Fantasy Crystal Chronicles Ring of Fates/Victory Theme.ogg"
+  },
+  {
+    "uuid": "98603558-5e42-4e2f-a2e0-4514e2754ff0",
+    "creationDate": "2026-04-18T17:04:12.924Z",
+    "game": "Final Fantasy Crystal Chronicles: Ring of Fates",
+    "song": "World Map",
+    "composers": [
+      "Kumi Tanioka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6"
+    ],
+    "file": "Final Fantasy Crystal Chronicles Ring of Fates/World Map.mmrs",
+    "preview": "Final Fantasy Crystal Chronicles Ring of Fates/World Map.ogg"
+  },
+  {
+    "uuid": "b04c2f48-f52d-4dd9-81ce-2a28ad2aa2e6",
+    "creationDate": "2026-04-18T17:05:17.050Z",
+    "game": "Final Fantasy Crystal Chronicles",
+    "song": "Serenity",
+    "composers": [
+      "Kumi Tanioka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Final Fantasy Crystal Chronicles/Serenity.mmrs",
+    "preview": "Final Fantasy Crystal Chronicles/Serenity.ogg"
+  },
+  {
+    "uuid": "68f4983d-b4b7-4e13-b659-6d25e07ea537",
+    "creationDate": "2026-04-18T17:06:20.213Z",
+    "game": "Final Fantasy Crystal Chronicles",
+    "song": "Today Arrives, Becoming Tomorrow",
+    "composers": [
+      "Kumi Tanioka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "file": "Final Fantasy Crystal Chronicles/Today Arrives, Becoming Tomorrow.mmrs",
+    "preview": "Final Fantasy Crystal Chronicles/Today Arrives, Becoming Tomorrow.ogg"
+  },
+  {
+    "uuid": "d331ebc7-72d1-4e92-9a89-d019af898894",
+    "creationDate": "2026-04-18T17:08:36.615Z",
+    "game": "Dissidia: Final Fantasy",
+    "song": "Keeping the Peace",
+    "composers": [
+      "Takeharu Ishimoto"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Dissidia Final Fantasy/Keeping the Peace.mmrs",
+    "preview": "Dissidia Final Fantasy/Keeping the Peace.ogg"
+  },
+  {
+    "uuid": "0f09b942-1a3e-4244-a432-85fc04317027",
+    "creationDate": "2026-04-18T17:09:58.387Z",
+    "game": "Final Fantasy Versus XIII",
+    "song": "Trailer Music",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16",
+      "157"
+    ],
+    "file": "Final Fantasy Versus XIII/Trailer Music.mmrs",
+    "preview": "Final Fantasy Versus XIII/Trailer Music.ogg"
+  },
+  {
+    "uuid": "6c05215c-425f-48fd-99d5-3529eaef0fc1",
+    "creationDate": "2026-04-18T17:10:53.936Z",
+    "game": "Final Fantasy X-2",
+    "song": "1000 Words",
+    "composers": [
+      "Noriko Matsueda",
+      "Takahito Eguchi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Final Fantasy X-2/1000 Words.mmrs",
+    "preview": "Final Fantasy X-2/1000 Words.ogg"
+  },
+  {
+    "uuid": "25dea1e8-ed86-4479-b545-1d08c24801fb",
+    "creationDate": "2026-04-18T17:11:53.275Z",
+    "game": "Final Fantasy X",
+    "song": "Auron's Theme",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "Junya Nakano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Final Fantasy X/Auron's Theme.mmrs",
+    "preview": "Final Fantasy X/Auron's Theme.ogg"
+  },
+  {
+    "uuid": "7d075e6b-2de1-402c-8fe0-a8c1e747d2b7",
+    "creationDate": "2026-04-18T17:12:51.243Z",
+    "game": "Final Fantasy XII",
+    "song": "Salika Woods",
+    "composers": [
+      "Hitoshi Sakimoto"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Final Fantasy XII/Salika Woods.mmrs",
+    "preview": "Final Fantasy XII/Salika Woods.ogg"
+  },
+  {
+    "uuid": "5297a2bc-f92e-4e7f-82a9-7cbe9559b096",
+    "creationDate": "2026-04-18T17:13:44.511Z",
+    "game": "Final Fantasy X",
+    "song": "Song of Fayth",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "Junya Nakano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "16F",
+      "111",
+      "157"
+    ],
+    "file": "Final Fantasy X/Song of Fayth.mmrs",
+    "preview": "Final Fantasy X/Song of Fayth.ogg"
+  },
+  {
+    "uuid": "a0ae6ecc-3bec-4567-9d13-a1afd28b46de",
+    "creationDate": "2026-04-18T17:14:25.441Z",
+    "game": "Final Fantasy X",
+    "song": "Victory (Looped)",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "Junya Nakano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "121"
+    ],
+    "file": "Final Fantasy X/Victory (Looped).mmrs",
+    "preview": "Final Fantasy X/Victory (Looped).ogg"
+  },
+  {
+    "uuid": "81b79054-d1fb-435f-98a5-b225c05b5543",
+    "creationDate": "2026-04-18T17:15:23.965Z",
+    "game": "Final Fantasy X",
+    "song": "Dead People Smile",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "Junya Nakano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Final Fantasy X/Dead People Smile.mmrs",
+    "preview": "Final Fantasy X/Dead People Smile.ogg"
+  },
+  {
+    "uuid": "c67e40c5-eea4-4238-b936-72ce3ce1681b",
+    "creationDate": "2026-04-18T17:16:35.064Z",
+    "game": "Pokémon Fire Red: Team Rocket Edition",
+    "song": "Boss Battle",
+    "composers": [
+      "Magnus Nyborg Berg"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Pokémon Fire Red Team Rocket Edition/Boss Battle.mmrs",
+    "preview": "Pokémon Fire Red Team Rocket Edition/Boss Battle.ogg"
+  },
+  {
+    "uuid": "15531372-7c1a-4b2c-8b4b-23a4d4347de4",
+    "creationDate": "2026-04-18T17:17:32.036Z",
+    "game": "Pokémon Fire Red: Team Rocket Edition",
+    "song": "Cinnabar Island (Glitched ver.)",
+    "composers": [
+      "Magnus Nyborg Berg"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Pokémon Fire Red Team Rocket Edition/Cinnabar Island (Glitched ver.).mmrs",
+    "preview": "Pokémon Fire Red Team Rocket Edition/Cinnabar Island (Glitched ver.).ogg"
+  },
+  {
+    "uuid": "be97af34-36ca-473e-bdbc-9c0cb1bf49a8",
+    "creationDate": "2026-04-18T17:18:22.196Z",
+    "game": "Pokémon Fire Red: Team Rocket Edition",
+    "song": "Vs. Professor Oak",
+    "composers": [
+      "Magnus Nyborg Berg"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Pokémon Fire Red Team Rocket Edition/Battle VS. Professor Oak.mmrs",
+    "preview": "Pokémon Fire Red Team Rocket Edition/Battle VS. Professor Oak.ogg",
+    "lastUpdateDate": "2026-04-18T17:20:00.218Z"
+  },
+  {
+    "uuid": "5a5d99f5-feb1-47d4-8082-025f86a3ed4a",
+    "creationDate": "2026-04-18T17:19:04.951Z",
+    "game": "Pokémon Fire Red: Team Rocket Edition",
+    "song": "Oak's Secret Lab",
+    "composers": [
+      "Magnus Nyborg Berg"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Pokémon Fire Red Team Rocket Edition/Oak's Secret Lab.mmrs",
+    "preview": "Pokémon Fire Red Team Rocket Edition/Oak's Secret Lab.ogg"
+  },
+  {
+    "uuid": "c82570ac-1576-4854-ad36-8ba8ed08a6f1",
+    "creationDate": "2026-04-18T17:21:48.404Z",
+    "game": "The Legend of Zelda: A Link to the Past and Four Swords",
+    "song": "Talus Cave",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda A Link to the Past and Four Swords/Talus Cave.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past and Four Swords/Talus Cave.ogg"
+  },
+  {
+    "uuid": "28fc3765-381e-4eff-9a30-9cb2ebb59a4b",
+    "creationDate": "2026-04-18T17:41:25.310Z",
+    "game": "Getsu Fūma Den",
+    "song": "Overworld",
+    "composers": [
+      "Hidenori Maezawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Getsu Fūma Den/Overworld.mmrs",
+    "preview": "Getsu Fūma Den/Overworld.ogg"
+  },
+  {
+    "uuid": "f2b82522-cdbf-4581-a60b-30ac834f9c18",
+    "creationDate": "2026-04-18T17:42:20.566Z",
+    "game": "Golden Sun",
+    "song": "Battle (Variant B)",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Golden Sun/Battle (Variant B).mmrs",
+    "preview": "Golden Sun/Battle (Variant B).ogg"
+  },
+  {
+    "uuid": "453749f0-9279-417b-8ad1-4255648ed3c5",
+    "creationDate": "2026-04-18T17:43:15.857Z",
+    "game": "Golden Sun",
+    "song": "Menu Screen",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16",
+      "1"
+    ],
+    "file": "Golden Sun/Menu Screen.mmrs",
+    "preview": "Golden Sun/Menu Screen.ogg"
+  },
+  {
+    "uuid": "9f896d94-6c06-4613-aabe-501f57f4a1c2",
+    "creationDate": "2026-04-18T17:44:12.818Z",
+    "game": "Golden Sun: The Lost Age",
+    "song": "Boss Battle",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "Golden Sun The Lost Age/Boss Battle.mmrs",
+    "preview": "Golden Sun The Lost Age/Boss Battle.ogg",
+    "lastUpdateDate": "2026-04-18T17:45:23.304Z"
+  },
+  {
+    "uuid": "a5291a38-231e-4e49-ae8a-7f19a1271b8b",
+    "creationDate": "2026-04-18T17:44:45.167Z",
+    "game": "Golden Sun: The Lost Age",
+    "song": "Jenna Battle",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Golden Sun The Lost Age/Jenna Battle.mmrs",
+    "preview": "Golden Sun The Lost Age/Jenna Battle.ogg",
+    "lastUpdateDate": "2026-04-18T17:45:34.822Z"
+  },
+  {
+    "uuid": "db7cc748-929b-4538-a812-8568d9e0ec7f",
+    "creationDate": "2026-04-18T17:46:04.302Z",
+    "game": "Golden Sun: The Lost Age",
+    "song": "Overworld Theme",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Golden Sun The Lost Age/Overworld Theme.mmrs",
+    "preview": "Golden Sun The Lost Age/Overworld Theme.ogg"
+  },
+  {
+    "uuid": "9f88cedb-b8fd-468d-947a-4fe328d08e37",
+    "creationDate": "2026-04-18T17:46:45.444Z",
+    "game": "Golden Sun",
+    "song": "Altin Caves",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "13B"
+    ],
+    "file": "Golden Sun/Altin Caves.mmrs",
+    "preview": "Golden Sun/Altin Caves.ogg"
+  },
+  {
+    "uuid": "71c42db4-bdd2-4086-aec1-9726d8d3af9e",
+    "creationDate": "2026-04-18T17:47:32.052Z",
+    "game": "Golden Sun",
+    "song": "Babi's Theme",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "Golden Sun/Babi's Theme.mmrs",
+    "preview": "Golden Sun/Babi's Theme.ogg"
+  },
+  {
+    "uuid": "e114d8ef-c83c-40de-ad06-7b32f5510995",
+    "creationDate": "2026-04-18T17:48:22.007Z",
+    "game": "Golden Sun",
+    "song": "Babi Lighthouse",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Golden Sun/Babi Lighthouse.mmrs",
+    "preview": "Golden Sun/Babi Lighthouse.ogg"
+  },
+  {
+    "uuid": "20c842b0-a29f-46cb-916d-23406e586321",
+    "creationDate": "2026-04-18T17:48:57.086Z",
+    "game": "Golden Sun",
+    "song": "Battle Theme (Remix)",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Golden Sun/Battle Theme (Remix).mmrs",
+    "preview": "Golden Sun/Battle Theme (Remix).ogg"
+  },
+  {
+    "uuid": "cc556a0b-10fd-4d3f-95a3-276ebdbf6ea6",
+    "creationDate": "2026-04-18T17:49:39.223Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "Get Djinn",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Golden Sun Dark Dawn/Get Djinn.mmrs",
+    "preview": "Golden Sun Dark Dawn/Get Djinn.ogg"
+  },
+  {
+    "uuid": "9da2748f-cd4d-43cd-bda9-001102cd2297",
+    "creationDate": "2026-04-18T17:50:27.417Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "Level Up",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Golden Sun Dark Dawn/Level Up.mmrs",
+    "preview": "Golden Sun Dark Dawn/Level Up.ogg"
+  },
+  {
+    "uuid": "f3a76a96-2a42-4a48-9112-e4c5123d3c10",
+    "creationDate": "2026-04-18T17:51:03.667Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "New Party Member",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Golden Sun Dark Dawn/New Party Member.mmrs",
+    "preview": "Golden Sun Dark Dawn/New Party Member.ogg"
+  },
+  {
+    "uuid": "976644be-8e65-4157-9c5b-6caa314bcaea",
+    "creationDate": "2026-04-18T17:51:35.635Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "Saving the Game",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Golden Sun Dark Dawn/Saving the Game.mmrs",
+    "preview": "Golden Sun Dark Dawn/Saving the Game.ogg"
+  },
+  {
+    "uuid": "babcd4ed-48f6-4844-841c-21f88e372733",
+    "creationDate": "2026-04-18T17:54:22.463Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "Sequence Clear",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Golden Sun Dark Dawn/Sequence Clear.mmrs",
+    "preview": "Golden Sun Dark Dawn/Sequence Clear.ogg"
+  },
+  {
+    "uuid": "a00db81c-efd9-4ada-88b1-d57188e266b6",
+    "creationDate": "2026-04-18T17:54:57.147Z",
+    "game": "Golden Sun",
+    "song": "Flooded Altin",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Golden Sun/Flooded Altin.mmrs",
+    "preview": "Golden Sun/Flooded Altin.ogg"
+  },
+  {
+    "uuid": "d0b6bdec-efaa-4ed5-b05a-3631978b2433",
+    "creationDate": "2026-04-18T18:00:21.623Z",
+    "game": "Golden Sun",
+    "song": "Game Over",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6",
+      "9",
+      "157"
+    ],
+    "file": "Golden Sun/Game Over.mmrs",
+    "preview": "Golden Sun/Game Over.ogg"
+  },
+  {
+    "uuid": "3839a5b7-c744-4403-8b51-fb62e703c3a3",
+    "creationDate": "2026-04-18T18:01:30.322Z",
+    "game": "Golden Sun",
+    "song": "Imil's Theme",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Golden Sun/Imil's Theme.mmrs",
+    "preview": "Golden Sun/Imil's Theme.ogg"
+  },
+  {
+    "uuid": "8f981d7f-3a86-49cb-ac05-dbc64175388c",
+    "creationDate": "2026-04-18T18:02:09.555Z",
+    "game": "Golden Sun",
+    "song": "Ivan's Theme",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Golden Sun/Ivan's Theme.mmrs",
+    "preview": "Golden Sun/Ivan's Theme.ogg"
+  },
+  {
+    "uuid": "13d64d5b-840b-4f11-a6f3-3dde19bff73c",
+    "creationDate": "2026-04-18T18:02:48.008Z",
+    "game": "Golden Sun",
+    "song": "Kolima Forest",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Golden Sun/Kolima Forest.mmrs",
+    "preview": "Golden Sun/Kolima Forest.ogg"
+  },
+  {
+    "uuid": "b6aa076d-b89d-4c1a-836f-d8c8c157f0f2",
+    "creationDate": "2026-04-18T18:03:52.290Z",
+    "game": "Golden Sun",
+    "song": "Lalivero's Theme",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Golden Sun/Lalivero's Theme.mmrs",
+    "preview": "Golden Sun/Lalivero's Theme.ogg"
+  },
+  {
+    "uuid": "9a5a6d89-5e09-4d2a-be31-395475d5bb1f",
+    "creationDate": "2026-04-18T18:04:39.413Z",
+    "game": "Golden Sun",
+    "song": "Mercury Lighthouse",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Golden Sun/Mercury Lighthouse.mmrs",
+    "preview": "Golden Sun/Mercury Lighthouse.ogg"
+  },
+  {
+    "uuid": "9a081313-73e8-4ba2-a4ba-cedf4df3dbe5",
+    "creationDate": "2026-04-18T18:05:36.521Z",
+    "game": "Golden Sun",
+    "song": "Overworld",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Golden Sun/Overworld.mmrs",
+    "preview": "Golden Sun/Overworld.ogg"
+  },
+  {
+    "uuid": "de939a77-ebc1-4c6a-99d0-e794e18df6d1",
+    "creationDate": "2026-04-18T18:06:16.307Z",
+    "game": "Golden Sun",
+    "song": "Saturos Menardi Battle",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Golden Sun/Saturos Menardi Battle.mmrs",
+    "preview": "Golden Sun/Saturos Menardi Battle.ogg"
+  },
+  {
+    "uuid": "d4ad1045-9a44-466c-a00b-f6b5b3483f11",
+    "creationDate": "2026-04-18T18:06:53.469Z",
+    "game": "Golden Sun",
+    "song": "Saturos Menardi Encounter",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "Golden Sun/Saturos Menardi Encounter.mmrs",
+    "preview": "Golden Sun/Saturos Menardi Encounter.ogg"
+  },
+  {
+    "uuid": "d386060f-7805-4b43-a8b8-f8f0741d1b2a",
+    "creationDate": "2026-04-18T18:07:44.153Z",
+    "game": "Golden Sun: The Lost Age",
+    "song": "Awaken",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Golden Sun The Lost Age/Awaken.mmrs",
+    "preview": "Golden Sun The Lost Age/Awaken.ogg"
+  },
+  {
+    "uuid": "5118b170-90cf-4ef7-b41e-399780dc999c",
+    "creationDate": "2026-04-18T18:08:29.327Z",
+    "game": "Golden Sun",
+    "song": "Tolbi",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Golden Sun/Tolbi.mmrs",
+    "preview": "Golden Sun/Tolbi.ogg"
+  },
+  {
+    "uuid": "6e4b13f6-ac6f-4244-8d0e-e9d941a51a5c",
+    "creationDate": "2026-04-18T18:09:07.361Z",
+    "game": "Golden Sun",
+    "song": "Tolbi Docks",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Golden Sun/Tolbi Docks.mmrs",
+    "preview": "Golden Sun/Tolbi Docks.ogg"
+  },
+  {
+    "uuid": "bb877d1e-cf9f-4be3-a996-fdf050a57ed5",
+    "creationDate": "2026-04-18T18:09:47.277Z",
+    "game": "Golden Sun",
+    "song": "Trouble Encounter",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "file": "Golden Sun/Trouble Encounter.mmrs",
+    "preview": "Golden Sun/Trouble Encounter.ogg"
+  },
+  {
+    "uuid": "979dac90-8188-4c89-a68a-a1f663522625",
+    "creationDate": "2026-04-18T18:11:04.521Z",
+    "game": "Golden Sun",
+    "song": "An Adept's Home / Vale",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Golden Sun/An Adept's Home  Vale.mmrs",
+    "preview": "Golden Sun/An Adept's Home  Vale.ogg"
+  },
+  {
+    "uuid": "ba4c8325-ebe4-45c6-8002-90dc29e3858d",
+    "creationDate": "2026-04-18T18:11:43.808Z",
+    "game": "Golden Sun",
+    "song": "Victory",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Golden Sun/Victory.mmrs",
+    "preview": "Golden Sun/Victory.ogg"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
