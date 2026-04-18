@@ -35793,5 +35793,26 @@
     "file": "Final Fantasy XIII-2/Plains of Eternity.mmrs",
     "preview": "Final Fantasy XIII-2/Plains of Eternity.ogg"
   },
+  {
+    "uuid": "5f3813fa-51e2-463b-847b-818c8c3bb2eb",
+    "creationDate": "2026-04-18T16:54:29.880Z",
+    "game": "Final Fantasy Adventure",
+    "song": "Mt. Illusia Palace",
+    "composers": [
+      "Kenji Ito"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "Final Fantasy Adventure/Mt. Illusia Palace.mmrs",
+    "preview": "Final Fantasy Adventure/Mt. Illusia Palace.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
