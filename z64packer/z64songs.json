@@ -35102,5 +35102,24 @@
     "file": "Etrian Odyssey/Saving.mmrs",
     "preview": "Etrian Odyssey/Saving.ogg"
   },
+  {
+    "uuid": "af8fbfd6-e85a-4bf8-9090-7aa386706c19",
+    "creationDate": "2026-04-18T16:19:53.951Z",
+    "game": "Etrian Odyssey",
+    "song": "Initial Strike (Battle ~ Initial Strike FM ver.)",
+    "composers": [
+      "Yuzo Koshiro"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Etrian Odyssey/Initial Strike (Battle ~ Initial Strike FM ver.).mmrs",
+    "preview": "Etrian Odyssey/Initial Strike (Battle ~ Initial Strike FM ver.).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
