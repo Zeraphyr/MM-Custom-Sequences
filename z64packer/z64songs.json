@@ -36256,5 +36256,24 @@
     "file": "Pokémon Fire Red Team Rocket Edition/Cinnabar Island (Glitched ver.).mmrs",
     "preview": "Pokémon Fire Red Team Rocket Edition/Cinnabar Island (Glitched ver.).ogg"
   },
+  {
+    "uuid": "be97af34-36ca-473e-bdbc-9c0cb1bf49a8",
+    "creationDate": "2026-04-18T17:18:22.196Z",
+    "game": "Pokémon Fire Red: Team Rocket Edition",
+    "song": "Battle VS. Professor Oak",
+    "composers": [
+      "Magnus Nyborg Berg"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Pokémon Fire Red Team Rocket Edition/Battle VS. Professor Oak.mmrs",
+    "preview": "Pokémon Fire Red Team Rocket Edition/Battle VS. Professor Oak.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
