@@ -37251,5 +37251,24 @@
     "file": "A Hat in Time/Subcon Forest (Alpha ver.).mmrs",
     "preview": "A Hat in Time/Subcon Forest (Alpha ver.).ogg"
   },
+  {
+    "uuid": "ac0278d1-fc4f-4242-aed3-cc77c4114707",
+    "creationDate": "2026-04-18T22:37:04.240Z",
+    "game": "A Hat in Time",
+    "song": "Main Theme (Alternatev ver.)",
+    "composers": [
+      "Pascal Michael Stiefel"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "A Hat in Time/Main Theme (Alternatev ver.).mmrs",
+    "preview": "A Hat in Time/Main Theme (Alternatev ver.).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
