@@ -36567,5 +36567,24 @@
     "file": "Golden Sun Dark Dawn/New Party Member.mmrs",
     "preview": "Golden Sun Dark Dawn/New Party Member.ogg"
   },
+  {
+    "uuid": "976644be-8e65-4157-9c5b-6caa314bcaea",
+    "creationDate": "2026-04-18T17:51:35.635Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "Saving the Game",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Golden Sun Dark Dawn/Saving the Game.mmrs",
+    "preview": "Golden Sun Dark Dawn/Saving the Game.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
