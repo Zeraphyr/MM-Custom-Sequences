@@ -36449,5 +36449,26 @@
     "file": "Golden Sun/Altin Caves.mmrs",
     "preview": "Golden Sun/Altin Caves.ogg"
   },
+  {
+    "uuid": "71c42db4-bdd2-4086-aec1-9726d8d3af9e",
+    "creationDate": "2026-04-18T17:47:32.052Z",
+    "game": "Golden Sun",
+    "song": "Babi's Theme",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "Golden Sun/Babi's Theme.mmrs",
+    "preview": "Golden Sun/Babi's Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
