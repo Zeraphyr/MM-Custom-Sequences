@@ -37291,5 +37291,26 @@
     "file": "A Hat in Time/Mustache Girl EX.mmrs",
     "preview": "A Hat in Time/Mustache Girl EX.ogg"
   },
+  {
+    "uuid": "6c8c9788-b846-4078-89e9-fcdb0c1634ac",
+    "creationDate": "2026-04-18T22:41:29.616Z",
+    "game": "A Hat in Time",
+    "song": "Oh It's You",
+    "composers": [
+      "Pascal Michael Stiefel"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "A Hat in Time/Oh It's You.mmrs",
+    "preview": "A Hat in Time/Oh It's You.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
