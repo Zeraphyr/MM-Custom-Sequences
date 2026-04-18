@@ -35063,5 +35063,25 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "1871e89d-08b6-4332-b2e8-2ae6181080d4",
+    "creationDate": "2026-04-18T16:16:19.237Z",
+    "game": "Etrian Odyssey II: Heroes of Lagaard",
+    "song": "The First Battle",
+    "composers": [
+      "Yuzo Koshiro"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Etrian Odyssey II Heroes of Lagaard/The First Battle.mmrs",
+    "preview": "Etrian Odyssey II Heroes of Lagaard/The First Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
