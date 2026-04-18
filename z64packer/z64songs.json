@@ -35416,5 +35416,24 @@
     "file": "Final Fantasy VI/Decisive Battle.mmrs",
     "preview": "Final Fantasy VI/Decisive Battle.ogg"
   },
+  {
+    "uuid": "462203d1-bf1e-42a7-971c-7659cfda6101",
+    "creationDate": "2026-04-18T16:37:48.423Z",
+    "game": "Final Fantasy VI",
+    "song": "Decisive Battle (Rock Remix)",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Final Fantasy VI/Decisive Battle (Rock Remix).mmrs",
+    "preview": "Final Fantasy VI/Decisive Battle (Rock Remix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
