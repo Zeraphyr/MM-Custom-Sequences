@@ -35949,5 +35949,24 @@
     "file": "Final Fantasy Crystal Chronicles Ring of Fates/Heroic Theme.mmrs",
     "preview": "Final Fantasy Crystal Chronicles Ring of Fates/Heroic Theme.ogg"
   },
+  {
+    "uuid": "968b44f6-5d8c-4ea3-af0d-a141dbb4358b",
+    "creationDate": "2026-04-18T17:01:43.120Z",
+    "game": "Final Fantasy Crystal Chronicles: Ring of Fates",
+    "song": "Title Screen",
+    "composers": [
+      "Kumi Tanioka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Final Fantasy Crystal Chronicles Ring of Fates/Title Screen.mmrs",
+    "preview": "Final Fantasy Crystal Chronicles Ring of Fates/Title Screen.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
