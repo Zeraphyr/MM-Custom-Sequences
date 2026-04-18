@@ -36711,5 +36711,26 @@
     "file": "Golden Sun/Kolima Forest.mmrs",
     "preview": "Golden Sun/Kolima Forest.ogg"
   },
+  {
+    "uuid": "b6aa076d-b89d-4c1a-836f-d8c8c157f0f2",
+    "creationDate": "2026-04-18T18:03:52.290Z",
+    "game": "Golden Sun",
+    "song": "Lalivero's Theme",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Golden Sun/Lalivero's Theme.mmrs",
+    "preview": "Golden Sun/Lalivero's Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
