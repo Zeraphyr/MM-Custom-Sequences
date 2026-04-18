@@ -37225,7 +37225,10 @@
       "6"
     ],
     "file": "Harvest Moon Back to Nature/Winter.mmrs",
-    "preview": "Harvest Moon Back to Nature/Winter.ogg"
+    "preview": "Harvest Moon Back to Nature/Winter.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "7ddc229e-742e-4b81-9293-2cc9add5c495",
@@ -37249,7 +37252,10 @@
       "157"
     ],
     "file": "A Hat in Time/Subcon Forest (Alpha ver.).mmrs",
-    "preview": "A Hat in Time/Subcon Forest (Alpha ver.).ogg"
+    "preview": "A Hat in Time/Subcon Forest (Alpha ver.).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ac0278d1-fc4f-4242-aed3-cc77c4114707",
@@ -37269,7 +37275,10 @@
     ],
     "file": "A Hat in Time/Main Theme (Alternatev ver.).mmrs",
     "preview": "A Hat in Time/Main Theme (Alternatev ver.).ogg",
-    "lastUpdateDate": "2026-04-18T22:37:24.588Z"
+    "lastUpdateDate": "2026-04-18T22:37:24.588Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "05c5483b-503e-433b-a44d-17b557f90aba",
@@ -37289,7 +37298,10 @@
       "7"
     ],
     "file": "A Hat in Time/Mustache Girl EX.mmrs",
-    "preview": "A Hat in Time/Mustache Girl EX.ogg"
+    "preview": "A Hat in Time/Mustache Girl EX.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "6c8c9788-b846-4078-89e9-fcdb0c1634ac",
@@ -37310,7 +37322,10 @@
       "16"
     ],
     "file": "A Hat in Time/Oh It's You.mmrs",
-    "preview": "A Hat in Time/Oh It's You.ogg"
+    "preview": "A Hat in Time/Oh It's You.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "71eea0af-92dc-4d48-88d4-1024a6103da5",
@@ -37329,7 +37344,10 @@
       "16"
     ],
     "file": "A Hat in Time/Main Theme.mmrs",
-    "preview": "A Hat in Time/Main Theme.ogg"
+    "preview": "A Hat in Time/Main Theme.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c7ab85d3-c7ef-45e9-bbdc-95ac10aa78aa",
@@ -37348,7 +37366,10 @@
       "7"
     ],
     "file": "A Hat in Time/Your Contract has Expired.mmrs",
-    "preview": "A Hat in Time/Your Contract has Expired.ogg"
+    "preview": "A Hat in Time/Your Contract has Expired.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4d913e68-5ef8-46bf-ac6a-f430982880b1",
@@ -37367,7 +37388,10 @@
       "16"
     ],
     "file": "Harvest Moon Back to Nature/Do Your Best!.mmrs",
-    "preview": "Harvest Moon Back to Nature/Do Your Best!.ogg"
+    "preview": "Harvest Moon Back to Nature/Do Your Best!.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "0dc26585-0d29-445b-8eb8-d4146cdd6b38",
@@ -37386,7 +37410,10 @@
       "16E"
     ],
     "file": "Inazuma Eleven GO Light and Shadow/Riccardo's Frustration.mmrs",
-    "preview": "Inazuma Eleven GO Light and Shadow/Riccardo's Frustration.ogg"
+    "preview": "Inazuma Eleven GO Light and Shadow/Riccardo's Frustration.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "f2142bb9-35b0-4bde-a5e6-3a804c67f904",
@@ -37405,7 +37432,10 @@
       "9"
     ],
     "file": "Apple iOS/Marimba.mmrs",
-    "preview": "Apple iOS/Marimba.ogg"
+    "preview": "Apple iOS/Marimba.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "9565cc7c-7a68-48ef-844c-8201465d7742",
@@ -37425,7 +37455,41 @@
       "10"
     ],
     "file": "Apple iOS/Opening.mmrs",
-    "preview": "Apple iOS/Opening.ogg"
+    "preview": "Apple iOS/Opening.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "game": "A Hat in Time",
+    "song": "Alpine Skyline (Time Rift)",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "983d6012-4540-4f5b-a43d-958d120df376",
+    "file": "A Hat in Time/Alpine Skyline (Time Rift).mmrs"
+  },
+  {
+    "game": "A Hat in Time",
+    "song": "Time Rift Story Book",
+    "type": "bgm",
+    "categories": [
+      "157",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "99ea553c-f6d3-4328-a2c0-e8d9d9e10ff4",
+    "file": "A Hat in Time/Time Rift Story Book.mmrs"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
