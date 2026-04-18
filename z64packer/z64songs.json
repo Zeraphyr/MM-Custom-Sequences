@@ -35607,5 +35607,26 @@
     "file": "Final Fantasy X/Listen to My Story.mmrs",
     "preview": "Final Fantasy X/Listen to My Story.ogg"
   },
+  {
+    "uuid": "c8486410-238e-4737-af17-74d0de967390",
+    "creationDate": "2026-04-18T16:44:59.238Z",
+    "game": "Final Fantasy X",
+    "song": "Normal Battle",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "and Junya Nakano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Final Fantasy X/Normal Battle.mmrs",
+    "preview": "Final Fantasy X/Normal Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
