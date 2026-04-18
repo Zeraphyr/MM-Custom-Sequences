@@ -35499,5 +35499,25 @@
     "file": "Final Fantasy X/Assault.mmrs",
     "preview": "Final Fantasy X/Assault.ogg"
   },
+  {
+    "uuid": "561ec3c9-f58c-424d-a246-6f10ff4c775c",
+    "creationDate": "2026-04-18T16:41:00.208Z",
+    "game": "Final Fantasy X",
+    "song": "Besaid Island",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "and Junya Nakano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "file": "Final Fantasy X/Besaid Island.mmrs",
+    "preview": "Final Fantasy X/Besaid Island.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
