@@ -36811,5 +36811,24 @@
     "file": "Golden Sun/Saturos Menardi Encounter.mmrs",
     "preview": "Golden Sun/Saturos Menardi Encounter.ogg"
   },
+  {
+    "uuid": "d386060f-7805-4b43-a8b8-f8f0741d1b2a",
+    "creationDate": "2026-04-18T18:07:44.153Z",
+    "game": "Golden Sun: The Lost Age",
+    "song": "Awaken",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Golden Sun The Lost Age/Awaken.mmrs",
+    "preview": "Golden Sun The Lost Age/Awaken.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
