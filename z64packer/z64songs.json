@@ -35083,5 +35083,24 @@
     "file": "Etrian Odyssey II Heroes of Lagaard/The First Battle.mmrs",
     "preview": "Etrian Odyssey II Heroes of Lagaard/The First Battle.ogg"
   },
+  {
+    "uuid": "6b4581cc-9f35-455a-bbfe-7fcff2a48eba",
+    "creationDate": "2026-04-18T16:18:20.770Z",
+    "game": "Etrian Odyssey",
+    "song": "Saving",
+    "composers": [
+      "Yuzo Koshiro"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Etrian Odyssey/Saving.mmrs",
+    "preview": "Etrian Odyssey/Saving.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
