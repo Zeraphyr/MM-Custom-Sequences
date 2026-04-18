@@ -35718,5 +35718,23 @@
     "file": "Final Fantasy XII/Chocobo Theme.mmrs",
     "preview": "Final Fantasy XII/Chocobo Theme.ogg"
   },
+  {
+    "uuid": "ff8d6875-7706-4a90-8c33-e7014925ceb6",
+    "creationDate": "2026-04-18T16:49:28.466Z",
+    "game": "Final Fantasy XII",
+    "song": "Game Over",
+    "composers": [
+      "Hitoshi Sakimoto"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "file": "Final Fantasy XII/Game Over.mmrs",
+    "preview": "Final Fantasy XII/Game Over.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
