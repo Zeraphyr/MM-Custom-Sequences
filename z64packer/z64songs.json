@@ -36216,5 +36216,24 @@
     "file": "Final Fantasy X/Dead People Smile.mmrs",
     "preview": "Final Fantasy X/Dead People Smile.ogg"
   },
+  {
+    "uuid": "c67e40c5-eea4-4238-b936-72ce3ce1681b",
+    "creationDate": "2026-04-18T17:16:35.064Z",
+    "game": "Pokémon Fire Red: Team Rocket Edition",
+    "song": "Boss Battle",
+    "composers": [
+      "Magnus Nyborg Berg"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Pokémon Fire Red Team Rocket Edition/Boss Battle.mmrs",
+    "preview": "Pokémon Fire Red Team Rocket Edition/Boss Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
