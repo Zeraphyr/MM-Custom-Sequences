@@ -35893,5 +35893,24 @@
     "file": "Final Fantasy Crystal Chronicles Echoes of Time/Final Boss.mmrs",
     "preview": "Final Fantasy Crystal Chronicles Echoes of Time/Final Boss.ogg"
   },
+  {
+    "uuid": "44e794af-7bf8-4e9c-a58f-8d17c52fc2f4",
+    "creationDate": "2026-04-18T16:59:40.347Z",
+    "game": "Final Fantasy Crystal Chronicles",
+    "song": "Monster Dance",
+    "composers": [
+      "Kumi Tanioka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "file": "Final Fantasy Crystal Chronicles/Monster Dance.mmrs",
+    "preview": "Final Fantasy Crystal Chronicles/Monster Dance.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
