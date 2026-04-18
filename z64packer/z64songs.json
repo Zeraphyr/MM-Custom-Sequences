@@ -35912,5 +35912,23 @@
     "file": "Final Fantasy Crystal Chronicles/Monster Dance.mmrs",
     "preview": "Final Fantasy Crystal Chronicles/Monster Dance.ogg"
   },
+  {
+    "uuid": "13d40b96-407d-420c-b13d-dd05ee9234d9",
+    "creationDate": "2026-04-18T17:00:33.046Z",
+    "game": "Final Fantasy Crystal Chronicles: Ring of Fates",
+    "song": "Game Over",
+    "composers": [
+      "Kumi Tanioka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "file": "Final Fantasy Crystal Chronicles Ring of Fates/Game Over.mmrs",
+    "preview": "Final Fantasy Crystal Chronicles Ring of Fates/Game Over.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
