@@ -36175,5 +36175,25 @@
     "file": "Final Fantasy X/Song of Fayth.mmrs",
     "preview": "Final Fantasy X/Song of Fayth.ogg"
   },
+  {
+    "uuid": "a0ae6ecc-3bec-4567-9d13-a1afd28b46de",
+    "creationDate": "2026-04-18T17:14:25.441Z",
+    "game": "Final Fantasy X",
+    "song": "Victory (Looped)",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "Junya Nakano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "121"
+    ],
+    "file": "Final Fantasy X/Victory (Looped).mmrs",
+    "preview": "Final Fantasy X/Victory (Looped).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
