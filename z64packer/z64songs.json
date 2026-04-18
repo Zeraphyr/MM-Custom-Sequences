@@ -35874,5 +35874,24 @@
     "file": "Final Fantasy Crystal Chronicles/Echo of Memories.mmrs",
     "preview": "Final Fantasy Crystal Chronicles/Echo of Memories.ogg"
   },
+  {
+    "uuid": "b142cc42-fb70-4817-a426-db3770cff791",
+    "creationDate": "2026-04-18T16:58:57.139Z",
+    "game": "Final Fantasy Crystal Chronicles: Echoes of Time",
+    "song": "Final Boss",
+    "composers": [
+      "Kumi Tanioka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Final Fantasy Crystal Chronicles Echoes of Time/Final Boss.mmrs",
+    "preview": "Final Fantasy Crystal Chronicles Echoes of Time/Final Boss.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
