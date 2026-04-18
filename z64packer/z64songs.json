@@ -35161,5 +35161,26 @@
     "file": "Fable II/Down by the Reeds.mmrs",
     "preview": "Fable II/Down by the Reeds.ogg"
   },
+  {
+    "uuid": "7fac3a00-3cbb-4041-8b95-6598b0e6218d",
+    "creationDate": "2026-04-18T16:26:12.581Z",
+    "game": "Fable",
+    "song": "Temple of Light",
+    "composers": [
+      "Russell Shaw"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Fable/Temple of Light.mmrs",
+    "preview": "Fable/Temple of Light.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
