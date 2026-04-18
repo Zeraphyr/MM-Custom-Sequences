@@ -37350,5 +37350,24 @@
     "file": "A Hat in Time/Your Contract has Expired.mmrs",
     "preview": "A Hat in Time/Your Contract has Expired.ogg"
   },
+  {
+    "uuid": "4d913e68-5ef8-46bf-ac6a-f430982880b1",
+    "creationDate": "2026-04-18T22:46:39.805Z",
+    "game": "Harvest Moon: Back to Nature",
+    "song": "Do Your Best!",
+    "composers": [
+      "Miyuki Homareda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Harvest Moon Back to Nature/Do Your Best!.mmrs",
+    "preview": "Harvest Moon Back to Nature/Do Your Best!.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
