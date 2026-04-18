@@ -35360,5 +35360,24 @@
     "file": "Final Fantasy II/Normal Battle.mmrs",
     "preview": "Final Fantasy II/Normal Battle.ogg"
   },
+  {
+    "uuid": "d62f1783-bc27-4bf1-98fb-8fe816275da8",
+    "creationDate": "2026-04-18T16:35:15.284Z",
+    "game": "Final Fantasy III",
+    "song": "Battle Theme",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Final Fantasy III/Battle Theme.mmrs",
+    "preview": "Final Fantasy III/Battle Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
