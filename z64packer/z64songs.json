@@ -36045,5 +36045,26 @@
     "file": "Final Fantasy Crystal Chronicles/Today Arrives, Becoming Tomorrow.mmrs",
     "preview": "Final Fantasy Crystal Chronicles/Today Arrives, Becoming Tomorrow.ogg"
   },
+  {
+    "uuid": "d331ebc7-72d1-4e92-9a89-d019af898894",
+    "creationDate": "2026-04-18T17:08:36.615Z",
+    "game": "Dissidia: Final Fantasy",
+    "song": "Keeping the Peace",
+    "composers": [
+      "Takeharu Ishimoto"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Dissidia Final Fantasy/Keeping the Peace.mmrs",
+    "preview": "Dissidia Final Fantasy/Keeping the Peace.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
