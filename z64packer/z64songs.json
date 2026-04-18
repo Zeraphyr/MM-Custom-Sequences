@@ -35298,5 +35298,29 @@
     "file": "Fire Emblem Awakening/Id (Serenity).mmrs",
     "preview": "Fire Emblem Awakening/Id (Serenity).ogg"
   },
+  {
+    "uuid": "8a62bfbf-4a56-4d60-b5ea-eadb3128d13c",
+    "creationDate": "2026-04-18T16:32:59.276Z",
+    "game": "Fire Emblem: Fates",
+    "song": "Lost in the Waves",
+    "composers": [
+      "Hiroki Morishita",
+      "Takeru Kanazaki",
+      "Rei Kondoh",
+      "Masato Kouda",
+      "Yasuhisa Baba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Fire Emblem Fates/Lost in the Waves.mmrs",
+    "preview": "Fire Emblem Fates/Lost in the Waves.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
