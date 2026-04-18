@@ -36351,5 +36351,26 @@
     "file": "Golden Sun/Battle (Variant B).mmrs",
     "preview": "Golden Sun/Battle (Variant B).ogg"
   },
+  {
+    "uuid": "453749f0-9279-417b-8ad1-4255648ed3c5",
+    "creationDate": "2026-04-18T17:43:15.857Z",
+    "game": "Golden Sun",
+    "song": "Menu Screen",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16",
+      "1"
+    ],
+    "file": "Golden Sun/Menu Screen.mmrs",
+    "preview": "Golden Sun/Menu Screen.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
