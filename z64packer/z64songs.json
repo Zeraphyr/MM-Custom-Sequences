@@ -35121,5 +35121,24 @@
     "file": "Etrian Odyssey/Initial Strike (Battle ~ Initial Strike FM ver.).mmrs",
     "preview": "Etrian Odyssey/Initial Strike (Battle ~ Initial Strike FM ver.).ogg"
   },
+  {
+    "uuid": "1d8a441a-29e4-455c-9e2c-fa4dac5b5168",
+    "creationDate": "2026-04-18T16:23:44.775Z",
+    "game": "Etrian Odyssey III: The Drowned City",
+    "song": "The First Campaign",
+    "composers": [
+      "Yuzo Koshiro"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Etrian Odyssey III The Drowned City/The First Campaign.mmrs",
+    "preview": "Etrian Odyssey III The Drowned City/The First Campaign.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
