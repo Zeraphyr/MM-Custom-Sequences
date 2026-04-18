@@ -35968,5 +35968,24 @@
     "file": "Final Fantasy Crystal Chronicles Ring of Fates/Title Screen.mmrs",
     "preview": "Final Fantasy Crystal Chronicles Ring of Fates/Title Screen.ogg"
   },
+  {
+    "uuid": "6740cc22-5e3a-436c-a834-b88af6248487",
+    "creationDate": "2026-04-18T17:03:29.650Z",
+    "game": "Final Fantasy Crystal Chronicles: Ring of Fates",
+    "song": "Victory Theme",
+    "composers": [
+      "Kumi Tanioka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Final Fantasy Crystal Chronicles Ring of Fates/Victory Theme.mmrs",
+    "preview": "Final Fantasy Crystal Chronicles Ring of Fates/Victory Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
