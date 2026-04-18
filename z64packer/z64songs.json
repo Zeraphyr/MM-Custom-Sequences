@@ -36066,5 +36066,25 @@
     "file": "Dissidia Final Fantasy/Keeping the Peace.mmrs",
     "preview": "Dissidia Final Fantasy/Keeping the Peace.ogg"
   },
+  {
+    "uuid": "0f09b942-1a3e-4244-a432-85fc04317027",
+    "creationDate": "2026-04-18T17:09:58.387Z",
+    "game": "Final Fantasy Versus XIII",
+    "song": "Trailer Music",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16",
+      "157"
+    ],
+    "file": "Final Fantasy Versus XIII/Trailer Music.mmrs",
+    "preview": "Final Fantasy Versus XIII/Trailer Music.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
