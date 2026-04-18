@@ -35834,5 +35834,25 @@
     "file": "Final Fantasy Adventure/Second Overworld (Alternate Version).mmrs",
     "preview": "Final Fantasy Adventure/Second Overworld (Alternate Version).ogg"
   },
+  {
+    "uuid": "8ceee2eb-c8bc-4323-aeb1-d5156f8fd8e0",
+    "creationDate": "2026-04-18T16:57:08.143Z",
+    "game": "Final Fantasy Crystal Chronicles",
+    "song": "Daemon's Court",
+    "composers": [
+      "Kumi Tanioka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Final Fantasy Crystal Chronicles/Daemon's Court.mmrs",
+    "preview": "Final Fantasy Crystal Chronicles/Daemon's Court.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
