@@ -36548,5 +36548,24 @@
     "file": "Golden Sun Dark Dawn/Level Up.mmrs",
     "preview": "Golden Sun Dark Dawn/Level Up.ogg"
   },
+  {
+    "uuid": "f3a76a96-2a42-4a48-9112-e4c5123d3c10",
+    "creationDate": "2026-04-18T17:51:03.667Z",
+    "game": "Golden Sun: Dark Dawn",
+    "song": "New Party Member",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Golden Sun Dark Dawn/New Party Member.mmrs",
+    "preview": "Golden Sun Dark Dawn/New Party Member.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
