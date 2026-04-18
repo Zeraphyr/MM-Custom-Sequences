@@ -35379,5 +35379,23 @@
     "file": "Final Fantasy III/Battle Theme.mmrs",
     "preview": "Final Fantasy III/Battle Theme.ogg"
   },
+  {
+    "uuid": "6708cbe0-5a52-43f5-acff-6ac73f458d5b",
+    "creationDate": "2026-04-18T16:35:52.349Z",
+    "game": "Final Fantasy III",
+    "song": "Victory",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "121"
+    ],
+    "file": "Final Fantasy III/Victory.mmrs",
+    "preview": "Final Fantasy III/Victory.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
