@@ -37331,5 +37331,24 @@
     "file": "A Hat in Time/Main Theme.mmrs",
     "preview": "A Hat in Time/Main Theme.ogg"
   },
+  {
+    "uuid": "c7ab85d3-c7ef-45e9-bbdc-95ac10aa78aa",
+    "creationDate": "2026-04-18T22:45:28.553Z",
+    "game": "A Hat in Time",
+    "song": "Your Contract has Expired",
+    "composers": [
+      "Pascal Michael Stiefel"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "file": "A Hat in Time/Your Contract has Expired.mmrs",
+    "preview": "A Hat in Time/Your Contract has Expired.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
