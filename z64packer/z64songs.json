@@ -35258,5 +35258,25 @@
     "file": "Fire Emblem Genealogy of the Holy War/Level Up.mmrs",
     "preview": "Fire Emblem Genealogy of the Holy War/Level Up.ogg"
   },
+  {
+    "uuid": "4f0b888d-7d8a-46cd-bd5c-3aad7e5980a3",
+    "creationDate": "2026-04-18T16:30:21.303Z",
+    "game": "Fire Emblem: Awakening",
+    "song": "But, Frederick, It's Nearly Dark!",
+    "composers": [
+      "Hiroki Morishita"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Fire Emblem Awakening/But, Frederick, It's Nearly Dark!.mmrs",
+    "preview": "Fire Emblem Awakening/But, Frederick, It's Nearly Dark!.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
