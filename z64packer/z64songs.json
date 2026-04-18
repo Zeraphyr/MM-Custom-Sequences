@@ -36130,5 +36130,26 @@
     "file": "Final Fantasy X/Auron's Theme.mmrs",
     "preview": "Final Fantasy X/Auron's Theme.ogg"
   },
+  {
+    "uuid": "7d075e6b-2de1-402c-8fe0-a8c1e747d2b7",
+    "creationDate": "2026-04-18T17:12:51.243Z",
+    "game": "Final Fantasy XII",
+    "song": "Salika Woods",
+    "composers": [
+      "Hitoshi Sakimoto"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Final Fantasy XII/Salika Woods.mmrs",
+    "preview": "Final Fantasy XII/Salika Woods.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
