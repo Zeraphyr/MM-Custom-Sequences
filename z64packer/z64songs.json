@@ -36025,5 +36025,25 @@
     "file": "Final Fantasy Crystal Chronicles/Serenity.mmrs",
     "preview": "Final Fantasy Crystal Chronicles/Serenity.ogg"
   },
+  {
+    "uuid": "68f4983d-b4b7-4e13-b659-6d25e07ea537",
+    "creationDate": "2026-04-18T17:06:20.213Z",
+    "game": "Final Fantasy Crystal Chronicles",
+    "song": "Today Arrives, Becoming Tomorrow",
+    "composers": [
+      "Kumi Tanioka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "file": "Final Fantasy Crystal Chronicles/Today Arrives, Becoming Tomorrow.mmrs",
+    "preview": "Final Fantasy Crystal Chronicles/Today Arrives, Becoming Tomorrow.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
