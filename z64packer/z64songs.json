@@ -35650,5 +35650,28 @@
     "file": "Final Fantasy X/This is Your Story.mmrs",
     "preview": "Final Fantasy X/This is Your Story.ogg"
   },
+  {
+    "uuid": "f1bcd79e-1cbd-4240-950e-155d39a812fe",
+    "creationDate": "2026-04-18T16:46:28.836Z",
+    "game": "Final Fantasy X",
+    "song": "Thunder Plains",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "and Junya Nakano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Final Fantasy X/Thunder Plains.mmrs",
+    "preview": "Final Fantasy X/Thunder Plains.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
