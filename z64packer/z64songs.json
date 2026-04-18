@@ -35182,5 +35182,24 @@
     "file": "Fable/Temple of Light.mmrs",
     "preview": "Fable/Temple of Light.ogg"
   },
+  {
+    "uuid": "ac6e3291-449f-43b3-9bbe-255833665fa2",
+    "creationDate": "2026-04-18T16:27:21.915Z",
+    "game": "Fire Emblem: Genealogy of the Holy War",
+    "song": "Fanfare (Short)",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Fire Emblem Genealogy of the Holy War/Fanfare (Short).mmrs",
+    "preview": "Fire Emblem Genealogy of the Holy War/Fanfare (Short).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
