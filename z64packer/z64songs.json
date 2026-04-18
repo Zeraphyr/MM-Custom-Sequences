@@ -36372,5 +36372,23 @@
     "file": "Golden Sun/Menu Screen.mmrs",
     "preview": "Golden Sun/Menu Screen.ogg"
   },
+  {
+    "uuid": "9f896d94-6c06-4613-aabe-501f57f4a1c2",
+    "creationDate": "2026-04-18T17:44:12.818Z",
+    "game": "Golden Sun: The Lost Age",
+    "song": "Boss Battle",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "Golden Sun The Lost Age/Boss Battle.mmrs",
+    "preview": "Golden Sun The Lost Age/Boss Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
