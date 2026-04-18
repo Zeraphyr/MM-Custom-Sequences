@@ -26555,7 +26555,7 @@
     "uuid": "06133e05-5e1a-459e-98a1-d86dbdadf3bc",
     "creationDate": "2026-04-02T01:33:20.438Z",
     "game": "Golden Sun",
-    "song": "Battle",
+    "song": "Battle (Variant A)",
     "composers": [
       "Motoi Sakuraba"
     ],
@@ -26572,9 +26572,7 @@
     ],
     "file": "Golden Sun/Battle.mmrs",
     "preview": "Golden Sun/Battle.mp3",
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
+    "lastUpdateDate": "2026-04-18T17:42:37.934Z"
   },
   {
     "uuid": "bd9caa87-52d1-4625-a2d0-b0958b2eedb9",
