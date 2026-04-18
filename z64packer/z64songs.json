@@ -37369,5 +37369,24 @@
     "file": "Harvest Moon Back to Nature/Do Your Best!.mmrs",
     "preview": "Harvest Moon Back to Nature/Do Your Best!.ogg"
   },
+  {
+    "uuid": "0dc26585-0d29-445b-8eb8-d4146cdd6b38",
+    "creationDate": "2026-04-18T22:48:40.077Z",
+    "game": "Inazuma Eleven GO Light and Shadow",
+    "song": "Riccardo's Frustration",
+    "composers": [
+      "Shiho Terada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16E"
+    ],
+    "file": "Inazuma Eleven GO Light and Shadow/Riccardo's Frustration.mmrs",
+    "preview": "Inazuma Eleven GO Light and Shadow/Riccardo's Frustration.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
