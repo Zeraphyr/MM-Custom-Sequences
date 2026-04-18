@@ -36732,5 +36732,24 @@
     "file": "Golden Sun/Lalivero's Theme.mmrs",
     "preview": "Golden Sun/Lalivero's Theme.ogg"
   },
+  {
+    "uuid": "9a5a6d89-5e09-4d2a-be31-395475d5bb1f",
+    "creationDate": "2026-04-18T18:04:39.413Z",
+    "game": "Golden Sun",
+    "song": "Mercury Lighthouse",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Golden Sun/Mercury Lighthouse.mmrs",
+    "preview": "Golden Sun/Mercury Lighthouse.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
