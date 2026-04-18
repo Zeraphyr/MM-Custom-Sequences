@@ -35564,5 +35564,26 @@
     "file": "Final Fantasy X/Brave Advancement.mmrs",
     "preview": "Final Fantasy X/Brave Advancement.ogg"
   },
+  {
+    "uuid": "6870d0c2-d664-4d88-ac10-b75f89791697",
+    "creationDate": "2026-04-18T16:43:18.342Z",
+    "game": "Final Fantasy X",
+    "song": "Game Over",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "and Junya Nakano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Final Fantasy X/Game Over.mmrs",
+    "preview": "Final Fantasy X/Game Over.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
