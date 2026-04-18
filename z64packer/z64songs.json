@@ -37312,5 +37312,24 @@
     "file": "A Hat in Time/Oh It's You.mmrs",
     "preview": "A Hat in Time/Oh It's You.ogg"
   },
+  {
+    "uuid": "71eea0af-92dc-4d48-88d4-1024a6103da5",
+    "creationDate": "2026-04-18T22:44:36.482Z",
+    "game": "A Hat in Time",
+    "song": "Main Theme",
+    "composers": [
+      "Pascal Michael Stiefel"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "A Hat in Time/Main Theme.mmrs",
+    "preview": "A Hat in Time/Main Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
