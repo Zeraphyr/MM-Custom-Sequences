@@ -36771,5 +36771,25 @@
     "file": "Golden Sun/Overworld.mmrs",
     "preview": "Golden Sun/Overworld.ogg"
   },
+  {
+    "uuid": "de939a77-ebc1-4c6a-99d0-e794e18df6d1",
+    "creationDate": "2026-04-18T18:06:16.307Z",
+    "game": "Golden Sun",
+    "song": "Saturos Menardi Battle",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Golden Sun/Saturos Menardi Battle.mmrs",
+    "preview": "Golden Sun/Saturos Menardi Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
