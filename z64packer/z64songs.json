@@ -36086,5 +36086,25 @@
     "file": "Final Fantasy Versus XIII/Trailer Music.mmrs",
     "preview": "Final Fantasy Versus XIII/Trailer Music.ogg"
   },
+  {
+    "uuid": "6c05215c-425f-48fd-99d5-3529eaef0fc1",
+    "creationDate": "2026-04-18T17:10:53.936Z",
+    "game": "Final Fantasy X-2",
+    "song": "1000 Words",
+    "composers": [
+      "Noriko Matsueda",
+      "Takahito Eguchi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Final Fantasy X-2/1000 Words.mmrs",
+    "preview": "Final Fantasy X-2/1000 Words.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
