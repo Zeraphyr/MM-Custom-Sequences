@@ -36849,5 +36849,24 @@
     "file": "Golden Sun/Tolbi.mmrs",
     "preview": "Golden Sun/Tolbi.ogg"
   },
+  {
+    "uuid": "6e4b13f6-ac6f-4244-8d0e-e9d941a51a5c",
+    "creationDate": "2026-04-18T18:09:07.361Z",
+    "game": "Golden Sun",
+    "song": "Tolbi Docks",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Golden Sun/Tolbi Docks.mmrs",
+    "preview": "Golden Sun/Tolbi Docks.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
