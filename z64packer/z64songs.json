@@ -36295,5 +36295,24 @@
     "file": "Pokémon Fire Red Team Rocket Edition/Oak's Secret Lab.mmrs",
     "preview": "Pokémon Fire Red Team Rocket Edition/Oak's Secret Lab.ogg"
   },
+  {
+    "uuid": "c82570ac-1576-4854-ad36-8ba8ed08a6f1",
+    "creationDate": "2026-04-18T17:21:48.404Z",
+    "game": "The Legend of Zelda: A Link to the Past and Four Swords",
+    "song": "Talus Cave",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda A Link to the Past and Four Swords/Talus Cave.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past and Four Swords/Talus Cave.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
