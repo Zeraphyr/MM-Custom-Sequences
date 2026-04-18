@@ -35854,5 +35854,25 @@
     "file": "Final Fantasy Crystal Chronicles/Daemon's Court.mmrs",
     "preview": "Final Fantasy Crystal Chronicles/Daemon's Court.ogg"
   },
+  {
+    "uuid": "2c61cb2c-dd22-45ef-8c3e-c3cc366d5227",
+    "creationDate": "2026-04-18T16:57:56.926Z",
+    "game": "Final Fantasy Crystal Chronicles",
+    "song": "Echo of Memories",
+    "composers": [
+      "Kumi Tanioka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16",
+      "157"
+    ],
+    "file": "Final Fantasy Crystal Chronicles/Echo of Memories.mmrs",
+    "preview": "Final Fantasy Crystal Chronicles/Echo of Memories.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
