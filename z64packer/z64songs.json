@@ -35140,5 +35140,26 @@
     "file": "Etrian Odyssey III The Drowned City/The First Campaign.mmrs",
     "preview": "Etrian Odyssey III The Drowned City/The First Campaign.ogg"
   },
+  {
+    "uuid": "f32586b5-3595-4fdb-93df-c404fb9f11de",
+    "creationDate": "2026-04-18T16:25:17.744Z",
+    "game": "Fable II",
+    "song": "Down by the Reeds",
+    "composers": [
+      "Russell Shaw"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Fable II/Down by the Reeds.mmrs",
+    "preview": "Fable II/Down by the Reeds.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
