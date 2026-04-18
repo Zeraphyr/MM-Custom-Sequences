@@ -35774,5 +35774,24 @@
     "file": "Final Fantasy XIII/Victory.mmrs",
     "preview": "Final Fantasy XIII/Victory.ogg"
   },
+  {
+    "uuid": "aab9b896-49c0-41bf-b2c5-a0fae97f4d58",
+    "creationDate": "2026-04-18T16:51:46.522Z",
+    "game": "Final Fantasy XIII-2",
+    "song": "Plains of Eternity",
+    "composers": [
+      "Masashi Hamauzu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Final Fantasy XIII-2/Plains of Eternity.mmrs",
+    "preview": "Final Fantasy XIII-2/Plains of Eternity.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
