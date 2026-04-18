@@ -35585,5 +35585,27 @@
     "file": "Final Fantasy X/Game Over.mmrs",
     "preview": "Final Fantasy X/Game Over.ogg"
   },
+  {
+    "uuid": "b3e7ead6-7dc5-4d77-b63d-10c1ccbc917e",
+    "creationDate": "2026-04-18T16:44:10.469Z",
+    "game": "Final Fantasy X",
+    "song": "Listen to My Story",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "and Junya Nakano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16",
+      "157"
+    ],
+    "file": "Final Fantasy X/Listen to My Story.mmrs",
+    "preview": "Final Fantasy X/Listen to My Story.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
