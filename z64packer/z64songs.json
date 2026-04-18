@@ -36830,5 +36830,24 @@
     "file": "Golden Sun The Lost Age/Awaken.mmrs",
     "preview": "Golden Sun The Lost Age/Awaken.ogg"
   },
+  {
+    "uuid": "5118b170-90cf-4ef7-b41e-399780dc999c",
+    "creationDate": "2026-04-18T18:08:29.327Z",
+    "game": "Golden Sun",
+    "song": "Tolbi",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Golden Sun/Tolbi.mmrs",
+    "preview": "Golden Sun/Tolbi.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
