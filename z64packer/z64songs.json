@@ -36411,5 +36411,24 @@
     "preview": "Golden Sun The Lost Age/Jenna Battle.ogg",
     "lastUpdateDate": "2026-04-18T17:45:34.822Z"
   },
+  {
+    "uuid": "db7cc748-929b-4538-a812-8568d9e0ec7f",
+    "creationDate": "2026-04-18T17:46:04.302Z",
+    "game": "Golden Sun: The Lost Age",
+    "song": "Overworld Theme",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Golden Sun The Lost Age/Overworld Theme.mmrs",
+    "preview": "Golden Sun The Lost Age/Overworld Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
