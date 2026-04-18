@@ -35435,5 +35435,25 @@
     "file": "Final Fantasy VI/Decisive Battle (Rock Remix).mmrs",
     "preview": "Final Fantasy VI/Decisive Battle (Rock Remix).ogg"
   },
+  {
+    "uuid": "0a1be50d-69fb-437d-a8be-3f07737992b9",
+    "creationDate": "2026-04-18T16:38:30.601Z",
+    "game": "Final Fantasy VI",
+    "song": "Searching for Friends",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Final Fantasy VI/Searching for Friends.mmrs",
+    "preview": "Final Fantasy VI/Searching for Friends.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
