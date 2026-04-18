@@ -35736,5 +35736,23 @@
     "file": "Final Fantasy XII/Game Over.mmrs",
     "preview": "Final Fantasy XII/Game Over.ogg"
   },
+  {
+    "uuid": "b1913c8b-cb7f-4df2-8f18-00e28363791c",
+    "creationDate": "2026-04-18T16:50:04.637Z",
+    "game": "Final Fantasy XII",
+    "song": "Giza Plains",
+    "composers": [
+      "Hitoshi Sakimoto"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "file": "Final Fantasy XII/Giza Plains.mmrs",
+    "preview": "Final Fantasy XII/Giza Plains.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
