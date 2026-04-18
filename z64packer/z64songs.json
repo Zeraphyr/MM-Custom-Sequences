@@ -35814,5 +35814,25 @@
     "file": "Final Fantasy Adventure/Mt. Illusia Palace.mmrs",
     "preview": "Final Fantasy Adventure/Mt. Illusia Palace.ogg"
   },
+  {
+    "uuid": "391e9594-e1d1-41a4-b833-c16a2261a1a3",
+    "creationDate": "2026-04-18T16:55:56.167Z",
+    "game": "Final Fantasy Adventure",
+    "song": "Second Overworld (Alternate Version)",
+    "composers": [
+      "Kenji Ito"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Final Fantasy Adventure/Second Overworld (Alternate Version).mmrs",
+    "preview": "Final Fantasy Adventure/Second Overworld (Alternate Version).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
