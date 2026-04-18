@@ -35930,5 +35930,24 @@
     "file": "Final Fantasy Crystal Chronicles Ring of Fates/Game Over.mmrs",
     "preview": "Final Fantasy Crystal Chronicles Ring of Fates/Game Over.ogg"
   },
+  {
+    "uuid": "6fe170bc-bbc0-4bd8-9516-fadeb50c6a43",
+    "creationDate": "2026-04-18T17:01:08.424Z",
+    "game": "Final Fantasy Crystal Chronicles: Ring of Fates",
+    "song": "Heroic Theme",
+    "composers": [
+      "Kumi Tanioka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Final Fantasy Crystal Chronicles Ring of Fates/Heroic Theme.mmrs",
+    "preview": "Final Fantasy Crystal Chronicles Ring of Fates/Heroic Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
