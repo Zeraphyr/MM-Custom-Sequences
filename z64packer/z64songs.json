@@ -36275,5 +36275,24 @@
     "file": "Pokémon Fire Red Team Rocket Edition/Battle VS. Professor Oak.mmrs",
     "preview": "Pokémon Fire Red Team Rocket Edition/Battle VS. Professor Oak.ogg"
   },
+  {
+    "uuid": "5a5d99f5-feb1-47d4-8082-025f86a3ed4a",
+    "creationDate": "2026-04-18T17:19:04.951Z",
+    "game": "Pokémon Fire Red: Team Rocket Edition",
+    "song": "Oak's Secret Lab",
+    "composers": [
+      "Magnus Nyborg Berg"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Pokémon Fire Red Team Rocket Edition/Oak's Secret Lab.mmrs",
+    "preview": "Pokémon Fire Red Team Rocket Edition/Oak's Secret Lab.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
