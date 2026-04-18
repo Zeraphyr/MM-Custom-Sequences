@@ -36670,5 +36670,26 @@
     "file": "Golden Sun/Imil's Theme.mmrs",
     "preview": "Golden Sun/Imil's Theme.ogg"
   },
+  {
+    "uuid": "8f981d7f-3a86-49cb-ac05-dbc64175388c",
+    "creationDate": "2026-04-18T18:02:09.555Z",
+    "game": "Golden Sun",
+    "song": "Ivan's Theme",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Golden Sun/Ivan's Theme.mmrs",
+    "preview": "Golden Sun/Ivan's Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
