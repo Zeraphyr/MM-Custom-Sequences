@@ -37407,5 +37407,25 @@
     "file": "Apple iOS/Marimba.mmrs",
     "preview": "Apple iOS/Marimba.ogg"
   },
+  {
+    "uuid": "9565cc7c-7a68-48ef-844c-8201465d7742",
+    "creationDate": "2026-04-18T22:50:53.546Z",
+    "game": "Apple iOS",
+    "song": "Opening",
+    "composers": [
+      "Dr. Gerhard Lengeling"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Apple iOS/Opening.mmrs",
+    "preview": "Apple iOS/Opening.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
