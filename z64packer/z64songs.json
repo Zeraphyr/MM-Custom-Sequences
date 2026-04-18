@@ -35628,5 +35628,27 @@
     "file": "Final Fantasy X/Normal Battle.mmrs",
     "preview": "Final Fantasy X/Normal Battle.ogg"
   },
+  {
+    "uuid": "3608e4f7-d486-4f48-8d11-b03b441e0644",
+    "creationDate": "2026-04-18T16:45:50.073Z",
+    "game": "Final Fantasy X",
+    "song": "This is Your Story",
+    "composers": [
+      "Nobuo Uematsu",
+      "Masashi Hamauzu",
+      "and Junya Nakano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Final Fantasy X/This is Your Story.mmrs",
+    "preview": "Final Fantasy X/This is Your Story.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
