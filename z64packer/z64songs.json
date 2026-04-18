@@ -36390,5 +36390,24 @@
     "file": "Golden Sun The Lost Age/Boss Battle.mmrs",
     "preview": "Golden Sun The Lost Age/Boss Battle.ogg"
   },
+  {
+    "uuid": "a5291a38-231e-4e49-ae8a-7f19a1271b8b",
+    "creationDate": "2026-04-18T17:44:45.167Z",
+    "game": "Golden Sun: The Lost Age",
+    "song": "Jenna Battle",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Golden Sun The Lost Age/Jenna Battle.mmrs",
+    "preview": "Golden Sun The Lost Age/Jenna Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
