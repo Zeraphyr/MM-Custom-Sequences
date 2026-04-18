@@ -36626,5 +36626,29 @@
     "file": "Golden Sun/Flooded Altin.mmrs",
     "preview": "Golden Sun/Flooded Altin.ogg"
   },
+  {
+    "uuid": "d0b6bdec-efaa-4ed5-b05a-3631978b2433",
+    "creationDate": "2026-04-18T18:00:21.623Z",
+    "game": "Golden Sun",
+    "song": "Game Over",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6",
+      "9",
+      "157"
+    ],
+    "file": "Golden Sun/Game Over.mmrs",
+    "preview": "Golden Sun/Game Over.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
