@@ -39113,5 +39113,25 @@
     "file": "Metroid Prime/Vs. Flaahgra.mmrs",
     "preview": "Metroid Prime/Vs. Flaahgra.ogg"
   },
+  {
+    "uuid": "6665f5a3-be36-4526-80a8-30ef4c55326d",
+    "creationDate": "2026-04-19T03:49:54.117Z",
+    "game": "Metroid Prime",
+    "song": "Get Item",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Metroid Prime/Get Item.mmrs",
+    "preview": "Metroid Prime/Get Item.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
