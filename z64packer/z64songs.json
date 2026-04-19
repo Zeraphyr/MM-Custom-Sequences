@@ -37750,5 +37750,27 @@
     "file": "Kingdom Hearts REChain of Memories/Just Wondering.mmrs",
     "preview": "Kingdom Hearts REChain of Memories/Just Wondering.ogg"
   },
+  {
+    "uuid": "17a96df4-92da-48ce-9b4a-44a16f3653bd",
+    "creationDate": "2026-04-19T02:07:23.325Z",
+    "game": "Kingdom Hearts",
+    "song": "Shipmeister's Humoresque",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "6",
+      "16"
+    ],
+    "file": "Kingdom Hearts/Shipmeister's Humoresque.mmrs",
+    "preview": "Kingdom Hearts/Shipmeister's Humoresque.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
