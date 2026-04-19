@@ -39850,5 +39850,25 @@
     "file": "The Legend of Zelda Majora's Mask/Termina Field (Funeral Remix).mmrs",
     "preview": "The Legend of Zelda Majora's Mask/Termina Field (Funeral Remix).ogg"
   },
+  {
+    "uuid": "05a15b1f-05b1-4f9e-be73-66595b721056",
+    "creationDate": "2026-04-19T04:26:09.522Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Reunited Love",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda Majora's Mask/Reunited Love.mmrs",
+    "preview": "The Legend of Zelda Majora's Mask/Reunited Love.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
