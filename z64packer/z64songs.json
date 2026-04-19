@@ -38521,5 +38521,26 @@
     "file": "The Legend of Zelda Link's Awakening/Puzzle Solved.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Puzzle Solved.ogg"
   },
+  {
+    "uuid": "839581da-e49b-43c0-a3f5-6ff171800017",
+    "creationDate": "2026-04-19T02:59:16.024Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Raft Ride",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Raft Ride.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Raft Ride.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
