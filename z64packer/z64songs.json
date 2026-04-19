@@ -38479,5 +38479,26 @@
     "file": "The Legend of Zelda Link's Awakening/Nightmare Battle Omen.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Nightmare Battle Omen.ogg"
   },
+  {
+    "uuid": "224bef53-eabd-4985-b87b-165d6948ea01",
+    "creationDate": "2026-04-19T02:58:04.804Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Nightmare Intro",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Nightmare Intro.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Nightmare Intro.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
