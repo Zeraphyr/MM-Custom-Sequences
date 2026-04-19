@@ -37933,5 +37933,26 @@
     "file": "The Legend of Zelda Link's Awakening/Boss Defeated.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Boss Defeated.ogg"
   },
+  {
+    "uuid": "77d906e4-cf19-4840-8906-4186df718032",
+    "creationDate": "2026-04-19T02:17:22.080Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Boss Defeated (Fanfare ver.)",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Boss Defeated (Fanfare ver.).mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Boss Defeated (Fanfare ver.).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
