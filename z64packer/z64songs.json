@@ -39390,5 +39390,23 @@
     "preview": "Minecraft/Stal  (Variant B).ogg",
     "lastUpdateDate": "2026-04-19T04:02:56.661Z"
   },
+  {
+    "uuid": "3ede2983-03fb-443f-86b2-9962a99ad3d5",
+    "creationDate": "2026-04-19T04:04:19.463Z",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "song": "Boss Theme",
+    "composers": [
+      "Mitsuhiko Takano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "The Legend of Zelda The Minish Cap/Boss Theme.mmrs",
+    "preview": "The Legend of Zelda The Minish Cap/Boss Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
