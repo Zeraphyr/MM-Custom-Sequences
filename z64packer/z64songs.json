@@ -38353,5 +38353,25 @@
     "file": "The Legend of Zelda Link's Awakening/Link Awakens in Marin's House.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Link Awakens in Marin's House.ogg"
   },
+  {
+    "uuid": "4e10acc2-b3f4-4326-b8e1-63c38532263a",
+    "creationDate": "2026-04-19T02:53:57.375Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Manbo's Mambo",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Manbo's Mambo.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Manbo's Mambo.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
