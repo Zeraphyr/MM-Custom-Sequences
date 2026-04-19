@@ -38438,5 +38438,26 @@
     "file": "The Legend of Zelda Link's Awakening/Mysterious Forest.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Mysterious Forest.ogg"
   },
+  {
+    "uuid": "ccb2ad45-e3af-4783-976b-5be929d24b31",
+    "creationDate": "2026-04-19T02:56:33.698Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "File Select",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/File Select.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/File Select.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
