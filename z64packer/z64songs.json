@@ -39668,5 +39668,24 @@
     "file": "The Legend of Zelda Majora's Mask/Mikau's Cry (Ending).mmrs",
     "preview": "The Legend of Zelda Majora's Mask/Mikau's Cry (Ending).ogg"
   },
+  {
+    "uuid": "7f29a1b5-3509-46e1-8857-5ba9992f43a0",
+    "creationDate": "2026-04-19T04:18:08.008Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Lost in the Dark Woods",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda Majora's Mask/Lost in the Dark Woods.mmrs",
+    "preview": "The Legend of Zelda Majora's Mask/Lost in the Dark Woods.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
