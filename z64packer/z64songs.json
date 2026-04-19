@@ -37552,5 +37552,25 @@
     "file": "Kingdom Hearts 3582 Days/Roxas' Theme.mmrs",
     "preview": "Kingdom Hearts 3582 Days/Roxas' Theme.ogg"
   },
+  {
+    "uuid": "7c717907-4df6-4ced-93f7-3ab69aed14bb",
+    "creationDate": "2026-04-19T01:57:59.278Z",
+    "game": "Kingdom Hearts 358/2 Days",
+    "song": "Xion's Theme",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Kingdom Hearts 3582 Days/Xion's Theme.mmrs",
+    "preview": "Kingdom Hearts 3582 Days/Xion's Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
