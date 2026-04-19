@@ -38018,5 +38018,26 @@
     "file": "The Legend of Zelda Link's Awakening/Bow Wow Rescue Mission.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Bow Wow Rescue Mission.ogg"
   },
+  {
+    "uuid": "ccf9f0f9-839e-4eb6-9241-af68acabc1d8",
+    "creationDate": "2026-04-19T02:20:04.571Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Cave",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Cave.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Cave.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
