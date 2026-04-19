@@ -38818,5 +38818,27 @@
     "file": "The Legend of Zelda Link's Awakening/Angler's Tunnel.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Angler's Tunnel.ogg"
   },
+  {
+    "uuid": "27c8afe9-aea3-4b0b-beed-e2325a059436",
+    "creationDate": "2026-04-19T03:12:25.118Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Eagle's Tower",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "157"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Eagle's Tower.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Eagle's Tower.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
