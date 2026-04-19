@@ -37511,5 +37511,27 @@
     "file": "Kingdom Hearts II/Dearly Beloved.mmrs",
     "preview": "Kingdom Hearts II/Dearly Beloved.ogg"
   },
+  {
+    "uuid": "9d28972d-4e4c-49c4-bae1-41700c9993b4",
+    "creationDate": "2026-04-19T01:55:18.973Z",
+    "game": "Kingdom Hearts II",
+    "song": "Twinkle in the Sky",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Kingdom Hearts II/Twinkle in the Sky.mmrs",
+    "preview": "Kingdom Hearts II/Twinkle in the Sky.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
