@@ -39748,5 +39748,25 @@
     "file": "The Legend of Zelda Majora's Mask/Happy Mask Salesman's Theme (Remix).mmrs",
     "preview": "The Legend of Zelda Majora's Mask/Happy Mask Salesman's Theme (Remix).ogg"
   },
+  {
+    "uuid": "31eb2aa1-bf45-4377-b6ea-e3fdfe0be5a4",
+    "creationDate": "2026-04-19T04:22:18.341Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Inverted Stone Tower Temple (Remix)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Majora's Mask/Inverted Stone Tower Temple (Remix).mmrs",
+    "preview": "The Legend of Zelda Majora's Mask/Inverted Stone Tower Temple (Remix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
