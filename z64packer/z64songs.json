@@ -36392,7 +36392,7 @@
   {
     "uuid": "c67e40c5-eea4-4238-b936-72ce3ce1681b",
     "creationDate": "2026-04-18T17:16:35.064Z",
-    "game": "Pokémon Fire Red: Team Rocket Edition",
+    "game": "Pokémon FireRed: Rocket Edition",
     "song": "Boss Battle",
     "composers": [
       "Magnus Nyborg Berg"
@@ -36405,8 +36405,8 @@
       "4",
       "7"
     ],
-    "file": "Pokémon Fire Red Team Rocket Edition/Boss Battle.mmrs",
-    "preview": "Pokémon Fire Red Team Rocket Edition/Boss Battle.ogg",
+    "file": "Pokémon FireRed Rocket Edition/Boss Battle.mmrs",
+    "preview": "Pokémon FireRed Rocket Edition/Boss Battle.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -36414,7 +36414,7 @@
   {
     "uuid": "15531372-7c1a-4b2c-8b4b-23a4d4347de4",
     "creationDate": "2026-04-18T17:17:32.036Z",
-    "game": "Pokémon Fire Red: Team Rocket Edition",
+    "game": "Pokémon FireRed: Rocket Edition",
     "song": "Cinnabar Island (Glitched ver.)",
     "composers": [
       "Magnus Nyborg Berg"
@@ -36429,8 +36429,8 @@
       "2",
       "3"
     ],
-    "file": "Pokémon Fire Red Team Rocket Edition/Cinnabar Island (Glitched ver.).mmrs",
-    "preview": "Pokémon Fire Red Team Rocket Edition/Cinnabar Island (Glitched ver.).ogg",
+    "file": "Pokémon FireRed Rocket Edition/Cinnabar Island (Glitched ver.).mmrs",
+    "preview": "Pokémon FireRed Rocket Edition/Cinnabar Island (Glitched ver.).ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -36438,7 +36438,7 @@
   {
     "uuid": "be97af34-36ca-473e-bdbc-9c0cb1bf49a8",
     "creationDate": "2026-04-18T17:18:22.196Z",
-    "game": "Pokémon Fire Red: Team Rocket Edition",
+    "game": "Pokémon FireRed: Rocket Edition",
     "song": "Vs. Professor Oak",
     "composers": [
       "Magnus Nyborg Berg"
@@ -36451,8 +36451,8 @@
       "4",
       "7"
     ],
-    "file": "Pokémon Fire Red Team Rocket Edition/Battle VS. Professor Oak.mmrs",
-    "preview": "Pokémon Fire Red Team Rocket Edition/Battle VS. Professor Oak.ogg",
+    "file": "Pokémon FireRed Rocket Edition/Battle VS. Professor Oak.mmrs",
+    "preview": "Pokémon FireRed Rocket Edition/Battle VS. Professor Oak.ogg",
     "lastUpdateDate": "2026-04-18T17:20:00.218Z",
     "usesCustomBank": false,
     "usesCustomSamples": false,
@@ -36461,7 +36461,7 @@
   {
     "uuid": "5a5d99f5-feb1-47d4-8082-025f86a3ed4a",
     "creationDate": "2026-04-18T17:19:04.951Z",
-    "game": "Pokémon Fire Red: Team Rocket Edition",
+    "game": "Pokémon FireRed: Rocket Edition",
     "song": "Oak's Secret Lab",
     "composers": [
       "Magnus Nyborg Berg"
@@ -36474,8 +36474,8 @@
       "2",
       "3"
     ],
-    "file": "Pokémon Fire Red Team Rocket Edition/Oak's Secret Lab.mmrs",
-    "preview": "Pokémon Fire Red Team Rocket Edition/Oak's Secret Lab.ogg",
+    "file": "Pokémon FireRed Rocket Edition/Oak's Secret Lab.mmrs",
+    "preview": "Pokémon FireRed Rocket Edition/Oak's Secret Lab.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -36483,7 +36483,7 @@
   {
     "uuid": "c82570ac-1576-4854-ad36-8ba8ed08a6f1",
     "creationDate": "2026-04-18T17:21:48.404Z",
-    "game": "The Legend of Zelda: A Link to the Past and Four Swords",
+    "game": "The Legend of Zelda: A Link to the Past & Four Swords",
     "song": "Talus Cave",
     "composers": [
       "Koji Kondo"
@@ -36496,8 +36496,8 @@
       "2",
       "3"
     ],
-    "file": "The Legend of Zelda A Link to the Past and Four Swords/Talus Cave.mmrs",
-    "preview": "The Legend of Zelda A Link to the Past and Four Swords/Talus Cave.ogg",
+    "file": "The Legend of Zelda A Link to the Past & Four Swords/Talus Cave.mmrs",
+    "preview": "The Legend of Zelda A Link to the Past & Four Swords/Talus Cave.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
