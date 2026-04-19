@@ -38713,5 +38713,26 @@
     "file": "The Legend of Zelda Link's Awakening/The Turtle Awakens.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/The Turtle Awakens.ogg"
   },
+  {
+    "uuid": "55f3816b-bedd-4712-b185-545ca6d0898f",
+    "creationDate": "2026-04-19T03:04:48.175Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Trendy Game",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Trendy Game.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Trendy Game.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
