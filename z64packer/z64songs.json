@@ -39728,5 +39728,25 @@
     "file": "The Legend of Zelda Majora's Mask/Clock Town Triumphant Return (Remix).mmrs",
     "preview": "The Legend of Zelda Majora's Mask/Clock Town Triumphant Return (Remix).ogg"
   },
+  {
+    "uuid": "2ce98919-5ca4-4e6d-b654-86c25f9b4ef2",
+    "creationDate": "2026-04-19T04:21:22.932Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Happy Mask Salesman's Theme (Remix)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "6"
+    ],
+    "file": "The Legend of Zelda Majora's Mask/Happy Mask Salesman's Theme (Remix).mmrs",
+    "preview": "The Legend of Zelda Majora's Mask/Happy Mask Salesman's Theme (Remix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
