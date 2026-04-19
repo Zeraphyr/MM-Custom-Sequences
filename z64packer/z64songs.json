@@ -39217,5 +39217,28 @@
     "file": "Metal Gear Solid 2 Sons of Liberty/Tanker (Alert ver.).mmrs",
     "preview": "Metal Gear Solid 2 Sons of Liberty/Tanker (Alert ver.).ogg"
   },
+  {
+    "uuid": "271bf0f0-6ca8-47e5-9002-9aa6e481d840",
+    "creationDate": "2026-04-19T03:55:44.342Z",
+    "game": "Metal Gear Solid",
+    "song": "Encounter",
+    "composers": [
+      "Harry Gregson-Williams",
+      "Norihiko Hibino",
+      "Nobuko Toda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "file": "Metal Gear Solid/Encounter.mmrs",
+    "preview": "Metal Gear Solid/Encounter.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
