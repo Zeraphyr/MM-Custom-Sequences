@@ -3481,13 +3481,17 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/d7f14b4988c30cc40e5e7b7d157bc018.png"
   },
   {
-    "game": "Harvest Moon: Back to Nature"
+    "game": "Harvest Moon: Back to Nature",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/96670197fabdac700cca192d9fa97f1f.png"
   },
   {
-    "game": "Apple iOS"
+    "game": "Apple iOS",
+    "series": "Consoles and BIOS",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/8559a23222fcc156b185c1e8aec36fe6.png"
   },
   {
-    "game": "Inazuma Eleven GO Light and Shadow"
+    "game": "Inazuma Eleven GO Light and Shadow",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/666ef5d32e74e7402aab206bbe9cccda.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
