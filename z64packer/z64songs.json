@@ -39768,5 +39768,23 @@
     "file": "The Legend of Zelda Majora's Mask/Inverted Stone Tower Temple (Remix).mmrs",
     "preview": "The Legend of Zelda Majora's Mask/Inverted Stone Tower Temple (Remix).ogg"
   },
+  {
+    "uuid": "0a9c11ea-a02f-4db5-863e-68516b0def7f",
+    "creationDate": "2026-04-19T04:23:04.267Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Final Day (Remix)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "157"
+    ],
+    "file": "The Legend of Zelda Majora's Mask/Final Day (Remix).mmrs",
+    "preview": "The Legend of Zelda Majora's Mask/Final Day (Remix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
