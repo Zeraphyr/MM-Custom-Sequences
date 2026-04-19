@@ -39074,5 +39074,24 @@
     "file": "Metroid Prime 2 Echoes/Quadraxis.mmrs",
     "preview": "Metroid Prime 2 Echoes/Quadraxis.ogg"
   },
+  {
+    "uuid": "6e52b918-a727-42fe-a574-ad9b19c1c2d8",
+    "creationDate": "2026-04-19T03:47:31.099Z",
+    "game": "Metroid Prime 2: Echoes",
+    "song": "Samus Aran's Appearance",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Metroid Prime 2 Echoes/Samus Aran's Appearance.mmrs",
+    "preview": "Metroid Prime 2 Echoes/Samus Aran's Appearance.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
