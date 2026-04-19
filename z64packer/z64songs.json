@@ -39687,5 +39687,26 @@
     "file": "The Legend of Zelda Majora's Mask/Lost in the Dark Woods.mmrs",
     "preview": "The Legend of Zelda Majora's Mask/Lost in the Dark Woods.ogg"
   },
+  {
+    "uuid": "2ab7f2bf-ab6d-41d2-8323-e9e019175595",
+    "creationDate": "2026-04-19T04:19:15.738Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Deku Dance (Remix)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4"
+    ],
+    "file": "The Legend of Zelda Majora's Mask/Deku Dance (Remix).mmrs",
+    "preview": "The Legend of Zelda Majora's Mask/Deku Dance (Remix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
