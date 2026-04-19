@@ -37830,5 +37830,26 @@
     "file": "Kingdom Hearts/Treasured Memories.mmrs",
     "preview": "Kingdom Hearts/Treasured Memories.ogg"
   },
+  {
+    "uuid": "277c91b6-5914-44b7-8c72-d3fb685da4e2",
+    "creationDate": "2026-04-19T02:09:58.442Z",
+    "game": "Kingdom Hearts",
+    "song": "Villains of a Sort",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "Kingdom Hearts/Villains of a Sort.mmrs",
+    "preview": "Kingdom Hearts/Villains of a Sort.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
