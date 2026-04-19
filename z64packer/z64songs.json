@@ -38288,5 +38288,26 @@
     "file": "The Legend of Zelda Link's Awakening/Kanalet Castle.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Kanalet Castle.ogg"
   },
+  {
+    "uuid": "4636f94d-b0e8-41c8-a63e-6e90b14428b4",
+    "creationDate": "2026-04-19T02:49:34.742Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Key Cavern",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Key Cavern.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Key Cavern.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
