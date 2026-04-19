@@ -39630,5 +39630,25 @@
     "preview": "The Legend of Zelda Majora's Mask/Happy Mask Salesman Theme.ogg",
     "lastUpdateDate": "2026-04-19T04:13:59.508Z"
   },
+  {
+    "uuid": "8647f027-05bd-45a5-be3a-d7e7bfed7751",
+    "creationDate": "2026-04-19T04:15:03.459Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Mikau's Cry",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda Majora's Mask/Mikau's Cry.mmrs",
+    "preview": "The Legend of Zelda Majora's Mask/Mikau's Cry.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
