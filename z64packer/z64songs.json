@@ -38606,5 +38606,26 @@
     "file": "The Legend of Zelda Link's Awakening/Sword Search.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Sword Search.ogg"
   },
+  {
+    "uuid": "8ad01d1e-febc-4dc7-aeff-1353cdd8ba10",
+    "creationDate": "2026-04-19T03:01:37.826Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Tail Cave",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Tail Cave.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Tail Cave.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
