@@ -3494,25 +3494,38 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/666ef5d32e74e7402aab206bbe9cccda.png"
   },
   {
-    "game": "Manhunt 2"
+    "game": "Manhunt 2",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/5a66b9200f29ac3fa0ae244cc2a51b39.png"
   },
   {
-    "game": "Metal Gear 2: Solid Snake"
+    "game": "Metal Gear 2: Solid Snake",
+    "series": "Metal Gear Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/72ed51c0351c080b21275e36ca9ce194.png"
   },
   {
-    "game": "Nintendo Wii"
+    "game": "Nintendo Wii",
+    "series": "Consoles and BIOS",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/63eb1ef3cacab58342bf5cebf3e1e6de.png"
   },
   {
-    "game": "Metal Gear Solid 2: Sons of Liberty"
+    "game": "Metal Gear Solid 2: Sons of Liberty",
+    "series": "Metal Gear Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/35e767d0f608eca74ac32cfcc1b44696.png"
   },
   {
-    "game": "Metal Gear"
+    "game": "Metal Gear",
+    "series": "Metal Gear Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/4ee8fc10f6bc212f5729276168ba9d12.png"
   },
   {
-    "game": "Mario Golf: Advance Tour"
+    "game": "Mario Golf: Advance Tour",
+    "series": "Mario Sports Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/6d65b5ac1f4ec80b9a7309311f4f9b13.png"
   },
   {
-    "game": "Kingdom Hearts RE:Chain of Memories"
+    "game": "Kingdom Hearts RE:Chain of Memories",
+    "series": "Kingdom Hearts Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/beba25deef966d6816093e38d989b9ca.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
