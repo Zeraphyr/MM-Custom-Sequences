@@ -39526,5 +39526,24 @@
     "file": "The Legend of Zelda The Minish Cap/Lost Woods (Unused Song).mmrs",
     "preview": "The Legend of Zelda The Minish Cap/Lost Woods (Unused Song).ogg"
   },
+  {
+    "uuid": "7a7eeefb-525a-4b4e-b0bb-3702db92c237",
+    "creationDate": "2026-04-19T04:09:17.824Z",
+    "game": "Mario & Luigi: Superstar Saga",
+    "song": "Stardust Fields",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Mario & Luigi Superstar Saga/Stardust Fields.mmrs",
+    "preview": "Mario & Luigi Superstar Saga/Stardust Fields.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
