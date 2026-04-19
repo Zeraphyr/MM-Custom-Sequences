@@ -38331,5 +38331,27 @@
     "file": "The Legend of Zelda Link's Awakening/Link Awakens in the Sea.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Link Awakens in the Sea.ogg"
   },
+  {
+    "uuid": "6d8bc782-5329-4da4-8746-8713174fc3bc",
+    "creationDate": "2026-04-19T02:53:20.509Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Link Awakens in Marin's House",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Link Awakens in Marin's House.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Link Awakens in Marin's House.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
