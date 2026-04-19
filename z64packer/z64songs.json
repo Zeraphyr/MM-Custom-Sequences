@@ -38373,5 +38373,26 @@
     "file": "The Legend of Zelda Link's Awakening/Manbo's Mambo.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Manbo's Mambo.ogg"
   },
+  {
+    "uuid": "6e76e354-a2b7-4959-b94f-fa48c7799bcf",
+    "creationDate": "2026-04-19T02:54:40.662Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Manbo's Mambo (Ocarina ver.)",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Manbo's Mambo (Ocarina ver.).mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Manbo's Mambo (Ocarina ver.).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
