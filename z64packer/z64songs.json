@@ -38039,5 +38039,25 @@
     "file": "The Legend of Zelda Link's Awakening/Cave.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Cave.ogg"
   },
+  {
+    "uuid": "e9bab109-8252-4ef6-bd73-31b62bcbdc0d",
+    "creationDate": "2026-04-19T02:20:41.341Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Climb the Stairs Before You",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "121"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Climb the Stairs Before You.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Climb the Stairs Before You.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
