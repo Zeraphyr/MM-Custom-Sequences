@@ -39014,5 +39014,26 @@
     "file": "Metal Gear/Battle Theme.mmrs",
     "preview": "Metal Gear/Battle Theme.ogg"
   },
+  {
+    "uuid": "00948131-c8d2-41a6-af0f-c69c754b067d",
+    "creationDate": "2026-04-19T03:44:39.952Z",
+    "game": "Metal Gear",
+    "song": "Game Over",
+    "composers": [
+      "Iku Mizutani",
+      "Shigehiro Takenouchi",
+      "Motoaki Furukawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Metal Gear/Game Over.mmrs",
+    "preview": "Metal Gear/Game Over.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
