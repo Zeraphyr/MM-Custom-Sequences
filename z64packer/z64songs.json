@@ -39408,5 +39408,24 @@
     "file": "The Legend of Zelda The Minish Cap/Boss Theme.mmrs",
     "preview": "The Legend of Zelda The Minish Cap/Boss Theme.ogg"
   },
+  {
+    "uuid": "034d46c7-7e2e-4565-b9ce-6242288f813c",
+    "creationDate": "2026-04-19T04:04:50.063Z",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "song": "Cave",
+    "composers": [
+      "Mitsuhiko Takano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda The Minish Cap/Cave.mmrs",
+    "preview": "The Legend of Zelda The Minish Cap/Cave.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
