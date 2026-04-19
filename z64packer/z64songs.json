@@ -39310,5 +39310,25 @@
     "file": "Nintendo Wii/Mii Channel.mmrs",
     "preview": "Nintendo Wii/Mii Channel.ogg"
   },
+  {
+    "uuid": "95010fb4-296f-40d2-a2e4-99f1897526d1",
+    "creationDate": "2026-04-19T04:00:13.039Z",
+    "game": "Minecraft",
+    "song": "Haggstrom (Part 1)",
+    "composers": [
+      "Daniel Rosenfeld"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Minecraft/Haggstrom (Part 1).mmrs",
+    "preview": "Minecraft/Haggstrom (Part 1).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
