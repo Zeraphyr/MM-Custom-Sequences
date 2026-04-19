@@ -38542,5 +38542,25 @@
     "file": "The Legend of Zelda Link's Awakening/Raft Ride.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Raft Ride.ogg"
   },
+  {
+    "uuid": "3b205ec3-8bbd-4083-930a-b79ae59ea67d",
+    "creationDate": "2026-04-19T02:59:55.996Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Richard's Villa",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Richard's Villa.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Richard's Villa.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
