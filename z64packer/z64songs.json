@@ -39155,5 +39155,25 @@
     "lastUpdateDate": "2026-04-19T03:51:29.551Z",
     "notes": "*One note may be a little goofy, this song needs a little revision"
   },
+  {
+    "uuid": "ade073f2-274d-4093-9d05-08e71aaf8427",
+    "creationDate": "2026-04-19T03:53:00.347Z",
+    "game": "Mario Golf: Advance Tour",
+    "song": "Saving",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Mario Golf Advance Tour/Saving.mmrs",
+    "preview": "Mario Golf Advance Tour/Saving.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
