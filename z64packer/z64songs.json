@@ -39564,5 +39564,25 @@
     "file": "Mario & Luigi Superstar Saga/Victory.mmrs",
     "preview": "Mario & Luigi Superstar Saga/Victory.ogg"
   },
+  {
+    "uuid": "dfc86df5-edac-495b-a946-eaa16d79fe30",
+    "creationDate": "2026-04-19T04:10:58.156Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Credits (Part 1)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda Majora's Mask/Credits (Part 1).mmrs",
+    "preview": "The Legend of Zelda Majora's Mask/Credits (Part 1).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
