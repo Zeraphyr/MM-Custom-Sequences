@@ -37591,5 +37591,26 @@
     "file": "Kingdom Hearts 3582 Days/Disney Boss.mmrs",
     "preview": "Kingdom Hearts 3582 Days/Disney Boss.ogg"
   },
+  {
+    "uuid": "b985edad-f75d-47c9-90b5-19ba8af2e5e0",
+    "creationDate": "2026-04-19T01:59:20.844Z",
+    "game": "Kingdom Hearts Birth by Sleep",
+    "song": "The Key",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Kingdom Hearts Birth by Sleep/The Key.mmrs",
+    "preview": "Kingdom Hearts Birth by Sleep/The Key.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
