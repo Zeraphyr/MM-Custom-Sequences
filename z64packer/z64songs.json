@@ -37954,5 +37954,25 @@
     "file": "The Legend of Zelda Link's Awakening/Boss Defeated (Fanfare ver.).mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Boss Defeated (Fanfare ver.).ogg"
   },
+  {
+    "uuid": "a049d777-b998-4805-be44-3d6bdde6d92c",
+    "creationDate": "2026-04-19T02:18:04.575Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Boss Theme",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Boss Theme.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Boss Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
