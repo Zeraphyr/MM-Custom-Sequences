@@ -39240,5 +39240,27 @@
     "file": "Metal Gear Solid/Encounter.mmrs",
     "preview": "Metal Gear Solid/Encounter.ogg"
   },
+  {
+    "uuid": "94df07bf-83fc-4daa-818d-5f90d10fa1cb",
+    "creationDate": "2026-04-19T03:56:14.667Z",
+    "game": "Metal Gear Solid",
+    "song": "Game Over",
+    "composers": [
+      "Harry Gregson-Williams",
+      "Norihiko Hibino",
+      "Nobuko Toda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Metal Gear Solid/Game Over.mmrs",
+    "preview": "Metal Gear Solid/Game Over.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
