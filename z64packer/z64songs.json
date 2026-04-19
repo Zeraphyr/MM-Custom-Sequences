@@ -39889,5 +39889,26 @@
     "file": "Mario Party/Here's the Star.mmrs",
     "preview": "Mario Party/Here's the Star.ogg"
   },
+  {
+    "uuid": "ca984ede-ef0b-4b1d-9623-9319755d823d",
+    "creationDate": "2026-04-19T04:27:38.032Z",
+    "game": "Mario Party 2",
+    "song": "Horror Land",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Mario Party 2/Horror Land.mmrs",
+    "preview": "Mario Party 2/Horror Land.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
