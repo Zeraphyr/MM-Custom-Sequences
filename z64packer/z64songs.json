@@ -37669,5 +37669,24 @@
     "file": "Kingdom Hearts Chain of Memories/Title Screen.mmrs",
     "preview": "Kingdom Hearts Chain of Memories/Title Screen.ogg"
   },
+  {
+    "uuid": "460d5420-f0df-4b4f-9bc8-c9752ec691b4",
+    "creationDate": "2026-04-19T02:02:29.223Z",
+    "game": "Kingdom Hearts",
+    "song": "End of the World",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "157"
+    ],
+    "file": "Kingdom Hearts/End of the World.mmrs",
+    "preview": "Kingdom Hearts/End of the World.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
