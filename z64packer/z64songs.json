@@ -39133,5 +39133,25 @@
     "file": "Metroid Prime/Get Item.mmrs",
     "preview": "Metroid Prime/Get Item.ogg"
   },
+  {
+    "uuid": "c936d8c7-9fee-4d9f-8736-7462b3c9b93e",
+    "creationDate": "2026-04-19T03:50:38.206Z",
+    "game": "Mario Golf",
+    "song": "Toad Highlands",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Mario Golf/Toad Highlands.mmrs",
+    "preview": "Mario Golf/Toad Highlands.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
