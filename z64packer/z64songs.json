@@ -38755,5 +38755,26 @@
     "file": "The Legend of Zelda Link's Awakening/Wind Fish Appears.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Wind Fish Appears.ogg"
   },
+  {
+    "uuid": "1017c4b6-064f-4553-9dad-010921ea03ec",
+    "creationDate": "2026-04-19T03:06:26.336Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Wind Fish's Egg",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Wind Fish's Egg.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Wind Fish's Egg.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
