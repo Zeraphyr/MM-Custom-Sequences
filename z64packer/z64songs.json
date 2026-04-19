@@ -38963,5 +38963,32 @@
     "file": "Minecraft/Wet Hands.mmrs",
     "preview": "Minecraft/Wet Hands.ogg"
   },
+  {
+    "uuid": "2327f2af-afa7-4dff-a0e2-76d7b38c8d4e",
+    "creationDate": "2026-04-19T03:43:08.961Z",
+    "game": "Metal Gear 2: Solid Snake",
+    "song": "Zanzibar Land",
+    "composers": [
+      "Masahiro Ikariko",
+      "Mutsuhiko Izumi",
+      "Yuko Kurahashi",
+      "Tomoya Tomita",
+      "Kazuhiko Uehara",
+      "Yuji Takenouchi",
+      "Tsuyoshi Sekito"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Metal Gear 2 Solid Snake/Zanzibar Land.mmrs",
+    "preview": "Metal Gear 2 Solid Snake/Zanzibar Land.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
