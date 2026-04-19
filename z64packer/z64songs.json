@@ -38584,5 +38584,27 @@
     "file": "The Legend of Zelda Link's Awakening/Sword Found.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Sword Found.ogg"
   },
+  {
+    "uuid": "6e25f048-0569-49a1-85ba-49d2643d3e04",
+    "creationDate": "2026-04-19T03:01:04.403Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Sword Search",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Sword Search.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Sword Search.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
