@@ -38797,5 +38797,26 @@
     "file": "The Legend of Zelda Link's Awakening/Write's House.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Write's House.ogg"
   },
+  {
+    "uuid": "fb6cfeb0-8664-4aa6-8ba9-50e8671cbac0",
+    "creationDate": "2026-04-19T03:11:48.025Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Angler's Tunnel",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Angler's Tunnel.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Angler's Tunnel.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
