@@ -3238,7 +3238,9 @@
     "usesCustomBank": true,
     "file": "Minecraft/Stal.mmrs",
     "preview": "https://www.youtube.com/watch?v=l--MAIf6E-M",
-    "lastUpdateDate": "2026-04-19T04:03:12.701Z"
+    "lastUpdateDate": "2026-04-19T04:03:12.701Z",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "8bb4748a-eb06-4b6a-a7cf-2e777c4285d3",
@@ -37508,7 +37510,10 @@
       "16"
     ],
     "file": "Kingdom Hearts II/Dearly Beloved.mmrs",
-    "preview": "Kingdom Hearts II/Dearly Beloved.ogg"
+    "preview": "Kingdom Hearts II/Dearly Beloved.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "9d28972d-4e4c-49c4-bae1-41700c9993b4",
@@ -37530,7 +37535,10 @@
       "16"
     ],
     "file": "Kingdom Hearts II/Twinkle in the Sky.mmrs",
-    "preview": "Kingdom Hearts II/Twinkle in the Sky.ogg"
+    "preview": "Kingdom Hearts II/Twinkle in the Sky.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e7c5d37f-da68-4355-b2a0-3613fec35156",
@@ -37549,7 +37557,10 @@
       "16"
     ],
     "file": "Kingdom Hearts 3582 Days/Roxas' Theme.mmrs",
-    "preview": "Kingdom Hearts 3582 Days/Roxas' Theme.ogg"
+    "preview": "Kingdom Hearts 3582 Days/Roxas' Theme.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "7c717907-4df6-4ced-93f7-3ab69aed14bb",
@@ -37569,7 +37580,10 @@
       "16"
     ],
     "file": "Kingdom Hearts 3582 Days/Xion's Theme.mmrs",
-    "preview": "Kingdom Hearts 3582 Days/Xion's Theme.ogg"
+    "preview": "Kingdom Hearts 3582 Days/Xion's Theme.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c248c33f-4ba5-4e44-b2aa-0757cf62605e",
@@ -37588,7 +37602,10 @@
       "7"
     ],
     "file": "Kingdom Hearts 3582 Days/Disney Boss.mmrs",
-    "preview": "Kingdom Hearts 3582 Days/Disney Boss.ogg"
+    "preview": "Kingdom Hearts 3582 Days/Disney Boss.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b985edad-f75d-47c9-90b5-19ba8af2e5e0",
@@ -37609,7 +37626,10 @@
       "3"
     ],
     "file": "Kingdom Hearts Birth by Sleep/The Key.mmrs",
-    "preview": "Kingdom Hearts Birth by Sleep/The Key.ogg"
+    "preview": "Kingdom Hearts Birth by Sleep/The Key.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "fb558e07-9d8c-4922-87c7-6b15e856cb72",
@@ -37629,7 +37649,10 @@
       "16"
     ],
     "file": "Kingdom Hearts Birth by Sleep/Ventus' Theme.mmrs",
-    "preview": "Kingdom Hearts Birth by Sleep/Ventus' Theme.ogg"
+    "preview": "Kingdom Hearts Birth by Sleep/Ventus' Theme.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1d503a70-bd1e-4950-8e86-3ff188c7e0ad",
@@ -37647,7 +37670,10 @@
       "4"
     ],
     "file": "Kingdom Hearts/Bounce-O-Rama.mmrs",
-    "preview": "Kingdom Hearts/Bounce-O-Rama.ogg"
+    "preview": "Kingdom Hearts/Bounce-O-Rama.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e1af36ba-8b6c-4504-9575-f7552f9d8010",
@@ -37666,7 +37692,10 @@
       "16"
     ],
     "file": "Kingdom Hearts Chain of Memories/Title Screen.mmrs",
-    "preview": "Kingdom Hearts Chain of Memories/Title Screen.ogg"
+    "preview": "Kingdom Hearts Chain of Memories/Title Screen.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "460d5420-f0df-4b4f-9bc8-c9752ec691b4",
@@ -37685,7 +37714,10 @@
       "157"
     ],
     "file": "Kingdom Hearts/End of the World.mmrs",
-    "preview": "Kingdom Hearts/End of the World.ogg"
+    "preview": "Kingdom Hearts/End of the World.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2b548d49-c6f4-4c8d-ba6b-aaca4e312e2b",
@@ -37706,7 +37738,10 @@
     ],
     "file": "Kingdom Hearts ReCoded/Destiny Islands Battle.mmrs",
     "preview": "Kingdom Hearts ReCoded/Destiny Islands Battle.ogg",
-    "lastUpdateDate": "2026-04-19T02:04:03.458Z"
+    "lastUpdateDate": "2026-04-19T02:04:03.458Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4a64641b-ef7f-4c29-a5a9-3e2f6b5c76bc",
@@ -37726,7 +37761,10 @@
       "157"
     ],
     "file": "Kingdom Hearts ReCoded/Destiny's Force.mmrs",
-    "preview": "Kingdom Hearts ReCoded/Destiny's Force.ogg"
+    "preview": "Kingdom Hearts ReCoded/Destiny's Force.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4c1cf543-d31b-4640-928e-46930bd4de6e",
@@ -37747,7 +37785,10 @@
       "6"
     ],
     "file": "Kingdom Hearts REChain of Memories/Just Wondering.mmrs",
-    "preview": "Kingdom Hearts REChain of Memories/Just Wondering.ogg"
+    "preview": "Kingdom Hearts REChain of Memories/Just Wondering.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "17a96df4-92da-48ce-9b4a-44a16f3653bd",
@@ -37769,7 +37810,10 @@
       "16"
     ],
     "file": "Kingdom Hearts/Shipmeister's Humoresque.mmrs",
-    "preview": "Kingdom Hearts/Shipmeister's Humoresque.ogg"
+    "preview": "Kingdom Hearts/Shipmeister's Humoresque.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "58f3fe11-1d3c-4362-a271-47fa6344d162",
@@ -37789,7 +37833,10 @@
       "6"
     ],
     "file": "Kingdom Hearts/Strange Whispers.mmrs",
-    "preview": "Kingdom Hearts/Strange Whispers.ogg"
+    "preview": "Kingdom Hearts/Strange Whispers.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "639c5139-a2d6-4aca-a980-63198dc2cd60",
@@ -37808,7 +37855,10 @@
       "3"
     ],
     "file": "Kingdom Hearts/Traverse Town.mmrs",
-    "preview": "Kingdom Hearts/Traverse Town.ogg"
+    "preview": "Kingdom Hearts/Traverse Town.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "eba2fc8c-9c10-4ac6-a6cc-90444309c806",
@@ -37827,7 +37877,10 @@
       "16"
     ],
     "file": "Kingdom Hearts/Treasured Memories.mmrs",
-    "preview": "Kingdom Hearts/Treasured Memories.ogg"
+    "preview": "Kingdom Hearts/Treasured Memories.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "277c91b6-5914-44b7-8c72-d3fb685da4e2",
@@ -37848,7 +37901,10 @@
       "6"
     ],
     "file": "Kingdom Hearts/Villains of a Sort.mmrs",
-    "preview": "Kingdom Hearts/Villains of a Sort.ogg"
+    "preview": "Kingdom Hearts/Villains of a Sort.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "06966cbf-79d5-4ca7-a422-460fb4685c1c",
@@ -37868,7 +37924,10 @@
       "3"
     ],
     "file": "Kingdom Hearts II/Monochrome Dreams.mmrs",
-    "preview": "Kingdom Hearts II/Monochrome Dreams.ogg"
+    "preview": "Kingdom Hearts II/Monochrome Dreams.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1e8fde5a-a792-4ea0-aba3-fd6ff1c15665",
@@ -37889,7 +37948,10 @@
       "3"
     ],
     "file": "Kingdom Hearts/This is Halloween.mmrs",
-    "preview": "Kingdom Hearts/This is Halloween.ogg"
+    "preview": "Kingdom Hearts/This is Halloween.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ea6bc57d-027d-4a41-be4b-6794870b6e22",
@@ -37911,7 +37973,10 @@
     ],
     "file": "The Legend of Zelda Link's Awakening/Ballad of the Windfish (Ocarina ver.).mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Ballad of the Windfish (Ocarina ver.).ogg",
-    "lastUpdateDate": "2026-04-19T03:06:49.344Z"
+    "lastUpdateDate": "2026-04-19T03:06:49.344Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "66ae99d6-7038-46d3-936a-4f4fd6195144",
@@ -37931,7 +37996,10 @@
       "121"
     ],
     "file": "The Legend of Zelda Link's Awakening/Boss Defeated.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Boss Defeated.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Boss Defeated.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "77d906e4-cf19-4840-8906-4186df718032",
@@ -37952,7 +38020,10 @@
       "9"
     ],
     "file": "The Legend of Zelda Link's Awakening/Boss Defeated (Fanfare ver.).mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Boss Defeated (Fanfare ver.).ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Boss Defeated (Fanfare ver.).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a049d777-b998-4805-be44-3d6bdde6d92c",
@@ -37972,7 +38043,10 @@
       "7"
     ],
     "file": "The Legend of Zelda Link's Awakening/Boss Theme.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Boss Theme.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Boss Theme.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "9b73d4fc-618b-4f17-a070-b06962c57ce6",
@@ -37993,7 +38067,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Link's Awakening/Bottle Grotto.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Bottle Grotto.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Bottle Grotto.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "5579ba1f-03af-4f1c-8910-741006a33e21",
@@ -38016,7 +38093,10 @@
       "7"
     ],
     "file": "The Legend of Zelda Link's Awakening/Bow Wow Rescue Mission.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Bow Wow Rescue Mission.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Bow Wow Rescue Mission.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ccf9f0f9-839e-4eb6-9241-af68acabc1d8",
@@ -38037,7 +38117,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Link's Awakening/Cave.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Cave.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Cave.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e9bab109-8252-4ef6-bd73-31b62bcbdc0d",
@@ -38057,7 +38140,10 @@
       "121"
     ],
     "file": "The Legend of Zelda Link's Awakening/Climb the Stairs Before You.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Climb the Stairs Before You.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Climb the Stairs Before You.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "14953b7a-3ca0-451c-9a68-250fb3a31471",
@@ -38079,7 +38165,10 @@
       "16"
     ],
     "file": "The Legend of Zelda Link's Awakening/Cucco House.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Cucco House.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Cucco House.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b8067c3b-3a5f-4e1d-8c14-c495d7d022de",
@@ -38100,7 +38189,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Link's Awakening/Dream Shrine.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Dream Shrine.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Dream Shrine.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "407711a3-186a-41ae-8367-f5b41dc238b9",
@@ -38122,7 +38214,10 @@
       "16"
     ],
     "file": "The Legend of Zelda Link's Awakening/Fairy Fountain.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Fairy Fountain.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Fairy Fountain.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2c1173d1-fc0e-4ed7-a0c8-c452eefd96ec",
@@ -38142,7 +38237,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Link's Awakening/Fisherman Under the Bridge.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Fisherman Under the Bridge.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Fisherman Under the Bridge.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "8fadd5dc-bc08-4ebe-ab4f-62db954d6be6",
@@ -38163,7 +38261,10 @@
       "9"
     ],
     "file": "The Legend of Zelda Link's Awakening/Frog's Song of Soul (Ocarina ver.).mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Frog's Song of Soul (Ocarina ver.).ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Frog's Song of Soul (Ocarina ver.).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "133874d6-06fb-416f-a358-446e3fba4297",
@@ -38184,7 +38285,10 @@
       "9"
     ],
     "file": "The Legend of Zelda Link's Awakening/Get Important Item.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Get Important Item.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Get Important Item.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "6d47562e-03f9-4fa6-a381-7e170dbc1c54",
@@ -38205,7 +38309,10 @@
       "10"
     ],
     "file": "The Legend of Zelda Link's Awakening/Get Instrument.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Get Instrument.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Get Instrument.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "3a6bad5b-bb44-46ec-8846-0a882bd1c362",
@@ -38225,7 +38332,10 @@
       "4"
     ],
     "file": "The Legend of Zelda Link's Awakening/Guardian Acorn and Piece of Power.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Guardian Acorn and Piece of Power.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Guardian Acorn and Piece of Power.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "f080e7f0-6daf-4354-87d1-95c525fe05c2",
@@ -38245,7 +38355,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Link's Awakening/House by the Bay.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/House by the Bay.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/House by the Bay.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "f4c51006-d64d-4c35-962c-af09438a632a",
@@ -38265,7 +38378,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Link's Awakening/Inside a House.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Inside a House.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Inside a House.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "6bd0a192-e9e4-4775-9549-c66c8529c1c1",
@@ -38286,7 +38402,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Link's Awakening/Kanalet Castle.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Kanalet Castle.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Kanalet Castle.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4636f94d-b0e8-41c8-a63e-6e90b14428b4",
@@ -38307,7 +38426,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Link's Awakening/Key Cavern.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Key Cavern.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Key Cavern.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4f19ae8f-335c-444a-9e8d-a6bd4a2691d0",
@@ -38329,7 +38451,10 @@
       "16"
     ],
     "file": "The Legend of Zelda Link's Awakening/Link Awakens in the Sea.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Link Awakens in the Sea.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Link Awakens in the Sea.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "6d8bc782-5329-4da4-8746-8713174fc3bc",
@@ -38351,7 +38476,10 @@
       "16"
     ],
     "file": "The Legend of Zelda Link's Awakening/Link Awakens in Marin's House.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Link Awakens in Marin's House.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Link Awakens in Marin's House.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4e10acc2-b3f4-4326-b8e1-63c38532263a",
@@ -38371,7 +38499,10 @@
       "4"
     ],
     "file": "The Legend of Zelda Link's Awakening/Manbo's Mambo.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Manbo's Mambo.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Manbo's Mambo.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "6e76e354-a2b7-4959-b94f-fa48c7799bcf",
@@ -38392,7 +38523,10 @@
       "9"
     ],
     "file": "The Legend of Zelda Link's Awakening/Manbo's Mambo (Ocarina ver.).mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Manbo's Mambo (Ocarina ver.).ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Manbo's Mambo (Ocarina ver.).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "9e0a74ff-4832-4cab-af30-ecd186a31c0e",
@@ -38414,7 +38548,10 @@
       "7"
     ],
     "file": "The Legend of Zelda Link's Awakening/Mini Boss Theme.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Mini Boss Theme.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Mini Boss Theme.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "261c3ae8-8bb2-42c0-a377-ebeb158515af",
@@ -38436,7 +38573,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Link's Awakening/Mysterious Forest.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Mysterious Forest.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Mysterious Forest.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ccb2ad45-e3af-4783-976b-5be929d24b31",
@@ -38457,7 +38597,10 @@
       "16"
     ],
     "file": "The Legend of Zelda Link's Awakening/File Select.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/File Select.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/File Select.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "9eff2b2a-70ac-47a2-bdad-3416b726d898",
@@ -38477,7 +38620,10 @@
       "7"
     ],
     "file": "The Legend of Zelda Link's Awakening/Nightmare Battle Omen.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Nightmare Battle Omen.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Nightmare Battle Omen.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "224bef53-eabd-4985-b87b-165d6948ea01",
@@ -38498,7 +38644,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Link's Awakening/Nightmare Intro.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Nightmare Intro.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Nightmare Intro.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "f1e6e087-996a-4dd3-828d-991231c65b49",
@@ -38519,7 +38668,10 @@
       "9"
     ],
     "file": "The Legend of Zelda Link's Awakening/Puzzle Solved.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Puzzle Solved.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Puzzle Solved.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "839581da-e49b-43c0-a3f5-6ff171800017",
@@ -38540,7 +38692,10 @@
       "4"
     ],
     "file": "The Legend of Zelda Link's Awakening/Raft Ride.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Raft Ride.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Raft Ride.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "3b205ec3-8bbd-4083-930a-b79ae59ea67d",
@@ -38560,7 +38715,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Link's Awakening/Richard's Villa.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Richard's Villa.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Richard's Villa.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a7ed3c85-59b7-4db7-9f4a-e3f566d851fb",
@@ -38582,7 +38740,10 @@
       "10"
     ],
     "file": "The Legend of Zelda Link's Awakening/Sword Found.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Sword Found.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Sword Found.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "6e25f048-0569-49a1-85ba-49d2643d3e04",
@@ -38604,7 +38765,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Link's Awakening/Sword Search.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Sword Search.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Sword Search.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "8ad01d1e-febc-4dc7-aeff-1353cdd8ba10",
@@ -38625,7 +38789,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Link's Awakening/Tail Cave.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Tail Cave.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Tail Cave.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "abb25340-aacc-4fab-b6d6-c7f0e4ba62ce",
@@ -38645,7 +38812,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Link's Awakening/Telephone Booth.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Telephone Booth.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Telephone Booth.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "9f62ce8a-0423-4d34-a4e0-a64bad651062",
@@ -38667,7 +38837,10 @@
       "16"
     ],
     "file": "The Legend of Zelda Link's Awakening/The Wise Owl.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/The Wise Owl.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/The Wise Owl.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "0b8087c2-7db9-4cb9-941c-7a29f0acc760",
@@ -38689,7 +38862,10 @@
       "16"
     ],
     "file": "The Legend of Zelda Link's Awakening/The Song of Awakening.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/The Song of Awakening.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/The Song of Awakening.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "de947a75-16ee-420e-a0c1-c16f4220b8e6",
@@ -38711,7 +38887,10 @@
       "7"
     ],
     "file": "The Legend of Zelda Link's Awakening/The Turtle Awakens.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/The Turtle Awakens.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/The Turtle Awakens.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "55f3816b-bedd-4712-b185-545ca6d0898f",
@@ -38732,7 +38911,10 @@
       "4"
     ],
     "file": "The Legend of Zelda Link's Awakening/Trendy Game.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Trendy Game.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Trendy Game.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c88b2844-4a77-43e5-9bcc-e01710769ae8",
@@ -38753,7 +38935,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Link's Awakening/Wind Fish Appears.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Wind Fish Appears.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Wind Fish Appears.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1017c4b6-064f-4553-9dad-010921ea03ec",
@@ -38774,7 +38959,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Link's Awakening/Wind Fish's Egg.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Wind Fish's Egg.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Wind Fish's Egg.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "799381d5-97d4-40ad-8265-d82e0bfeb794",
@@ -38794,7 +38982,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Link's Awakening/Write's House.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Write's House.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Write's House.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "fb6cfeb0-8664-4aa6-8ba9-50e8671cbac0",
@@ -38815,7 +39006,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Link's Awakening/Angler's Tunnel.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Angler's Tunnel.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Angler's Tunnel.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "27c8afe9-aea3-4b0b-beed-e2325a059436",
@@ -38837,7 +39031,10 @@
       "157"
     ],
     "file": "The Legend of Zelda Link's Awakening/Eagle's Tower.mmrs",
-    "preview": "The Legend of Zelda Link's Awakening/Eagle's Tower.ogg"
+    "preview": "The Legend of Zelda Link's Awakening/Eagle's Tower.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "96091ac1-4bb3-4748-ac0f-f349f1a50925",
@@ -38858,7 +39055,10 @@
       "16"
     ],
     "file": "Live A Live/Live-A-Live.mmrs",
-    "preview": "Live A Live/Live-A-Live.ogg"
+    "preview": "Live A Live/Live-A-Live.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "96cda165-cdbd-46ea-adca-00a44b86d79b",
@@ -38878,7 +39078,10 @@
       "16"
     ],
     "file": "Live A Live/Select-A-Live.mmrs",
-    "preview": "Live A Live/Select-A-Live.ogg"
+    "preview": "Live A Live/Select-A-Live.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "27bc0566-b75b-4dd5-b995-21380888b8de",
@@ -38898,7 +39101,10 @@
       "9"
     ],
     "file": "Luigi's Mansion/Game Over (Beta ver.).mmrs",
-    "preview": "Luigi's Mansion/Game Over (Beta ver.).ogg"
+    "preview": "Luigi's Mansion/Game Over (Beta ver.).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ac79ecde-7bf3-48d3-a627-11d3973e3622",
@@ -38919,7 +39125,10 @@
       "10"
     ],
     "file": "The Legend of Zelda Skyward Sword/Get Sacred Flame.mmrs",
-    "preview": "The Legend of Zelda Skyward Sword/Get Sacred Flame.ogg"
+    "preview": "The Legend of Zelda Skyward Sword/Get Sacred Flame.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ae2cdd73-5569-4461-8ac6-281bc6485ebf",
@@ -38938,7 +39147,10 @@
       "3"
     ],
     "file": "Manhunt 2/Perv's Dungeon.mmrs",
-    "preview": "Manhunt 2/Perv's Dungeon.ogg"
+    "preview": "Manhunt 2/Perv's Dungeon.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "cfc04fb5-2123-4ca3-9165-fbe8d1622abf",
@@ -38960,7 +39172,10 @@
       "16"
     ],
     "file": "Minecraft/Wet Hands.mmrs",
-    "preview": "Minecraft/Wet Hands.ogg"
+    "preview": "Minecraft/Wet Hands.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2327f2af-afa7-4dff-a0e2-76d7b38c8d4e",
@@ -38987,7 +39202,10 @@
       "3"
     ],
     "file": "Metal Gear 2 Solid Snake/Zanzibar Land.mmrs",
-    "preview": "Metal Gear 2 Solid Snake/Zanzibar Land.ogg"
+    "preview": "Metal Gear 2 Solid Snake/Zanzibar Land.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4fbdb2e8-a760-4ba6-968e-7f5922ac96a7",
@@ -39011,7 +39229,10 @@
       "7"
     ],
     "file": "Metal Gear/Battle Theme.mmrs",
-    "preview": "Metal Gear/Battle Theme.ogg"
+    "preview": "Metal Gear/Battle Theme.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "00948131-c8d2-41a6-af0f-c69c754b067d",
@@ -39032,7 +39253,10 @@
       "9"
     ],
     "file": "Metal Gear/Game Over.mmrs",
-    "preview": "Metal Gear/Game Over.ogg"
+    "preview": "Metal Gear/Game Over.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1c67a657-84e1-4907-a335-4ac563b72ff5",
@@ -39052,7 +39276,10 @@
       "10"
     ],
     "file": "Metroid Fusion/Game Over.mmrs",
-    "preview": "Metroid Fusion/Game Over.ogg"
+    "preview": "Metroid Fusion/Game Over.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "3982ee45-43d6-4790-8162-c06d7128ebc6",
@@ -39071,7 +39298,10 @@
       "7"
     ],
     "file": "Metroid Prime 2 Echoes/Quadraxis.mmrs",
-    "preview": "Metroid Prime 2 Echoes/Quadraxis.ogg"
+    "preview": "Metroid Prime 2 Echoes/Quadraxis.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "6e52b918-a727-42fe-a574-ad9b19c1c2d8",
@@ -39090,7 +39320,10 @@
       "10"
     ],
     "file": "Metroid Prime 2 Echoes/Samus Aran's Appearance.mmrs",
-    "preview": "Metroid Prime 2 Echoes/Samus Aran's Appearance.ogg"
+    "preview": "Metroid Prime 2 Echoes/Samus Aran's Appearance.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "8e478528-5a3e-4be7-a5e3-781b1c921e54",
@@ -39110,7 +39343,10 @@
       "7"
     ],
     "file": "Metroid Prime/Vs. Flaahgra.mmrs",
-    "preview": "Metroid Prime/Vs. Flaahgra.ogg"
+    "preview": "Metroid Prime/Vs. Flaahgra.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "6665f5a3-be36-4526-80a8-30ef4c55326d",
@@ -39130,7 +39366,10 @@
       "10"
     ],
     "file": "Metroid Prime/Get Item.mmrs",
-    "preview": "Metroid Prime/Get Item.ogg"
+    "preview": "Metroid Prime/Get Item.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c936d8c7-9fee-4d9f-8736-7462b3c9b93e",
@@ -39152,7 +39391,10 @@
     "file": "Mario Golf/Toad Highlands.mmrs",
     "preview": "Mario Golf/Toad Highlands.ogg",
     "lastUpdateDate": "2026-04-19T03:51:29.551Z",
-    "notes": "*One note may be a little goofy, this song needs a little revision"
+    "notes": "*One note may be a little goofy, this song needs a little revision",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ade073f2-274d-4093-9d05-08e71aaf8427",
@@ -39172,7 +39414,10 @@
       "10"
     ],
     "file": "Mario Golf Advance Tour/Saving.mmrs",
-    "preview": "Mario Golf Advance Tour/Saving.ogg"
+    "preview": "Mario Golf Advance Tour/Saving.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e87196c0-9ee5-4499-add0-305a1edd7222",
@@ -39193,7 +39438,10 @@
       "3"
     ],
     "file": "Metal Gear Solid 2 Sons of Liberty/Strut A.mmrs",
-    "preview": "Metal Gear Solid 2 Sons of Liberty/Strut A.ogg"
+    "preview": "Metal Gear Solid 2 Sons of Liberty/Strut A.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "41b93e18-778b-4e63-89ba-172879a4c46f",
@@ -39214,7 +39462,10 @@
       "5"
     ],
     "file": "Metal Gear Solid 2 Sons of Liberty/Tanker (Alert ver.).mmrs",
-    "preview": "Metal Gear Solid 2 Sons of Liberty/Tanker (Alert ver.).ogg"
+    "preview": "Metal Gear Solid 2 Sons of Liberty/Tanker (Alert ver.).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "271bf0f0-6ca8-47e5-9002-9aa6e481d840",
@@ -39237,7 +39488,10 @@
       "5"
     ],
     "file": "Metal Gear Solid/Encounter.mmrs",
-    "preview": "Metal Gear Solid/Encounter.ogg"
+    "preview": "Metal Gear Solid/Encounter.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "94df07bf-83fc-4daa-818d-5f90d10fa1cb",
@@ -39259,7 +39513,10 @@
       "10"
     ],
     "file": "Metal Gear Solid/Game Over.mmrs",
-    "preview": "Metal Gear Solid/Game Over.ogg"
+    "preview": "Metal Gear Solid/Game Over.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d11c9a04-b06f-42be-8337-3472943b7236",
@@ -39282,7 +39539,10 @@
       "6"
     ],
     "file": "Metal Gear/Theme of Tara.mmrs",
-    "preview": "Metal Gear/Theme of Tara.ogg"
+    "preview": "Metal Gear/Theme of Tara.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "9babdb44-8671-4fd8-8766-d8d11dd0d525",
@@ -39307,7 +39567,10 @@
       "16"
     ],
     "file": "Nintendo Wii/Mii Channel.mmrs",
-    "preview": "Nintendo Wii/Mii Channel.ogg"
+    "preview": "Nintendo Wii/Mii Channel.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "95010fb4-296f-40d2-a2e4-99f1897526d1",
@@ -39327,7 +39590,10 @@
       "3"
     ],
     "file": "Minecraft/Haggstrom (Part 1).mmrs",
-    "preview": "Minecraft/Haggstrom (Part 1).ogg"
+    "preview": "Minecraft/Haggstrom (Part 1).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "7f96debd-64f2-41cd-b4c8-03e1bc4b4112",
@@ -39347,7 +39613,10 @@
       "3"
     ],
     "file": "Minecraft/Haggstrom (Part 2).mmrs",
-    "preview": "Minecraft/Haggstrom (Part 2).ogg"
+    "preview": "Minecraft/Haggstrom (Part 2).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a506877f-ad06-4934-8628-87ea49977868",
@@ -39367,7 +39636,10 @@
       "3"
     ],
     "file": "Minecraft/Otherside.mmrs",
-    "preview": "Minecraft/Otherside.ogg"
+    "preview": "Minecraft/Otherside.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "13aa83b3-049c-47d0-86ef-c5fbe69abde9",
@@ -39388,7 +39660,10 @@
     ],
     "file": "Minecraft/Stal  (Variant B).mmrs",
     "preview": "Minecraft/Stal  (Variant B).ogg",
-    "lastUpdateDate": "2026-04-19T04:02:56.661Z"
+    "lastUpdateDate": "2026-04-19T04:02:56.661Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "3ede2983-03fb-443f-86b2-9962a99ad3d5",
@@ -39406,7 +39681,10 @@
       "7"
     ],
     "file": "The Legend of Zelda The Minish Cap/Boss Theme.mmrs",
-    "preview": "The Legend of Zelda The Minish Cap/Boss Theme.ogg"
+    "preview": "The Legend of Zelda The Minish Cap/Boss Theme.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "034d46c7-7e2e-4565-b9ce-6242288f813c",
@@ -39425,7 +39703,10 @@
       "3"
     ],
     "file": "The Legend of Zelda The Minish Cap/Cave.mmrs",
-    "preview": "The Legend of Zelda The Minish Cap/Cave.ogg"
+    "preview": "The Legend of Zelda The Minish Cap/Cave.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "049f4aa1-e5a9-4c24-a338-64fae77e4be0",
@@ -39444,7 +39725,10 @@
       "3"
     ],
     "file": "The Legend of Zelda The Minish Cap/Cave of Flames.mmrs",
-    "preview": "The Legend of Zelda The Minish Cap/Cave of Flames.ogg"
+    "preview": "The Legend of Zelda The Minish Cap/Cave of Flames.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "5322a364-659c-4a91-bd5c-811904eabce5",
@@ -39463,7 +39747,10 @@
       "5"
     ],
     "file": "The Legend of Zelda The Minish Cap/Cucco Chasing Game.mmrs",
-    "preview": "The Legend of Zelda The Minish Cap/Cucco Chasing Game.ogg"
+    "preview": "The Legend of Zelda The Minish Cap/Cucco Chasing Game.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "7503c5a6-b17c-4712-81df-6faaade4a9cb",
@@ -39482,7 +39769,10 @@
       "3"
     ],
     "file": "The Legend of Zelda The Minish Cap/Deepwood Shrine.mmrs",
-    "preview": "The Legend of Zelda The Minish Cap/Deepwood Shrine.ogg"
+    "preview": "The Legend of Zelda The Minish Cap/Deepwood Shrine.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "6841ae9b-6be4-4d19-9db6-105f6a65f46e",
@@ -39502,7 +39792,10 @@
       "16"
     ],
     "file": "The Legend of Zelda The Minish Cap/Game Over.mmrs",
-    "preview": "The Legend of Zelda The Minish Cap/Game Over.ogg"
+    "preview": "The Legend of Zelda The Minish Cap/Game Over.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "0d3b7909-f212-4574-ae2f-ef6097996d99",
@@ -39524,7 +39817,10 @@
       "16"
     ],
     "file": "The Legend of Zelda The Minish Cap/Lost Woods (Unused Song).mmrs",
-    "preview": "The Legend of Zelda The Minish Cap/Lost Woods (Unused Song).ogg"
+    "preview": "The Legend of Zelda The Minish Cap/Lost Woods (Unused Song).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "7a7eeefb-525a-4b4e-b0bb-3702db92c237",
@@ -39543,7 +39839,10 @@
       "1"
     ],
     "file": "Mario & Luigi Superstar Saga/Stardust Fields.mmrs",
-    "preview": "Mario & Luigi Superstar Saga/Stardust Fields.ogg"
+    "preview": "Mario & Luigi Superstar Saga/Stardust Fields.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ac9a591c-0210-460e-93c7-dfdc7c5fa65c",
@@ -39562,7 +39861,10 @@
       "121"
     ],
     "file": "Mario & Luigi Superstar Saga/Victory.mmrs",
-    "preview": "Mario & Luigi Superstar Saga/Victory.ogg"
+    "preview": "Mario & Luigi Superstar Saga/Victory.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "dfc86df5-edac-495b-a946-eaa16d79fe30",
@@ -39582,7 +39884,10 @@
       "16"
     ],
     "file": "The Legend of Zelda Majora's Mask/Credits (Part 1).mmrs",
-    "preview": "The Legend of Zelda Majora's Mask/Credits (Part 1).ogg"
+    "preview": "The Legend of Zelda Majora's Mask/Credits (Part 1).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a6167029-3409-4f0e-8052-1759e03b45ba",
@@ -39604,7 +39909,10 @@
       "16"
     ],
     "file": "The Legend of Zelda Majora's Mask/Credits (Part 2).mmrs",
-    "preview": "The Legend of Zelda Majora's Mask/Credits (Part 2).ogg"
+    "preview": "The Legend of Zelda Majora's Mask/Credits (Part 2).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "7ba3c1c8-a11a-4872-b17c-3c09ac346469",
@@ -39628,7 +39936,10 @@
     ],
     "file": "The Legend of Zelda Majora's Mask/Happy Mask Salesman Theme.mmrs",
     "preview": "The Legend of Zelda Majora's Mask/Happy Mask Salesman Theme.ogg",
-    "lastUpdateDate": "2026-04-19T04:13:59.508Z"
+    "lastUpdateDate": "2026-04-19T04:13:59.508Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "8647f027-05bd-45a5-be3a-d7e7bfed7751",
@@ -39648,7 +39959,10 @@
       "16"
     ],
     "file": "The Legend of Zelda Majora's Mask/Mikau's Cry.mmrs",
-    "preview": "The Legend of Zelda Majora's Mask/Mikau's Cry.ogg"
+    "preview": "The Legend of Zelda Majora's Mask/Mikau's Cry.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1ccd50ab-4877-429c-9460-a3c69e5fde16",
@@ -39666,7 +39980,10 @@
       "8"
     ],
     "file": "The Legend of Zelda Majora's Mask/Mikau's Cry (Ending).mmrs",
-    "preview": "The Legend of Zelda Majora's Mask/Mikau's Cry (Ending).ogg"
+    "preview": "The Legend of Zelda Majora's Mask/Mikau's Cry (Ending).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "7f29a1b5-3509-46e1-8857-5ba9992f43a0",
@@ -39685,7 +40002,10 @@
       "16"
     ],
     "file": "The Legend of Zelda Majora's Mask/Lost in the Dark Woods.mmrs",
-    "preview": "The Legend of Zelda Majora's Mask/Lost in the Dark Woods.ogg"
+    "preview": "The Legend of Zelda Majora's Mask/Lost in the Dark Woods.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2ab7f2bf-ab6d-41d2-8323-e9e019175595",
@@ -39706,7 +40026,10 @@
       "4"
     ],
     "file": "The Legend of Zelda Majora's Mask/Deku Dance (Remix).mmrs",
-    "preview": "The Legend of Zelda Majora's Mask/Deku Dance (Remix).ogg"
+    "preview": "The Legend of Zelda Majora's Mask/Deku Dance (Remix).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ef0cd275-5bed-417b-beee-6a2b3efb1f97",
@@ -39726,7 +40049,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Majora's Mask/Clock Town Triumphant Return (Remix).mmrs",
-    "preview": "The Legend of Zelda Majora's Mask/Clock Town Triumphant Return (Remix).ogg"
+    "preview": "The Legend of Zelda Majora's Mask/Clock Town Triumphant Return (Remix).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2ce98919-5ca4-4e6d-b654-86c25f9b4ef2",
@@ -39746,7 +40072,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Majora's Mask/Happy Mask Salesman's Theme (Remix).mmrs",
-    "preview": "The Legend of Zelda Majora's Mask/Happy Mask Salesman's Theme (Remix).ogg"
+    "preview": "The Legend of Zelda Majora's Mask/Happy Mask Salesman's Theme (Remix).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "31eb2aa1-bf45-4377-b6ea-e3fdfe0be5a4",
@@ -39766,7 +40095,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Majora's Mask/Inverted Stone Tower Temple (Remix).mmrs",
-    "preview": "The Legend of Zelda Majora's Mask/Inverted Stone Tower Temple (Remix).ogg"
+    "preview": "The Legend of Zelda Majora's Mask/Inverted Stone Tower Temple (Remix).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "0a9c11ea-a02f-4db5-863e-68516b0def7f",
@@ -39784,7 +40116,10 @@
       "157"
     ],
     "file": "The Legend of Zelda Majora's Mask/Final Day (Remix).mmrs",
-    "preview": "The Legend of Zelda Majora's Mask/Final Day (Remix).ogg"
+    "preview": "The Legend of Zelda Majora's Mask/Final Day (Remix).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2715735c-ca66-4230-8dcc-928da1a027a4",
@@ -39805,7 +40140,10 @@
       "16"
     ],
     "file": "The Legend of Zelda Majora's Mask/Song of Healing (Orchestra Remix).mmrs",
-    "preview": "The Legend of Zelda Majora's Mask/Song of Healing (Orchestra Remix).ogg"
+    "preview": "The Legend of Zelda Majora's Mask/Song of Healing (Orchestra Remix).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "6a779c98-ac93-4a7c-8bb4-5ac964d88d45",
@@ -39827,7 +40165,10 @@
       "157"
     ],
     "file": "The Legend of Zelda Majora's Mask/Stone Tower Temple (Remix).mmrs",
-    "preview": "The Legend of Zelda Majora's Mask/Stone Tower Temple (Remix).ogg"
+    "preview": "The Legend of Zelda Majora's Mask/Stone Tower Temple (Remix).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "aae548e3-7c27-471c-b73c-1c0950dea268",
@@ -39848,7 +40189,10 @@
       "157"
     ],
     "file": "The Legend of Zelda Majora's Mask/Termina Field (Funeral Remix).mmrs",
-    "preview": "The Legend of Zelda Majora's Mask/Termina Field (Funeral Remix).ogg"
+    "preview": "The Legend of Zelda Majora's Mask/Termina Field (Funeral Remix).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "05a15b1f-05b1-4f9e-be73-66595b721056",
@@ -39868,7 +40212,10 @@
       "16"
     ],
     "file": "The Legend of Zelda Majora's Mask/Reunited Love.mmrs",
-    "preview": "The Legend of Zelda Majora's Mask/Reunited Love.ogg"
+    "preview": "The Legend of Zelda Majora's Mask/Reunited Love.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "f8347ea7-545a-4aef-8dbe-7de9788e6812",
@@ -39887,7 +40234,10 @@
       "16"
     ],
     "file": "Mario Party/Here's the Star.mmrs",
-    "preview": "Mario Party/Here's the Star.ogg"
+    "preview": "Mario Party/Here's the Star.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ca984ede-ef0b-4b1d-9623-9319755d823d",
@@ -39908,7 +40258,10 @@
       "3"
     ],
     "file": "Mario Party 2/Horror Land.mmrs",
-    "preview": "Mario Party 2/Horror Land.ogg"
+    "preview": "Mario Party 2/Horror Land.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "39957257-32bb-4e3d-8850-419cd2a4a806",
@@ -39929,7 +40282,10 @@
       "7"
     ],
     "file": "Metroid Prime 3 Corruption/Vs. Dark Samus.mmrs",
-    "preview": "Metroid Prime 3 Corruption/Vs. Dark Samus.ogg"
+    "preview": "Metroid Prime 3 Corruption/Vs. Dark Samus.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "77d5e683-2590-43da-b4f1-b830db2e72c2",
@@ -39949,7 +40305,10 @@
       "7"
     ],
     "file": "Mario Party 3/Game Guy's Theme.mmrs",
-    "preview": "Mario Party 3/Game Guy's Theme.ogg"
+    "preview": "Mario Party 3/Game Guy's Theme.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
