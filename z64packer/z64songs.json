@@ -37572,5 +37572,24 @@
     "file": "Kingdom Hearts 3582 Days/Xion's Theme.mmrs",
     "preview": "Kingdom Hearts 3582 Days/Xion's Theme.ogg"
   },
+  {
+    "uuid": "c248c33f-4ba5-4e44-b2aa-0757cf62605e",
+    "creationDate": "2026-04-19T01:58:44.812Z",
+    "game": "Kingdom Hearts 358/2 Days",
+    "song": "Disney Boss",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "file": "Kingdom Hearts 3582 Days/Disney Boss.mmrs",
+    "preview": "Kingdom Hearts 3582 Days/Disney Boss.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
