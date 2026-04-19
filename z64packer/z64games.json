@@ -3181,7 +3181,8 @@
   {
     "game": "Etrian Odyssey III: The Drowned City",
     "series": "Etrian Odyssey Series",
-    "logo": "https://cdn2.steamgriddb.com/logo_thumb/13a5ec89e9c3f333d6f52ddc356ef7a1.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/13a5ec89e9c3f333d6f52ddc356ef7a1.png",
+    "short_name": "Etrian Odyssey III"
   },
   {
     "game": "Dinosaur Planet",
@@ -3389,67 +3390,108 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/82dc5258e8cf752bf0615f6bb29388a1.png"
   },
   {
-    "game": "Final Fantasy II"
+    "game": "Final Fantasy II",
+    "series": "Final Fantasy Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/313e98866f7643ecdbf07e2ba4cfc55b.png"
   },
   {
-    "game": "The Legend of Zelda: A Link to the Past and Four Swords"
+    "game": "The Legend of Zelda: A Link to the Past & Four Swords",
+    "series": "The Legend of Zelda Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/4e0cb6fb5fb446d1c92ede2ed8780188.png",
+    "short_name": "Zelda: Four Swords"
   },
   {
-    "game": "Getsu Fūma Den"
+    "game": "Getsu Fūma Den",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/598825e90a8ac1ce5c48306c53dc1609.png"
   },
   {
-    "game": "Final Fantasy Crystal Chronicles: Echoes of Time"
+    "game": "Final Fantasy Crystal Chronicles: Echoes of Time",
+    "series": "Final Fantasy Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/5a38a1eb24d99699159da10e71c45577.png"
   },
   {
-    "game": "Etrian Odyssey II: Heroes of Lagaard"
+    "game": "Etrian Odyssey II: Heroes of Lagaard",
+    "series": "Etrian Odyssey Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/2a574bcb25a0ae1faad7c630370e6234.png",
+    "short_name": "Etrian Odyssey II"
   },
   {
-    "game": "Pokémon Fire Red: Team Rocket Edition"
+    "game": "Pokémon FireRed: Rocket Edition",
+    "series": "Pokémon Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/a18c683dc35acbddc52d82d74d01672c.png"
   },
   {
-    "game": "Final Fantasy XII"
+    "game": "Final Fantasy XII",
+    "series": "Final Fantasy Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/32012097fe8ac018cf0586ee96bb9227.png"
   },
   {
-    "game": "Fable"
+    "game": "Fable",
+    "series": "Fable Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/34cb5e000348d8ffedcac7a487ca5639.png"
   },
   {
-    "game": "Final Fantasy Versus XIII"
+    "game": "Final Fantasy Versus XIII",
+    "series": "Final Fantasy Series",
+    "logo": "https://static.wikia.nocookie.net/finalfantasy/images/7/74/Versus_logo.png"
   },
   {
-    "game": "Final Fantasy XIII-2"
+    "game": "Final Fantasy XIII-2",
+    "series": "Final Fantasy Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/53c04118df112c13a8c34b38343b9c10.png"
   },
   {
-    "game": "Final Fantasy XIII"
+    "game": "Final Fantasy XIII",
+    "series": "Final Fantasy Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/9f7c4bb3946f029b56eebff3203cc5d5.png"
   },
   {
-    "game": "Fable II"
+    "game": "Fable II",
+    "series": "Fable Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/58f9067fdaf69fdde42cf95d8daacfde.png"
   },
   {
-    "game": "Dissidia: Final Fantasy"
+    "game": "Dissidia: Final Fantasy",
+    "series": "Final Fantasy Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/9a75a9a654c981168160f7250d240e4a.png"
   },
   {
-    "game": "Final Fantasy Adventure"
+    "game": "Final Fantasy Adventure",
+    "series": "Final Fantasy Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/56e2cacee3013d65899f9d0522a893f8.png"
   },
   {
-    "game": "Final Fantasy X-2"
+    "game": "Final Fantasy X-2",
+    "series": "Final Fantasy Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/27dcfa6c9fb04dfa28b3e385698e3e5c.png"
   },
   {
-    "game": "Fire Emblem: Fates"
+    "game": "Fire Emblem: Fates",
+    "series": "Fire Emblem Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/dcc2ff10ec33aeb5da8ef76fadf60e28.png"
   },
   {
-    "game": "Final Fantasy Crystal Chronicles: Ring of Fates"
+    "game": "Final Fantasy Crystal Chronicles: Ring of Fates",
+    "series": "Final Fantasy Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/32b8923dc22023d09a67564a1d45d210.png"
   },
   {
-    "game": "Final Fantasy Crystal Chronicles"
+    "game": "Final Fantasy Crystal Chronicles",
+    "series": "Final Fantasy Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/d7f14b4988c30cc40e5e7b7d157bc018.png"
   },
   {
-    "game": "Harvest Moon: Back to Nature"
+    "game": "Harvest Moon: Back to Nature",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/96670197fabdac700cca192d9fa97f1f.png"
   },
   {
-    "game": "Apple iOS"
+    "game": "Apple iOS",
+    "series": "Consoles and BIOS",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/8559a23222fcc156b185c1e8aec36fe6.png"
   },
   {
-    "game": "Inazuma Eleven GO Light and Shadow"
+    "game": "Inazuma Eleven GO Light and Shadow",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/666ef5d32e74e7402aab206bbe9cccda.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
