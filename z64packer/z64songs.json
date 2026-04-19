@@ -39262,5 +39262,28 @@
     "file": "Metal Gear Solid/Game Over.mmrs",
     "preview": "Metal Gear Solid/Game Over.ogg"
   },
+  {
+    "uuid": "d11c9a04-b06f-42be-8337-3472943b7236",
+    "creationDate": "2026-04-19T03:58:47.475Z",
+    "game": "Metal Gear",
+    "song": "Theme of Tara",
+    "composers": [
+      "Iku Mizutani",
+      "Shigehiro Takenouchi",
+      "Motoaki Furukawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "5",
+      "6"
+    ],
+    "file": "Metal Gear/Theme of Tara.mmrs",
+    "preview": "Metal Gear/Theme of Tara.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
