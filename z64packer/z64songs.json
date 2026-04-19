@@ -38840,5 +38840,26 @@
     "file": "The Legend of Zelda Link's Awakening/Eagle's Tower.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Eagle's Tower.ogg"
   },
+  {
+    "uuid": "96091ac1-4bb3-4748-ac0f-f349f1a50925",
+    "creationDate": "2026-04-19T03:13:59.248Z",
+    "game": "Live A Live",
+    "song": "Live-A-Live",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "6",
+      "16"
+    ],
+    "file": "Live A Live/Live-A-Live.mmrs",
+    "preview": "Live A Live/Live-A-Live.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
