@@ -38777,5 +38777,25 @@
     "file": "The Legend of Zelda Link's Awakening/Wind Fish's Egg.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Wind Fish's Egg.ogg"
   },
+  {
+    "uuid": "799381d5-97d4-40ad-8265-d82e0bfeb794",
+    "creationDate": "2026-04-19T03:07:21.291Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Write's House",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Write's House.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Write's House.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
