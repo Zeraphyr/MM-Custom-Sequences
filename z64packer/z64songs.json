@@ -38124,5 +38124,25 @@
     "file": "The Legend of Zelda Link's Awakening/Fairy Fountain.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Fairy Fountain.ogg"
   },
+  {
+    "uuid": "2c1173d1-fc0e-4ed7-a0c8-c452eefd96ec",
+    "creationDate": "2026-04-19T02:28:35.476Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Fisherman Under the Bridge",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Fisherman Under the Bridge.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Fisherman Under the Bridge.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
