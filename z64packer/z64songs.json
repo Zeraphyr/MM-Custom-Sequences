@@ -37892,5 +37892,26 @@
     "file": "Kingdom Hearts/This is Halloween.mmrs",
     "preview": "Kingdom Hearts/This is Halloween.ogg"
   },
+  {
+    "uuid": "ea6bc57d-027d-4a41-be4b-6794870b6e22",
+    "creationDate": "2026-04-19T02:15:22.658Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Ballad of the Windfish (Ocarina ver.)",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Ballad of the Windfish (Ocarina ver.).mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Ballad of the Windfish (Ocarina ver.).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
