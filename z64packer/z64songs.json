@@ -26772,7 +26772,10 @@
     ],
     "file": "The Legend of Zelda Majora's Mask/Deku Dance (Deku Palace Techno Remix).mmrs",
     "preview": "The Legend of Zelda Majora's Mask/Deku Dance (Deku Palace Techno Remix).mp3",
-    "lastUpdateDate": "2026-04-19T04:39:02.291Z"
+    "lastUpdateDate": "2026-04-19T04:39:02.291Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "8b742743-3021-4f3e-acfb-fc3c0735e100",
@@ -40025,7 +40028,10 @@
     ],
     "file": "The Legend of Zelda Majora's Mask/Deku Dance (Remix).mmrs",
     "preview": "The Legend of Zelda Majora's Mask/Deku Dance (Remix).ogg",
-    "lastUpdateDate": "2026-04-19T04:39:18.595Z"
+    "lastUpdateDate": "2026-04-19T04:39:18.595Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ef0cd275-5bed-417b-beee-6a2b3efb1f97",
@@ -40113,7 +40119,10 @@
     ],
     "file": "The Legend of Zelda Majora's Mask/Final Day (Remix).mmrs",
     "preview": "The Legend of Zelda Majora's Mask/Final Day (Remix).ogg",
-    "lastUpdateDate": "2026-04-19T04:37:14.019Z"
+    "lastUpdateDate": "2026-04-19T04:37:14.019Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2715735c-ca66-4230-8dcc-928da1a027a4",
