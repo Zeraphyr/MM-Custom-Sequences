@@ -39196,5 +39196,26 @@
     "file": "Metal Gear Solid 2 Sons of Liberty/Strut A.mmrs",
     "preview": "Metal Gear Solid 2 Sons of Liberty/Strut A.ogg"
   },
+  {
+    "uuid": "41b93e18-778b-4e63-89ba-172879a4c46f",
+    "creationDate": "2026-04-19T03:54:42.960Z",
+    "game": "Metal Gear Solid 2: Sons of Liberty",
+    "song": "Tanker (Alert ver.)",
+    "composers": [
+      "Harry Gregson-Williams",
+      "Norihiko Hibino"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "4",
+      "5"
+    ],
+    "file": "Metal Gear Solid 2 Sons of Liberty/Tanker (Alert ver.).mmrs",
+    "preview": "Metal Gear Solid 2 Sons of Liberty/Tanker (Alert ver.).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
