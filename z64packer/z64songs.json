@@ -37995,5 +37995,28 @@
     "file": "The Legend of Zelda Link's Awakening/Bottle Grotto.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Bottle Grotto.ogg"
   },
+  {
+    "uuid": "5579ba1f-03af-4f1c-8910-741006a33e21",
+    "creationDate": "2026-04-19T02:19:27.756Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Bow Wow Rescue Mission",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "5",
+      "7"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Bow Wow Rescue Mission.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Bow Wow Rescue Mission.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
