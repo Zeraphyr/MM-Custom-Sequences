@@ -38416,5 +38416,27 @@
     "file": "The Legend of Zelda Link's Awakening/Mini Boss Theme.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Mini Boss Theme.ogg"
   },
+  {
+    "uuid": "261c3ae8-8bb2-42c0-a377-ebeb158515af",
+    "creationDate": "2026-04-19T02:55:55.123Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Mysterious Forest",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Mysterious Forest.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Mysterious Forest.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
