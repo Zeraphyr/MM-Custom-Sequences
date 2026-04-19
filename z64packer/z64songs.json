@@ -38734,5 +38734,26 @@
     "file": "The Legend of Zelda Link's Awakening/Trendy Game.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Trendy Game.ogg"
   },
+  {
+    "uuid": "c88b2844-4a77-43e5-9bcc-e01710769ae8",
+    "creationDate": "2026-04-19T03:05:48.964Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Wind Fish Appears",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Wind Fish Appears.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Wind Fish Appears.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
