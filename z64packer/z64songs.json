@@ -39807,5 +39807,27 @@
     "file": "The Legend of Zelda Majora's Mask/Song of Healing (Orchestra Remix).mmrs",
     "preview": "The Legend of Zelda Majora's Mask/Song of Healing (Orchestra Remix).ogg"
   },
+  {
+    "uuid": "6a779c98-ac93-4a7c-8bb4-5ac964d88d45",
+    "creationDate": "2026-04-19T04:24:39.842Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Stone Tower Temple (Remix)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "157"
+    ],
+    "file": "The Legend of Zelda Majora's Mask/Stone Tower Temple (Remix).mmrs",
+    "preview": "The Legend of Zelda Majora's Mask/Stone Tower Temple (Remix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
