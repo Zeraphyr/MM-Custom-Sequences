@@ -26753,7 +26753,7 @@
     "uuid": "0db7bec3-33ce-47fd-b349-b86104bda1a0",
     "creationDate": "2026-04-02T01:58:06.507Z",
     "game": "The Legend of Zelda: Majora's Mask",
-    "song": "Deku Dance (Deku Palace Techno Remix)",
+    "song": "Deku Dance (Deku Palace Techno Remix, Variant A)",
     "composers": [
       "Hylian Hero"
     ],
@@ -26772,9 +26772,7 @@
     ],
     "file": "The Legend of Zelda Majora's Mask/Deku Dance (Deku Palace Techno Remix).mmrs",
     "preview": "The Legend of Zelda Majora's Mask/Deku Dance (Deku Palace Techno Remix).mp3",
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
+    "lastUpdateDate": "2026-04-19T04:39:02.291Z"
   },
   {
     "uuid": "8b742743-3021-4f3e-acfb-fc3c0735e100",
