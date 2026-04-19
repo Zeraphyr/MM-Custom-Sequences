@@ -38990,5 +38990,29 @@
     "file": "Metal Gear 2 Solid Snake/Zanzibar Land.mmrs",
     "preview": "Metal Gear 2 Solid Snake/Zanzibar Land.ogg"
   },
+  {
+    "uuid": "4fbdb2e8-a760-4ba6-968e-7f5922ac96a7",
+    "creationDate": "2026-04-19T03:44:07.214Z",
+    "game": "Metal Gear",
+    "song": "Battle Theme",
+    "composers": [
+      "Iku Mizutani",
+      "Shigehiro Takenouchi",
+      "Motoaki Furukawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3",
+      "5",
+      "7"
+    ],
+    "file": "Metal Gear/Battle Theme.mmrs",
+    "preview": "Metal Gear/Battle Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
