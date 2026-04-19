@@ -37871,5 +37871,26 @@
     "file": "Kingdom Hearts II/Monochrome Dreams.mmrs",
     "preview": "Kingdom Hearts II/Monochrome Dreams.ogg"
   },
+  {
+    "uuid": "1e8fde5a-a792-4ea0-aba3-fd6ff1c15665",
+    "creationDate": "2026-04-19T02:11:09.247Z",
+    "game": "Kingdom Hearts",
+    "song": "This is Halloween",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Kingdom Hearts/This is Halloween.mmrs",
+    "preview": "Kingdom Hearts/This is Halloween.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
