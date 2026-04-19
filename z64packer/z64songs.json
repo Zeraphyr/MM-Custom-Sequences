@@ -38309,5 +38309,27 @@
     "file": "The Legend of Zelda Link's Awakening/Key Cavern.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Key Cavern.ogg"
   },
+  {
+    "uuid": "4f19ae8f-335c-444a-9e8d-a6bd4a2691d0",
+    "creationDate": "2026-04-19T02:52:24.370Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Link Awakens in the Sea",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Link Awakens in the Sea.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Link Awakens in the Sea.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
