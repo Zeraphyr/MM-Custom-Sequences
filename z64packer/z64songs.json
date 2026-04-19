@@ -38500,5 +38500,26 @@
     "file": "The Legend of Zelda Link's Awakening/Nightmare Intro.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Nightmare Intro.ogg"
   },
+  {
+    "uuid": "f1e6e087-996a-4dd3-828d-991231c65b49",
+    "creationDate": "2026-04-19T02:58:42.031Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Puzzle Solved",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Puzzle Solved.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Puzzle Solved.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
