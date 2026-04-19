@@ -38081,5 +38081,26 @@
     "file": "The Legend of Zelda Link's Awakening/Cucco House.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Cucco House.ogg"
   },
+  {
+    "uuid": "b8067c3b-3a5f-4e1d-8c14-c495d7d022de",
+    "creationDate": "2026-04-19T02:27:17.163Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Dream Shrine",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Dream Shrine.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Dream Shrine.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
