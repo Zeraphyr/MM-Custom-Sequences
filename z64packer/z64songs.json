@@ -38144,5 +38144,26 @@
     "file": "The Legend of Zelda Link's Awakening/Fisherman Under the Bridge.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Fisherman Under the Bridge.ogg"
   },
+  {
+    "uuid": "8fadd5dc-bc08-4ebe-ab4f-62db954d6be6",
+    "creationDate": "2026-04-19T02:29:30.588Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Frog's Song of Soul (Ocarina ver.)",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Frog's Song of Soul (Ocarina ver.).mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Frog's Song of Soul (Ocarina ver.).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
