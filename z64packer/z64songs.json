@@ -37491,5 +37491,25 @@
     "uuid": "99ea553c-f6d3-4328-a2c0-e8d9d9e10ff4",
     "file": "A Hat in Time/Time Rift Story Book.mmrs"
   },
+  {
+    "uuid": "97039fa8-eef4-41ab-a259-5b89b873e2a1",
+    "creationDate": "2026-04-19T01:54:25.987Z",
+    "game": "Kingdom Hearts II",
+    "song": "Dearly Beloved",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Kingdom Hearts II/Dearly Beloved.mmrs",
+    "preview": "Kingdom Hearts II/Dearly Beloved.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
