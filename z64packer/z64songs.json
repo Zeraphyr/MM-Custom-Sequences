@@ -39465,5 +39465,24 @@
     "file": "The Legend of Zelda The Minish Cap/Cucco Chasing Game.mmrs",
     "preview": "The Legend of Zelda The Minish Cap/Cucco Chasing Game.ogg"
   },
+  {
+    "uuid": "7503c5a6-b17c-4712-81df-6faaade4a9cb",
+    "creationDate": "2026-04-19T04:06:46.859Z",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "song": "Deepwood Shrine",
+    "composers": [
+      "Mitsuhiko Takano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda The Minish Cap/Deepwood Shrine.mmrs",
+    "preview": "The Legend of Zelda The Minish Cap/Deepwood Shrine.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
