@@ -39545,5 +39545,24 @@
     "file": "Mario & Luigi Superstar Saga/Stardust Fields.mmrs",
     "preview": "Mario & Luigi Superstar Saga/Stardust Fields.ogg"
   },
+  {
+    "uuid": "ac9a591c-0210-460e-93c7-dfdc7c5fa65c",
+    "creationDate": "2026-04-19T04:10:14.179Z",
+    "game": "Mario & Luigi: Superstar Saga",
+    "song": "Victory",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "notes": "A looped version of the victory fanfare",
+    "type": "fanfare",
+    "categories": [
+      "121"
+    ],
+    "file": "Mario & Luigi Superstar Saga/Victory.mmrs",
+    "preview": "Mario & Luigi Superstar Saga/Victory.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
