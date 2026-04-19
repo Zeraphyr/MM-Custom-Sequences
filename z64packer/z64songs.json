@@ -38941,5 +38941,27 @@
     "file": "Manhunt 2/Perv's Dungeon.mmrs",
     "preview": "Manhunt 2/Perv's Dungeon.ogg"
   },
+  {
+    "uuid": "cfc04fb5-2123-4ca3-9165-fbe8d1622abf",
+    "creationDate": "2026-04-19T03:41:26.839Z",
+    "game": "Minecraft",
+    "song": "Wet Hands",
+    "composers": [
+      "Daniel Rosenfeld"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Minecraft/Wet Hands.mmrs",
+    "preview": "Minecraft/Wet Hands.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
