@@ -39285,5 +39285,30 @@
     "file": "Metal Gear/Theme of Tara.mmrs",
     "preview": "Metal Gear/Theme of Tara.ogg"
   },
+  {
+    "uuid": "9babdb44-8671-4fd8-8766-d8d11dd0d525",
+    "creationDate": "2026-04-19T03:59:32.186Z",
+    "game": "Nintendo Wii",
+    "song": "Mii Channel",
+    "composers": [
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "16"
+    ],
+    "file": "Nintendo Wii/Mii Channel.mmrs",
+    "preview": "Nintendo Wii/Mii Channel.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
