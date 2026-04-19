@@ -38881,5 +38881,25 @@
     "file": "Live A Live/Select-A-Live.mmrs",
     "preview": "Live A Live/Select-A-Live.ogg"
   },
+  {
+    "uuid": "27bc0566-b75b-4dd5-b995-21380888b8de",
+    "creationDate": "2026-04-19T03:15:50.261Z",
+    "game": "Luigi's Mansion",
+    "song": "Game Over (Beta ver.)",
+    "composers": [
+      "Kazumi Totaka",
+      "Shinobu Tanaka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Luigi's Mansion/Game Over (Beta ver.).mmrs",
+    "preview": "Luigi's Mansion/Game Over (Beta ver.).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
