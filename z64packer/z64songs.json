@@ -37533,5 +37533,24 @@
     "file": "Kingdom Hearts II/Twinkle in the Sky.mmrs",
     "preview": "Kingdom Hearts II/Twinkle in the Sky.ogg"
   },
+  {
+    "uuid": "e7c5d37f-da68-4355-b2a0-3613fec35156",
+    "creationDate": "2026-04-19T01:56:16.982Z",
+    "game": "Kingdom Hearts 358/2 Days",
+    "song": "Roxas' Theme",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Kingdom Hearts 3582 Days/Roxas' Theme.mmrs",
+    "preview": "Kingdom Hearts 3582 Days/Roxas' Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
