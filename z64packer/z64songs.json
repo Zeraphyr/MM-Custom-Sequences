@@ -37612,5 +37612,25 @@
     "file": "Kingdom Hearts Birth by Sleep/The Key.mmrs",
     "preview": "Kingdom Hearts Birth by Sleep/The Key.ogg"
   },
+  {
+    "uuid": "fb558e07-9d8c-4922-87c7-6b15e856cb72",
+    "creationDate": "2026-04-19T02:00:21.386Z",
+    "game": "Kingdom Hearts Birth by Sleep",
+    "song": "Ventus' Theme",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Kingdom Hearts Birth by Sleep/Ventus' Theme.mmrs",
+    "preview": "Kingdom Hearts Birth by Sleep/Ventus' Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
