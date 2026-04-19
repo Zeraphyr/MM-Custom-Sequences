@@ -37632,5 +37632,23 @@
     "file": "Kingdom Hearts Birth by Sleep/Ventus' Theme.mmrs",
     "preview": "Kingdom Hearts Birth by Sleep/Ventus' Theme.ogg"
   },
+  {
+    "uuid": "1d503a70-bd1e-4950-8e86-3ff188c7e0ad",
+    "creationDate": "2026-04-19T02:01:10.006Z",
+    "game": "Kingdom Hearts",
+    "song": "Bounce-O-Rama",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "file": "Kingdom Hearts/Bounce-O-Rama.mmrs",
+    "preview": "Kingdom Hearts/Bounce-O-Rama.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
