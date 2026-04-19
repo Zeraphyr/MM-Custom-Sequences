@@ -38669,5 +38669,27 @@
     "file": "The Legend of Zelda Link's Awakening/The Wise Owl.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/The Wise Owl.ogg"
   },
+  {
+    "uuid": "0b8087c2-7db9-4cb9-941c-7a29f0acc760",
+    "creationDate": "2026-04-19T03:03:30.148Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "The Song of Awakening",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/The Song of Awakening.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/The Song of Awakening.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
