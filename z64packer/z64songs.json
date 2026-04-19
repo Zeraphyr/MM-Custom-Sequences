@@ -39931,5 +39931,25 @@
     "file": "Metroid Prime 3 Corruption/Vs. Dark Samus.mmrs",
     "preview": "Metroid Prime 3 Corruption/Vs. Dark Samus.ogg"
   },
+  {
+    "uuid": "77d5e683-2590-43da-b4f1-b830db2e72c2",
+    "creationDate": "2026-04-19T04:30:13.193Z",
+    "game": "Mario Party 3",
+    "song": "Game Guy's Theme",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Mario Party 3/Game Guy's Theme.mmrs",
+    "preview": "Mario Party 3/Game Guy's Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
