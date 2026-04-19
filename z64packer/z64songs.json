@@ -39484,5 +39484,25 @@
     "file": "The Legend of Zelda The Minish Cap/Deepwood Shrine.mmrs",
     "preview": "The Legend of Zelda The Minish Cap/Deepwood Shrine.ogg"
   },
+  {
+    "uuid": "6841ae9b-6be4-4d19-9db6-105f6a65f46e",
+    "creationDate": "2026-04-19T04:07:18.970Z",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "song": "Game Over",
+    "composers": [
+      "Mitsuhiko Takano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda The Minish Cap/Game Over.mmrs",
+    "preview": "The Legend of Zelda The Minish Cap/Game Over.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
