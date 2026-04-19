@@ -39584,5 +39584,27 @@
     "file": "The Legend of Zelda Majora's Mask/Credits (Part 1).mmrs",
     "preview": "The Legend of Zelda Majora's Mask/Credits (Part 1).ogg"
   },
+  {
+    "uuid": "a6167029-3409-4f0e-8052-1759e03b45ba",
+    "creationDate": "2026-04-19T04:11:41.387Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Credits (Part 2)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda Majora's Mask/Credits (Part 2).mmrs",
+    "preview": "The Legend of Zelda Majora's Mask/Credits (Part 2).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
