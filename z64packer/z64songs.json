@@ -39055,5 +39055,24 @@
     "file": "Metroid Fusion/Game Over.mmrs",
     "preview": "Metroid Fusion/Game Over.ogg"
   },
+  {
+    "uuid": "3982ee45-43d6-4790-8162-c06d7128ebc6",
+    "creationDate": "2026-04-19T03:46:16.647Z",
+    "game": "Metroid Prime 2: Echoes",
+    "song": "Quadraxis",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Metroid Prime 2 Echoes/Quadraxis.mmrs",
+    "preview": "Metroid Prime 2 Echoes/Quadraxis.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
