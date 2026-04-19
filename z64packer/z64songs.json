@@ -37688,5 +37688,25 @@
     "file": "Kingdom Hearts/End of the World.mmrs",
     "preview": "Kingdom Hearts/End of the World.ogg"
   },
+  {
+    "uuid": "2b548d49-c6f4-4c8d-ba6b-aaca4e312e2b",
+    "creationDate": "2026-04-19T02:03:18.647Z",
+    "game": "Kingdom Hearts Re:Coded",
+    "song": "Destiny Islands Battle",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "5",
+      "157"
+    ],
+    "file": "Kingdom Hearts ReCoded/Destiny Islands Battle.mmrs",
+    "preview": "Kingdom Hearts ReCoded/Destiny Islands Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
