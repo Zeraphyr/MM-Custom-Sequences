@@ -39870,5 +39870,24 @@
     "file": "The Legend of Zelda Majora's Mask/Reunited Love.mmrs",
     "preview": "The Legend of Zelda Majora's Mask/Reunited Love.ogg"
   },
+  {
+    "uuid": "f8347ea7-545a-4aef-8dbe-7de9788e6812",
+    "creationDate": "2026-04-19T04:26:56.818Z",
+    "game": "Mario Party",
+    "song": "Here's the Star",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Mario Party/Here's the Star.mmrs",
+    "preview": "Mario Party/Here's the Star.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
