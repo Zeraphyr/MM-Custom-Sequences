@@ -39035,5 +39035,25 @@
     "file": "Metal Gear/Game Over.mmrs",
     "preview": "Metal Gear/Game Over.ogg"
   },
+  {
+    "uuid": "1c67a657-84e1-4907-a335-4ac563b72ff5",
+    "creationDate": "2026-04-19T03:45:27.255Z",
+    "game": "Metroid Fusion",
+    "song": "Game Over",
+    "composers": [
+      "Minako Hamano",
+      "Akira Fujiwara"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Metroid Fusion/Game Over.mmrs",
+    "preview": "Metroid Fusion/Game Over.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
