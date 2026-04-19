@@ -39427,5 +39427,24 @@
     "file": "The Legend of Zelda The Minish Cap/Cave.mmrs",
     "preview": "The Legend of Zelda The Minish Cap/Cave.ogg"
   },
+  {
+    "uuid": "049f4aa1-e5a9-4c24-a338-64fae77e4be0",
+    "creationDate": "2026-04-19T04:05:22.512Z",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "song": "Cave of Flames",
+    "composers": [
+      "Mitsuhiko Takano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda The Minish Cap/Cave of Flames.mmrs",
+    "preview": "The Legend of Zelda The Minish Cap/Cave of Flames.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
