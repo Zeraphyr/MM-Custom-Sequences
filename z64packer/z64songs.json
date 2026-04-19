@@ -37974,5 +37974,26 @@
     "file": "The Legend of Zelda Link's Awakening/Boss Theme.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Boss Theme.ogg"
   },
+  {
+    "uuid": "9b73d4fc-618b-4f17-a070-b06962c57ce6",
+    "creationDate": "2026-04-19T02:18:52.565Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Bottle Grotto",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Bottle Grotto.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Bottle Grotto.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
