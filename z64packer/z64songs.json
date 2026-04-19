@@ -39910,5 +39910,26 @@
     "file": "Mario Party 2/Horror Land.mmrs",
     "preview": "Mario Party 2/Horror Land.ogg"
   },
+  {
+    "uuid": "39957257-32bb-4e3d-8850-419cd2a4a806",
+    "creationDate": "2026-04-19T04:29:29.794Z",
+    "game": "Metroid Prime 3: Corruption",
+    "song": "Vs. Dark Samus",
+    "composers": [
+      "Kenji Yamamoto",
+      "Minako Hamano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Metroid Prime 3 Corruption/Vs. Dark Samus.mmrs",
+    "preview": "Metroid Prime 3 Corruption/Vs. Dark Samus.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
