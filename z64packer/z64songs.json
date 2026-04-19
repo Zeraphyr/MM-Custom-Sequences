@@ -37772,5 +37772,25 @@
     "file": "Kingdom Hearts/Shipmeister's Humoresque.mmrs",
     "preview": "Kingdom Hearts/Shipmeister's Humoresque.ogg"
   },
+  {
+    "uuid": "58f3fe11-1d3c-4362-a271-47fa6344d162",
+    "creationDate": "2026-04-19T02:08:09.180Z",
+    "game": "Kingdom Hearts",
+    "song": "Strange Whispers",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "Kingdom Hearts/Strange Whispers.mmrs",
+    "preview": "Kingdom Hearts/Strange Whispers.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
