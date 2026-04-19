@@ -39446,5 +39446,24 @@
     "file": "The Legend of Zelda The Minish Cap/Cave of Flames.mmrs",
     "preview": "The Legend of Zelda The Minish Cap/Cave of Flames.ogg"
   },
+  {
+    "uuid": "5322a364-659c-4a91-bd5c-811904eabce5",
+    "creationDate": "2026-04-19T04:06:08.846Z",
+    "game": "The Legend of Zelda: The Minish Cap",
+    "song": "Cucco Chasing Game",
+    "composers": [
+      "Mitsuhiko Takano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "The Legend of Zelda The Minish Cap/Cucco Chasing Game.mmrs",
+    "preview": "The Legend of Zelda The Minish Cap/Cucco Chasing Game.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
