@@ -38227,5 +38227,25 @@
     "file": "The Legend of Zelda Link's Awakening/Guardian Acorn and Piece of Power.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Guardian Acorn and Piece of Power.ogg"
   },
+  {
+    "uuid": "f080e7f0-6daf-4354-87d1-95c525fe05c2",
+    "creationDate": "2026-04-19T02:32:37.294Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "House by the Bay",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/House by the Bay.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/House by the Bay.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
