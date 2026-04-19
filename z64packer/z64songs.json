@@ -39175,5 +39175,26 @@
     "file": "Mario Golf Advance Tour/Saving.mmrs",
     "preview": "Mario Golf Advance Tour/Saving.ogg"
   },
+  {
+    "uuid": "e87196c0-9ee5-4499-add0-305a1edd7222",
+    "creationDate": "2026-04-19T03:53:58.455Z",
+    "game": "Metal Gear Solid 2: Sons of Liberty",
+    "song": "Strut A",
+    "composers": [
+      "Harry Gregson-Williams",
+      "Norihiko Hibino"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Metal Gear Solid 2 Sons of Liberty/Strut A.mmrs",
+    "preview": "Metal Gear Solid 2 Sons of Liberty/Strut A.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
