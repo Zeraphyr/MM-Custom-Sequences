@@ -38922,5 +38922,24 @@
     "file": "The Legend of Zelda Skyward Sword/Get Sacred Flame.mmrs",
     "preview": "The Legend of Zelda Skyward Sword/Get Sacred Flame.ogg"
   },
+  {
+    "uuid": "ae2cdd73-5569-4461-8ac6-281bc6485ebf",
+    "creationDate": "2026-04-19T03:40:45.448Z",
+    "game": "Manhunt 2",
+    "song": "Perv's Dungeon",
+    "composers": [
+      "Craig Connor"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Manhunt 2/Perv's Dungeon.mmrs",
+    "preview": "Manhunt 2/Perv's Dungeon.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
