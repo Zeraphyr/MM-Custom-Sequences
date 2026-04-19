@@ -37913,5 +37913,25 @@
     "file": "The Legend of Zelda Link's Awakening/Ballad of the Windfish (Ocarina ver.).mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Ballad of the Windfish (Ocarina ver.).ogg"
   },
+  {
+    "uuid": "66ae99d6-7038-46d3-936a-4f4fd6195144",
+    "creationDate": "2026-04-19T02:16:35.506Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Boss Defeated",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "121"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Boss Defeated.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Boss Defeated.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
