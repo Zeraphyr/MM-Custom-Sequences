@@ -38267,5 +38267,26 @@
     "file": "The Legend of Zelda Link's Awakening/Inside a House.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Inside a House.ogg"
   },
+  {
+    "uuid": "6bd0a192-e9e4-4775-9549-c66c8529c1c1",
+    "creationDate": "2026-04-19T02:35:25.442Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Kanalet Castle",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Kanalet Castle.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Kanalet Castle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
