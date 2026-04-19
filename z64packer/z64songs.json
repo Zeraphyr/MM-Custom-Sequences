@@ -38901,5 +38901,26 @@
     "file": "Luigi's Mansion/Game Over (Beta ver.).mmrs",
     "preview": "Luigi's Mansion/Game Over (Beta ver.).ogg"
   },
+  {
+    "uuid": "ac79ecde-7bf3-48d3-a627-11d3973e3622",
+    "creationDate": "2026-04-19T03:17:24.765Z",
+    "game": "The Legend of Zelda: Skyward Sword",
+    "song": "Get Sacred Flame",
+    "composers": [
+      "Hajime Wakai",
+      "Shiho Fujii",
+      "Mahito Yokota",
+      "Takeshi Hama"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "file": "The Legend of Zelda Skyward Sword/Get Sacred Flame.mmrs",
+    "preview": "The Legend of Zelda Skyward Sword/Get Sacred Flame.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
