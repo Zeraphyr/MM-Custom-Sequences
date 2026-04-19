@@ -38627,5 +38627,25 @@
     "file": "The Legend of Zelda Link's Awakening/Tail Cave.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Tail Cave.ogg"
   },
+  {
+    "uuid": "abb25340-aacc-4fab-b6d6-c7f0e4ba62ce",
+    "creationDate": "2026-04-19T03:02:12.695Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Telephone Booth",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Telephone Booth.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Telephone Booth.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
