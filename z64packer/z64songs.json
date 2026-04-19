@@ -39786,5 +39786,26 @@
     "file": "The Legend of Zelda Majora's Mask/Final Day (Remix).mmrs",
     "preview": "The Legend of Zelda Majora's Mask/Final Day (Remix).ogg"
   },
+  {
+    "uuid": "2715735c-ca66-4230-8dcc-928da1a027a4",
+    "creationDate": "2026-04-19T04:23:43.875Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Song of Healing (Orchestra Remix)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda Majora's Mask/Song of Healing (Orchestra Remix).mmrs",
+    "preview": "The Legend of Zelda Majora's Mask/Song of Healing (Orchestra Remix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
