@@ -38247,5 +38247,25 @@
     "file": "The Legend of Zelda Link's Awakening/House by the Bay.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/House by the Bay.ogg"
   },
+  {
+    "uuid": "f4c51006-d64d-4c35-962c-af09438a632a",
+    "creationDate": "2026-04-19T02:34:04.574Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Inside a House",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Inside a House.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Inside a House.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
