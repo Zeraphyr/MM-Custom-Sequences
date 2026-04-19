@@ -39330,5 +39330,25 @@
     "file": "Minecraft/Haggstrom (Part 1).mmrs",
     "preview": "Minecraft/Haggstrom (Part 1).ogg"
   },
+  {
+    "uuid": "7f96debd-64f2-41cd-b4c8-03e1bc4b4112",
+    "creationDate": "2026-04-19T04:00:52.366Z",
+    "game": "Minecraft",
+    "song": "Haggstrom (Part 2)",
+    "composers": [
+      "Daniel Rosenfeld"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Minecraft/Haggstrom (Part 2).mmrs",
+    "preview": "Minecraft/Haggstrom (Part 2).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
