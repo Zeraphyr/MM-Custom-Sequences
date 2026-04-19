@@ -38165,5 +38165,26 @@
     "file": "The Legend of Zelda Link's Awakening/Frog's Song of Soul (Ocarina ver.).mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Frog's Song of Soul (Ocarina ver.).ogg"
   },
+  {
+    "uuid": "133874d6-06fb-416f-a358-446e3fba4297",
+    "creationDate": "2026-04-19T02:30:04.179Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Get Important Item",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Get Important Item.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Get Important Item.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
