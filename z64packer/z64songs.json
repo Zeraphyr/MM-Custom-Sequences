@@ -38861,5 +38861,25 @@
     "file": "Live A Live/Live-A-Live.mmrs",
     "preview": "Live A Live/Live-A-Live.ogg"
   },
+  {
+    "uuid": "96cda165-cdbd-46ea-adca-00a44b86d79b",
+    "creationDate": "2026-04-19T03:14:57.392Z",
+    "game": "Live A Live",
+    "song": "Select-A-Live",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Live A Live/Select-A-Live.mmrs",
+    "preview": "Live A Live/Select-A-Live.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
