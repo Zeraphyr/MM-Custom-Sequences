@@ -39650,5 +39650,23 @@
     "file": "The Legend of Zelda Majora's Mask/Mikau's Cry.mmrs",
     "preview": "The Legend of Zelda Majora's Mask/Mikau's Cry.ogg"
   },
+  {
+    "uuid": "1ccd50ab-4877-429c-9460-a3c69e5fde16",
+    "creationDate": "2026-04-19T04:16:46.629Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Mikau's Cry (Ending)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "file": "The Legend of Zelda Majora's Mask/Mikau's Cry (Ending).mmrs",
+    "preview": "The Legend of Zelda Majora's Mask/Mikau's Cry (Ending).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
