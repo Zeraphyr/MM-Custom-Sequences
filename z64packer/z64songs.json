@@ -39829,5 +39829,26 @@
     "file": "The Legend of Zelda Majora's Mask/Stone Tower Temple (Remix).mmrs",
     "preview": "The Legend of Zelda Majora's Mask/Stone Tower Temple (Remix).ogg"
   },
+  {
+    "uuid": "aae548e3-7c27-471c-b73c-1c0950dea268",
+    "creationDate": "2026-04-19T04:25:24.331Z",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "song": "Termina Field (Funeral Remix)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157"
+    ],
+    "file": "The Legend of Zelda Majora's Mask/Termina Field (Funeral Remix).mmrs",
+    "preview": "The Legend of Zelda Majora's Mask/Termina Field (Funeral Remix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
