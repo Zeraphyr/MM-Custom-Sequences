@@ -10330,7 +10330,7 @@
       "0"
     ],
     "file": "The Legend of Zelda Spirit Tracks/Realm Overworld.mmrs",
-    "preview": "The Legend of Zelda Spirit Tracks/Realm Overworld.ogg",
+    "preview": "https://www.youtube.com/watch?v=E1BR3ApyO4E",
     "lastUpdateDate": "2026-04-10T13:52:35.999Z",
     "usesCustomBank": false,
     "usesCustomSamples": false,
@@ -10355,7 +10355,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Paper Mario/Toad Town (Variant A).mmrs",
-    "preview": "Paper Mario/Toad Town.ogg",
+    "preview": "https://www.youtube.com/watch?v=3F0cjgdvpuQ",
     "lastUpdateDate": "2026-03-20T22:24:04.784Z"
   },
   {
@@ -10379,7 +10379,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Phoenix Wright Ace Attorney/Maya Fey ~ Turnabout Sisters.mmrs",
-    "preview": "Phoenix Wright Ace Attorney/Maya Fey ~ Turnabout Sisters.ogg"
+    "preview": "https://www.youtube.com/watch?v=bqvT-A7Bfps"
   },
   {
     "uuid": "87dac43e-bee8-4cec-99a0-42fab21fc99c",
@@ -10401,7 +10401,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Phoenix Wright Ace Attorney/Turnabout Sisters' Ballad.mmrs",
-    "preview": "Phoenix Wright Ace Attorney/Turnabout Sisters' Ballad.ogg"
+    "preview": "https://www.youtube.com/watch?v=UXpAtJBBqA4"
   },
   {
     "uuid": "0d52c165-4a8b-4825-b961-d0eac348c0f9",
@@ -10423,7 +10423,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Super Mario Galaxy/Beach Bowl Galaxy.mmrs",
-    "preview": "Super Mario Galaxy/Beach Bowl Galaxy.mp3"
+    "preview": "https://www.youtube.com/watch?v=65D8z2uszDs"
   },
   {
     "uuid": "81c78347-a6ce-4b85-9099-51decd2382a5",
@@ -10444,7 +10444,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "file": "Sonic the Hedgehog/Chaos Emerald.mmrs",
-    "preview": "Sonic the Hedgehog/Chaos Emerald.ogg"
+    "preview": "https://www.youtube.com/watch?v=NvQ3TrXOOO4"
   },
   {
     "uuid": "792ce56e-5302-4629-8f87-ea1cd2d30cb2",
@@ -37205,6 +37205,291 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
+  },
+  {
+    "uuid": "3caca666-14ab-47a2-82a6-e4f67c0878d0",
+    "creationDate": "2026-04-18T22:34:43.280Z",
+    "game": "Harvest Moon: Back to Nature",
+    "song": "Winter",
+    "composers": [
+      "Miyuki Homareda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Harvest Moon Back to Nature/Winter.mmrs",
+    "preview": "Harvest Moon Back to Nature/Winter.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "uuid": "7ddc229e-742e-4b81-9293-2cc9add5c495",
+    "creationDate": "2026-04-18T22:36:24.380Z",
+    "game": "A Hat in Time",
+    "song": "Subcon Forest (Alpha ver.)",
+    "composers": [
+      "Pascal Michael Stiefel"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6",
+      "16",
+      "157"
+    ],
+    "file": "A Hat in Time/Subcon Forest (Alpha ver.).mmrs",
+    "preview": "A Hat in Time/Subcon Forest (Alpha ver.).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "uuid": "ac0278d1-fc4f-4242-aed3-cc77c4114707",
+    "creationDate": "2026-04-18T22:37:04.240Z",
+    "game": "A Hat in Time",
+    "song": "Main Theme (Alternate ver.)",
+    "composers": [
+      "Pascal Michael Stiefel"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "A Hat in Time/Main Theme (Alternatev ver.).mmrs",
+    "preview": "A Hat in Time/Main Theme (Alternatev ver.).ogg",
+    "lastUpdateDate": "2026-04-18T22:37:24.588Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "uuid": "05c5483b-503e-433b-a44d-17b557f90aba",
+    "creationDate": "2026-04-18T22:38:14.305Z",
+    "game": "A Hat in Time",
+    "song": "Mustache Girl EX",
+    "composers": [
+      "Pascal Michael Stiefel"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "5",
+      "7"
+    ],
+    "file": "A Hat in Time/Mustache Girl EX.mmrs",
+    "preview": "A Hat in Time/Mustache Girl EX.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "uuid": "6c8c9788-b846-4078-89e9-fcdb0c1634ac",
+    "creationDate": "2026-04-18T22:41:29.616Z",
+    "game": "A Hat in Time",
+    "song": "Oh It's You",
+    "composers": [
+      "Pascal Michael Stiefel"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "A Hat in Time/Oh It's You.mmrs",
+    "preview": "A Hat in Time/Oh It's You.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "uuid": "71eea0af-92dc-4d48-88d4-1024a6103da5",
+    "creationDate": "2026-04-18T22:44:36.482Z",
+    "game": "A Hat in Time",
+    "song": "Main Theme",
+    "composers": [
+      "Pascal Michael Stiefel"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "A Hat in Time/Main Theme.mmrs",
+    "preview": "A Hat in Time/Main Theme.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "uuid": "c7ab85d3-c7ef-45e9-bbdc-95ac10aa78aa",
+    "creationDate": "2026-04-18T22:45:28.553Z",
+    "game": "A Hat in Time",
+    "song": "Your Contract has Expired",
+    "composers": [
+      "Pascal Michael Stiefel"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "file": "A Hat in Time/Your Contract has Expired.mmrs",
+    "preview": "A Hat in Time/Your Contract has Expired.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "uuid": "4d913e68-5ef8-46bf-ac6a-f430982880b1",
+    "creationDate": "2026-04-18T22:46:39.805Z",
+    "game": "Harvest Moon: Back to Nature",
+    "song": "Do Your Best!",
+    "composers": [
+      "Miyuki Homareda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Harvest Moon Back to Nature/Do Your Best!.mmrs",
+    "preview": "Harvest Moon Back to Nature/Do Your Best!.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "uuid": "0dc26585-0d29-445b-8eb8-d4146cdd6b38",
+    "creationDate": "2026-04-18T22:48:40.077Z",
+    "game": "Inazuma Eleven GO Light and Shadow",
+    "song": "Riccardo's Frustration",
+    "composers": [
+      "Shiho Terada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16E"
+    ],
+    "file": "Inazuma Eleven GO Light and Shadow/Riccardo's Frustration.mmrs",
+    "preview": "Inazuma Eleven GO Light and Shadow/Riccardo's Frustration.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "uuid": "f2142bb9-35b0-4bde-a5e6-3a804c67f904",
+    "creationDate": "2026-04-18T22:49:49.996Z",
+    "game": "Apple iOS",
+    "song": "Marimba",
+    "composers": [
+      "Dr. Gerhard Lengeling"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Apple iOS/Marimba.mmrs",
+    "preview": "Apple iOS/Marimba.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "uuid": "9565cc7c-7a68-48ef-844c-8201465d7742",
+    "creationDate": "2026-04-18T22:50:53.546Z",
+    "game": "Apple iOS",
+    "song": "Opening",
+    "composers": [
+      "Dr. Gerhard Lengeling"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Apple iOS/Opening.mmrs",
+    "preview": "Apple iOS/Opening.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "game": "A Hat in Time",
+    "song": "Alpine Skyline (Time Rift)",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "983d6012-4540-4f5b-a43d-958d120df376",
+    "file": "A Hat in Time/Alpine Skyline (Time Rift).mmrs"
+  },
+  {
+    "game": "A Hat in Time",
+    "song": "Time Rift Story Book",
+    "type": "bgm",
+    "categories": [
+      "157",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "99ea553c-f6d3-4328-a2c0-e8d9d9e10ff4",
+    "file": "A Hat in Time/Time Rift Story Book.mmrs"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

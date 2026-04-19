@@ -3480,5 +3480,14 @@
     "series": "Final Fantasy Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/d7f14b4988c30cc40e5e7b7d157bc018.png"
   },
+  {
+    "game": "Harvest Moon: Back to Nature"
+  },
+  {
+    "game": "Apple iOS"
+  },
+  {
+    "game": "Inazuma Eleven GO Light and Shadow"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
