@@ -37709,5 +37709,25 @@
     "preview": "Kingdom Hearts ReCoded/Destiny Islands Battle.ogg",
     "lastUpdateDate": "2026-04-19T02:04:03.458Z"
   },
+  {
+    "uuid": "4a64641b-ef7f-4c29-a5a9-3e2f6b5c76bc",
+    "creationDate": "2026-04-19T02:04:56.079Z",
+    "game": "Kingdom Hearts Re:Coded",
+    "song": "Destiny's Force",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7",
+      "157"
+    ],
+    "file": "Kingdom Hearts ReCoded/Destiny's Force.mmrs",
+    "preview": "Kingdom Hearts ReCoded/Destiny's Force.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
