@@ -40011,7 +40011,7 @@
     "uuid": "2ab7f2bf-ab6d-41d2-8323-e9e019175595",
     "creationDate": "2026-04-19T04:19:15.738Z",
     "game": "The Legend of Zelda: Majora's Mask",
-    "song": "Deku Dance (Remix)",
+    "song": "Deku Dance (Deku Palace Techno Remix, Variant B)",
     "composers": [
       "Koji Kondo"
     ],
@@ -40027,9 +40027,7 @@
     ],
     "file": "The Legend of Zelda Majora's Mask/Deku Dance (Remix).mmrs",
     "preview": "The Legend of Zelda Majora's Mask/Deku Dance (Remix).ogg",
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
+    "lastUpdateDate": "2026-04-19T04:38:31.221Z"
   },
   {
     "uuid": "ef0cd275-5bed-417b-beee-6a2b3efb1f97",
