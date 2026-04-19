@@ -38647,5 +38647,27 @@
     "file": "The Legend of Zelda Link's Awakening/Telephone Booth.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Telephone Booth.ogg"
   },
+  {
+    "uuid": "9f62ce8a-0423-4d34-a4e0-a64bad651062",
+    "creationDate": "2026-04-19T03:02:55.327Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "The Wise Owl",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/The Wise Owl.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/The Wise Owl.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
