@@ -37851,5 +37851,25 @@
     "file": "Kingdom Hearts/Villains of a Sort.mmrs",
     "preview": "Kingdom Hearts/Villains of a Sort.ogg"
   },
+  {
+    "uuid": "06966cbf-79d5-4ca7-a422-460fb4685c1c",
+    "creationDate": "2026-04-19T02:10:35.028Z",
+    "game": "Kingdom Hearts II",
+    "song": "Monochrome Dreams",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Kingdom Hearts II/Monochrome Dreams.mmrs",
+    "preview": "Kingdom Hearts II/Monochrome Dreams.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
