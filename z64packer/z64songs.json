@@ -38207,5 +38207,25 @@
     "file": "The Legend of Zelda Link's Awakening/Get Instrument.mmrs",
     "preview": "The Legend of Zelda Link's Awakening/Get Instrument.ogg"
   },
+  {
+    "uuid": "3a6bad5b-bb44-46ec-8846-0a882bd1c362",
+    "creationDate": "2026-04-19T02:31:52.037Z",
+    "game": "The Legend of Zelda: Link's Awakening",
+    "song": "Guardian Acorn and Piece of Power",
+    "composers": [
+      "Kazumi Totaka",
+      "Minako Hamano",
+      "Kozue Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "file": "The Legend of Zelda Link's Awakening/Guardian Acorn and Piece of Power.mmrs",
+    "preview": "The Legend of Zelda Link's Awakening/Guardian Acorn and Piece of Power.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
