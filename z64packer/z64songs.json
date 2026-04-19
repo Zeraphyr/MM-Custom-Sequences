@@ -37650,5 +37650,24 @@
     "file": "Kingdom Hearts/Bounce-O-Rama.mmrs",
     "preview": "Kingdom Hearts/Bounce-O-Rama.ogg"
   },
+  {
+    "uuid": "e1af36ba-8b6c-4504-9575-f7552f9d8010",
+    "creationDate": "2026-04-19T02:01:50.882Z",
+    "game": "Kingdom Hearts: Chain of Memories",
+    "song": "Title Screen",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Kingdom Hearts Chain of Memories/Title Screen.mmrs",
+    "preview": "Kingdom Hearts Chain of Memories/Title Screen.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
