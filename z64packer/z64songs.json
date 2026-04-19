@@ -39370,5 +39370,25 @@
     "file": "Minecraft/Otherside.mmrs",
     "preview": "Minecraft/Otherside.ogg"
   },
+  {
+    "uuid": "13aa83b3-049c-47d0-86ef-c5fbe69abde9",
+    "creationDate": "2026-04-19T04:02:35.342Z",
+    "game": "Minecraft",
+    "song": "Stal  (Variant B)",
+    "composers": [
+      "Daniel Rosenfeld"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Minecraft/Stal  (Variant B).mmrs",
+    "preview": "Minecraft/Stal  (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
