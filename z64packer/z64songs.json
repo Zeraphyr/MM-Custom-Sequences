@@ -39093,5 +39093,25 @@
     "file": "Metroid Prime 2 Echoes/Samus Aran's Appearance.mmrs",
     "preview": "Metroid Prime 2 Echoes/Samus Aran's Appearance.ogg"
   },
+  {
+    "uuid": "8e478528-5a3e-4be7-a5e3-781b1c921e54",
+    "creationDate": "2026-04-19T03:49:07.239Z",
+    "game": "Metroid Prime",
+    "song": "Vs. Flaahgra",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Metroid Prime/Vs. Flaahgra.mmrs",
+    "preview": "Metroid Prime/Vs. Flaahgra.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
