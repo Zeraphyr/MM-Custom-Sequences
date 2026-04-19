@@ -3221,7 +3221,7 @@
     "uuid": "b1e5d62e-2e02-47ee-99bf-1a117b3380fd",
     "creationDate": "2026-03-11T23:30:40.096Z",
     "game": "Minecraft",
-    "song": "Stal",
+    "song": "Stal (Variant A)",
     "composers": [
       "C418"
     ],
@@ -3236,10 +3236,9 @@
       "16"
     ],
     "usesCustomBank": true,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "file": "Minecraft/Stal.mmrs",
-    "preview": "https://www.youtube.com/watch?v=l--MAIf6E-M"
+    "preview": "https://www.youtube.com/watch?v=l--MAIf6E-M",
+    "lastUpdateDate": "2026-04-19T04:03:12.701Z"
   },
   {
     "uuid": "8bb4748a-eb06-4b6a-a7cf-2e777c4285d3",
