@@ -40313,5 +40313,30 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "eeea9d50-f150-49ef-b45b-5d687f06f8eb",
+    "creationDate": "2026-04-22T02:19:33.567Z",
+    "game": "Earthworm Jim",
+    "song": "Andy Asteroids",
+    "composers": [
+      "Mark Miller"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "Earthworm Jim/Andy Asteroids.mmrs",
+    "preview": "Earthworm Jim/Andy Asteroids.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
