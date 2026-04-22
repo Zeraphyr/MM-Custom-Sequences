@@ -40357,5 +40357,28 @@
     "file": "Earthworm Jim/New Junk City.mmrs",
     "preview": "Earthworm Jim/New Junk City.mp3"
   },
+  {
+    "uuid": "a62fceb3-5dc9-440d-9768-f627ad28ce57",
+    "creationDate": "2026-04-22T02:23:56.363Z",
+    "game": "Mario & Luigi: Superstar Saga",
+    "song": "Come On!",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "file": "Mario & Luigi Superstar Saga/Come On!.mmrs",
+    "preview": "Mario & Luigi Superstar Saga/Come On!.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
