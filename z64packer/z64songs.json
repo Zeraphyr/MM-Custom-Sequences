@@ -40338,5 +40338,24 @@
     "file": "Earthworm Jim/Andy Asteroids.mmrs",
     "preview": "Earthworm Jim/Andy Asteroids.mp3"
   },
+  {
+    "uuid": "f17e5362-bd5b-4559-9101-41bc2e2cfee5",
+    "creationDate": "2026-04-22T02:21:09.806Z",
+    "game": "Earthworm Jim",
+    "song": "New Junk City",
+    "composers": [
+      "Mark Miller"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "Earthworm Jim/New Junk City.mmrs",
+    "preview": "Earthworm Jim/New Junk City.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
