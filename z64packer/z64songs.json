@@ -40822,5 +40822,25 @@
     "file": "Old School RuneScape/Fletching Level Up!.mmrs",
     "preview": "Old School RuneScape/Fletching Level Up!.mp3"
   },
+  {
+    "uuid": "1ba5ae7c-2b43-49df-a546-002cbcab8875",
+    "creationDate": "2026-04-24T03:48:45.110Z",
+    "game": "Old School RuneScape",
+    "song": "Fletching Level Up! (Unlocks)",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Fletching Level Up! (Unlocks).mmrs",
+    "preview": "Old School RuneScape/Fletching Level Up! (Unlocks).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
