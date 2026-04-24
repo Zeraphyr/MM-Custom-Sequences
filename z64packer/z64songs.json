@@ -41135,5 +41135,25 @@
     "file": "Super Godzilla/Mechagodzilla Battle.mmrs",
     "preview": "Super Godzilla/Mechagodzilla Battle.mp3"
   },
+  {
+    "uuid": "0f0761d2-2e72-4d7d-a6f1-f69fefedf98f",
+    "creationDate": "2026-04-24T04:29:53.405Z",
+    "game": "Super Mario Bros.",
+    "song": "Underground",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Mario Bros/Underground.mmrs",
+    "preview": "Super Mario Bros/Underground.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
