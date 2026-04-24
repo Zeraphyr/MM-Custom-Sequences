@@ -40401,5 +40401,25 @@
     "file": "Mega Man 2/Dr. Wily's Castle.mmrs",
     "preview": "Mega Man 2/Dr. Wily's Castle.mp3"
   },
+  {
+    "uuid": "20b81aaf-e855-402f-8079-28bf64df2ba6",
+    "creationDate": "2026-04-24T03:14:52.773Z",
+    "game": "Memes",
+    "song": "Get Stick Bugged lol (Looped)",
+    "composers": [
+      "Piercen Harbut (Onett)"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "notes": "Original song is \"Stick Bug\" from Bee Swarm Simulator.",
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": true,
+    "file": "Memes/Get Stick Bugged lol (Looped).mmrs",
+    "preview": "Memes/Get Stick Bugged lol (Looped).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
