@@ -41050,5 +41050,24 @@
     "file": "SaGa Frontier/Battle #1.mmrs",
     "preview": "SaGa Frontier/Battle #1.mp3"
   },
+  {
+    "uuid": "947c87fc-e7cb-4b27-a329-8959da46aa66",
+    "creationDate": "2026-04-24T04:19:59.336Z",
+    "game": "Shin Megami Tensei II",
+    "song": "Battle",
+    "composers": [
+      "Tsukasa Masuko"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "Shin Megami Tensei II/Battle.mmrs",
+    "preview": "Shin Megami Tensei II/Battle.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
