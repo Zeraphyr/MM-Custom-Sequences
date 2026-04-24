@@ -41155,5 +41155,27 @@
     "file": "Super Mario Bros/Underground.mmrs",
     "preview": "Super Mario Bros/Underground.mp3"
   },
+  {
+    "uuid": "e279f6d3-ca25-47e9-9996-70f3b68edf62",
+    "creationDate": "2026-04-24T04:34:22.103Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Fight Against Monsters (Variant B)",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Mario RPG Legend of the Seven Stars/Fight Against Monsters (Variant B).mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Fight Against Monsters (Variant B).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
