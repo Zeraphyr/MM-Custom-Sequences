@@ -40622,5 +40622,25 @@
     "file": "Old School RuneScape/Crafting Level Up!.mmrs",
     "preview": "Old School RuneScape/Crafting Level Up!.mp3"
   },
+  {
+    "uuid": "85e1087f-2967-4e29-84d0-bd0f1438b65b",
+    "creationDate": "2026-04-24T03:39:24.383Z",
+    "game": "Old School RuneScape",
+    "song": "Crafting Level Up! (Unlocks)",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Crafting Level Up! (Unlocks).mmrs",
+    "preview": "Old School RuneScape/Crafting Level Up! (Unlocks).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
