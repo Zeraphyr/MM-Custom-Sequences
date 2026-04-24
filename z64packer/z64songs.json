@@ -40602,5 +40602,25 @@
     "file": "Old School RuneScape/Cooking Level Up! (Unlocks).mmrs",
     "preview": "Old School RuneScape/Cooking Level Up! (Unlocks).mp3"
   },
+  {
+    "uuid": "15d4e952-a78b-4a7d-bfca-b7434e34da22",
+    "creationDate": "2026-04-24T03:38:49.510Z",
+    "game": "Old School RuneScape",
+    "song": "Crafting Level Up!",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Crafting Level Up!.mmrs",
+    "preview": "Old School RuneScape/Crafting Level Up!.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
