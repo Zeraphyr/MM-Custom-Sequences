@@ -40782,5 +40782,25 @@
     "file": "Old School RuneScape/Fishing Level Up!.mmrs",
     "preview": "Old School RuneScape/Fishing Level Up!.mp3"
   },
+  {
+    "uuid": "4983e394-fd99-4051-8d63-1cb7140dfd4e",
+    "creationDate": "2026-04-24T03:47:37.864Z",
+    "game": "Old School RuneScape",
+    "song": "Fishing Level Up! (Unlocks)",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Fishing Level Up! (Unlocks).mmrs",
+    "preview": "Old School RuneScape/Fishing Level Up! (Unlocks).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
