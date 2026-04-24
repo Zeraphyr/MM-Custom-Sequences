@@ -41069,5 +41069,28 @@
     "file": "Shin Megami Tensei II/Battle.mmrs",
     "preview": "Shin Megami Tensei II/Battle.mp3"
   },
+  {
+    "uuid": "d9dd5d12-8959-4d5c-97c3-9c21b5f7eb99",
+    "creationDate": "2026-04-24T04:21:13.017Z",
+    "game": "Sonic the Hedgehog",
+    "song": "Spring Yard Zone",
+    "composers": [
+      "Masato Nakamura"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "file": "Sonic the Hedgehog/Spring Yard Zone.mmrs",
+    "preview": "Sonic the Hedgehog/Spring Yard Zone.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
