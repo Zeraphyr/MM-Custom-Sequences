@@ -40313,5 +40313,654 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "eeea9d50-f150-49ef-b45b-5d687f06f8eb",
+    "creationDate": "2026-04-22T02:19:33.567Z",
+    "game": "Earthworm Jim",
+    "song": "Andy Asteroids",
+    "composers": [
+      "Mark Miller"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "Earthworm Jim/Andy Asteroids.mmrs",
+    "preview": "Earthworm Jim/Andy Asteroids.mp3"
+  },
+  {
+    "uuid": "f17e5362-bd5b-4559-9101-41bc2e2cfee5",
+    "creationDate": "2026-04-22T02:21:09.806Z",
+    "game": "Earthworm Jim",
+    "song": "New Junk City",
+    "composers": [
+      "Mark Miller"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "Earthworm Jim/New Junk City.mmrs",
+    "preview": "Earthworm Jim/New Junk City.mp3"
+  },
+  {
+    "uuid": "a62fceb3-5dc9-440d-9768-f627ad28ce57",
+    "creationDate": "2026-04-22T02:23:56.363Z",
+    "game": "Mario & Luigi: Superstar Saga",
+    "song": "Come On!",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "file": "Mario & Luigi Superstar Saga/Come On!.mmrs",
+    "preview": "Mario & Luigi Superstar Saga/Come On!.mp3"
+  },
+  {
+    "uuid": "5cea6ecb-6e75-4cc5-b443-0dcd1a8523b7",
+    "creationDate": "2026-04-22T02:25:47.715Z",
+    "game": "Mega Man 2",
+    "song": "Dr. Wily's Castle",
+    "composers": [
+      "Takashi Tateishi"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "file": "Mega Man 2/Dr. Wily's Castle.mmrs",
+    "preview": "Mega Man 2/Dr. Wily's Castle.mp3"
+  },
+  {
+    "uuid": "20b81aaf-e855-402f-8079-28bf64df2ba6",
+    "creationDate": "2026-04-24T03:14:52.773Z",
+    "game": "Memes",
+    "song": "Get Stick Bugged lol (Looped)",
+    "composers": [
+      "Piercen Harbut (Onett)"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "notes": "Original song is \"Stick Bug\" from Bee Swarm Simulator.",
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": true,
+    "file": "Memes/Get Stick Bugged lol (Looped).mmrs",
+    "preview": "Memes/Get Stick Bugged lol (Looped).mp3"
+  },
+  {
+    "uuid": "53bca0be-db7b-40b6-8c04-20c8ad4aa302",
+    "creationDate": "2026-04-24T03:16:19.529Z",
+    "game": "Memes",
+    "song": "Get Stick Bugged lol",
+    "composers": [
+      "Piercen Harbut (Onett)"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "notes": "Original song is \"Stick Bug\" from Bee Swarm Simulator.",
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "file": "Memes/Get Stick Bugged lol.mmrs",
+    "preview": "Memes/Get Stick Bugged lol.mp3"
+  },
+  {
+    "uuid": "404c93f5-92e8-4eb9-8ad7-a1d901be4013",
+    "creationDate": "2026-04-24T03:20:08.746Z",
+    "game": "Old School RuneScape",
+    "song": "Scape Santa",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Scape Santa.mmrs",
+    "preview": "Old School RuneScape/Scape Santa.mp3"
+  },
+  {
+    "uuid": "8bc80542-562b-4309-b853-fc17c5600ae6",
+    "creationDate": "2026-04-24T03:28:56.669Z",
+    "game": "Old School RuneScape",
+    "song": "Agility Level Up!",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Agility Level Up!.mmrs",
+    "preview": "Old School RuneScape/Agility Level Up!.mp3"
+  },
+  {
+    "uuid": "a7a40ff3-e83e-4f3a-ada4-bdcbf9005c24",
+    "creationDate": "2026-04-24T03:29:38.342Z",
+    "game": "Old School RuneScape",
+    "song": "Attack Level Up!",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Attack Level Up!.mmrs",
+    "preview": "Old School RuneScape/Attack Level Up!.mp3"
+  },
+  {
+    "uuid": "4dec260e-9fb9-476b-934c-769647d8c044",
+    "creationDate": "2026-04-24T03:30:11.916Z",
+    "game": "Old School RuneScape",
+    "song": "Attack Level Up! (Unlocks)",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Attack Level Up! (Unlocks).mmrs",
+    "preview": "Old School RuneScape/Attack Level Up! (Unlocks).mp3"
+  },
+  {
+    "uuid": "be63ddba-757b-466f-9e5e-9af74a948dfe",
+    "creationDate": "2026-04-24T03:32:20.051Z",
+    "game": "Old School RuneScape",
+    "song": "Construction Level Up!",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Construction Level Up!.mmrs",
+    "preview": "Old School RuneScape/Construction Level Up!.mp3"
+  },
+  {
+    "uuid": "ad5a1619-05b8-43c5-800a-fc5b8d3d0fc5",
+    "creationDate": "2026-04-24T03:32:56.044Z",
+    "game": "Old School RuneScape",
+    "song": "Construction Level Up! (Every 10th)",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Construction Level Up! (Every 10th).mmrs",
+    "preview": "Old School RuneScape/Construction Level Up! (Every 10th).mp3"
+  },
+  {
+    "uuid": "c1b4b551-d616-418f-8d71-eef59a03c27e",
+    "creationDate": "2026-04-24T03:33:36.702Z",
+    "game": "Old School RuneScape",
+    "song": "Cooking Level Up!",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Cooking Level Up!.mmrs",
+    "preview": "Old School RuneScape/Cooking Level Up!.mp3"
+  },
+  {
+    "uuid": "de5f9f84-b3ea-41ff-a6e6-fd52196ff98a",
+    "creationDate": "2026-04-24T03:34:12.474Z",
+    "game": "Old School RuneScape",
+    "song": "Cooking Level Up! (Unlocks)",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Cooking Level Up! (Unlocks).mmrs",
+    "preview": "Old School RuneScape/Cooking Level Up! (Unlocks).mp3"
+  },
+  {
+    "uuid": "15d4e952-a78b-4a7d-bfca-b7434e34da22",
+    "creationDate": "2026-04-24T03:38:49.510Z",
+    "game": "Old School RuneScape",
+    "song": "Crafting Level Up!",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Crafting Level Up!.mmrs",
+    "preview": "Old School RuneScape/Crafting Level Up!.mp3"
+  },
+  {
+    "uuid": "85e1087f-2967-4e29-84d0-bd0f1438b65b",
+    "creationDate": "2026-04-24T03:39:24.383Z",
+    "game": "Old School RuneScape",
+    "song": "Crafting Level Up! (Unlocks)",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Crafting Level Up! (Unlocks).mmrs",
+    "preview": "Old School RuneScape/Crafting Level Up! (Unlocks).mp3"
+  },
+  {
+    "uuid": "5d075a6f-c784-454a-b82c-12aba16dae11",
+    "creationDate": "2026-04-24T03:40:04.846Z",
+    "game": "Old School RuneScape",
+    "song": "Defence Level Up!",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Defence Level Up!.mmrs",
+    "preview": "Old School RuneScape/Defence Level Up!.mp3"
+  },
+  {
+    "uuid": "bad75d16-bf43-46a6-8919-597ba2f52e46",
+    "creationDate": "2026-04-24T03:40:39.042Z",
+    "game": "Old School RuneScape",
+    "song": "Defence Level Up! (Unlocks)",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Defence Level Up! (Unlocks).mmrs",
+    "preview": "Old School RuneScape/Defence Level Up! (Unlocks).mp3"
+  },
+  {
+    "uuid": "3d8d5d66-a7d7-4e4a-ab9a-7df31d2c931c",
+    "creationDate": "2026-04-24T03:43:28.189Z",
+    "game": "Old School RuneScape",
+    "song": "Farming Level Up!",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Farming Level Up!.mmrs",
+    "preview": "Old School RuneScape/Farming Level Up!.mp3"
+  },
+  {
+    "uuid": "3bd24aba-450c-4ae0-8519-17542c58c48e",
+    "creationDate": "2026-04-24T03:44:06.685Z",
+    "game": "Old School RuneScape",
+    "song": "Farming Level Up! (Unlocks)",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Farming Level Up! (Unlocks).mmrs",
+    "preview": "Old School RuneScape/Farming Level Up! (Unlocks).mp3"
+  },
+  {
+    "uuid": "69e76659-8ad8-4647-bfb8-58458d7b325c",
+    "creationDate": "2026-04-24T03:44:41.135Z",
+    "game": "Old School RuneScape",
+    "song": "Firemaking Level Up!",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Firemaking Level Up!.mmrs",
+    "preview": "Old School RuneScape/Firemaking Level Up!.mp3"
+  },
+  {
+    "uuid": "398a837a-a4ed-4d90-bd5b-f3cc88a755f8",
+    "creationDate": "2026-04-24T03:45:13.154Z",
+    "game": "Old School RuneScape",
+    "song": "Firemaking Level Up! (Unlocks)",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Firemaking Level Up! (Unlocks).mmrs",
+    "preview": "Old School RuneScape/Firemaking Level Up! (Unlocks).mp3"
+  },
+  {
+    "uuid": "21a99b47-3e36-48b6-b8dc-721baea24205",
+    "creationDate": "2026-04-24T03:47:00.397Z",
+    "game": "Old School RuneScape",
+    "song": "Fishing Level Up!",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Fishing Level Up!.mmrs",
+    "preview": "Old School RuneScape/Fishing Level Up!.mp3"
+  },
+  {
+    "uuid": "4983e394-fd99-4051-8d63-1cb7140dfd4e",
+    "creationDate": "2026-04-24T03:47:37.864Z",
+    "game": "Old School RuneScape",
+    "song": "Fishing Level Up! (Unlocks)",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Fishing Level Up! (Unlocks).mmrs",
+    "preview": "Old School RuneScape/Fishing Level Up! (Unlocks).mp3"
+  },
+  {
+    "uuid": "3269d330-4ba8-4a2e-bd00-2c89fa7556d1",
+    "creationDate": "2026-04-24T03:48:11.361Z",
+    "game": "Old School RuneScape",
+    "song": "Fletching Level Up!",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Fletching Level Up!.mmrs",
+    "preview": "Old School RuneScape/Fletching Level Up!.mp3"
+  },
+  {
+    "uuid": "1ba5ae7c-2b43-49df-a546-002cbcab8875",
+    "creationDate": "2026-04-24T03:48:45.110Z",
+    "game": "Old School RuneScape",
+    "song": "Fletching Level Up! (Unlocks)",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Fletching Level Up! (Unlocks).mmrs",
+    "preview": "Old School RuneScape/Fletching Level Up! (Unlocks).mp3"
+  },
+  {
+    "uuid": "3f49bb2f-0e01-40ae-a74d-46e4f63cc5a9",
+    "creationDate": "2026-04-24T03:51:01.427Z",
+    "game": "Old School RuneScape",
+    "song": "Herblore Level Up!",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Herblore Level Up!.mmrs",
+    "preview": "Old School RuneScape/Herblore Level Up!.mp3"
+  },
+  {
+    "uuid": "82fdf6cf-9cf9-42ea-b603-10b55271c5b8",
+    "creationDate": "2026-04-24T03:51:36.968Z",
+    "game": "Old School RuneScape",
+    "song": "Herblore Level Up! (Unlocks)",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Herblore Level Up! (Unlocks).mmrs",
+    "preview": "Old School RuneScape/Herblore Level Up! (Unlocks).mp3"
+  },
+  {
+    "uuid": "169d0847-428c-499a-8363-c585ddec29bd",
+    "creationDate": "2026-04-24T03:52:15.088Z",
+    "game": "Old School RuneScape",
+    "song": "Hitpoints Level Up! (2-49)",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Hitpoints Level Up! (2-49).mmrs",
+    "preview": "Old School RuneScape/Hitpoints Level Up! (2-49).mp3"
+  },
+  {
+    "uuid": "347a2781-fc55-454b-b520-fd622a073753",
+    "creationDate": "2026-04-24T03:52:54.262Z",
+    "game": "Old School RuneScape",
+    "song": "Hitpoints Level Up! (50-99)",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Hitpoints Level Up! (50-99).mmrs",
+    "preview": "Old School RuneScape/Hitpoints Level Up! (50-99).mp3"
+  },
+  {
+    "uuid": "417ac890-2241-404e-9e86-0e3a8ced4413",
+    "creationDate": "2026-04-24T03:56:18.697Z",
+    "game": "Old School RuneScape",
+    "song": "Hunter Level Up! (Even)",
+    "composers": [
+      "Unknown"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Hunter Level Up! (Even).mmrs",
+    "preview": "Old School RuneScape/Hunter Level Up! (Even).mp3"
+  },
+  {
+    "uuid": "f867de37-6ae6-4f33-97e0-2eb551651464",
+    "creationDate": "2026-04-24T03:56:52.026Z",
+    "game": "Old School RuneScape",
+    "song": "Hunter Level Up! (Odd)",
+    "composers": [
+      "Unknown"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Hunter Level Up! (Odd).mmrs",
+    "preview": "Old School RuneScape/Hunter Level Up! (Odd).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
