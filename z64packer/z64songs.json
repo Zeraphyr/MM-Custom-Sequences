@@ -40441,5 +40441,26 @@
     "file": "Memes/Get Stick Bugged lol.mmrs",
     "preview": "Memes/Get Stick Bugged lol.mp3"
   },
+  {
+    "uuid": "404c93f5-92e8-4eb9-8ad7-a1d901be4013",
+    "creationDate": "2026-04-24T03:20:08.746Z",
+    "game": "Old School RuneScape",
+    "song": "Scape Santa",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Scape Santa.mmrs",
+    "preview": "Old School RuneScape/Scape Santa.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
