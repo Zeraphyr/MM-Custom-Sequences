@@ -418,10 +418,6 @@
     "logo": "https://i.imgur.com/ZNV0sO3.png"
   },
   {
-    "game": "DOOM (1993)",
-    "logo": "https://i.imgur.com/ykeSbhG.png"
-  },
-  {
     "game": "Double Dragon",
     "logo": "https://i.imgur.com/UFno90d.png"
   },
@@ -2449,6 +2445,7 @@
   },
   {
     "game": "Doom II",
+    "series": "Doom Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/77c80d023cdbb58b03fa8367b709d52f.png"
   },
   {
@@ -3528,16 +3525,22 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/beba25deef966d6816093e38d989b9ca.png"
   },
   {
-    "game": "SaGa Frontier"
+    "game": "SaGa Frontier",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/543aed787cac2df5cab649947c2d641a.png"
   },
   {
-    "game": "Star Fox Adventures"
+    "game": "Star Fox Adventures",
+    "series": "Star Fox Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/9d94c8981a48d12adfeecfe1ae6e0ec1.png"
   },
   {
-    "game": "Super Godzilla"
+    "game": "Super Godzilla",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/8f1fbc45b8d10f3bc00d82ad450c8a6c.png"
   },
   {
-    "game": "Doom"
+    "game": "Doom",
+    "series": "Doom Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/6a3b6ffa5dbf8a5abcad2135e5bc77d9.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
