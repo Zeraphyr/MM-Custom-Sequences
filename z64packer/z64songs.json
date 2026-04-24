@@ -40562,5 +40562,25 @@
     "file": "Old School RuneScape/Construction Level Up! (Every 10th).mmrs",
     "preview": "Old School RuneScape/Construction Level Up! (Every 10th).mp3"
   },
+  {
+    "uuid": "c1b4b551-d616-418f-8d71-eef59a03c27e",
+    "creationDate": "2026-04-24T03:33:36.702Z",
+    "game": "Old School RuneScape",
+    "song": "Cooking Level Up!",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Cooking Level Up!.mmrs",
+    "preview": "Old School RuneScape/Cooking Level Up!.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
