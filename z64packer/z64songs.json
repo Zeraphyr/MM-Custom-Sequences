@@ -41271,5 +41271,29 @@
     "file": "The Legend of Zelda Phantom Hourglass/Linebeck's Theme.mmrs",
     "preview": "The Legend of Zelda Phantom Hourglass/Linebeck's Theme.mp3"
   },
+  {
+    "uuid": "1fe13547-6883-45c5-9bb4-d1bbd5e077e8",
+    "creationDate": "2026-04-24T04:49:36.647Z",
+    "game": "Doom",
+    "song": "At Doom's Gate",
+    "composers": [
+      "Bobby Prince"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "file": "Doom/At Doom's Gate.mmrs",
+    "preview": "Doom/At Doom's Gate.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
