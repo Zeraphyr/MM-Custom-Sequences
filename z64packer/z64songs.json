@@ -40882,5 +40882,25 @@
     "file": "Old School RuneScape/Herblore Level Up! (Unlocks).mmrs",
     "preview": "Old School RuneScape/Herblore Level Up! (Unlocks).mp3"
   },
+  {
+    "uuid": "169d0847-428c-499a-8363-c585ddec29bd",
+    "creationDate": "2026-04-24T03:52:15.088Z",
+    "game": "Old School RuneScape",
+    "song": "Hitpoints Level Up! (2-49)",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Hitpoints Level Up! (2-49).mmrs",
+    "preview": "Old School RuneScape/Hitpoints Level Up! (2-49).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
