@@ -41048,7 +41048,9 @@
     ],
     "usesCustomBank": true,
     "file": "SaGa Frontier/Battle #1.mmrs",
-    "preview": "SaGa Frontier/Battle #1.mp3"
+    "preview": "SaGa Frontier/Battle #1.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "947c87fc-e7cb-4b27-a329-8959da46aa66",
@@ -41067,7 +41069,9 @@
     ],
     "usesCustomBank": true,
     "file": "Shin Megami Tensei II/Battle.mmrs",
-    "preview": "Shin Megami Tensei II/Battle.mp3"
+    "preview": "Shin Megami Tensei II/Battle.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d9dd5d12-8959-4d5c-97c3-9c21b5f7eb99",
@@ -41090,7 +41094,9 @@
     ],
     "usesCustomBank": true,
     "file": "Sonic the Hedgehog/Spring Yard Zone.mmrs",
-    "preview": "Sonic the Hedgehog/Spring Yard Zone.mp3"
+    "preview": "Sonic the Hedgehog/Spring Yard Zone.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b942b1bf-3263-4380-a0cc-6d608a80562d",
@@ -41112,7 +41118,9 @@
     ],
     "usesCustomBank": true,
     "file": "Star Fox Adventures/Thorntail Hollow (Day).mmrs",
-    "preview": "Star Fox Adventures/Thorntail Hollow (Day).mp3"
+    "preview": "Star Fox Adventures/Thorntail Hollow (Day).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "72dbb5fa-534c-42cb-8f76-0be9bb5bd5e0",
@@ -41133,7 +41141,9 @@
     ],
     "usesCustomBank": true,
     "file": "Super Godzilla/Mechagodzilla Battle.mmrs",
-    "preview": "Super Godzilla/Mechagodzilla Battle.mp3"
+    "preview": "Super Godzilla/Mechagodzilla Battle.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "0f0761d2-2e72-4d7d-a6f1-f69fefedf98f",
@@ -41153,7 +41163,9 @@
     ],
     "usesCustomBank": true,
     "file": "Super Mario Bros/Underground.mmrs",
-    "preview": "Super Mario Bros/Underground.mp3"
+    "preview": "Super Mario Bros/Underground.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e279f6d3-ca25-47e9-9996-70f3b68edf62",
@@ -41175,7 +41187,9 @@
     ],
     "usesCustomBank": true,
     "file": "Super Mario RPG Legend of the Seven Stars/Fight Against Monsters (Variant B).mmrs",
-    "preview": "Super Mario RPG Legend of the Seven Stars/Fight Against Monsters (Variant B).mp3"
+    "preview": "Super Mario RPG Legend of the Seven Stars/Fight Against Monsters (Variant B).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "91f88870-4fa8-4ee8-9614-c6d786b7a502",
@@ -41199,7 +41213,9 @@
     ],
     "usesCustomBank": true,
     "file": "Super Mario RPG Legend of the Seven Stars/Hello, Happy Kingdom.mmrs",
-    "preview": "Super Mario RPG Legend of the Seven Stars/Hello, Happy Kingdom.mp3"
+    "preview": "Super Mario RPG Legend of the Seven Stars/Hello, Happy Kingdom.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d064db75-5172-4eea-97b9-2f593f856931",
@@ -41224,7 +41240,9 @@
     ],
     "usesCustomBank": true,
     "file": "Super Mario World 2 Yoshi's Island/Athletic (Variant C).mmrs",
-    "preview": "Super Mario World 2 Yoshi's Island/Athletic (Variant C).mp3"
+    "preview": "Super Mario World 2 Yoshi's Island/Athletic (Variant C).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c838a742-048b-4729-a2b6-ddc57addee03",
@@ -41246,7 +41264,9 @@
     ],
     "usesCustomBank": true,
     "file": "Super Mario World 2 Yoshi's Island/Flower Garden (Variant B).mmrs",
-    "preview": "Super Mario World 2 Yoshi's Island/Flower Garden (Variant B).mp3"
+    "preview": "Super Mario World 2 Yoshi's Island/Flower Garden (Variant B).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "cca89d30-817a-4379-b6fb-a1ed572166e4",
@@ -41269,7 +41289,9 @@
     ],
     "usesCustomBank": true,
     "file": "The Legend of Zelda Phantom Hourglass/Linebeck's Theme.mmrs",
-    "preview": "The Legend of Zelda Phantom Hourglass/Linebeck's Theme.mp3"
+    "preview": "The Legend of Zelda Phantom Hourglass/Linebeck's Theme.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1fe13547-6883-45c5-9bb4-d1bbd5e077e8",
@@ -41293,7 +41315,9 @@
     ],
     "usesCustomBank": true,
     "file": "Doom/At Doom's Gate.mmrs",
-    "preview": "Doom/At Doom's Gate.mp3"
+    "preview": "Doom/At Doom's Gate.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c0ba65e9-3bda-4676-8d05-13ff777c5e84",
@@ -41320,7 +41344,9 @@
     ],
     "usesCustomBank": true,
     "file": "Nintendo Wii/Mii Channel (Variant B).mmrs",
-    "preview": "Nintendo Wii/Mii Channel (Variant B).mp3"
+    "preview": "Nintendo Wii/Mii Channel (Variant B).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

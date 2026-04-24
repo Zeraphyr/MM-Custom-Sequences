@@ -3527,5 +3527,17 @@
     "series": "Kingdom Hearts Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/beba25deef966d6816093e38d989b9ca.png"
   },
+  {
+    "game": "SaGa Frontier"
+  },
+  {
+    "game": "Star Fox Adventures"
+  },
+  {
+    "game": "Super Godzilla"
+  },
+  {
+    "game": "Doom"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
