@@ -40842,5 +40842,25 @@
     "file": "Old School RuneScape/Fletching Level Up! (Unlocks).mmrs",
     "preview": "Old School RuneScape/Fletching Level Up! (Unlocks).mp3"
   },
+  {
+    "uuid": "3f49bb2f-0e01-40ae-a74d-46e4f63cc5a9",
+    "creationDate": "2026-04-24T03:51:01.427Z",
+    "game": "Old School RuneScape",
+    "song": "Herblore Level Up!",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Herblore Level Up!.mmrs",
+    "preview": "Old School RuneScape/Herblore Level Up!.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
