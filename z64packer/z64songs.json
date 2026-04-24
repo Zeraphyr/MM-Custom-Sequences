@@ -40462,5 +40462,25 @@
     "file": "Old School RuneScape/Scape Santa.mmrs",
     "preview": "Old School RuneScape/Scape Santa.mp3"
   },
+  {
+    "uuid": "8bc80542-562b-4309-b853-fc17c5600ae6",
+    "creationDate": "2026-04-24T03:28:56.669Z",
+    "game": "Old School RuneScape",
+    "song": "Agility Level Up!",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Agility Level Up!.mmrs",
+    "preview": "Old School RuneScape/Agility Level Up!.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
