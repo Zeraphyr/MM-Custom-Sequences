@@ -40421,5 +40421,25 @@
     "file": "Memes/Get Stick Bugged lol (Looped).mmrs",
     "preview": "Memes/Get Stick Bugged lol (Looped).mp3"
   },
+  {
+    "uuid": "53bca0be-db7b-40b6-8c04-20c8ad4aa302",
+    "creationDate": "2026-04-24T03:16:19.529Z",
+    "game": "Memes",
+    "song": "Get Stick Bugged lol",
+    "composers": [
+      "Piercen Harbut (Onett)"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "notes": "Original song is \"Stick Bug\" from Bee Swarm Simulator.",
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "file": "Memes/Get Stick Bugged lol.mmrs",
+    "preview": "Memes/Get Stick Bugged lol.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
