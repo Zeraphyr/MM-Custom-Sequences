@@ -41295,5 +41295,32 @@
     "file": "Doom/At Doom's Gate.mmrs",
     "preview": "Doom/At Doom's Gate.mp3"
   },
+  {
+    "uuid": "c0ba65e9-3bda-4676-8d05-13ff777c5e84",
+    "creationDate": "2026-04-24T04:51:24.312Z",
+    "game": "Nintendo Wii",
+    "song": "Mii Channel (Variant B)",
+    "composers": [
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "Nintendo Wii/Mii Channel (Variant B).mmrs",
+    "preview": "Nintendo Wii/Mii Channel (Variant B).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
