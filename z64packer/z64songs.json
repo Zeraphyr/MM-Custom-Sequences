@@ -40336,7 +40336,9 @@
     ],
     "usesCustomBank": true,
     "file": "Earthworm Jim/Andy Asteroids.mmrs",
-    "preview": "Earthworm Jim/Andy Asteroids.mp3"
+    "preview": "Earthworm Jim/Andy Asteroids.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "f17e5362-bd5b-4559-9101-41bc2e2cfee5",
@@ -40355,7 +40357,9 @@
     ],
     "usesCustomBank": true,
     "file": "Earthworm Jim/New Junk City.mmrs",
-    "preview": "Earthworm Jim/New Junk City.mp3"
+    "preview": "Earthworm Jim/New Junk City.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a62fceb3-5dc9-440d-9768-f627ad28ce57",
@@ -40378,7 +40382,9 @@
     ],
     "usesCustomBank": true,
     "file": "Mario & Luigi Superstar Saga/Come On!.mmrs",
-    "preview": "Mario & Luigi Superstar Saga/Come On!.mp3"
+    "preview": "Mario & Luigi Superstar Saga/Come On!.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "5cea6ecb-6e75-4cc5-b443-0dcd1a8523b7",
@@ -40399,7 +40405,9 @@
     ],
     "usesCustomBank": true,
     "file": "Mega Man 2/Dr. Wily's Castle.mmrs",
-    "preview": "Mega Man 2/Dr. Wily's Castle.mp3"
+    "preview": "Mega Man 2/Dr. Wily's Castle.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "20b81aaf-e855-402f-8079-28bf64df2ba6",
@@ -40419,7 +40427,9 @@
     ],
     "usesCustomBank": true,
     "file": "Memes/Get Stick Bugged lol (Looped).mmrs",
-    "preview": "Memes/Get Stick Bugged lol (Looped).mp3"
+    "preview": "Memes/Get Stick Bugged lol (Looped).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "53bca0be-db7b-40b6-8c04-20c8ad4aa302",
@@ -40439,7 +40449,9 @@
     ],
     "usesCustomBank": true,
     "file": "Memes/Get Stick Bugged lol.mmrs",
-    "preview": "Memes/Get Stick Bugged lol.mp3"
+    "preview": "Memes/Get Stick Bugged lol.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "404c93f5-92e8-4eb9-8ad7-a1d901be4013",
@@ -40460,7 +40472,9 @@
     ],
     "usesCustomBank": true,
     "file": "Old School RuneScape/Scape Santa.mmrs",
-    "preview": "Old School RuneScape/Scape Santa.mp3"
+    "preview": "Old School RuneScape/Scape Santa.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "8bc80542-562b-4309-b853-fc17c5600ae6",
@@ -40480,7 +40494,9 @@
     ],
     "usesCustomBank": true,
     "file": "Old School RuneScape/Agility Level Up!.mmrs",
-    "preview": "Old School RuneScape/Agility Level Up!.mp3"
+    "preview": "Old School RuneScape/Agility Level Up!.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a7a40ff3-e83e-4f3a-ada4-bdcbf9005c24",
@@ -40500,7 +40516,9 @@
     ],
     "usesCustomBank": true,
     "file": "Old School RuneScape/Attack Level Up!.mmrs",
-    "preview": "Old School RuneScape/Attack Level Up!.mp3"
+    "preview": "Old School RuneScape/Attack Level Up!.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4dec260e-9fb9-476b-934c-769647d8c044",
@@ -40520,7 +40538,9 @@
     ],
     "usesCustomBank": true,
     "file": "Old School RuneScape/Attack Level Up! (Unlocks).mmrs",
-    "preview": "Old School RuneScape/Attack Level Up! (Unlocks).mp3"
+    "preview": "Old School RuneScape/Attack Level Up! (Unlocks).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "be63ddba-757b-466f-9e5e-9af74a948dfe",
@@ -40540,7 +40560,9 @@
     ],
     "usesCustomBank": true,
     "file": "Old School RuneScape/Construction Level Up!.mmrs",
-    "preview": "Old School RuneScape/Construction Level Up!.mp3"
+    "preview": "Old School RuneScape/Construction Level Up!.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ad5a1619-05b8-43c5-800a-fc5b8d3d0fc5",
@@ -40560,7 +40582,9 @@
     ],
     "usesCustomBank": true,
     "file": "Old School RuneScape/Construction Level Up! (Every 10th).mmrs",
-    "preview": "Old School RuneScape/Construction Level Up! (Every 10th).mp3"
+    "preview": "Old School RuneScape/Construction Level Up! (Every 10th).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c1b4b551-d616-418f-8d71-eef59a03c27e",
@@ -40580,7 +40604,9 @@
     ],
     "usesCustomBank": true,
     "file": "Old School RuneScape/Cooking Level Up!.mmrs",
-    "preview": "Old School RuneScape/Cooking Level Up!.mp3"
+    "preview": "Old School RuneScape/Cooking Level Up!.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "de5f9f84-b3ea-41ff-a6e6-fd52196ff98a",
@@ -40600,7 +40626,9 @@
     ],
     "usesCustomBank": true,
     "file": "Old School RuneScape/Cooking Level Up! (Unlocks).mmrs",
-    "preview": "Old School RuneScape/Cooking Level Up! (Unlocks).mp3"
+    "preview": "Old School RuneScape/Cooking Level Up! (Unlocks).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "15d4e952-a78b-4a7d-bfca-b7434e34da22",
@@ -40620,7 +40648,9 @@
     ],
     "usesCustomBank": true,
     "file": "Old School RuneScape/Crafting Level Up!.mmrs",
-    "preview": "Old School RuneScape/Crafting Level Up!.mp3"
+    "preview": "Old School RuneScape/Crafting Level Up!.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "85e1087f-2967-4e29-84d0-bd0f1438b65b",
@@ -40640,7 +40670,9 @@
     ],
     "usesCustomBank": true,
     "file": "Old School RuneScape/Crafting Level Up! (Unlocks).mmrs",
-    "preview": "Old School RuneScape/Crafting Level Up! (Unlocks).mp3"
+    "preview": "Old School RuneScape/Crafting Level Up! (Unlocks).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "5d075a6f-c784-454a-b82c-12aba16dae11",
@@ -40660,7 +40692,9 @@
     ],
     "usesCustomBank": true,
     "file": "Old School RuneScape/Defence Level Up!.mmrs",
-    "preview": "Old School RuneScape/Defence Level Up!.mp3"
+    "preview": "Old School RuneScape/Defence Level Up!.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "bad75d16-bf43-46a6-8919-597ba2f52e46",
@@ -40680,7 +40714,9 @@
     ],
     "usesCustomBank": true,
     "file": "Old School RuneScape/Defence Level Up! (Unlocks).mmrs",
-    "preview": "Old School RuneScape/Defence Level Up! (Unlocks).mp3"
+    "preview": "Old School RuneScape/Defence Level Up! (Unlocks).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "3d8d5d66-a7d7-4e4a-ab9a-7df31d2c931c",
@@ -40700,7 +40736,9 @@
     ],
     "usesCustomBank": true,
     "file": "Old School RuneScape/Farming Level Up!.mmrs",
-    "preview": "Old School RuneScape/Farming Level Up!.mp3"
+    "preview": "Old School RuneScape/Farming Level Up!.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "3bd24aba-450c-4ae0-8519-17542c58c48e",
@@ -40720,7 +40758,9 @@
     ],
     "usesCustomBank": true,
     "file": "Old School RuneScape/Farming Level Up! (Unlocks).mmrs",
-    "preview": "Old School RuneScape/Farming Level Up! (Unlocks).mp3"
+    "preview": "Old School RuneScape/Farming Level Up! (Unlocks).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "69e76659-8ad8-4647-bfb8-58458d7b325c",
@@ -40740,7 +40780,9 @@
     ],
     "usesCustomBank": true,
     "file": "Old School RuneScape/Firemaking Level Up!.mmrs",
-    "preview": "Old School RuneScape/Firemaking Level Up!.mp3"
+    "preview": "Old School RuneScape/Firemaking Level Up!.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "398a837a-a4ed-4d90-bd5b-f3cc88a755f8",
@@ -40760,7 +40802,9 @@
     ],
     "usesCustomBank": true,
     "file": "Old School RuneScape/Firemaking Level Up! (Unlocks).mmrs",
-    "preview": "Old School RuneScape/Firemaking Level Up! (Unlocks).mp3"
+    "preview": "Old School RuneScape/Firemaking Level Up! (Unlocks).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "21a99b47-3e36-48b6-b8dc-721baea24205",
@@ -40780,7 +40824,9 @@
     ],
     "usesCustomBank": true,
     "file": "Old School RuneScape/Fishing Level Up!.mmrs",
-    "preview": "Old School RuneScape/Fishing Level Up!.mp3"
+    "preview": "Old School RuneScape/Fishing Level Up!.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4983e394-fd99-4051-8d63-1cb7140dfd4e",
@@ -40800,7 +40846,9 @@
     ],
     "usesCustomBank": true,
     "file": "Old School RuneScape/Fishing Level Up! (Unlocks).mmrs",
-    "preview": "Old School RuneScape/Fishing Level Up! (Unlocks).mp3"
+    "preview": "Old School RuneScape/Fishing Level Up! (Unlocks).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "3269d330-4ba8-4a2e-bd00-2c89fa7556d1",
@@ -40820,7 +40868,9 @@
     ],
     "usesCustomBank": true,
     "file": "Old School RuneScape/Fletching Level Up!.mmrs",
-    "preview": "Old School RuneScape/Fletching Level Up!.mp3"
+    "preview": "Old School RuneScape/Fletching Level Up!.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1ba5ae7c-2b43-49df-a546-002cbcab8875",
@@ -40840,7 +40890,9 @@
     ],
     "usesCustomBank": true,
     "file": "Old School RuneScape/Fletching Level Up! (Unlocks).mmrs",
-    "preview": "Old School RuneScape/Fletching Level Up! (Unlocks).mp3"
+    "preview": "Old School RuneScape/Fletching Level Up! (Unlocks).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "3f49bb2f-0e01-40ae-a74d-46e4f63cc5a9",
@@ -40860,7 +40912,9 @@
     ],
     "usesCustomBank": true,
     "file": "Old School RuneScape/Herblore Level Up!.mmrs",
-    "preview": "Old School RuneScape/Herblore Level Up!.mp3"
+    "preview": "Old School RuneScape/Herblore Level Up!.mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "82fdf6cf-9cf9-42ea-b603-10b55271c5b8",
@@ -40880,7 +40934,9 @@
     ],
     "usesCustomBank": true,
     "file": "Old School RuneScape/Herblore Level Up! (Unlocks).mmrs",
-    "preview": "Old School RuneScape/Herblore Level Up! (Unlocks).mp3"
+    "preview": "Old School RuneScape/Herblore Level Up! (Unlocks).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "169d0847-428c-499a-8363-c585ddec29bd",
@@ -40900,7 +40956,9 @@
     ],
     "usesCustomBank": true,
     "file": "Old School RuneScape/Hitpoints Level Up! (2-49).mmrs",
-    "preview": "Old School RuneScape/Hitpoints Level Up! (2-49).mp3"
+    "preview": "Old School RuneScape/Hitpoints Level Up! (2-49).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "347a2781-fc55-454b-b520-fd622a073753",
@@ -40920,7 +40978,9 @@
     ],
     "usesCustomBank": true,
     "file": "Old School RuneScape/Hitpoints Level Up! (50-99).mmrs",
-    "preview": "Old School RuneScape/Hitpoints Level Up! (50-99).mp3"
+    "preview": "Old School RuneScape/Hitpoints Level Up! (50-99).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "417ac890-2241-404e-9e86-0e3a8ced4413",
@@ -40940,7 +41000,9 @@
     ],
     "usesCustomBank": true,
     "file": "Old School RuneScape/Hunter Level Up! (Even).mmrs",
-    "preview": "Old School RuneScape/Hunter Level Up! (Even).mp3"
+    "preview": "Old School RuneScape/Hunter Level Up! (Even).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "f867de37-6ae6-4f33-97e0-2eb551651464",
@@ -40960,7 +41022,9 @@
     ],
     "usesCustomBank": true,
     "file": "Old School RuneScape/Hunter Level Up! (Odd).mmrs",
-    "preview": "Old School RuneScape/Hunter Level Up! (Odd).mp3"
+    "preview": "Old School RuneScape/Hunter Level Up! (Odd).mp3",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
