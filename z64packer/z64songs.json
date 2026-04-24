@@ -40682,5 +40682,25 @@
     "file": "Old School RuneScape/Defence Level Up! (Unlocks).mmrs",
     "preview": "Old School RuneScape/Defence Level Up! (Unlocks).mp3"
   },
+  {
+    "uuid": "3d8d5d66-a7d7-4e4a-ab9a-7df31d2c931c",
+    "creationDate": "2026-04-24T03:43:28.189Z",
+    "game": "Old School RuneScape",
+    "song": "Farming Level Up!",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Farming Level Up!.mmrs",
+    "preview": "Old School RuneScape/Farming Level Up!.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
