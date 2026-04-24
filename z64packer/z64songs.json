@@ -40482,5 +40482,25 @@
     "file": "Old School RuneScape/Agility Level Up!.mmrs",
     "preview": "Old School RuneScape/Agility Level Up!.mp3"
   },
+  {
+    "uuid": "a7a40ff3-e83e-4f3a-ada4-bdcbf9005c24",
+    "creationDate": "2026-04-24T03:29:38.342Z",
+    "game": "Old School RuneScape",
+    "song": "Attack Level Up!",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Attack Level Up!.mmrs",
+    "preview": "Old School RuneScape/Attack Level Up!.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
