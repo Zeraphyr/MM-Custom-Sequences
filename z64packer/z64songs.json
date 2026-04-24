@@ -41114,5 +41114,26 @@
     "file": "Star Fox Adventures/Thorntail Hollow (Day).mmrs",
     "preview": "Star Fox Adventures/Thorntail Hollow (Day).mp3"
   },
+  {
+    "uuid": "72dbb5fa-534c-42cb-8f76-0be9bb5bd5e0",
+    "creationDate": "2026-04-24T04:28:24.860Z",
+    "game": "Super Godzilla",
+    "song": "Mechagodzilla Battle",
+    "composers": [
+      "Michiharu Hasuya",
+      "Junko Yokoyama"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Godzilla/Mechagodzilla Battle.mmrs",
+    "preview": "Super Godzilla/Mechagodzilla Battle.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
