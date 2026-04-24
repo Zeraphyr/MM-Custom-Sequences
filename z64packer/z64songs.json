@@ -40942,5 +40942,25 @@
     "file": "Old School RuneScape/Hunter Level Up! (Even).mmrs",
     "preview": "Old School RuneScape/Hunter Level Up! (Even).mp3"
   },
+  {
+    "uuid": "f867de37-6ae6-4f33-97e0-2eb551651464",
+    "creationDate": "2026-04-24T03:56:52.026Z",
+    "game": "Old School RuneScape",
+    "song": "Hunter Level Up! (Odd)",
+    "composers": [
+      "Unknown"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Hunter Level Up! (Odd).mmrs",
+    "preview": "Old School RuneScape/Hunter Level Up! (Odd).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
