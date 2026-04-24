@@ -40902,5 +40902,25 @@
     "file": "Old School RuneScape/Hitpoints Level Up! (2-49).mmrs",
     "preview": "Old School RuneScape/Hitpoints Level Up! (2-49).mp3"
   },
+  {
+    "uuid": "347a2781-fc55-454b-b520-fd622a073753",
+    "creationDate": "2026-04-24T03:52:54.262Z",
+    "game": "Old School RuneScape",
+    "song": "Hitpoints Level Up! (50-99)",
+    "composers": [
+      "Ian Taylor"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "file": "Old School RuneScape/Hitpoints Level Up! (50-99).mmrs",
+    "preview": "Old School RuneScape/Hitpoints Level Up! (50-99).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
