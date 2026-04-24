@@ -41177,5 +41177,29 @@
     "file": "Super Mario RPG Legend of the Seven Stars/Fight Against Monsters (Variant B).mmrs",
     "preview": "Super Mario RPG Legend of the Seven Stars/Fight Against Monsters (Variant B).mp3"
   },
+  {
+    "uuid": "91f88870-4fa8-4ee8-9614-c6d786b7a502",
+    "creationDate": "2026-04-24T04:35:58.619Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Hello, Happy Kingdom",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Crimsonae"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Mario RPG Legend of the Seven Stars/Hello, Happy Kingdom.mmrs",
+    "preview": "Super Mario RPG Legend of the Seven Stars/Hello, Happy Kingdom.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
