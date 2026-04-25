@@ -41739,5 +41739,25 @@
     "file": "The Legend of Zelda The Wind Waker/Tower of the Gods Appears! (Triforce).mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Tower of the Gods Appears! (Triforce).ogg"
   },
+  {
+    "uuid": "ebce2203-7985-4a9d-81af-47414b97ad62",
+    "creationDate": "2026-04-25T03:15:30.703Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Tower of the Gods Appears! (Tower Rising)",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "121",
+      "177"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda The Wind Waker/Tower of the Gods Appears! (Tower Rising).mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Tower of the Gods Appears! (Tower Rising).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
