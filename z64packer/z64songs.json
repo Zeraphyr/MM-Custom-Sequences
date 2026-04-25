@@ -41679,5 +41679,26 @@
     "file": "The Legend of Zelda The Wind Waker/Gohdan (OST Version).mmrs",
     "preview": "https://www.youtube.com/watch?v=ClkzVMeRis4"
   },
+  {
+    "uuid": "5588a0dc-0742-4904-a8df-977b5ddb80e4",
+    "creationDate": "2026-04-25T03:08:56.173Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Gohdan (In-Game Version)",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "11B",
+      "138"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda The Wind Waker/Gohdan (In-Game Version).mmrs",
+    "preview": "https://youtu.be/ClkzVMeRis4?t=124"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
