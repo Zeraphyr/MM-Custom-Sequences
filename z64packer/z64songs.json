@@ -41616,5 +41616,26 @@
     "file": "Johann Sebastian Bach/Toccata & Fugue in Dm (Fanfare).mmrs",
     "preview": "Johann Sebastian Bach/Toccata & Fugue in Dm (Fanfare).ogg"
   },
+  {
+    "uuid": "377389e2-b431-44f3-9b2c-4c256e322fd3",
+    "creationDate": "2026-04-25T03:00:37.424Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "KaBOOOOM",
+    "composers": [
+      "Nate Bihldorff"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda The Wind Waker/KaBOOOOM.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/KaBOOOOM.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
