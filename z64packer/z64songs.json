@@ -41440,5 +41440,26 @@
     "file": "The Legend of Zelda Ocarina of Time/Game Over (with Ganondorf's Laugh).mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Game Over (with Ganondorf's Laugh).ogg"
   },
+  {
+    "uuid": "ee243d9f-ee25-432b-8cd2-388111335d62",
+    "creationDate": "2026-04-25T02:38:30.931Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Ganondorf's Laugh",
+    "composers": [
+      "Takashi Nagasako"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda Ocarina of Time/Ganondorf's Laugh.mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Ganondorf's Laugh.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
