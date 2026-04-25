@@ -41348,5 +41348,477 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "a08ddf15-4c79-4956-b639-6910824a6af0",
+    "creationDate": "2026-04-25T02:27:47.678Z",
+    "game": "Memes",
+    "song": "Bird Up!",
+    "composers": [
+      "Eric André?"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Memes/Bird Up!.mmrs",
+    "preview": "Memes/Bird Up!.ogg"
+  },
+  {
+    "uuid": "72286fc3-a5e3-41c7-a209-1568b28864eb",
+    "creationDate": "2026-04-25T02:29:52.162Z",
+    "game": "Chex Quest",
+    "song": "Landing Zone",
+    "composers": [
+      "Andrew Benon"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Chex Quest/Landing Zone.mmrs",
+    "preview": "Chex Quest/Landing Zone.ogg"
+  },
+  {
+    "uuid": "1c3ddb34-088f-4e11-9757-c3fd2c8947e7",
+    "creationDate": "2026-04-25T02:34:46.273Z",
+    "game": "Donkey Kong 64",
+    "song": "Frantic Factory (with Windup Toy)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Ainurmusician64",
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Donkey Kong 64/Frantic Factory (with Windup Toy).mmrs",
+    "preview": "Donkey Kong 64/Frantic Factory (with Windup Toy).ogg"
+  },
+  {
+    "uuid": "e6c9bd83-f839-4ce4-aac4-c232c2a57664",
+    "creationDate": "2026-04-25T02:36:43.516Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Game Over (with Ganondorf's Laugh)",
+    "composers": [
+      "Koji Kondo",
+      "Takashi Nagasako"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda Ocarina of Time/Game Over (with Ganondorf's Laugh).mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Game Over (with Ganondorf's Laugh).ogg"
+  },
+  {
+    "uuid": "ee243d9f-ee25-432b-8cd2-388111335d62",
+    "creationDate": "2026-04-25T02:38:30.931Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Ganondorf's Laugh",
+    "composers": [
+      "Takashi Nagasako"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda Ocarina of Time/Ganondorf's Laugh.mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Ganondorf's Laugh.ogg"
+  },
+  {
+    "uuid": "97374d3f-f6c7-48e5-9639-67402a0a54c3",
+    "creationDate": "2026-04-25T02:39:46.478Z",
+    "game": "Genshin Impact",
+    "song": "Gallant Challenge",
+    "composers": [
+      "Yu-Peng Chen"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "Genshin Impact/Gallant Challenge.mmrs",
+    "preview": "Genshin Impact/Gallant Challenge.ogg"
+  },
+  {
+    "uuid": "00e4b8ff-27bb-44a3-a19e-dd6ee79c7a40",
+    "creationDate": "2026-04-25T02:43:41.778Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Time",
+    "song": "Temporal Tower",
+    "composers": [
+      "Arata liyoshi"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "file": "Pokémon Mystery Dungeon Explorers of Time/Temporal Tower.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Time/Temporal Tower.ogg"
+  },
+  {
+    "uuid": "cb144f09-cd1f-42b2-8228-0fc3a9df0794",
+    "creationDate": "2026-04-25T02:45:41.888Z",
+    "game": "Pokémon Mystery Dungeon: Red Rescue Team",
+    "song": "Main Menu",
+    "composers": [
+      "Arata liyoshi"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Pokémon Mystery Dungeon Red Rescue Team/Main Menu.mmrs",
+    "preview": "Pokémon Mystery Dungeon Red Rescue Team/Main Menu.ogg"
+  },
+  {
+    "uuid": "1cd6a032-a049-446e-bc58-c4643f50ffdf",
+    "creationDate": "2026-04-25T02:50:56.173Z",
+    "game": "Memes",
+    "song": "HAHAHAHA, RONALDINHO SOCCER!",
+    "composers": [
+      "The Eagle Group"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "121"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Memes/HAHAHAHA, RONALDINHO SOCCER!.mmrs",
+    "preview": "Memes/HAHAHAHA, RONALDINHO SOCCER!.ogg"
+  },
+  {
+    "uuid": "2ea2e435-ddd1-4ba6-816b-85fb69068472",
+    "creationDate": "2026-04-25T02:51:57.944Z",
+    "game": "The Simpsons: Hit & Run",
+    "song": "Homer's Day",
+    "composers": [
+      "Marc Baril",
+      "Jeff Tymoschuk"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Simpsons Hit & Run/Homer's Day.mmrs",
+    "preview": "The Simpsons Hit & Run/Homer's Day.ogg"
+  },
+  {
+    "uuid": "dd5c6b17-fdbd-465b-b3cd-cb034cf58588",
+    "creationDate": "2026-04-25T02:54:50.475Z",
+    "game": "Johann Sebastian Bach",
+    "song": "Toccata & Fugue in D Minor (BWV 565)",
+    "composers": [
+      "Johann Sebastian Bach"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Johann Sebastian Bach/Toccata & Fugue in D Minor (BWV 565).mmrs",
+    "preview": "https://www.youtube.com/watch?v=JZexw1sjOZY"
+  },
+  {
+    "uuid": "d328b3ed-1847-4d28-8c8b-68a8e98efb27",
+    "creationDate": "2026-04-25T02:57:13.630Z",
+    "game": "Johann Sebastian Bach",
+    "song": "Toccata & Fugue in Dm (Fanfare)",
+    "composers": [
+      "Johann Sebastian Bach"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "notes": "🧛",
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Johann Sebastian Bach/Toccata & Fugue in Dm (Fanfare).mmrs",
+    "preview": "Johann Sebastian Bach/Toccata & Fugue in Dm (Fanfare).ogg"
+  },
+  {
+    "uuid": "377389e2-b431-44f3-9b2c-4c256e322fd3",
+    "creationDate": "2026-04-25T03:00:37.424Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "KaBOOOOM",
+    "composers": [
+      "Nate Bihldorff"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda The Wind Waker/KaBOOOOM.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/KaBOOOOM.ogg"
+  },
+  {
+    "uuid": "55f52d58-8ce8-4366-b778-ac11d7220321",
+    "creationDate": "2026-04-25T03:01:39.200Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Splooosh",
+    "composers": [
+      "Nate Bihldorff"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda The Wind Waker/Splooosh.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Splooosh.ogg"
+  },
+  {
+    "uuid": "96257ce0-ddaf-4fbc-870c-d27c21b35b37",
+    "creationDate": "2026-04-25T03:06:26.331Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Gohdan (OST Version)",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "11B",
+      "138"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda The Wind Waker/Gohdan (OST Version).mmrs",
+    "preview": "https://www.youtube.com/watch?v=ClkzVMeRis4"
+  },
+  {
+    "uuid": "5588a0dc-0742-4904-a8df-977b5ddb80e4",
+    "creationDate": "2026-04-25T03:08:56.173Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Gohdan (In-Game Version)",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "11B",
+      "138"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda The Wind Waker/Gohdan (In-Game Version).mmrs",
+    "preview": "https://youtu.be/ClkzVMeRis4?t=124"
+  },
+  {
+    "uuid": "bd34864e-6020-467b-999d-2fb36397bb33",
+    "creationDate": "2026-04-25T03:11:39.648Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Tower of the Gods",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda The Wind Waker/Tower of the Gods.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Tower of the Gods.ogg"
+  },
+  {
+    "uuid": "2a1a75ec-b364-4f22-a8d4-c15c3b086ccd",
+    "creationDate": "2026-04-25T03:14:35.951Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Tower of the Gods Appears! (Triforce)",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "177"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda The Wind Waker/Tower of the Gods Appears! (Triforce).mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Tower of the Gods Appears! (Triforce).ogg"
+  },
+  {
+    "uuid": "ebce2203-7985-4a9d-81af-47414b97ad62",
+    "creationDate": "2026-04-25T03:15:30.703Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Tower of the Gods Appears! (Tower Rising)",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "121",
+      "177"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda The Wind Waker/Tower of the Gods Appears! (Tower Rising).mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Tower of the Gods Appears! (Tower Rising).ogg"
+  },
+  {
+    "uuid": "c235ffe2-9b55-4a52-ae1c-3094d78883cc",
+    "creationDate": "2026-04-25T03:16:41.838Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Tower of the Gods Appears! (Link SPLAT)",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "108",
+      "109",
+      "120"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda The Wind Waker/Tower of the Gods Appears! (Link SPLAT).mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Tower of the Gods Appears! (Link SPLAT).ogg"
+  },
+  {
+    "uuid": "2dcf4243-88ee-43d4-827c-2c48b695a38e",
+    "creationDate": "2026-04-25T03:17:45.670Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Tower of the Gods Appears! (Ending Long)",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "121"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda The Wind Waker/Tower of the Gods Appears! (Ending Long).mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Tower of the Gods Appears! (Ending Long).ogg"
+  },
+  {
+    "uuid": "4c49b8bd-adf7-41be-9f8d-88423dbffc19",
+    "creationDate": "2026-04-25T03:18:36.559Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Tower of the Gods Appears! (Ending Short)",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "121",
+      "177"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda The Wind Waker/Tower of the Gods Appears! (Ending Short).mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Tower of the Gods Appears! (Ending Short).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
