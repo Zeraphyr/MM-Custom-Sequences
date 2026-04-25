@@ -2664,11 +2664,6 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/16d4f2fb0bab503d96b78fcc0f8f822a.png"
   },
   {
-    "game": "Pokémon Mystery Dungeon",
-    "series": "Pokémon Series",
-    "logo": "https://cdn2.steamgriddb.com/logo_thumb/65fd95b22c5680766c110f8d1ab21a4b.png"
-  },
-  {
     "game": "Tetris",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/07b4498a303789d2829445c725dae35a.png"
   },
@@ -3543,22 +3538,31 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/6a3b6ffa5dbf8a5abcad2135e5bc77d9.png"
   },
   {
-    "game": "Pokémon Mystery Dungeon: Red Rescue Team"
+    "game": "Pokémon Mystery Dungeon: Red Rescue Team",
+    "series": "Pokémon Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/65fd95b22c5680766c110f8d1ab21a4b.png"
   },
   {
-    "game": "Genshin Impact"
+    "game": "Genshin Impact",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/944eefd22dfe99fe7631b8ecc732c7cf.png"
   },
   {
-    "game": "The Simpsons: Hit & Run"
+    "game": "The Simpsons: Hit & Run",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/1b12d60e85a7a2d7c03b9daad3d1959f.png"
   },
   {
-    "game": "Chex Quest"
+    "game": "Chex Quest",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/6f8caa0e6413027cb7a12f945151cb8d.png"
   },
   {
-    "game": "Pokémon Mystery Dungeon: Explorers of Time"
+    "game": "Pokémon Mystery Dungeon: Explorers of Time",
+    "series": "Pokémon Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ec26fc2eb2b75aece19c70392dc744c2.png"
   },
   {
-    "game": "Johann Sebastian Bach"
+    "game": "Johann Sebastian Bach",
+    "series": "Classical Compositions",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Johann_Sebastian_Bach.jpg/250px-Johann_Sebastian_Bach.jpg"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
