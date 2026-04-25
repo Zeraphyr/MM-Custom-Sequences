@@ -41529,5 +41529,26 @@
     "file": "Pokémon Mystery Dungeon Red Rescue Team/Main Menu.mmrs",
     "preview": "Pokémon Mystery Dungeon Red Rescue Team/Main Menu.ogg"
   },
+  {
+    "uuid": "1cd6a032-a049-446e-bc58-c4643f50ffdf",
+    "creationDate": "2026-04-25T02:50:56.173Z",
+    "game": "Memes",
+    "song": "HAHAHAHA, RONALDINHO SOCCER!",
+    "composers": [
+      "The Eagle Group"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "121"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Memes/HAHAHAHA, RONALDINHO SOCCER!.mmrs",
+    "preview": "Memes/HAHAHAHA, RONALDINHO SOCCER!.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
