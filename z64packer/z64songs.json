@@ -41700,5 +41700,25 @@
     "file": "The Legend of Zelda The Wind Waker/Gohdan (In-Game Version).mmrs",
     "preview": "https://youtu.be/ClkzVMeRis4?t=124"
   },
+  {
+    "uuid": "bd34864e-6020-467b-999d-2fb36397bb33",
+    "creationDate": "2026-04-25T03:11:39.648Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Tower of the Gods",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda The Wind Waker/Tower of the Gods.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Tower of the Gods.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
