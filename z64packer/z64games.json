@@ -3542,5 +3542,23 @@
     "series": "Doom Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/6a3b6ffa5dbf8a5abcad2135e5bc77d9.png"
   },
+  {
+    "game": "Pokémon Mystery Dungeon: Red Rescue Team"
+  },
+  {
+    "game": "Genshin Impact"
+  },
+  {
+    "game": "The Simpsons: Hit & Run"
+  },
+  {
+    "game": "Chex Quest"
+  },
+  {
+    "game": "Pokémon Mystery Dungeon: Explorers of Time"
+  },
+  {
+    "game": "Johann Sebastian Bach"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
