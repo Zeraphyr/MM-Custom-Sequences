@@ -41658,5 +41658,26 @@
     "file": "The Legend of Zelda The Wind Waker/Splooosh.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Splooosh.ogg"
   },
+  {
+    "uuid": "96257ce0-ddaf-4fbc-870c-d27c21b35b37",
+    "creationDate": "2026-04-25T03:06:26.331Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Gohdan (OST Version)",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "11B",
+      "138"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda The Wind Waker/Gohdan (OST Version).mmrs",
+    "preview": "https://www.youtube.com/watch?v=ClkzVMeRis4"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
