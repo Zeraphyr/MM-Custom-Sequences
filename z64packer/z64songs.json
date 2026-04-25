@@ -41348,5 +41348,26 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "a08ddf15-4c79-4956-b639-6910824a6af0",
+    "creationDate": "2026-04-25T02:27:47.678Z",
+    "game": "Memes",
+    "song": "Bird Up!",
+    "composers": [
+      "Eric André?"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Memes/Bird Up!.mmrs",
+    "preview": "Memes/Bird Up!.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
