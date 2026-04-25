@@ -41573,5 +41573,26 @@
     "file": "The Simpsons Hit & Run/Homer's Day.mmrs",
     "preview": "The Simpsons Hit & Run/Homer's Day.ogg"
   },
+  {
+    "uuid": "dd5c6b17-fdbd-465b-b3cd-cb034cf58588",
+    "creationDate": "2026-04-25T02:54:50.475Z",
+    "game": "Johann Sebastian Bach",
+    "song": "Toccata & Fugue in D Minor (BWV 565)",
+    "composers": [
+      "Johann Sebastian Bach"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Johann Sebastian Bach/Toccata & Fugue in D Minor (BWV 565).mmrs",
+    "preview": "https://www.youtube.com/watch?v=JZexw1sjOZY"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
