@@ -41800,5 +41800,25 @@
     "file": "The Legend of Zelda The Wind Waker/Tower of the Gods Appears! (Ending Long).mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Tower of the Gods Appears! (Ending Long).ogg"
   },
+  {
+    "uuid": "4c49b8bd-adf7-41be-9f8d-88423dbffc19",
+    "creationDate": "2026-04-25T03:18:36.559Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Tower of the Gods Appears! (Ending Short)",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "121",
+      "177"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda The Wind Waker/Tower of the Gods Appears! (Ending Short).mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Tower of the Gods Appears! (Ending Short).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
