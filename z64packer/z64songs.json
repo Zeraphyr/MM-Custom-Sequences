@@ -41637,5 +41637,26 @@
     "file": "The Legend of Zelda The Wind Waker/KaBOOOOM.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/KaBOOOOM.ogg"
   },
+  {
+    "uuid": "55f52d58-8ce8-4366-b778-ac11d7220321",
+    "creationDate": "2026-04-25T03:01:39.200Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Splooosh",
+    "composers": [
+      "Nate Bihldorff"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda The Wind Waker/Splooosh.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Splooosh.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
