@@ -41369,5 +41369,29 @@
     "file": "Memes/Bird Up!.mmrs",
     "preview": "Memes/Bird Up!.ogg"
   },
+  {
+    "uuid": "72286fc3-a5e3-41c7-a209-1568b28864eb",
+    "creationDate": "2026-04-25T02:29:52.162Z",
+    "game": "Chex Quest",
+    "song": "Landing Zone",
+    "composers": [
+      "Andrew Benon"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Chex Quest/Landing Zone.mmrs",
+    "preview": "Chex Quest/Landing Zone.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
