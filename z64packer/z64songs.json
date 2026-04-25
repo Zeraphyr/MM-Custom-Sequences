@@ -41419,5 +41419,26 @@
     "file": "Donkey Kong 64/Frantic Factory (with Windup Toy).mmrs",
     "preview": "Donkey Kong 64/Frantic Factory (with Windup Toy).ogg"
   },
+  {
+    "uuid": "e6c9bd83-f839-4ce4-aac4-c232c2a57664",
+    "creationDate": "2026-04-25T02:36:43.516Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Game Over (with Ganondorf's Laugh)",
+    "composers": [
+      "Koji Kondo",
+      "Takashi Nagasako"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda Ocarina of Time/Game Over (with Ganondorf's Laugh).mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Game Over (with Ganondorf's Laugh).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
