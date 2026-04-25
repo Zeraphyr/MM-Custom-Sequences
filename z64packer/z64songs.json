@@ -41550,5 +41550,28 @@
     "file": "Memes/HAHAHAHA, RONALDINHO SOCCER!.mmrs",
     "preview": "Memes/HAHAHAHA, RONALDINHO SOCCER!.ogg"
   },
+  {
+    "uuid": "2ea2e435-ddd1-4ba6-816b-85fb69068472",
+    "creationDate": "2026-04-25T02:51:57.944Z",
+    "game": "The Simpsons: Hit & Run",
+    "song": "Homer's Day",
+    "composers": [
+      "Marc Baril",
+      "Jeff Tymoschuk"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Simpsons Hit & Run/Homer's Day.mmrs",
+    "preview": "The Simpsons Hit & Run/Homer's Day.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
