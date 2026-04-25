@@ -41393,5 +41393,31 @@
     "file": "Chex Quest/Landing Zone.mmrs",
     "preview": "Chex Quest/Landing Zone.ogg"
   },
+  {
+    "uuid": "1c3ddb34-088f-4e11-9757-c3fd2c8947e7",
+    "creationDate": "2026-04-25T02:34:46.273Z",
+    "game": "Donkey Kong 64",
+    "song": "Frantic Factory (with Windup Toy)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Ainurmusician64",
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Donkey Kong 64/Frantic Factory (with Windup Toy).mmrs",
+    "preview": "Donkey Kong 64/Frantic Factory (with Windup Toy).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
