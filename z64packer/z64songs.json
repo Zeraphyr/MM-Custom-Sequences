@@ -41781,5 +41781,24 @@
     "file": "The Legend of Zelda The Wind Waker/Tower of the Gods Appears! (Link SPLAT).mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Tower of the Gods Appears! (Link SPLAT).ogg"
   },
+  {
+    "uuid": "2dcf4243-88ee-43d4-827c-2c48b695a38e",
+    "creationDate": "2026-04-25T03:17:45.670Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Tower of the Gods Appears! (Ending Long)",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "121"
+    ],
+    "usesCustomBank": true,
+    "file": "The Legend of Zelda The Wind Waker/Tower of the Gods Appears! (Ending Long).mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Tower of the Gods Appears! (Ending Long).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
