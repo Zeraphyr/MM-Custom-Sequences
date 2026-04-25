@@ -41484,5 +41484,29 @@
     "file": "Genshin Impact/Gallant Challenge.mmrs",
     "preview": "Genshin Impact/Gallant Challenge.ogg"
   },
+  {
+    "uuid": "00e4b8ff-27bb-44a3-a19e-dd6ee79c7a40",
+    "creationDate": "2026-04-25T02:43:41.778Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Time",
+    "song": "Temporal Tower",
+    "composers": [
+      "Arata liyoshi"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "file": "Pokémon Mystery Dungeon Explorers of Time/Temporal Tower.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Time/Temporal Tower.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
