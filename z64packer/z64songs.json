@@ -41594,5 +41594,27 @@
     "file": "Johann Sebastian Bach/Toccata & Fugue in D Minor (BWV 565).mmrs",
     "preview": "https://www.youtube.com/watch?v=JZexw1sjOZY"
   },
+  {
+    "uuid": "d328b3ed-1847-4d28-8c8b-68a8e98efb27",
+    "creationDate": "2026-04-25T02:57:13.630Z",
+    "game": "Johann Sebastian Bach",
+    "song": "Toccata & Fugue in Dm (Fanfare)",
+    "composers": [
+      "Johann Sebastian Bach"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "notes": "🧛",
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Johann Sebastian Bach/Toccata & Fugue in Dm (Fanfare).mmrs",
+    "preview": "Johann Sebastian Bach/Toccata & Fugue in Dm (Fanfare).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
