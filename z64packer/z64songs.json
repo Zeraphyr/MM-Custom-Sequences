@@ -41508,5 +41508,26 @@
     "file": "Pokémon Mystery Dungeon Explorers of Time/Temporal Tower.mmrs",
     "preview": "Pokémon Mystery Dungeon Explorers of Time/Temporal Tower.ogg"
   },
+  {
+    "uuid": "cb144f09-cd1f-42b2-8228-0fc3a9df0794",
+    "creationDate": "2026-04-25T02:45:41.888Z",
+    "game": "Pokémon Mystery Dungeon: Red Rescue Team",
+    "song": "Main Menu",
+    "composers": [
+      "Arata liyoshi"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Pokémon Mystery Dungeon Red Rescue Team/Main Menu.mmrs",
+    "preview": "Pokémon Mystery Dungeon Red Rescue Team/Main Menu.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
