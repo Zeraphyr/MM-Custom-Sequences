@@ -3565,7 +3565,9 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Johann_Sebastian_Bach.jpg/250px-Johann_Sebastian_Bach.jpg"
   },
   {
-    "game": "Croc: Legend of the Gobbos"
+    "game": "Croc: Legend of the Gobbos",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/48fb20ee25f8ec60949e66e5ebb46600.png",
+    "short_name": "Croc"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
