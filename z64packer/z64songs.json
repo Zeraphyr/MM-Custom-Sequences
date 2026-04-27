@@ -42273,5 +42273,26 @@
     "preview": "https://youtu.be/fvgbaG4BxYM?t=427",
     "usesFormmask": false
   },
+  {
+    "uuid": "0c00f3b0-dd0e-4264-95ea-9014d3c84141",
+    "creationDate": "2026-04-27T23:29:17.763Z",
+    "game": "Croc: Legend of the Gobbos",
+    "song": "Title Theme",
+    "composers": [
+      "Justin Scharvona"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4"
+    ],
+    "file": "Croc Legend of the Gobbos/Title Theme.mmrs",
+    "preview": "Croc Legend of the Gobbos/Title Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
