@@ -41850,5 +41850,313 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "022c5415-04f7-4023-8baa-f640b2091ceb",
+    "creationDate": "2026-04-27T22:35:14.348Z",
+    "game": "Final Fantasy VII",
+    "song": "Bombing Mission",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "Final Fantasy VII/Bombing Mission.mmrs",
+    "preview": "Final Fantasy VII/Bombing Mission.ogg"
+  },
+  {
+    "uuid": "ac7cb44e-0fad-4dda-87ab-516f77ce239f",
+    "creationDate": "2026-04-27T22:37:00.520Z",
+    "game": "Final Fantasy VII",
+    "song": "Fight On!",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Final Fantasy VII/Fight On!.mmrs",
+    "preview": "Final Fantasy VII/Fight On!.mp3"
+  },
+  {
+    "uuid": "0ba0de55-42ef-487a-a70e-ea55c97ae3ee",
+    "creationDate": "2026-04-27T22:38:48.568Z",
+    "game": "Final Fantasy VII",
+    "song": "Mako Reactor",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "file": "Final Fantasy VII/Mako Reactor.mmrs",
+    "preview": "Final Fantasy VII/Mako Reactor.ogg"
+  },
+  {
+    "uuid": "bb7a1a59-2054-483c-9ca5-acc312df20ea",
+    "creationDate": "2026-04-27T22:39:47.554Z",
+    "game": "Final Fantasy VII",
+    "song": "One-Winged Angel (Variant B)",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Final Fantasy VII/One-Winged Angel (Variant B).mmrs",
+    "preview": "Final Fantasy VII/One-Winged Angel (Variant B).ogg"
+  },
+  {
+    "uuid": "8af40d01-b107-44f1-a020-d1cda4a7d5f8",
+    "creationDate": "2026-04-27T22:43:33.103Z",
+    "game": "Final Fantasy VI",
+    "song": "Kefka's Theme",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Final Fantasy VI/Kefka's Theme.mmrs",
+    "preview": "Final Fantasy VI/Kefka's Theme.ogg"
+  },
+  {
+    "uuid": "5b6bb1f5-787f-4b24-8f28-6b3356c16a0b",
+    "creationDate": "2026-04-27T22:44:22.418Z",
+    "game": "Final Fantasy VI",
+    "song": "Kefka's Tower",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Final Fantasy VI/Kefka's Tower.mmrs",
+    "preview": "Final Fantasy VI/Kefka's Tower.ogg"
+  },
+  {
+    "uuid": "d2c70932-a84f-4a71-b516-30de14d7de0e",
+    "creationDate": "2026-04-27T22:45:25.416Z",
+    "game": "Final Fantasy VI",
+    "song": "The Decisive Battle!",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "Final Fantasy VI/The Decisive Battle!.mmrs",
+    "preview": "Final Fantasy VI/The Decisive Battle!.ogg"
+  },
+  {
+    "uuid": "9ec52075-bca5-4ba3-ba47-2a7bfaa64584",
+    "creationDate": "2026-04-27T22:50:15.248Z",
+    "game": "Final Fantasy VI",
+    "song": "Kefka's Laugh",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10",
+      "121"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Final Fantasy VI/Kefka's Laugh.mmrs",
+    "preview": "Final Fantasy VI/Kefka's Laugh.mp3"
+  },
+  {
+    "uuid": "7eb2a93c-dadc-4630-b18e-95b6fbac0b31",
+    "creationDate": "2026-04-27T22:53:32.703Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Game Over (with Kefka's Laugh 1)",
+    "composers": [
+      "Koji Kondo",
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda Ocarina of Time/Game Over (with Kefka's Laugh 1).mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Game Over (with Kefka's Laugh 1).mp3"
+  },
+  {
+    "uuid": "67aad49c-df34-4938-8330-9ac49ef5bddc",
+    "creationDate": "2026-04-27T22:54:28.034Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Game Over (with Kefka's Laugh 2)",
+    "composers": [
+      "Koji Kondo",
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda Ocarina of Time/Game Over (with Kefka's Laugh 2).mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Game Over (with Kefka's Laugh 2).mp3"
+  },
+  {
+    "uuid": "c36d1b78-5fef-47e4-8d56-5ab9f2f45ad5",
+    "creationDate": "2026-04-27T22:55:14.028Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Game Over (with Kefka's Laugh 3)",
+    "composers": [
+      "Koji Kondo",
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda Ocarina of Time/Game Over (with Kefka's Laugh 3).mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Game Over (with Kefka's Laugh 3).mp3"
+  },
+  {
+    "uuid": "52cc30af-564a-425c-a42b-f38e3a75ee68",
+    "creationDate": "2026-04-27T22:57:38.075Z",
+    "game": "Final Fantasy VI",
+    "song": "Dancing Mad",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "7",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Final Fantasy VI/Dancing Mad.mmrs",
+    "preview": "Final Fantasy VI/Dancing Mad.ogg"
+  },
+  {
+    "uuid": "51e8b66b-f8b2-4b0e-a1fb-e54b8f9ed60d",
+    "creationDate": "2026-04-27T23:00:18.072Z",
+    "game": "Final Fantasy VI",
+    "song": "Dancing Mad (Movement 4 with Ganondorf's Laugh)",
+    "composers": [
+      "Nobuo Uematsu",
+      "Takashi Nagasako"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Final Fantasy VI/Dancing Mad (Movement 4 with Ganondorf's Laugh).mmrs",
+    "preview": "Final Fantasy VI/Dancing Mad (Movement 4 with Ganondorf's Laugh).ogg"
+  },
+  {
+    "uuid": "02efb4c8-e6fe-4297-a461-25677cdaa80c",
+    "creationDate": "2026-04-27T23:01:50.500Z",
+    "game": "Final Fantasy VI",
+    "song": "Dancing Mad (Fanfare)",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10",
+      "121"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Final Fantasy VI/Dancing Mad (Fanfare).mmrs",
+    "preview": "Final Fantasy VI/Dancing Mad (Fanfare).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
