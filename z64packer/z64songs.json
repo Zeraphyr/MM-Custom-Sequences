@@ -42027,5 +42027,26 @@
     "file": "Final Fantasy VI/Kefka's Laugh.mmrs",
     "preview": "Final Fantasy VI/Kefka's Laugh.mp3"
   },
+  {
+    "uuid": "7eb2a93c-dadc-4630-b18e-95b6fbac0b31",
+    "creationDate": "2026-04-27T22:53:32.703Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Game Over (with Kefka's Laugh 1)",
+    "composers": [
+      "Koji Kondo",
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "The Legend of Zelda Ocarina of Time/Game Over (with Kefka's Laugh 1).mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Game Over (with Kefka's Laugh 1).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
