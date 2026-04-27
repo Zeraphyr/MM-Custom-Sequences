@@ -42190,10 +42190,11 @@
     ],
     "type": "bgm",
     "categories": [
-      "8",
-      "9",
-      "10",
-      "121"
+      "0",
+      "1",
+      "4",
+      "5",
+      "7"
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
@@ -42214,10 +42215,7 @@
     ],
     "type": "bgm",
     "categories": [
-      "8",
-      "9",
-      "10",
-      "121"
+      "4"
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
@@ -42238,10 +42236,9 @@
     ],
     "type": "bgm",
     "categories": [
-      "8",
-      "9",
-      "10",
-      "121"
+      "0",
+      "1",
+      "6"
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
@@ -42262,10 +42259,7 @@
     ],
     "type": "bgm",
     "categories": [
-      "8",
-      "9",
-      "10",
-      "121"
+      "157"
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
@@ -42292,7 +42286,10 @@
       "4"
     ],
     "file": "Croc Legend of the Gobbos/Title Theme.mmrs",
-    "preview": "Croc Legend of the Gobbos/Title Theme.ogg"
+    "preview": "Croc Legend of the Gobbos/Title Theme.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "80ac1efe-1fc8-4704-84db-d9569a8d6135",
@@ -42312,7 +42309,10 @@
       "7"
     ],
     "file": "Fire Emblem The Blazing Blade/Together, We Ride!.mmrs",
-    "preview": "Fire Emblem The Blazing Blade/Together, We Ride!.ogg"
+    "preview": "Fire Emblem The Blazing Blade/Together, We Ride!.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "831afd70-f8c9-4da9-8316-b45bfdf50cab",
@@ -42332,7 +42332,10 @@
       "3"
     ],
     "file": "Paper Mario/Goomba Village.mmrs",
-    "preview": "Paper Mario/Goomba Village.ogg"
+    "preview": "Paper Mario/Goomba Village.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c698de79-9f2c-4953-963f-5c62ce438cc3",
@@ -42354,7 +42357,10 @@
       "5"
     ],
     "file": "Paper Mario/Koopa Bros. Keep Cool.mmrs",
-    "preview": "Paper Mario/Koopa Bros. Keep Cool.ogg"
+    "preview": "Paper Mario/Koopa Bros. Keep Cool.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "f1b06a0e-1eca-45f1-81d3-51775135e40d",
@@ -42376,7 +42382,10 @@
       "4"
     ],
     "file": "The Legend of Zelda Four Swords Adventures/Lake Hylia.mmrs",
-    "preview": "The Legend of Zelda Four Swords Adventures/Lake Hylia.ogg"
+    "preview": "The Legend of Zelda Four Swords Adventures/Lake Hylia.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
