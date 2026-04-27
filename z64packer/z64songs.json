@@ -41896,5 +41896,26 @@
     "file": "Final Fantasy VII/Fight On!.mmrs",
     "preview": "Final Fantasy VII/Fight On!.mp3"
   },
+  {
+    "uuid": "0ba0de55-42ef-487a-a70e-ea55c97ae3ee",
+    "creationDate": "2026-04-27T22:38:48.568Z",
+    "game": "Final Fantasy VII",
+    "song": "Mako Reactor",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "file": "Final Fantasy VII/Mako Reactor.mmrs",
+    "preview": "Final Fantasy VII/Mako Reactor.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
