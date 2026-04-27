@@ -41917,5 +41917,26 @@
     "file": "Final Fantasy VII/Mako Reactor.mmrs",
     "preview": "Final Fantasy VII/Mako Reactor.ogg"
   },
+  {
+    "uuid": "bb7a1a59-2054-483c-9ca5-acc312df20ea",
+    "creationDate": "2026-04-27T22:39:47.554Z",
+    "game": "Final Fantasy VII",
+    "song": "One-Winged Angel (Variant B)",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Final Fantasy VII/One-Winged Angel (Variant B).mmrs",
+    "preview": "Final Fantasy VII/One-Winged Angel (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
