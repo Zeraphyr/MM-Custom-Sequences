@@ -4917,31 +4917,6 @@
     "preview": "https://www.youtube.com/watch?v=aWLO9twy7Lg"
   },
   {
-    "uuid": "32ac9b94-d2b7-4e09-8a86-e3c63d537750",
-    "creationDate": "2026-03-13T04:03:58.630Z",
-    "game": "Pokémon Mystery Dungeon",
-    "song": "Sky Tower",
-    "composers": [
-      "Arata Iiyoshi",
-      "Keisuke Ito",
-      "Hideki Sakamoto"
-    ],
-    "converters": [
-      "Fish"
-    ],
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "2"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "file": "Pokémon Mystery Dungeon/Sky Tower.mmrs",
-    "preview": "https://www.youtube.com/watch?v=1DbvEuMzOGI"
-  },
-  {
     "uuid": "3a9c0d53-8a80-44c8-8ee1-0c78549794f4",
     "creationDate": "2026-03-13T04:05:44.092Z",
     "game": "Paper Mario: The Thousand-Year Door",
@@ -41870,7 +41845,9 @@
     ],
     "usesCustomBank": true,
     "file": "Final Fantasy VII/Bombing Mission.mmrs",
-    "preview": "Final Fantasy VII/Bombing Mission.ogg"
+    "preview": "Final Fantasy VII/Bombing Mission.ogg",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ac7cb44e-0fad-4dda-87ab-516f77ce239f",
@@ -41894,7 +41871,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "file": "Final Fantasy VII/Fight On!.mmrs",
-    "preview": "Final Fantasy VII/Fight On!.mp3"
+    "preview": "Final Fantasy VII/Fight On!.mp3",
+    "usesFormmask": false
   },
   {
     "uuid": "0ba0de55-42ef-487a-a70e-ea55c97ae3ee",
@@ -41915,7 +41893,9 @@
     ],
     "usesCustomBank": true,
     "file": "Final Fantasy VII/Mako Reactor.mmrs",
-    "preview": "Final Fantasy VII/Mako Reactor.ogg"
+    "preview": "Final Fantasy VII/Mako Reactor.ogg",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "bb7a1a59-2054-483c-9ca5-acc312df20ea",
@@ -41936,7 +41916,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "file": "Final Fantasy VII/One-Winged Angel (Variant B).mmrs",
-    "preview": "Final Fantasy VII/One-Winged Angel (Variant B).ogg"
+    "preview": "Final Fantasy VII/One-Winged Angel (Variant B).ogg",
+    "usesFormmask": false
   },
   {
     "uuid": "8af40d01-b107-44f1-a020-d1cda4a7d5f8",
@@ -41958,7 +41939,9 @@
     ],
     "usesCustomBank": true,
     "file": "Final Fantasy VI/Kefka's Theme.mmrs",
-    "preview": "Final Fantasy VI/Kefka's Theme.ogg"
+    "preview": "Final Fantasy VI/Kefka's Theme.ogg",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "5b6bb1f5-787f-4b24-8f28-6b3356c16a0b",
@@ -41981,7 +41964,9 @@
     ],
     "usesCustomBank": true,
     "file": "Final Fantasy VI/Kefka's Tower.mmrs",
-    "preview": "Final Fantasy VI/Kefka's Tower.ogg"
+    "preview": "Final Fantasy VI/Kefka's Tower.ogg",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d2c70932-a84f-4a71-b516-30de14d7de0e",
@@ -42002,7 +41987,9 @@
     ],
     "usesCustomBank": true,
     "file": "Final Fantasy VI/The Decisive Battle!.mmrs",
-    "preview": "Final Fantasy VI/The Decisive Battle!.ogg"
+    "preview": "Final Fantasy VI/The Decisive Battle!.ogg",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "9ec52075-bca5-4ba3-ba47-2a7bfaa64584",
@@ -42025,7 +42012,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "file": "Final Fantasy VI/Kefka's Laugh.mmrs",
-    "preview": "Final Fantasy VI/Kefka's Laugh.mp3"
+    "preview": "Final Fantasy VI/Kefka's Laugh.mp3",
+    "usesFormmask": false
   },
   {
     "uuid": "7eb2a93c-dadc-4630-b18e-95b6fbac0b31",
@@ -42046,7 +42034,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "file": "The Legend of Zelda Ocarina of Time/Game Over (with Kefka's Laugh 1).mmrs",
-    "preview": "The Legend of Zelda Ocarina of Time/Game Over (with Kefka's Laugh 1).mp3"
+    "preview": "The Legend of Zelda Ocarina of Time/Game Over (with Kefka's Laugh 1).mp3",
+    "usesFormmask": false
   },
   {
     "uuid": "67aad49c-df34-4938-8330-9ac49ef5bddc",
@@ -42067,7 +42056,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "file": "The Legend of Zelda Ocarina of Time/Game Over (with Kefka's Laugh 2).mmrs",
-    "preview": "The Legend of Zelda Ocarina of Time/Game Over (with Kefka's Laugh 2).mp3"
+    "preview": "The Legend of Zelda Ocarina of Time/Game Over (with Kefka's Laugh 2).mp3",
+    "usesFormmask": false
   },
   {
     "uuid": "c36d1b78-5fef-47e4-8d56-5ab9f2f45ad5",
@@ -42088,7 +42078,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "file": "The Legend of Zelda Ocarina of Time/Game Over (with Kefka's Laugh 3).mmrs",
-    "preview": "The Legend of Zelda Ocarina of Time/Game Over (with Kefka's Laugh 3).mp3"
+    "preview": "The Legend of Zelda Ocarina of Time/Game Over (with Kefka's Laugh 3).mp3",
+    "usesFormmask": false
   },
   {
     "uuid": "52cc30af-564a-425c-a42b-f38e3a75ee68",
@@ -42111,7 +42102,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "file": "Final Fantasy VI/Dancing Mad.mmrs",
-    "preview": "Final Fantasy VI/Dancing Mad.ogg"
+    "preview": "Final Fantasy VI/Dancing Mad.ogg",
+    "usesFormmask": false
   },
   {
     "uuid": "51e8b66b-f8b2-4b0e-a1fb-e54b8f9ed60d",
@@ -42133,7 +42125,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "file": "Final Fantasy VI/Dancing Mad (Movement 4 with Ganondorf's Laugh).mmrs",
-    "preview": "Final Fantasy VI/Dancing Mad (Movement 4 with Ganondorf's Laugh).ogg"
+    "preview": "Final Fantasy VI/Dancing Mad (Movement 4 with Ganondorf's Laugh).ogg",
+    "usesFormmask": false
   },
   {
     "uuid": "02efb4c8-e6fe-4297-a461-25677cdaa80c",
@@ -42156,7 +42149,23 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "file": "Final Fantasy VI/Dancing Mad (Fanfare).mmrs",
-    "preview": "Final Fantasy VI/Dancing Mad (Fanfare).ogg"
+    "preview": "Final Fantasy VI/Dancing Mad (Fanfare).ogg",
+    "usesFormmask": false
+  },
+  {
+    "game": "Pokémon Mystery Dungeon Red Rescue Team",
+    "song": "Sky Tower",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "0d2eb3b8-0684-45b0-b1fd-04c0bbc872d1",
+    "file": "Pokémon Mystery Dungeon Red Rescue Team/Sky Tower.mmrs"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
