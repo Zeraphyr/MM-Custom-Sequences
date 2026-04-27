@@ -42090,5 +42090,28 @@
     "file": "The Legend of Zelda Ocarina of Time/Game Over (with Kefka's Laugh 3).mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Game Over (with Kefka's Laugh 3).mp3"
   },
+  {
+    "uuid": "52cc30af-564a-425c-a42b-f38e3a75ee68",
+    "creationDate": "2026-04-27T22:57:38.075Z",
+    "game": "Final Fantasy VI",
+    "song": "Dancing Mad",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "7",
+      "157"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Final Fantasy VI/Dancing Mad.mmrs",
+    "preview": "Final Fantasy VI/Dancing Mad.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
