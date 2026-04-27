@@ -42004,5 +42004,28 @@
     "file": "Final Fantasy VI/The Decisive Battle!.mmrs",
     "preview": "Final Fantasy VI/The Decisive Battle!.ogg"
   },
+  {
+    "uuid": "9ec52075-bca5-4ba3-ba47-2a7bfaa64584",
+    "creationDate": "2026-04-27T22:50:15.248Z",
+    "game": "Final Fantasy VI",
+    "song": "Kefka's Laugh",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10",
+      "121"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Final Fantasy VI/Kefka's Laugh.mmrs",
+    "preview": "Final Fantasy VI/Kefka's Laugh.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
