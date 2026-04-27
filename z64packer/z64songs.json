@@ -42103,7 +42103,8 @@
     "usesCustomSamples": true,
     "file": "Final Fantasy VI/Dancing Mad.mmrs",
     "preview": "Final Fantasy VI/Dancing Mad.ogg",
-    "usesFormmask": false
+    "usesFormmask": false,
+    "notes": "WARNING: Requires combat music disabled!"
   },
   {
     "uuid": "51e8b66b-f8b2-4b0e-a1fb-e54b8f9ed60d",
@@ -42153,8 +42154,16 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokémon Mystery Dungeon Red Rescue Team",
+    "game": "Pokémon Mystery Dungeon: Red Rescue Team",
     "song": "Sky Tower",
+    "composers": [
+      "Arata Iiyoshi",
+      "Keisuke Ito",
+      "Hideki Sakamoto"
+    ],
+    "converters": [
+      "Fish"
+    ],
     "type": "bgm",
     "categories": [
       "0",
@@ -42165,7 +42174,100 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "0d2eb3b8-0684-45b0-b1fd-04c0bbc872d1",
-    "file": "Pokémon Mystery Dungeon Red Rescue Team/Sky Tower.mmrs"
+    "file": "Pokémon Mystery Dungeon Red Rescue Team/Sky Tower.mmrs",
+    "preview": "https://www.youtube.com/watch?v=1DbvEuMzOGI"
+  },
+  {
+    "uuid": "791f41ae-a3e3-4208-a0a0-c13a5b5ea3d4",
+    "creationDate": "2026-04-27T23:01:50.500Z",
+    "game": "Final Fantasy VI",
+    "song": "Dancing Mad (Movement 1)",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "8",
+      "9",
+      "10",
+      "121"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Final Fantasy VI/Dancing Mad (Movement 1).mmrs",
+    "usesFormmask": false
+  },
+  {
+    "uuid": "3e6c8474-9df0-47af-8125-bb6696e8ae2e",
+    "creationDate": "2026-04-27T23:01:50.500Z",
+    "game": "Final Fantasy VI",
+    "song": "Dancing Mad (Movement 2)",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "8",
+      "9",
+      "10",
+      "121"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Final Fantasy VI/Dancing Mad (Movement 2).mmrs",
+    "usesFormmask": false
+  },
+  {
+    "uuid": "68e54aeb-704d-42bc-b866-2cbf7e8ba562",
+    "creationDate": "2026-04-27T23:01:50.500Z",
+    "game": "Final Fantasy VI",
+    "song": "Dancing Mad (Movement 3)",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "8",
+      "9",
+      "10",
+      "121"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Final Fantasy VI/Dancing Mad (Movement 3).mmrs",
+    "usesFormmask": false
+  },
+  {
+    "uuid": "d2dc3d64-b342-4587-89a1-18ba94e5a589",
+    "creationDate": "2026-04-27T23:01:50.500Z",
+    "game": "Final Fantasy VI",
+    "song": "Dancing Mad (Movement 4) (No Intro)",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "8",
+      "9",
+      "10",
+      "121"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Final Fantasy VI/Dancing Mad (Movement 4) (No Intro).mmrs",
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
