@@ -42356,5 +42356,27 @@
     "file": "Paper Mario/Koopa Bros. Keep Cool.mmrs",
     "preview": "Paper Mario/Koopa Bros. Keep Cool.ogg"
   },
+  {
+    "uuid": "f1b06a0e-1eca-45f1-81d3-51775135e40d",
+    "creationDate": "2026-04-27T23:33:56.622Z",
+    "game": "The Legend of Zelda: Four Swords Adventures",
+    "song": "Lake Hylia",
+    "composers": [
+      "Koji Kondo",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Acrophobic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3",
+      "4"
+    ],
+    "file": "The Legend of Zelda Four Swords Adventures/Lake Hylia.mmrs",
+    "preview": "The Legend of Zelda Four Swords Adventures/Lake Hylia.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
