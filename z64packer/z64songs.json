@@ -41872,5 +41872,29 @@
     "file": "Final Fantasy VII/Bombing Mission.mmrs",
     "preview": "Final Fantasy VII/Bombing Mission.ogg"
   },
+  {
+    "uuid": "ac7cb44e-0fad-4dda-87ab-516f77ce239f",
+    "creationDate": "2026-04-27T22:37:00.520Z",
+    "game": "Final Fantasy VII",
+    "song": "Fight On!",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Final Fantasy VII/Fight On!.mmrs",
+    "preview": "Final Fantasy VII/Fight On!.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
