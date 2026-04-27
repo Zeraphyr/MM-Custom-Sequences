@@ -41983,5 +41983,26 @@
     "file": "Final Fantasy VI/Kefka's Tower.mmrs",
     "preview": "Final Fantasy VI/Kefka's Tower.ogg"
   },
+  {
+    "uuid": "d2c70932-a84f-4a71-b516-30de14d7de0e",
+    "creationDate": "2026-04-27T22:45:25.416Z",
+    "game": "Final Fantasy VI",
+    "song": "The Decisive Battle!",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "Final Fantasy VI/The Decisive Battle!.mmrs",
+    "preview": "Final Fantasy VI/The Decisive Battle!.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
