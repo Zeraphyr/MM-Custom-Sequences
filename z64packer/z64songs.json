@@ -42334,5 +42334,27 @@
     "file": "Paper Mario/Goomba Village.mmrs",
     "preview": "Paper Mario/Goomba Village.ogg"
   },
+  {
+    "uuid": "c698de79-9f2c-4953-963f-5c62ce438cc3",
+    "creationDate": "2026-04-27T23:32:36.853Z",
+    "game": "Paper Mario",
+    "song": "Koopa Bros. Keep Cool",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Acrophobic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "file": "Paper Mario/Koopa Bros. Keep Cool.mmrs",
+    "preview": "Paper Mario/Koopa Bros. Keep Cool.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
