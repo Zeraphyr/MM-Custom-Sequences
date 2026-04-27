@@ -42102,7 +42102,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "file": "Final Fantasy VI/Dancing Mad.mmrs",
-    "preview": "Final Fantasy VI/Dancing Mad.ogg",
+    "preview": "https://www.youtube.com/watch?v=fvgbaG4BxYM",
     "usesFormmask": false,
     "notes": "WARNING: Requires combat music disabled!"
   },
@@ -42133,7 +42133,7 @@
     "uuid": "02efb4c8-e6fe-4297-a461-25677cdaa80c",
     "creationDate": "2026-04-27T23:01:50.500Z",
     "game": "Final Fantasy VI",
-    "song": "Dancing Mad (Fanfare)",
+    "song": "Dancing Mad (Omen)",
     "composers": [
       "Nobuo Uematsu"
     ],
@@ -42149,8 +42149,8 @@
     ],
     "usesCustomBank": true,
     "usesCustomSamples": true,
-    "file": "Final Fantasy VI/Dancing Mad (Fanfare).mmrs",
-    "preview": "Final Fantasy VI/Dancing Mad (Fanfare).ogg",
+    "file": "Final Fantasy VI/Dancing Mad (Omen).mmrs",
+    "preview": "https://youtu.be/fvgbaG4BxYM?t=395",
     "usesFormmask": false
   },
   {
@@ -42198,6 +42198,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "file": "Final Fantasy VI/Dancing Mad (Movement 1).mmrs",
+    "preview": "https://www.youtube.com/watch?v=fvgbaG4BxYM",
     "usesFormmask": false
   },
   {
@@ -42221,6 +42222,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "file": "Final Fantasy VI/Dancing Mad (Movement 2).mmrs",
+    "preview": "https://youtu.be/fvgbaG4BxYM?t=163",
     "usesFormmask": false
   },
   {
@@ -42244,6 +42246,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "file": "Final Fantasy VI/Dancing Mad (Movement 3).mmrs",
+    "preview": "https://youtu.be/fvgbaG4BxYM?t=284",
     "usesFormmask": false
   },
   {
@@ -42267,6 +42270,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "file": "Final Fantasy VI/Dancing Mad (Movement 4) (No Intro).mmrs",
+    "preview": "https://youtu.be/fvgbaG4BxYM?t=427",
     "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
