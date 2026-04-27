@@ -42294,5 +42294,25 @@
     "file": "Croc Legend of the Gobbos/Title Theme.mmrs",
     "preview": "Croc Legend of the Gobbos/Title Theme.ogg"
   },
+  {
+    "uuid": "80ac1efe-1fc8-4704-84db-d9569a8d6135",
+    "creationDate": "2026-04-27T23:30:41.979Z",
+    "game": "Fire Emblem: The Blazing Blade",
+    "song": "Together, We Ride!",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Fire Emblem The Blazing Blade/Together, We Ride!.mmrs",
+    "preview": "Fire Emblem The Blazing Blade/Together, We Ride!.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
