@@ -42314,5 +42314,25 @@
     "file": "Fire Emblem The Blazing Blade/Together, We Ride!.mmrs",
     "preview": "Fire Emblem The Blazing Blade/Together, We Ride!.ogg"
   },
+  {
+    "uuid": "831afd70-f8c9-4da9-8316-b45bfdf50cab",
+    "creationDate": "2026-04-27T23:31:47.321Z",
+    "game": "Paper Mario",
+    "song": "Goomba Village",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Acrophobic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Paper Mario/Goomba Village.mmrs",
+    "preview": "Paper Mario/Goomba Village.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
