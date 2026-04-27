@@ -41850,5 +41850,27 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "022c5415-04f7-4023-8baa-f640b2091ceb",
+    "creationDate": "2026-04-27T22:35:14.348Z",
+    "game": "Final Fantasy VII",
+    "song": "Bombing Mission",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "4",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": true,
+    "file": "Final Fantasy VII/Bombing Mission.mmrs",
+    "preview": "Final Fantasy VII/Bombing Mission.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
