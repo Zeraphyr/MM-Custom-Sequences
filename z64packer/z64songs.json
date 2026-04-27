@@ -42273,5 +42273,110 @@
     "preview": "https://youtu.be/fvgbaG4BxYM?t=427",
     "usesFormmask": false
   },
+  {
+    "uuid": "0c00f3b0-dd0e-4264-95ea-9014d3c84141",
+    "creationDate": "2026-04-27T23:29:17.763Z",
+    "game": "Croc: Legend of the Gobbos",
+    "song": "Title Theme",
+    "composers": [
+      "Justin Scharvona"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4"
+    ],
+    "file": "Croc Legend of the Gobbos/Title Theme.mmrs",
+    "preview": "Croc Legend of the Gobbos/Title Theme.ogg"
+  },
+  {
+    "uuid": "80ac1efe-1fc8-4704-84db-d9569a8d6135",
+    "creationDate": "2026-04-27T23:30:41.979Z",
+    "game": "Fire Emblem: The Blazing Blade",
+    "song": "Together, We Ride!",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Fire Emblem The Blazing Blade/Together, We Ride!.mmrs",
+    "preview": "Fire Emblem The Blazing Blade/Together, We Ride!.ogg"
+  },
+  {
+    "uuid": "831afd70-f8c9-4da9-8316-b45bfdf50cab",
+    "creationDate": "2026-04-27T23:31:47.321Z",
+    "game": "Paper Mario",
+    "song": "Goomba Village",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Acrophobic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Paper Mario/Goomba Village.mmrs",
+    "preview": "Paper Mario/Goomba Village.ogg"
+  },
+  {
+    "uuid": "c698de79-9f2c-4953-963f-5c62ce438cc3",
+    "creationDate": "2026-04-27T23:32:36.853Z",
+    "game": "Paper Mario",
+    "song": "Koopa Bros. Keep Cool",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Acrophobic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "file": "Paper Mario/Koopa Bros. Keep Cool.mmrs",
+    "preview": "Paper Mario/Koopa Bros. Keep Cool.ogg"
+  },
+  {
+    "uuid": "f1b06a0e-1eca-45f1-81d3-51775135e40d",
+    "creationDate": "2026-04-27T23:33:56.622Z",
+    "game": "The Legend of Zelda: Four Swords Adventures",
+    "song": "Lake Hylia",
+    "composers": [
+      "Koji Kondo",
+      "Asuka Ohta"
+    ],
+    "converters": [
+      "Acrophobic"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3",
+      "4"
+    ],
+    "file": "The Legend of Zelda Four Swords Adventures/Lake Hylia.mmrs",
+    "preview": "The Legend of Zelda Four Swords Adventures/Lake Hylia.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
