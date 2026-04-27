@@ -42135,5 +42135,28 @@
     "file": "Final Fantasy VI/Dancing Mad (Movement 4 with Ganondorf's Laugh).mmrs",
     "preview": "Final Fantasy VI/Dancing Mad (Movement 4 with Ganondorf's Laugh).ogg"
   },
+  {
+    "uuid": "02efb4c8-e6fe-4297-a461-25677cdaa80c",
+    "creationDate": "2026-04-27T23:01:50.500Z",
+    "game": "Final Fantasy VI",
+    "song": "Dancing Mad (Fanfare)",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10",
+      "121"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "file": "Final Fantasy VI/Dancing Mad (Fanfare).mmrs",
+    "preview": "Final Fantasy VI/Dancing Mad (Fanfare).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
