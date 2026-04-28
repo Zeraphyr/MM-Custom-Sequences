@@ -42387,8 +42387,104 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Song of Soaring",
     "type": "fanfare",
     "categories": [
@@ -42398,10 +42494,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "eb85cf41-997e-4c6b-8391-702afda771c5",
-    "file": "The Legend of Zelda Majora's Mask/Song of Soaring.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Song of Soaring.mmrs",
+    "preview": "https://www.youtube.com/watch?v=15iKyitA7JA"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Ancient Castle of Ikana",
     "type": "bgm",
     "categories": [
@@ -42411,10 +42514,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "7dcb8439-f3b9-4ecf-813c-f9aead605856",
-    "file": "The Legend of Zelda Majora's Mask/Ancient Castle of Ikana.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Ancient Castle of Ikana.mmrs",
+    "preview": "https://www.youtube.com/watch?v=h9sSbiLZTro"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Band Practice Japas' Bass",
     "type": "bgm",
     "categories": [
@@ -42424,10 +42534,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "b282feb0-db3b-4358-8b5b-34db95ef9563",
-    "file": "The Legend of Zelda Majora's Mask/Band Practice Japas' Bass.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Band Practice Japas' Bass.mmrs",
+    "preview": "https://www.youtube.com/watch?v=E-BdPDTEiCo"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Minigame",
     "type": "bgm",
     "categories": [
@@ -42437,10 +42554,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "5277aa65-a51a-480a-88ba-3d85eca36bb0",
-    "file": "The Legend of Zelda Majora's Mask/Minigame.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Minigame.mmrs",
+    "preview": "https://www.youtube.com/watch?v=sBNEz0Cpo9M"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Majora's Mask Battle",
     "type": "bgm",
     "categories": [
@@ -42450,10 +42574,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "57ee1620-7dfe-4533-8b3e-00818ce85b1e",
-    "file": "The Legend of Zelda Majora's Mask/Majora's Mask Battle.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Majora's Mask Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=EXu7EsXMxfI"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Majora's Theme",
     "type": "bgm",
     "categories": [
@@ -42463,10 +42594,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "b801023e-fc1a-4abc-ae21-529453811f0a",
-    "file": "The Legend of Zelda Majora's Mask/Majora's Theme.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Majora's Theme.mmrs",
+    "preview": "https://www.youtube.com/watch?v=vU0htpmVAk0"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Title Screen",
     "type": "bgm",
     "categories": [
@@ -42476,10 +42614,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "4cf2825c-b9de-4edc-ab44-2e07a909e0fa",
-    "file": "The Legend of Zelda Majora's Mask/Title Screen.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Title Screen.mmrs",
+    "preview": "https://www.youtube.com/watch?v=bNaBpN7LdSY"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Get a Piece of Heart!",
     "type": "fanfare",
     "categories": [
@@ -42489,10 +42634,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "8836bf71-50cb-41be-90f6-c3877d578a54",
-    "file": "The Legend of Zelda Majora's Mask/Get a Piece of Heart!.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Get a Piece of Heart!.mmrs",
+    "preview": ""
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Woods of Mystery",
     "type": "bgm",
     "categories": [
@@ -42502,10 +42654,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "291c9b55-5521-4d71-b96b-1faf4f64b84c",
-    "file": "The Legend of Zelda Majora's Mask/Woods of Mystery.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Woods of Mystery.mmrs",
+    "preview": "https://www.youtube.com/watch?v=VZTZLLdSnyM"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Band Practice Evan's Piano",
     "type": "bgm",
     "categories": [
@@ -42515,10 +42674,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "565a664d-de15-4213-9e9a-52de32c1e8b4",
-    "file": "The Legend of Zelda Majora's Mask/Band Practice Evan's Piano.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Band Practice Evan's Piano.mmrs",
+    "preview": "https://www.youtube.com/watch?v=WEyB-ESFZII"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "The Giants' Farewell",
     "type": "fanfare",
     "categories": [
@@ -42528,10 +42694,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "c357bfe1-b46a-4062-b846-712babaf950c",
-    "file": "The Legend of Zelda Majora's Mask/The Giants' Farewell.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/The Giants' Farewell.mmrs",
+    "preview": "https://www.youtube.com/watch?v=2HHbHdF4nfQ"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Giants' Theme",
     "type": "bgm",
     "categories": [
@@ -42541,10 +42714,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "234633cf-c678-41ee-ac4d-f8f684c17ce2",
-    "file": "The Legend of Zelda Majora's Mask/Giants' Theme.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Giants' Theme.mmrs",
+    "preview": "https://www.youtube.com/watch?v=TjvSlareVOw"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Inside a House",
     "type": "bgm",
     "categories": [
@@ -42554,10 +42734,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "a03fce00-f25b-4b38-9773-01a6368d2fbc",
-    "file": "The Legend of Zelda Majora's Mask/Inside a House.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Inside a House.mmrs",
+    "preview": "https://www.youtube.com/watch?v=NPoXL18o1P4"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Calling the Four Giants",
     "type": "bgm",
     "categories": [
@@ -42567,10 +42754,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "50ddee30-6efd-4fca-8705-069c10228df0",
-    "file": "The Legend of Zelda Majora's Mask/Calling the Four Giants.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Calling the Four Giants.mmrs",
+    "preview": "https://www.youtube.com/watch?v=4jllLJklsNw"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Goron Village",
     "type": "bgm",
     "categories": [
@@ -42580,10 +42774,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "e9d50c1e-30e0-4d14-9382-1276a25b7d3d",
-    "file": "The Legend of Zelda Majora's Mask/Goron Village.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Goron Village.mmrs",
+    "preview": "https://www.youtube.com/watch?v=_kMnP69_WaM"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Clock Tower",
     "type": "bgm",
     "categories": [
@@ -42593,10 +42794,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "a0b65407-6529-4782-b798-6e03fa0996ee",
-    "file": "The Legend of Zelda Majora's Mask/Clock Tower.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Clock Tower.mmrs",
+    "preview": "https://www.youtube.com/watch?v=4rhYmNksSTs"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Kaepora Gaebora's Theme",
     "type": "bgm",
     "categories": [
@@ -42606,10 +42814,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "19d4f95d-44f2-4106-ae0f-88b2cf543d64",
-    "file": "The Legend of Zelda Majora's Mask/Kaepora Gaebora's Theme.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Kaepora Gaebora's Theme.mmrs",
+    "preview": "https://www.youtube.com/watch?v=fvjPOCK_SXs"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Sharp's Curse - Melody of Darkness",
     "type": "bgm",
     "categories": [
@@ -42619,10 +42834,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "ea7807ae-a774-4547-953f-cd517340b19c",
-    "file": "The Legend of Zelda Majora's Mask/Sharp's Curse - Melody of Darkness.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Sharp's Curse - Melody of Darkness.mmrs",
+    "preview": "https://www.youtube.com/watch?v=EzMlwrG7kFU"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Game Over!",
     "type": "fanfare",
     "categories": [
@@ -42632,10 +42854,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "7f414409-8395-477c-8e90-b3d8a222ab08",
-    "file": "The Legend of Zelda Majora's Mask/Game Over!.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Game Over!.mmrs",
+    "preview": "https://www.youtube.com/watch?v=fexjOMt2Mrg"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Swordsman's School",
     "type": "bgm",
     "categories": [
@@ -42645,10 +42874,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "ccdc727c-5dd0-45b0-9273-a531a2fcc403",
-    "file": "The Legend of Zelda Majora's Mask/Swordsman's School.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Swordsman's School.mmrs",
+    "preview": "https://www.youtube.com/watch?v=TBawk66v9No"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Battle",
     "type": "bgm",
     "categories": [
@@ -42658,10 +42894,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "4dc6a9ec-683c-4307-8d05-d4840baef957",
-    "file": "The Legend of Zelda Majora's Mask/Battle.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=994yq4GGmzA"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Boss Battle",
     "type": "bgm",
     "categories": [
@@ -42671,10 +42914,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "cb5364fb-2421-4413-8587-75b837764402",
-    "file": "The Legend of Zelda Majora's Mask/Boss Battle.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Boss Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=UK9FM9fpNUs"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Clock Town, Third Day",
     "type": "bgm",
     "categories": [
@@ -42684,10 +42934,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "1117d65f-fbaf-4d66-809b-6adaa53bc336",
-    "file": "The Legend of Zelda Majora's Mask/Clock Town, Third Day.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Clock Town, Third Day.mmrs",
+    "preview": "https://www.youtube.com/watch?v=AWhxQPha_uY"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Woodfall Temple",
     "type": "bgm",
     "categories": [
@@ -42697,10 +42954,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "791063a1-b37d-4cc6-9d5f-e73c068b8721",
-    "file": "The Legend of Zelda Majora's Mask/Woodfall Temple.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Woodfall Temple.mmrs",
+    "preview": "https://www.youtube.com/watch?v=PgryMxeJ6m0"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Get an Item!",
     "type": "fanfare",
     "categories": [
@@ -42710,10 +42974,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "432e15f5-c2a4-4112-999c-c90bce3aea6a",
-    "file": "The Legend of Zelda Majora's Mask/Get an Item!.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Get an Item!.mmrs",
+    "preview": "https://www.youtube.com/watch?v=bY6_bT-4nvQ"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Zora Hall",
     "type": "bgm",
     "categories": [
@@ -42723,10 +42994,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "f3a7efa9-8ca4-4dc3-ad6b-118b10cbc4df",
-    "file": "The Legend of Zelda Majora's Mask/Zora Hall.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Zora Hall.mmrs",
+    "preview": "https://www.youtube.com/watch?v=IxGjGQlHIm4"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Zelda's Theme",
     "type": "bgm",
     "categories": [
@@ -42736,10 +43014,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "1e3bc7db-4bda-44d5-987e-cf6b53748f9f",
-    "file": "The Legend of Zelda Majora's Mask/Zelda's Theme.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Zelda's Theme.mmrs",
+    "preview": "https://www.youtube.com/watch?v=vC4lkPMGcKk"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Cremia's Carriage",
     "type": "bgm",
     "categories": [
@@ -42749,10 +43034,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "09de6dbb-5306-4128-93f3-0a19c4a019db",
-    "file": "The Legend of Zelda Majora's Mask/Cremia's Carriage.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Cremia's Carriage.mmrs",
+    "preview": "https://www.youtube.com/watch?v=OkWTYpGF_20"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Horse Race Victory!",
     "type": "fanfare",
     "categories": [
@@ -42762,10 +43054,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "5d1e7029-80cb-4192-9023-40e6510e91a9",
-    "file": "The Legend of Zelda Majora's Mask/Horse Race Victory!.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Horse Race Victory!.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Nsx-SKBcwDs"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Marine Research Lab & Curiosity Shop",
     "type": "bgm",
     "categories": [
@@ -42775,10 +43074,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "583a2e1f-7292-4d1a-8660-b6be63896d5f",
-    "file": "The Legend of Zelda Majora's Mask/Marine Research Lab & Curiosity Shop.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Marine Research Lab & Curiosity Shop.mmrs",
+    "preview": "https://www.youtube.com/watch?v=5EgCEjLS3SA"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Fairy's Fountain",
     "type": "bgm",
     "categories": [
@@ -42788,10 +43094,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "db2c3567-391c-4c26-ad22-992af72db63c",
-    "file": "The Legend of Zelda Majora's Mask/Fairy's Fountain.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Fairy's Fountain.mmrs",
+    "preview": "https://www.youtube.com/watch?v=XlEwnFrnNfc"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Mini Boss Battle",
     "type": "bgm",
     "categories": [
@@ -42801,10 +43114,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "dc2f8873-29d9-4abe-9d4d-b6dfdb0b54af",
-    "file": "The Legend of Zelda Majora's Mask/Mini Boss Battle.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Mini Boss Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=_oeM3sOPlXI"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Boss Defeated!",
     "type": "fanfare",
     "categories": [
@@ -42814,10 +43134,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "793ac7b5-eea5-4ec6-812f-e3e08979305d",
-    "file": "The Legend of Zelda Majora's Mask/Boss Defeated!.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Boss Defeated!.mmrs",
+    "preview": "https://www.youtube.com/watch?v=JV1OluYUakc"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Learned a Song!",
     "type": "fanfare",
     "categories": [
@@ -42827,10 +43154,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "0f16631c-75ea-4f67-82d2-b410a3cfb83f",
-    "file": "The Legend of Zelda Majora's Mask/Learned a Song!.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Learned a Song!.mmrs",
+    "preview": "https://www.youtube.com/watch?v=1NdKYW1Wf0I"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Gorman Bothers' Theme",
     "type": "bgm",
     "categories": [
@@ -42840,10 +43174,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "b4795385-6268-493e-b8f3-710e55c0055c",
-    "file": "The Legend of Zelda Majora's Mask/Gorman Bothers' Theme.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Gorman Bothers' Theme.mmrs",
+    "preview": "https://www.youtube.com/watch?v=hRoeG3yFjbY"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Stone Tower Temple",
     "type": "bgm",
     "categories": [
@@ -42853,10 +43194,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "388ba107-dddf-4778-8e7c-cd6be2757293",
-    "file": "The Legend of Zelda Majora's Mask/Stone Tower Temple.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Stone Tower Temple.mmrs",
+    "preview": "https://www.youtube.com/watch?v=NxUAbX-35Zs"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Event Failure! 2",
     "type": "fanfare",
     "categories": [
@@ -42866,10 +43214,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "162c1f33-4808-4e9b-97b0-f007dc5a8def",
-    "file": "The Legend of Zelda Majora's Mask/Event Failure! 2.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Event Failure! 2.mmrs",
+    "preview": "https://www.youtube.com/watch?v=o_rWZH65X5A"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Get a Heart Container!",
     "type": "fanfare",
     "categories": [
@@ -42879,10 +43234,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "19d5d0f3-66ff-4639-8dcb-fa8f1690878a",
-    "file": "The Legend of Zelda Majora's Mask/Get a Heart Container!.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Get a Heart Container!.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Ma9A0HcF_Us"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "FInal Hours",
     "type": "bgm",
     "categories": [
@@ -42892,10 +43254,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "45139873-6c9b-41ee-aece-d72b11212b23",
-    "file": "The Legend of Zelda Majora's Mask/FInal Hours.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/FInal Hours.mmrs",
+    "preview": "https://www.youtube.com/watch?v=YLvS02tbgQ4"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Item Shop",
     "type": "bgm",
     "categories": [
@@ -42905,10 +43274,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "5df2ee4c-0ba6-4fd5-a25d-fb09b1cb2d6a",
-    "file": "The Legend of Zelda Majora's Mask/Item Shop.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Item Shop.mmrs",
+    "preview": "https://www.youtube.com/watch?v=5WI9p_LajAE"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Tatl & Tael Reunited",
     "type": "bgm",
     "categories": [
@@ -42918,10 +43294,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "b1100d4c-3016-4f12-8303-0facaf0d58b8",
-    "file": "The Legend of Zelda Majora's Mask/Tatl & Tael Reunited.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Tatl & Tael Reunited.mmrs",
+    "preview": "https://www.youtube.com/watch?v=LIx_hQCF_Tk"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Mayor Dotour's Office",
     "type": "bgm",
     "categories": [
@@ -42931,10 +43314,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "ec7a0417-50dd-498d-bc05-fbddd5043d4a",
-    "file": "The Legend of Zelda Majora's Mask/Mayor Dotour's Office.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Mayor Dotour's Office.mmrs",
+    "preview": "https://www.youtube.com/watch?v=LRgRDes_IUw"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Koume & Kotake's Theme",
     "type": "bgm",
     "categories": [
@@ -42944,10 +43334,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "752c1eda-358c-4643-8c84-f3236c07f791",
-    "file": "The Legend of Zelda Majora's Mask/Koume & Kotake's Theme.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Koume & Kotake's Theme.mmrs",
+    "preview": "https://www.youtube.com/watch?v=V68Kesids8I"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Kamaro's Theme",
     "type": "bgm",
     "categories": [
@@ -42957,10 +43354,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "9bf5d3a3-36fb-4672-835a-2a6985261098",
-    "file": "The Legend of Zelda Majora's Mask/Kamaro's Theme.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Kamaro's Theme.mmrs",
+    "preview": "https://www.youtube.com/watch?v=-1Dud5eitCQ"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Song of Healing",
     "type": "bgm",
     "categories": [
@@ -42970,11 +43374,18 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "73dd7ffd-03a6-40dc-ae69-8bdeb92b6d8a",
-    "file": "The Legend of Zelda Majora's Mask/Song of Healing.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Song of Healing.mmrs",
+    "preview": "https://www.youtube.com/watch?v=DcEYcpgYd_k"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
-    "song": "Snowhead",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
+    "song": "Mountain Village",
     "type": "bgm",
     "categories": [
       "113"
@@ -42983,10 +43394,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "3cb193b3-1fd1-44ef-98ce-aeadcd878eed",
-    "file": "The Legend of Zelda Majora's Mask/Snowhead.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Mountain Village.mmrs",
+    "preview": "https://www.youtube.com/watch?v=0ToWyzXNHXE"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Majora's Incarnation Battle",
     "type": "bgm",
     "categories": [
@@ -42996,10 +43414,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "1bd8d4d8-ee5b-404d-9e15-8822e582ed68",
-    "file": "The Legend of Zelda Majora's Mask/Majora's Incarnation Battle.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Majora's Incarnation Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=nQgb2UIo7U0"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Snowhead Temple",
     "type": "bgm",
     "categories": [
@@ -43009,10 +43434,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "d04131c8-5efe-471b-831f-742fdc1636a1",
-    "file": "The Legend of Zelda Majora's Mask/Snowhead Temple.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Snowhead Temple.mmrs",
+    "preview": "https://www.youtube.com/watch?v=FbaHQIJYpQg"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Horse Race",
     "type": "bgm",
     "categories": [
@@ -43022,10 +43454,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "4d378ef0-6752-44c7-9462-ee8d760793c2",
-    "file": "The Legend of Zelda Majora's Mask/Horse Race.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Horse Race.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Kvz5T53qqA4"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Keaton's Quiz",
     "type": "bgm",
     "categories": [
@@ -43035,10 +43474,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "93e6199b-e640-4bf7-a0cf-4a3b05572396",
-    "file": "The Legend of Zelda Majora's Mask/Keaton's Quiz.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Keaton's Quiz.mmrs",
+    "preview": "https://www.youtube.com/watch?v=hFDD3yw25aI"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Inverted Stone Tower Temple",
     "type": "bgm",
     "categories": [
@@ -43048,10 +43494,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "f6530de2-815b-4281-8e0d-50758367ddad",
-    "file": "The Legend of Zelda Majora's Mask/Inverted Stone Tower Temple.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Inverted Stone Tower Temple.mmrs",
+    "preview": "https://www.youtube.com/watch?v=1O05ZXlv_M0"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "The Truth Revealed!",
     "type": "fanfare",
     "categories": [
@@ -43061,10 +43514,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "702bd0df-863b-43a4-8ad9-9fc4af957cf1",
-    "file": "The Legend of Zelda Majora's Mask/The Truth Revealed!.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/The Truth Revealed!.mmrs",
+    "preview": ""
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Goron Race",
     "type": "bgm",
     "categories": [
@@ -43074,10 +43534,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "f48371f8-48fd-4c48-9fe0-41813f2ff3d4",
-    "file": "The Legend of Zelda Majora's Mask/Goron Race.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Goron Race.mmrs",
+    "preview": "https://www.youtube.com/watch?v=gBymw4CyMRQ"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Secret Grotto",
     "type": "bgm",
     "categories": [
@@ -43087,10 +43554,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "76dcc889-caef-4fb1-85f5-09373b005443",
-    "file": "The Legend of Zelda Majora's Mask/Secret Grotto.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Secret Grotto.mmrs",
+    "preview": "https://www.youtube.com/watch?v=P5aXE7R1QLg"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Temple Clear (Short)",
     "type": "fanfare",
     "categories": [
@@ -43100,10 +43574,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "d410aecf-3ab1-41a3-a1b0-3ef4ebb64f3e",
-    "file": "The Legend of Zelda Majora's Mask/Temple Clear (Short).mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Temple Clear (Short).mmrs",
+    "preview": ""
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Get a Mask!",
     "type": "fanfare",
     "categories": [
@@ -43113,10 +43594,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "6ba3d62a-229b-4a95-b5fa-fe8f6ebf6619",
-    "file": "The Legend of Zelda Majora's Mask/Get a Mask!.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Get a Mask!.mmrs",
+    "preview": "https://www.youtube.com/watch?v=ShFjgZ14FA0"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "File Select",
     "type": "bgm",
     "categories": [
@@ -43126,10 +43614,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "f3a5c38e-1481-437a-b308-534af3ac8a74",
-    "file": "The Legend of Zelda Majora's Mask/File Select.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/File Select.mmrs",
+    "preview": ""
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Minigame Shop",
     "type": "bgm",
     "categories": [
@@ -43139,10 +43634,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "14d566f4-a7fd-4a9e-9248-1dff755634d0",
-    "file": "The Legend of Zelda Majora's Mask/Minigame Shop.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Minigame Shop.mmrs",
+    "preview": ""
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Astral Observatory",
     "type": "bgm",
     "categories": [
@@ -43152,10 +43654,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "ccf99eec-c321-4438-8d30-3a665aaacbd5",
-    "file": "The Legend of Zelda Majora's Mask/Astral Observatory.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Astral Observatory.mmrs",
+    "preview": "https://www.youtube.com/watch?v=8wxZwyAwP3s"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Pirates' Fortress",
     "type": "bgm",
     "categories": [
@@ -43165,10 +43674,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "432bfad0-7e8c-4bc4-97e0-ed022d445b9b",
-    "file": "The Legend of Zelda Majora's Mask/Pirates' Fortress.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Pirates' Fortress.mmrs",
+    "preview": "https://www.youtube.com/watch?v=FJ_Xe6URm6k"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Guru-Guru's Theme",
     "type": "bgm",
     "categories": [
@@ -43178,10 +43694,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "cc1570dd-3b16-46bf-ac09-c22487e0d73b",
-    "file": "The Legend of Zelda Majora's Mask/Guru-Guru's Theme.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Guru-Guru's Theme.mmrs",
+    "preview": "https://www.youtube.com/watch?v=-sTv29SyWcE"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Event Success!",
     "type": "fanfare",
     "categories": [
@@ -43191,10 +43714,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "06631bb4-de8d-483f-bafc-55788f37f793",
-    "file": "The Legend of Zelda Majora's Mask/Event Success!.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Event Success!.mmrs",
+    "preview": "https://www.youtube.com/watch?v=EdqaUwcEhMk"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Romani Ranch",
     "type": "bgm",
     "categories": [
@@ -43204,10 +43734,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "1eafebdf-a5d4-4e8d-9b6a-fb5755da12a8",
-    "file": "The Legend of Zelda Majora's Mask/Romani Ranch.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Romani Ranch.mmrs",
+    "preview": "https://www.youtube.com/watch?v=gBnj0dxqmXI"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Event Failure! 1",
     "type": "fanfare",
     "categories": [
@@ -43217,10 +43754,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "ccf20d99-628f-4dfc-bf66-d4fc5569ea36",
-    "file": "The Legend of Zelda Majora's Mask/Event Failure! 1.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Event Failure! 1.mmrs",
+    "preview": "https://www.youtube.com/watch?v=7KUoYkyorts"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Band Practice Tijo's Drums",
     "type": "bgm",
     "categories": [
@@ -43230,10 +43774,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "f93eb76d-5b9b-488a-b48e-a367695737e3",
-    "file": "The Legend of Zelda Majora's Mask/Band Practice Tijo's Drums.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Band Practice Tijo's Drums.mmrs",
+    "preview": "https://www.youtube.com/watch?v=nci9v1Iz5CQ"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Rosa Sisters' Theme",
     "type": "bgm",
     "categories": [
@@ -43243,10 +43794,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "1670bdf1-8e48-470e-9fec-7fc807efd20d",
-    "file": "The Legend of Zelda Majora's Mask/Rosa Sisters' Theme.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Rosa Sisters' Theme.mmrs",
+    "preview": "https://www.youtube.com/watch?v=gF8cGmVCx4o"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Southern Swamp",
     "type": "bgm",
     "categories": [
@@ -43256,10 +43814,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "56cd5778-6427-43f8-a47c-f2f0b09f3a06",
-    "file": "The Legend of Zelda Majora's Mask/Southern Swamp.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Southern Swamp.mmrs",
+    "preview": "https://www.youtube.com/watch?v=nfzoSonEf_4"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "The Moon Enraged",
     "type": "bgm",
     "categories": [
@@ -43269,10 +43834,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "67605f4c-3b28-4658-a7a2-be002c5373c5",
-    "file": "The Legend of Zelda Majora's Mask/The Moon Enraged.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/The Moon Enraged.mmrs",
+    "preview": ""
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Music Box House - Farewell to Gibdo",
     "type": "bgm",
     "categories": [
@@ -43282,10 +43854,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "5819da08-e03d-4c90-b923-a05dc0272a92",
-    "file": "The Legend of Zelda Majora's Mask/Music Box House - Farewell to Gibdo.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Music Box House - Farewell to Gibdo.mmrs",
+    "preview": "https://www.youtube.com/watch?v=4fGn2wJ5MFo"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Majora's Wrath Battle",
     "type": "bgm",
     "categories": [
@@ -43295,10 +43874,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "c40351f8-e917-4f7b-abfa-7d52ba6c33f6",
-    "file": "The Legend of Zelda Majora's Mask/Majora's Wrath Battle.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Majora's Wrath Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Mz3k5IK1wgQ"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Aliens' Theme",
     "type": "bgm",
     "categories": [
@@ -43308,10 +43894,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "ac98ee96-b149-4527-acaa-12d9bca306df",
-    "file": "The Legend of Zelda Majora's Mask/Aliens' Theme.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Aliens' Theme.mmrs",
+    "preview": "https://www.youtube.com/watch?v=ppB0-U8-8xo"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Ikana Canyon",
     "type": "bgm",
     "categories": [
@@ -43321,10 +43914,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "d5dd293e-c004-413e-9743-c9b3c0dd181e",
-    "file": "The Legend of Zelda Majora's Mask/Ikana Canyon.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Ikana Canyon.mmrs",
+    "preview": "https://www.youtube.com/watch?v=LjzQh7effA0"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Temple Appears!",
     "type": "fanfare",
     "categories": [
@@ -43334,10 +43934,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "7d07404a-9bb6-4839-b624-6872afd2de7d",
-    "file": "The Legend of Zelda Majora's Mask/Temple Appears!.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Temple Appears!.mmrs",
+    "preview": "https://www.youtube.com/watch?v=1uJuyEaUx-s"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Temple Clear (Long)",
     "type": "fanfare",
     "categories": [
@@ -43347,10 +43954,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "96606051-b4e8-4b54-aafc-134063440be2",
-    "file": "The Legend of Zelda Majora's Mask/Temple Clear (Long).mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Temple Clear (Long).mmrs",
+    "preview": ""
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Deku Palace",
     "type": "bgm",
     "categories": [
@@ -43360,10 +43974,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "f2be67a9-df26-46c7-b1e6-b107a2230a5b",
-    "file": "The Legend of Zelda Majora's Mask/Deku Palace.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Deku Palace.mmrs",
+    "preview": "https://www.youtube.com/watch?v=CDyR-QE7KmE"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Termina Field",
     "type": "bgm",
     "categories": [
@@ -43373,10 +43994,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "75256161-2e71-4711-8079-a79b75d47366",
-    "file": "The Legend of Zelda Majora's Mask/Termina Field.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Termina Field.mmrs",
+    "preview": "https://www.youtube.com/watch?v=eZ7M45cFwRU"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "The Moon Destroyed",
     "type": "fanfare",
     "categories": [
@@ -43386,10 +44014,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "d20afa94-d1c5-4efb-a17d-9d92a1172178",
-    "file": "The Legend of Zelda Majora's Mask/The Moon Destroyed.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/The Moon Destroyed.mmrs",
+    "preview": "https://www.youtube.com/watch?v=HYuu_E5nFDk"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Goron Race Victory!",
     "type": "fanfare",
     "categories": [
@@ -43399,10 +44034,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "40989280-2250-412a-8826-0ac278bb45ad",
-    "file": "The Legend of Zelda Majora's Mask/Goron Race Victory!.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Goron Race Victory!.mmrs",
+    "preview": "https://www.youtube.com/watch?v=AlelHbnAncE"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Clock Town, Second Day",
     "type": "bgm",
     "categories": [
@@ -43412,10 +44054,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "8dce831e-6a18-44b7-b9eb-ffb78053ebe1",
-    "file": "The Legend of Zelda Majora's Mask/Clock Town, Second Day.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Clock Town, Second Day.mmrs",
+    "preview": "https://www.youtube.com/watch?v=E3m9cXFvzu0"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Old Koume's Boat Cruise",
     "type": "bgm",
     "categories": [
@@ -43425,10 +44074,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "5e70c92b-c5aa-435b-b92e-e3f895d086dc",
-    "file": "The Legend of Zelda Majora's Mask/Old Koume's Boat Cruise.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Old Koume's Boat Cruise.mmrs",
+    "preview": "https://www.youtube.com/watch?v=yZWALBHD0Rs"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Milk Bar",
     "type": "bgm",
     "categories": [
@@ -43438,10 +44094,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "4b1199c9-e965-4a85-baa0-b8dec05056eb",
-    "file": "The Legend of Zelda Majora's Mask/Milk Bar.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Milk Bar.mmrs",
+    "preview": "https://www.youtube.com/watch?v=sRTrhgWi6lg"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Great Bay Coast",
     "type": "bgm",
     "categories": [
@@ -43451,10 +44114,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "26ca4685-6910-4197-aed7-9a5b4d22952a",
-    "file": "The Legend of Zelda Majora's Mask/Great Bay Coast.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Great Bay Coast.mmrs",
+    "preview": "https://www.youtube.com/watch?v=6xIeEtq39EU"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Great Bay Temple",
     "type": "bgm",
     "categories": [
@@ -43464,10 +44134,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "a4e75dd0-7cea-4567-a69a-c9572115c1f5",
-    "file": "The Legend of Zelda Majora's Mask/Great Bay Temple.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Great Bay Temple.mmrs",
+    "preview": "https://www.youtube.com/watch?v=ps5eUkFUVVU"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Clock Town, First Day",
     "type": "bgm",
     "categories": [
@@ -43477,10 +44154,17 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "1ce3f818-7b87-4f57-aee9-afd9f32d6063",
-    "file": "The Legend of Zelda Majora's Mask/Clock Town, First Day.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Clock Town, First Day.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Wea_uOJN34o"
   },
   {
-    "game": "The Legend of Zelda Majora's Mask",
+    "game": "The Legend of Zelda: Majora's Mask",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Crin"
+    ],
     "song": "Pursuit Theme",
     "type": "bgm",
     "categories": [
@@ -43490,7 +44174,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "77cbae5f-ae6f-4651-b26c-c7f24654ddec",
-    "file": "The Legend of Zelda Majora's Mask/Pursuit Theme.mmrs"
+    "file": "The Legend of Zelda Majora's Mask/Pursuit Theme.mmrs",
+    "preview": "https://www.youtube.com/watch?v=5Dxw4Yqe5q4"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
