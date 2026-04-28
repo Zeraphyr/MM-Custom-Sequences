@@ -42635,7 +42635,7 @@
     "usesFormmask": false,
     "uuid": "8836bf71-50cb-41be-90f6-c3877d578a54",
     "file": "The Legend of Zelda Majora's Mask/Get a Piece of Heart!.mmrs",
-    "preview": ""
+    "preview": "https://www.youtube.com/watch?v=4E7sXzcUCzs"
   },
   {
     "game": "The Legend of Zelda: Majora's Mask",
@@ -43515,7 +43515,7 @@
     "usesFormmask": false,
     "uuid": "702bd0df-863b-43a4-8ad9-9fc4af957cf1",
     "file": "The Legend of Zelda Majora's Mask/The Truth Revealed!.mmrs",
-    "preview": ""
+    "preview": "https://www.youtube.com/watch?v=kUgwckqM4FM"
   },
   {
     "game": "The Legend of Zelda: Majora's Mask",
@@ -43575,7 +43575,7 @@
     "usesFormmask": false,
     "uuid": "d410aecf-3ab1-41a3-a1b0-3ef4ebb64f3e",
     "file": "The Legend of Zelda Majora's Mask/Temple Clear (Short).mmrs",
-    "preview": ""
+    "preview": "https://www.youtube.com/watch?v=PWhFGt3B75o"
   },
   {
     "game": "The Legend of Zelda: Majora's Mask",
@@ -43605,26 +43605,6 @@
     "converters": [
       "Crin"
     ],
-    "song": "File Select",
-    "type": "bgm",
-    "categories": [
-      "118"
-    ],
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false,
-    "uuid": "f3a5c38e-1481-437a-b308-534af3ac8a74",
-    "file": "The Legend of Zelda Majora's Mask/File Select.mmrs",
-    "preview": ""
-  },
-  {
-    "game": "The Legend of Zelda: Majora's Mask",
-    "composers": [
-      "Koji Kondo"
-    ],
-    "converters": [
-      "Crin"
-    ],
     "song": "Minigame Shop",
     "type": "bgm",
     "categories": [
@@ -43635,7 +43615,7 @@
     "usesFormmask": false,
     "uuid": "14d566f4-a7fd-4a9e-9248-1dff755634d0",
     "file": "The Legend of Zelda Majora's Mask/Minigame Shop.mmrs",
-    "preview": ""
+    "preview": "https://www.youtube.com/watch?v=gukSmnLc6ms"
   },
   {
     "game": "The Legend of Zelda: Majora's Mask",
@@ -43835,7 +43815,7 @@
     "usesFormmask": false,
     "uuid": "67605f4c-3b28-4658-a7a2-be002c5373c5",
     "file": "The Legend of Zelda Majora's Mask/The Moon Enraged.mmrs",
-    "preview": ""
+    "preview": "https://www.youtube.com/watch?v=5hMZcdQbwYw"
   },
   {
     "game": "The Legend of Zelda: Majora's Mask",
@@ -43955,7 +43935,7 @@
     "usesFormmask": false,
     "uuid": "96606051-b4e8-4b54-aafc-134063440be2",
     "file": "The Legend of Zelda Majora's Mask/Temple Clear (Long).mmrs",
-    "preview": ""
+    "preview": "https://www.youtube.com/watch?v=U9-Lxhl2Wmg"
   },
   {
     "game": "The Legend of Zelda: Majora's Mask",
