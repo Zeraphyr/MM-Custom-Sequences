@@ -44124,5 +44124,24 @@
     "file": "Mario Kart 64/Battle Mode.mmrs",
     "preview": "https://www.youtube.com"
   },
+  {
+    "uuid": "1c726dd0-10c1-4d90-bc52-132494730fb1",
+    "creationDate": "2026-05-01T15:45:47.363Z",
+    "game": "Mario Kart 64",
+    "song": "Banshee Boardwalk",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "5"
+    ],
+    "file": "Mario Kart 64/Banshee Boardwalk.mmrs",
+    "preview": "https://www.youtube.com"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
