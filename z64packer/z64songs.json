@@ -44084,7 +44084,10 @@
       "0"
     ],
     "file": "The Legend of Zelda Breath of the Wild/Hyrule Castle.mmrs",
-    "preview": "https://www.youtube.com/watch?v=n2xz8zHCLsU"
+    "preview": "https://www.youtube.com/watch?v=n2xz8zHCLsU",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d57ed0e9-1a8e-4df1-bcd2-e9776748e0fd",
@@ -44102,7 +44105,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Breath of the Wild/Kass' Theme.mmrs",
-    "preview": "https://www.youtube.com/watch?v=cYxHUmEl5n8"
+    "preview": "https://www.youtube.com/watch?v=cYxHUmEl5n8",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "8797b056-6ac1-4f88-b5e2-1478c90a84d8",
@@ -44122,7 +44128,9 @@
     ],
     "usesCustomBank": true,
     "file": "Mario Kart 64/Battle Mode.mmrs",
-    "preview": "https://www.youtube.com"
+    "preview": "https://www.youtube.com",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1c726dd0-10c1-4d90-bc52-132494730fb1",
@@ -44141,7 +44149,10 @@
       "5"
     ],
     "file": "Mario Kart 64/Banshee Boardwalk.mmrs",
-    "preview": "https://www.youtube.com"
+    "preview": "https://www.youtube.com",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "302c14a2-2cc5-4f1e-aeb0-c3cf948199a5",
@@ -44160,7 +44171,10 @@
       "5"
     ],
     "file": "Mario Kart 64/Bowser's Castle.mmrs",
-    "preview": "https://www.youtube.com"
+    "preview": "https://www.youtube.com",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "46abcfe4-40ec-4a3e-8c0e-c56d01a120a4",
@@ -44179,7 +44193,9 @@
     ],
     "usesCustomBank": true,
     "file": "Mario Kart 64/Award Ceremony.mmrs",
-    "preview": "https://www.youtube.com"
+    "preview": "https://www.youtube.com",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c24668be-7e10-4370-919c-718d272dfab0",
@@ -44198,7 +44214,9 @@
     ],
     "usesCustomBank": true,
     "file": "Mario Kart 64/No Trophy For You!.mmrs",
-    "preview": "https://www.youtube.com"
+    "preview": "https://www.youtube.com",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a4f364d8-1757-4a1d-b8a5-0b331d5235a4",
@@ -44217,7 +44235,10 @@
       "4"
     ],
     "file": "Mario Kart 64/Choco Mountian.mmrs",
-    "preview": "https://www.youtube.com"
+    "preview": "https://www.youtube.com",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "86dbe85d-34d9-4abb-afd5-661aa73586e7",
@@ -44236,7 +44257,10 @@
       "1"
     ],
     "file": "Mario Kart 64/DK's Jungle Parkway.mmrs",
-    "preview": "https://www.youtube.com"
+    "preview": "https://www.youtube.com",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "36473320-de5e-486d-b4fc-8d3a08253633",
@@ -44256,7 +44280,9 @@
     ],
     "usesCustomBank": true,
     "file": "Mario Kart 64/Frappe Snowland.mmrs",
-    "preview": "https://www.youtube.com"
+    "preview": "https://www.youtube.com",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4fb9a2a4-5705-402c-9ee8-0a8883b9c3a9",
@@ -44275,7 +44301,10 @@
       "1"
     ],
     "file": "Mario Kart 64/Koopa Troopa Beach.mmrs",
-    "preview": "https://www.youtube.com"
+    "preview": "https://www.youtube.com",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e49175b0-5486-4c67-986b-8da5431118ac",
@@ -44295,7 +44324,9 @@
     ],
     "usesCustomBank": true,
     "file": "Mario Kart 64/Luigi Raceway.mmrs",
-    "preview": "https://www.youtube.com"
+    "preview": "https://www.youtube.com",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "8eebd1fe-cd12-479f-8bc2-74bcefd45aa8",
@@ -44315,7 +44346,9 @@
     ],
     "usesCustomBank": true,
     "file": "Mario Kart 64/Main Menu.mmrs",
-    "preview": "https://www.youtube.com"
+    "preview": "https://www.youtube.com",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e01e60e9-37f0-4b3c-aa10-5da8ead23354",
@@ -44334,7 +44367,10 @@
       "4"
     ],
     "file": "Mario Kart 64/Moo Moo Farm.mmrs",
-    "preview": "https://www.youtube.com"
+    "preview": "https://www.youtube.com",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1421b9fe-65ed-4d24-8043-98ab901795c1",
@@ -44353,7 +44389,9 @@
     ],
     "usesCustomBank": true,
     "file": "Mario Kart 64/Star Power.mmrs",
-    "preview": "https://www.youtube.com"
+    "preview": "https://www.youtube.com",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "bfab3c99-5da2-4552-8e8b-ac84da26ffe0",
@@ -44373,7 +44411,37 @@
     ],
     "usesCustomBank": true,
     "file": "Mario Kart 64/Toad's Turnpike.mmrs",
-    "preview": "https://www.youtube.com"
+    "preview": "https://www.youtube.com",
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "game": "Mario Kart 64",
+    "song": "Kalimari Desert",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "95dcdcb7-51e8-4e01-a08b-07e58a67c403",
+    "file": "Mario Kart 64/Kalimari Desert.mmrs"
+  },
+  {
+    "game": "Mario Kart 64",
+    "song": "Rainbow Road",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "00de7014-c8be-47bd-a3b9-502d25bfce24",
+    "file": "Mario Kart 64/Rainbow Road.mmrs"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
