@@ -44459,5 +44459,27 @@
     "file": "Mario Kart 64/Rainbow Road.mmrs",
     "preview": ""
   },
+  {
+    "uuid": "27afd162-2183-41b6-9679-48ad5f7ed536",
+    "creationDate": "2026-05-01T16:35:21.194Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Jazz",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Majora's Mask Randomizer/Jazz.mmrs",
+    "preview": "https://www.youtube.com/watch?v=NJUak974324"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
