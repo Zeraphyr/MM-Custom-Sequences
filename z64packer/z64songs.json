@@ -44710,5 +44710,24 @@
     "file": "Majora's Mask Randomizer/Underground Castle - Goron Village.mmrs",
     "preview": "https://www.youtube.com/watch?v=PyHhxtxO9wM"
   },
+  {
+    "uuid": "c5e8b4c6-c6be-483c-a874-87590d149d6a",
+    "creationDate": "2026-05-01T17:01:29.844Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Underground Castle - Gerudo Bay",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": true,
+    "file": "Majora's Mask Randomizer/Underground Castle - Gerudo Bay.mmrs",
+    "preview": "https://www.youtube.com/watch?v=wUdzCHJk7Bs"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
