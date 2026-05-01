@@ -44692,5 +44692,23 @@
     "file": "Majora's Mask Randomizer/Underground Castle - Minigame.mmrs",
     "preview": "https://www.youtube.com/watch?v=f9iHIb83Tjw"
   },
+  {
+    "uuid": "f9f518cd-1f4b-4007-a6f7-4081999df796",
+    "creationDate": "2026-05-01T16:53:46.207Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Underground Castle - Goron Village",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "file": "Majora's Mask Randomizer/Underground Castle - Goron Village.mmrs",
+    "preview": "https://www.youtube.com/watch?v=PyHhxtxO9wM"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
