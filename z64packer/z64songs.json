@@ -44594,5 +44594,26 @@
     "file": "Majora's Mask Randomizer/Underground Castle - Village.mmrs",
     "preview": "https://www.youtube.com/watch?v=vRrgFKBv_i4"
   },
+  {
+    "uuid": "c946576a-3f85-42bc-bd97-7fe8e0be7e06",
+    "creationDate": "2026-05-01T16:45:38.592Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Underground Castle - Snowfield (Old)",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "6",
+      "1"
+    ],
+    "file": "Majora's Mask Randomizer/Underground Castle - Snowfield (Old).mmrs",
+    "preview": "https://www.youtube.com/watch?v=GRdSrqbPZN8"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
