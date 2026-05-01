@@ -44238,5 +44238,25 @@
     "file": "Mario Kart 64/DK's Jungle Parkway.mmrs",
     "preview": "https://www.youtube.com"
   },
+  {
+    "uuid": "36473320-de5e-486d-b4fc-8d3a08253633",
+    "creationDate": "2026-05-01T16:16:00.707Z",
+    "game": "Mario Kart 64",
+    "song": "Frappe Snowland",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "file": "Mario Kart 64/Frappe Snowland.mmrs",
+    "preview": "https://www.youtube.com"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
