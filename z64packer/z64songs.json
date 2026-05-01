@@ -44654,5 +44654,23 @@
     "file": "Majora's Mask Randomizer/Underground Castle - Pre-Dungeon.mmrs",
     "preview": "https://www.youtube.com/watch?v=ymhnAmENiHI"
   },
+  {
+    "uuid": "ca4f8fed-9563-41a3-811a-b34a314ac8e1",
+    "creationDate": "2026-05-01T16:50:11.341Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Underground Castle - Mountain",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "file": "Majora's Mask Randomizer/Underground Castle - Mountain.mmrs",
+    "preview": "https://www.youtube.com/watch?v=_8uQIGqwPe0"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
