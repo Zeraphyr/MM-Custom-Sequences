@@ -44336,5 +44336,24 @@
     "file": "Mario Kart 64/Moo Moo Farm.mmrs",
     "preview": "https://www.youtube.com"
   },
+  {
+    "uuid": "1421b9fe-65ed-4d24-8043-98ab901795c1",
+    "creationDate": "2026-05-01T16:22:32.155Z",
+    "game": "Mario Kart 64",
+    "song": "Star Power",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": true,
+    "file": "Mario Kart 64/Star Power.mmrs",
+    "preview": "https://www.youtube.com"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
