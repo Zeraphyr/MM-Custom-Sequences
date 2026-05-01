@@ -44481,5 +44481,26 @@
     "file": "Majora's Mask Randomizer/Jazz.mmrs",
     "preview": "https://www.youtube.com/watch?v=NJUak974324"
   },
+  {
+    "uuid": "415c580c-1019-4736-87d9-ac917a05ad39",
+    "creationDate": "2026-05-01T16:36:51.011Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Main Theme",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Majora's Mask Randomizer/Main Theme.mmrs",
+    "preview": "https://www.youtube.com/watch?v=ciN3qVcbWCM"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
