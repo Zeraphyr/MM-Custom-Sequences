@@ -44729,5 +44729,24 @@
     "file": "Majora's Mask Randomizer/Underground Castle - Gerudo Bay.mmrs",
     "preview": "https://www.youtube.com/watch?v=wUdzCHJk7Bs"
   },
+  {
+    "uuid": "a6f7c80c-a2c4-4a9c-91ce-6d1180f4ee37",
+    "creationDate": "2026-05-01T17:03:05.265Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Underground Castle - File Select",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "16E"
+    ],
+    "file": "Majora's Mask Randomizer/Underground Castle - File Select.mmrs",
+    "preview": "https://www.youtube.com/watch?v=qoKvORKRH2U"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
