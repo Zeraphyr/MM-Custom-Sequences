@@ -44538,5 +44538,25 @@
     "file": "Majora's Mask Randomizer/PA - Ikana Castle.mmrs",
     "preview": "https://www.youtube.com/watch?v=Yy-Fo3XWGhs"
   },
+  {
+    "uuid": "b5048c71-bf95-47cc-97f7-3f26f3e25429",
+    "creationDate": "2026-05-01T16:42:11.130Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Underground Castle - Zora",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Majora's Mask Randomizer/Underground Castle - Zora.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Yqc-DlQf9k4"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
