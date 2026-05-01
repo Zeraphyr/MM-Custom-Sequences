@@ -44978,5 +44978,23 @@
     "file": "Majora's Mask Randomizer/Underground Castle - Navi.mmrs",
     "preview": "https://www.youtube.com/watch?v=QqTAM5Cj08s"
   },
+  {
+    "uuid": "f9274e0c-2f8b-4377-8353-b73bb2c4e506",
+    "creationDate": "2026-05-01T17:24:33.484Z",
+    "game": "The Legend of Zelda: Skyward Sword",
+    "song": "Groose's Theme",
+    "composers": [
+      "Takeshi Hama"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "file": "The Legend of Zelda Skyward Sword/Groose's Theme.mmrs",
+    "preview": "https://www.youtube.com"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
