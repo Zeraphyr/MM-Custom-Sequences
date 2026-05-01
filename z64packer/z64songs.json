@@ -44355,5 +44355,25 @@
     "file": "Mario Kart 64/Star Power.mmrs",
     "preview": "https://www.youtube.com"
   },
+  {
+    "uuid": "bfab3c99-5da2-4552-8e8b-ac84da26ffe0",
+    "creationDate": "2026-05-01T16:23:07.566Z",
+    "game": "Mario Kart 64",
+    "song": "Toad's Turnpike",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "file": "Mario Kart 64/Toad's Turnpike.mmrs",
+    "preview": "https://www.youtube.com"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
