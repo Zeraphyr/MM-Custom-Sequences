@@ -44297,5 +44297,25 @@
     "file": "Mario Kart 64/Luigi Raceway.mmrs",
     "preview": "https://www.youtube.com"
   },
+  {
+    "uuid": "8eebd1fe-cd12-479f-8bc2-74bcefd45aa8",
+    "creationDate": "2026-05-01T16:19:53.871Z",
+    "game": "Mario Kart 64",
+    "song": "Main Menu",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Mario Kart 64/Main Menu.mmrs",
+    "preview": "https://www.youtube.com"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
