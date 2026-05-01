@@ -42387,96 +42387,6 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
   {
     "game": "The Legend of Zelda: Majora's Mask",
     "composers": [
@@ -44156,6 +44066,25 @@
     "uuid": "77cbae5f-ae6f-4651-b26c-c7f24654ddec",
     "file": "The Legend of Zelda Majora's Mask/Pursuit Theme.mmrs",
     "preview": "https://www.youtube.com/watch?v=5Dxw4Yqe5q4"
+  },
+  {
+    "uuid": "70922760-b1df-4b99-b400-481dcd74a974",
+    "creationDate": "2026-05-01T02:37:17.132Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Hyrule Castle",
+    "composers": [
+      "Manaka Kataoka"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "0"
+    ],
+    "file": "The Legend of Zelda Breath of the Wild/Hyrule Castle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=n2xz8zHCLsU"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
