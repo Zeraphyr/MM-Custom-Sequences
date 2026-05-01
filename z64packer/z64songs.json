@@ -44200,5 +44200,24 @@
     "file": "Mario Kart 64/No Trophy For You!.mmrs",
     "preview": "https://www.youtube.com"
   },
+  {
+    "uuid": "a4f364d8-1757-4a1d-b8a5-0b331d5235a4",
+    "creationDate": "2026-05-01T16:13:00.963Z",
+    "game": "Mario Kart 64",
+    "song": "Choco Mountian",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "file": "Mario Kart 64/Choco Mountian.mmrs",
+    "preview": "https://www.youtube.com"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
