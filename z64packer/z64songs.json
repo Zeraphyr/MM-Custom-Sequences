@@ -44479,7 +44479,9 @@
     ],
     "usesCustomBank": true,
     "file": "Majora's Mask Randomizer/Jazz.mmrs",
-    "preview": "https://www.youtube.com/watch?v=NJUak974324"
+    "preview": "https://www.youtube.com/watch?v=NJUak974324",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "415c580c-1019-4736-87d9-ac917a05ad39",
@@ -44500,7 +44502,9 @@
     ],
     "usesCustomBank": true,
     "file": "Majora's Mask Randomizer/Main Theme.mmrs",
-    "preview": "https://www.youtube.com/watch?v=ciN3qVcbWCM"
+    "preview": "https://www.youtube.com/watch?v=ciN3qVcbWCM",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "590e9ebe-ae29-4117-8054-642d1fd62826",
@@ -44518,7 +44522,10 @@
       "0"
     ],
     "file": "Majora's Mask Randomizer/Project Majesty - Field.mmrs",
-    "preview": "https://www.youtube.com/watch?v=XvpAKihTnYw"
+    "preview": "https://www.youtube.com/watch?v=XvpAKihTnYw",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "848f4661-fcf7-4eba-b5bf-982ab24d4bbd",
@@ -44536,7 +44543,10 @@
       "2"
     ],
     "file": "Majora's Mask Randomizer/PA - Ikana Castle.mmrs",
-    "preview": "https://www.youtube.com/watch?v=Yy-Fo3XWGhs"
+    "preview": "https://www.youtube.com/watch?v=Yy-Fo3XWGhs",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b5048c71-bf95-47cc-97f7-3f26f3e25429",
@@ -44556,7 +44566,9 @@
     ],
     "usesCustomBank": true,
     "file": "Majora's Mask Randomizer/Underground Castle - Zora.mmrs",
-    "preview": "https://www.youtube.com/watch?v=Yqc-DlQf9k4"
+    "preview": "https://www.youtube.com/watch?v=Yqc-DlQf9k4",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e692e5de-936b-40f9-960e-91b3cbc1fec4",
@@ -44574,7 +44586,10 @@
       "6"
     ],
     "file": "Majora's Mask Randomizer/Underground Castle - Zelda.mmrs",
-    "preview": "https://www.youtube.com/watch?v=6VAYwNCrYYY"
+    "preview": "https://www.youtube.com/watch?v=6VAYwNCrYYY",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4772cc18-d422-471b-8428-796a0df2614c",
@@ -44592,7 +44607,10 @@
       "1"
     ],
     "file": "Majora's Mask Randomizer/Underground Castle - Village.mmrs",
-    "preview": "https://www.youtube.com/watch?v=vRrgFKBv_i4"
+    "preview": "https://www.youtube.com/watch?v=vRrgFKBv_i4",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c946576a-3f85-42bc-bd97-7fe8e0be7e06",
@@ -44613,7 +44631,10 @@
       "1"
     ],
     "file": "Majora's Mask Randomizer/Underground Castle - Snowfield (Old).mmrs",
-    "preview": "https://www.youtube.com/watch?v=GRdSrqbPZN8"
+    "preview": "https://www.youtube.com/watch?v=GRdSrqbPZN8",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "719ca15d-4faf-4458-8e3b-063d1becf532",
@@ -44633,7 +44654,10 @@
       "3"
     ],
     "file": "Majora's Mask Randomizer/Underground Castle - Snowfield.mmrs",
-    "preview": "https://www.youtube.com/watch?v=irVKOvKxH1E"
+    "preview": "https://www.youtube.com/watch?v=irVKOvKxH1E",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "9c672eeb-030f-49ff-abdb-8de33bafa1c9",
@@ -44652,7 +44676,10 @@
       "1"
     ],
     "file": "Majora's Mask Randomizer/Underground Castle - Pre-Dungeon.mmrs",
-    "preview": "https://www.youtube.com/watch?v=ymhnAmENiHI"
+    "preview": "https://www.youtube.com/watch?v=ymhnAmENiHI",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ca4f8fed-9563-41a3-811a-b34a314ac8e1",
@@ -44670,7 +44697,10 @@
       "0"
     ],
     "file": "Majora's Mask Randomizer/Underground Castle - Mountain.mmrs",
-    "preview": "https://www.youtube.com/watch?v=_8uQIGqwPe0"
+    "preview": "https://www.youtube.com/watch?v=_8uQIGqwPe0",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d370eccc-e4ca-4d20-bbfa-52c8239f9ccc",
@@ -44690,7 +44720,9 @@
     ],
     "usesCustomBank": true,
     "file": "Majora's Mask Randomizer/Underground Castle - Minigame.mmrs",
-    "preview": "https://www.youtube.com/watch?v=f9iHIb83Tjw"
+    "preview": "https://www.youtube.com/watch?v=f9iHIb83Tjw",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "f9f518cd-1f4b-4007-a6f7-4081999df796",
@@ -44708,7 +44740,10 @@
       "1"
     ],
     "file": "Majora's Mask Randomizer/Underground Castle - Goron Village.mmrs",
-    "preview": "https://www.youtube.com/watch?v=PyHhxtxO9wM"
+    "preview": "https://www.youtube.com/watch?v=PyHhxtxO9wM",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c5e8b4c6-c6be-483c-a874-87590d149d6a",
@@ -44727,7 +44762,9 @@
     ],
     "usesCustomBank": true,
     "file": "Majora's Mask Randomizer/Underground Castle - Gerudo Bay.mmrs",
-    "preview": "https://www.youtube.com/watch?v=wUdzCHJk7Bs"
+    "preview": "https://www.youtube.com/watch?v=wUdzCHJk7Bs",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a6f7c80c-a2c4-4a9c-91ce-6d1180f4ee37",
@@ -44746,7 +44783,10 @@
       "16E"
     ],
     "file": "Majora's Mask Randomizer/Underground Castle - File Select.mmrs",
-    "preview": "https://www.youtube.com/watch?v=qoKvORKRH2U"
+    "preview": "https://www.youtube.com/watch?v=qoKvORKRH2U",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e8815ee5-a798-4ed6-974e-751d7ce60579",
@@ -44764,7 +44804,10 @@
       "0"
     ],
     "file": "Majora's Mask Randomizer/Underground Castle - Field.mmrs",
-    "preview": "https://www.youtube.com/watch?v=rWwMF_UMAmY"
+    "preview": "https://www.youtube.com/watch?v=rWwMF_UMAmY",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e956ae10-0a29-4b92-9237-670ed3a05cf0",
@@ -44783,7 +44826,10 @@
       "1"
     ],
     "file": "Majora's Mask Randomizer/Underground Castle - Dream.mmrs",
-    "preview": "https://www.youtube.com/watch?v=ka0Aet5GVuQ"
+    "preview": "https://www.youtube.com/watch?v=ka0Aet5GVuQ",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "9db4c4f8-afdf-41c3-a3d4-62c09e26350d",
@@ -44801,7 +44847,88 @@
       "1"
     ],
     "file": "Majora's Mask Randomizer/Deku Forest.mmrs",
-    "preview": "https://www.youtube.com/watch?v=qfHwLO1Wr4A"
+    "preview": "https://www.youtube.com/watch?v=qfHwLO1Wr4A",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "game": "Majora's Mask Randomizer",
+    "song": "Underground Castle - Boss",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "aa5e5217-7cbb-4f9a-89d8-000b7817a323",
+    "file": "Majora's Mask Randomizer/Underground Castle - Boss.mmrs"
+  },
+  {
+    "game": "Majora's Mask Randomizer",
+    "song": "Underground Castle - Forest Temple",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "54735503-d828-4207-a45e-255031219ccf",
+    "file": "Majora's Mask Randomizer/Underground Castle - Forest Temple.mmrs"
+  },
+  {
+    "game": "Majora's Mask Randomizer",
+    "song": "Underground Castle - Miniboss",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "231b02f7-aed3-4f26-b6a3-0442fca5bdd9",
+    "file": "Majora's Mask Randomizer/Underground Castle - Miniboss.mmrs"
+  },
+  {
+    "game": "Majora's Mask Randomizer",
+    "song": "Underground Castle - Dungeon",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "56b423bd-e302-4fc7-865a-ca98c88bf6d9",
+    "file": "Majora's Mask Randomizer/Underground Castle - Dungeon.mmrs"
+  },
+  {
+    "game": "Majora's Mask Randomizer",
+    "song": "Underground Castle - Deku Tree",
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "92b8c846-a466-4fec-9311-3361c57e3667",
+    "file": "Majora's Mask Randomizer/Underground Castle - Deku Tree.mmrs"
+  },
+  {
+    "game": "Majora's Mask Randomizer",
+    "song": "Underground Castle - Navi",
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "d5d89bd4-9568-4499-845e-af02e21ffd64",
+    "file": "Majora's Mask Randomizer/Underground Castle - Navi.mmrs"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
