@@ -44317,5 +44317,24 @@
     "file": "Mario Kart 64/Main Menu.mmrs",
     "preview": "https://www.youtube.com"
   },
+  {
+    "uuid": "e01e60e9-37f0-4b3c-aa10-5da8ead23354",
+    "creationDate": "2026-05-01T16:20:29.504Z",
+    "game": "Mario Kart 64",
+    "song": "Moo Moo Farm",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "file": "Mario Kart 64/Moo Moo Farm.mmrs",
+    "preview": "https://www.youtube.com"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
