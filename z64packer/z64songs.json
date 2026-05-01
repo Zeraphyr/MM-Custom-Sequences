@@ -44219,5 +44219,24 @@
     "file": "Mario Kart 64/Choco Mountian.mmrs",
     "preview": "https://www.youtube.com"
   },
+  {
+    "uuid": "86dbe85d-34d9-4abb-afd5-661aa73586e7",
+    "creationDate": "2026-05-01T16:14:56.833Z",
+    "game": "Mario Kart 64",
+    "song": "DK's Jungle Parkway",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Mario Kart 64/DK's Jungle Parkway.mmrs",
+    "preview": "https://www.youtube.com"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
