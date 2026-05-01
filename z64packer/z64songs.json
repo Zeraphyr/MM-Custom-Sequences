@@ -44143,5 +44143,24 @@
     "file": "Mario Kart 64/Banshee Boardwalk.mmrs",
     "preview": "https://www.youtube.com"
   },
+  {
+    "uuid": "302c14a2-2cc5-4f1e-aeb0-c3cf948199a5",
+    "creationDate": "2026-05-01T16:06:13.678Z",
+    "game": "Mario Kart 64",
+    "song": "Bowser's Castle",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "5"
+    ],
+    "file": "Mario Kart 64/Bowser's Castle.mmrs",
+    "preview": "https://www.youtube.com"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
