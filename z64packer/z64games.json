@@ -3570,7 +3570,10 @@
     "short_name": "Croc"
   },
   {
-    "game": "Majora's Mask Randomizer"
+    "game": "Majora's Mask Randomizer",
+    "series": "The Legend of Zelda Series",
+    "logo": "https://mmrandomizer.com/img/logo/full/png/mm-randomizer-logo_md.png",
+    "short_name": "MM Rando"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -44855,6 +44855,13 @@
   {
     "game": "Majora's Mask Randomizer",
     "song": "Underground Castle - Boss",
+    "creationDate": "2026-05-01T17:07:29.703Z",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
     "type": "bgm",
     "categories": [
       "7"
@@ -44863,11 +44870,19 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "aa5e5217-7cbb-4f9a-89d8-000b7817a323",
-    "file": "Majora's Mask Randomizer/Underground Castle - Boss.mmrs"
+    "file": "Majora's Mask Randomizer/Underground Castle - Boss.mmrs",
+    "preview": "https://www.youtube.com/watch?v=DYg9N0ROE_w"
   },
   {
     "game": "Majora's Mask Randomizer",
     "song": "Underground Castle - Forest Temple",
+    "creationDate": "2026-05-01T17:07:29.703Z",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
     "type": "bgm",
     "categories": [
       "2"
@@ -44876,11 +44891,19 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "54735503-d828-4207-a45e-255031219ccf",
-    "file": "Majora's Mask Randomizer/Underground Castle - Forest Temple.mmrs"
+    "file": "Majora's Mask Randomizer/Underground Castle - Forest Temple.mmrs",
+    "preview": "https://www.youtube.com/watch?v=HKB5YVPBYcw"
   },
   {
     "game": "Majora's Mask Randomizer",
     "song": "Underground Castle - Miniboss",
+    "creationDate": "2026-05-01T17:07:29.703Z",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
     "type": "bgm",
     "categories": [
       "7"
@@ -44889,11 +44912,19 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "231b02f7-aed3-4f26-b6a3-0442fca5bdd9",
-    "file": "Majora's Mask Randomizer/Underground Castle - Miniboss.mmrs"
+    "file": "Majora's Mask Randomizer/Underground Castle - Miniboss.mmrs",
+    "preview": "https://www.youtube.com/watch?v=zmE8QgVUTWE"
   },
   {
     "game": "Majora's Mask Randomizer",
     "song": "Underground Castle - Dungeon",
+    "creationDate": "2026-05-01T17:07:29.703Z",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
     "type": "bgm",
     "categories": [
       "2"
@@ -44902,11 +44933,19 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "56b423bd-e302-4fc7-865a-ca98c88bf6d9",
-    "file": "Majora's Mask Randomizer/Underground Castle - Dungeon.mmrs"
+    "file": "Majora's Mask Randomizer/Underground Castle - Dungeon.mmrs",
+    "preview": "https://www.youtube.com/watch?v=A0UJvuY9pVc"
   },
   {
     "game": "Majora's Mask Randomizer",
     "song": "Underground Castle - Deku Tree",
+    "creationDate": "2026-05-01T17:07:29.703Z",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
     "type": "bgm",
     "categories": [
       "6"
@@ -44915,11 +44954,19 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "92b8c846-a466-4fec-9311-3361c57e3667",
-    "file": "Majora's Mask Randomizer/Underground Castle - Deku Tree.mmrs"
+    "file": "Majora's Mask Randomizer/Underground Castle - Deku Tree.mmrs",
+    "preview": "https://www.youtube.com/watch?v=K8G2AlhnNrk"
   },
   {
     "game": "Majora's Mask Randomizer",
     "song": "Underground Castle - Navi",
+    "creationDate": "2026-05-01T17:07:29.703Z",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
     "type": "bgm",
     "categories": [
       "6"
@@ -44928,7 +44975,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "d5d89bd4-9568-4499-845e-af02e21ffd64",
-    "file": "Majora's Mask Randomizer/Underground Castle - Navi.mmrs"
+    "file": "Majora's Mask Randomizer/Underground Castle - Navi.mmrs",
+    "preview": "https://www.youtube.com/watch?v=QqTAM5Cj08s"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
