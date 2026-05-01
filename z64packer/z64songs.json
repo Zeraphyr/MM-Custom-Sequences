@@ -44785,5 +44785,23 @@
     "file": "Majora's Mask Randomizer/Underground Castle - Dream.mmrs",
     "preview": "https://www.youtube.com/watch?v=ka0Aet5GVuQ"
   },
+  {
+    "uuid": "9db4c4f8-afdf-41c3-a3d4-62c09e26350d",
+    "creationDate": "2026-05-01T17:07:29.703Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Deku Forest",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "file": "Majora's Mask Randomizer/Deku Forest.mmrs",
+    "preview": "https://www.youtube.com/watch?v=qfHwLO1Wr4A"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
