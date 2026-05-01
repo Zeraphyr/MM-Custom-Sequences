@@ -44459,5 +44459,349 @@
     "file": "Mario Kart 64/Rainbow Road.mmrs",
     "preview": ""
   },
+  {
+    "uuid": "27afd162-2183-41b6-9679-48ad5f7ed536",
+    "creationDate": "2026-05-01T16:35:21.194Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Jazz",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Majora's Mask Randomizer/Jazz.mmrs",
+    "preview": "https://www.youtube.com/watch?v=NJUak974324"
+  },
+  {
+    "uuid": "415c580c-1019-4736-87d9-ac917a05ad39",
+    "creationDate": "2026-05-01T16:36:51.011Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Main Theme",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Majora's Mask Randomizer/Main Theme.mmrs",
+    "preview": "https://www.youtube.com/watch?v=ciN3qVcbWCM"
+  },
+  {
+    "uuid": "590e9ebe-ae29-4117-8054-642d1fd62826",
+    "creationDate": "2026-05-01T16:38:18.757Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Project Majesty - Field",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "file": "Majora's Mask Randomizer/Project Majesty - Field.mmrs",
+    "preview": "https://www.youtube.com/watch?v=XvpAKihTnYw"
+  },
+  {
+    "uuid": "848f4661-fcf7-4eba-b5bf-982ab24d4bbd",
+    "creationDate": "2026-05-01T16:39:20.381Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "PA - Ikana Castle",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "Majora's Mask Randomizer/PA - Ikana Castle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Yy-Fo3XWGhs"
+  },
+  {
+    "uuid": "b5048c71-bf95-47cc-97f7-3f26f3e25429",
+    "creationDate": "2026-05-01T16:42:11.130Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Underground Castle - Zora",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Majora's Mask Randomizer/Underground Castle - Zora.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Yqc-DlQf9k4"
+  },
+  {
+    "uuid": "e692e5de-936b-40f9-960e-91b3cbc1fec4",
+    "creationDate": "2026-05-01T16:43:30.241Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Underground Castle - Zelda",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "file": "Majora's Mask Randomizer/Underground Castle - Zelda.mmrs",
+    "preview": "https://www.youtube.com/watch?v=6VAYwNCrYYY"
+  },
+  {
+    "uuid": "4772cc18-d422-471b-8428-796a0df2614c",
+    "creationDate": "2026-05-01T16:44:35.179Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Underground Castle - Village",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "file": "Majora's Mask Randomizer/Underground Castle - Village.mmrs",
+    "preview": "https://www.youtube.com/watch?v=vRrgFKBv_i4"
+  },
+  {
+    "uuid": "c946576a-3f85-42bc-bd97-7fe8e0be7e06",
+    "creationDate": "2026-05-01T16:45:38.592Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Underground Castle - Snowfield (Old)",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "6",
+      "1"
+    ],
+    "file": "Majora's Mask Randomizer/Underground Castle - Snowfield (Old).mmrs",
+    "preview": "https://www.youtube.com/watch?v=GRdSrqbPZN8"
+  },
+  {
+    "uuid": "719ca15d-4faf-4458-8e3b-063d1becf532",
+    "creationDate": "2026-05-01T16:46:40.782Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Underground Castle - Snowfield",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Majora's Mask Randomizer/Underground Castle - Snowfield.mmrs",
+    "preview": "https://www.youtube.com/watch?v=irVKOvKxH1E"
+  },
+  {
+    "uuid": "9c672eeb-030f-49ff-abdb-8de33bafa1c9",
+    "creationDate": "2026-05-01T16:47:50.609Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Underground Castle - Pre-Dungeon",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Majora's Mask Randomizer/Underground Castle - Pre-Dungeon.mmrs",
+    "preview": "https://www.youtube.com/watch?v=ymhnAmENiHI"
+  },
+  {
+    "uuid": "ca4f8fed-9563-41a3-811a-b34a314ac8e1",
+    "creationDate": "2026-05-01T16:50:11.341Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Underground Castle - Mountain",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "file": "Majora's Mask Randomizer/Underground Castle - Mountain.mmrs",
+    "preview": "https://www.youtube.com/watch?v=_8uQIGqwPe0"
+  },
+  {
+    "uuid": "d370eccc-e4ca-4d20-bbfa-52c8239f9ccc",
+    "creationDate": "2026-05-01T16:51:23.262Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Underground Castle - Minigame",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "file": "Majora's Mask Randomizer/Underground Castle - Minigame.mmrs",
+    "preview": "https://www.youtube.com/watch?v=f9iHIb83Tjw"
+  },
+  {
+    "uuid": "f9f518cd-1f4b-4007-a6f7-4081999df796",
+    "creationDate": "2026-05-01T16:53:46.207Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Underground Castle - Goron Village",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "file": "Majora's Mask Randomizer/Underground Castle - Goron Village.mmrs",
+    "preview": "https://www.youtube.com/watch?v=PyHhxtxO9wM"
+  },
+  {
+    "uuid": "c5e8b4c6-c6be-483c-a874-87590d149d6a",
+    "creationDate": "2026-05-01T17:01:29.844Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Underground Castle - Gerudo Bay",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "usesCustomBank": true,
+    "file": "Majora's Mask Randomizer/Underground Castle - Gerudo Bay.mmrs",
+    "preview": "https://www.youtube.com/watch?v=wUdzCHJk7Bs"
+  },
+  {
+    "uuid": "a6f7c80c-a2c4-4a9c-91ce-6d1180f4ee37",
+    "creationDate": "2026-05-01T17:03:05.265Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Underground Castle - File Select",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "16E"
+    ],
+    "file": "Majora's Mask Randomizer/Underground Castle - File Select.mmrs",
+    "preview": "https://www.youtube.com/watch?v=qoKvORKRH2U"
+  },
+  {
+    "uuid": "e8815ee5-a798-4ed6-974e-751d7ce60579",
+    "creationDate": "2026-05-01T17:04:11.136Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Underground Castle - Field",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "file": "Majora's Mask Randomizer/Underground Castle - Field.mmrs",
+    "preview": "https://www.youtube.com/watch?v=rWwMF_UMAmY"
+  },
+  {
+    "uuid": "e956ae10-0a29-4b92-9237-670ed3a05cf0",
+    "creationDate": "2026-05-01T17:05:52.674Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Underground Castle - Dream",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "1"
+    ],
+    "file": "Majora's Mask Randomizer/Underground Castle - Dream.mmrs",
+    "preview": "https://www.youtube.com/watch?v=ka0Aet5GVuQ"
+  },
+  {
+    "uuid": "9db4c4f8-afdf-41c3-a3d4-62c09e26350d",
+    "creationDate": "2026-05-01T17:07:29.703Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Deku Forest",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "file": "Majora's Mask Randomizer/Deku Forest.mmrs",
+    "preview": "https://www.youtube.com/watch?v=qfHwLO1Wr4A"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
