@@ -44520,5 +44520,23 @@
     "file": "Majora's Mask Randomizer/Project Majesty - Field.mmrs",
     "preview": "https://www.youtube.com/watch?v=XvpAKihTnYw"
   },
+  {
+    "uuid": "848f4661-fcf7-4eba-b5bf-982ab24d4bbd",
+    "creationDate": "2026-05-01T16:39:20.381Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "PA - Ikana Castle",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "Majora's Mask Randomizer/PA - Ikana Castle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Yy-Fo3XWGhs"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
