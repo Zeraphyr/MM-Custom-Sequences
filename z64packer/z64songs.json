@@ -44258,5 +44258,24 @@
     "file": "Mario Kart 64/Frappe Snowland.mmrs",
     "preview": "https://www.youtube.com"
   },
+  {
+    "uuid": "4fb9a2a4-5705-402c-9ee8-0a8883b9c3a9",
+    "creationDate": "2026-05-01T16:17:03.483Z",
+    "game": "Mario Kart 64",
+    "song": "Koopa Troopa Beach",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Mario Kart 64/Koopa Troopa Beach.mmrs",
+    "preview": "https://www.youtube.com"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
