@@ -44558,5 +44558,23 @@
     "file": "Majora's Mask Randomizer/Underground Castle - Zora.mmrs",
     "preview": "https://www.youtube.com/watch?v=Yqc-DlQf9k4"
   },
+  {
+    "uuid": "e692e5de-936b-40f9-960e-91b3cbc1fec4",
+    "creationDate": "2026-05-01T16:43:30.241Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Underground Castle - Zelda",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "file": "Majora's Mask Randomizer/Underground Castle - Zelda.mmrs",
+    "preview": "https://www.youtube.com/watch?v=6VAYwNCrYYY"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
