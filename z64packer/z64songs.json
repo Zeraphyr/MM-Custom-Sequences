@@ -44181,5 +44181,24 @@
     "file": "Mario Kart 64/Award Ceremony.mmrs",
     "preview": "https://www.youtube.com"
   },
+  {
+    "uuid": "c24668be-7e10-4370-919c-718d272dfab0",
+    "creationDate": "2026-05-01T16:10:38.167Z",
+    "game": "Mario Kart 64",
+    "song": "No Trophy For You!",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Mario Kart 64/No Trophy For You!.mmrs",
+    "preview": "https://www.youtube.com"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
