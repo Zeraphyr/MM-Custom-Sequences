@@ -44502,5 +44502,23 @@
     "file": "Majora's Mask Randomizer/Main Theme.mmrs",
     "preview": "https://www.youtube.com/watch?v=ciN3qVcbWCM"
   },
+  {
+    "uuid": "590e9ebe-ae29-4117-8054-642d1fd62826",
+    "creationDate": "2026-05-01T16:38:18.757Z",
+    "game": "Majora's Mask Randomizer",
+    "song": "Project Majesty - Field",
+    "composers": [
+      "DeathBasket"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "file": "Majora's Mask Randomizer/Project Majesty - Field.mmrs",
+    "preview": "https://www.youtube.com/watch?v=XvpAKihTnYw"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
