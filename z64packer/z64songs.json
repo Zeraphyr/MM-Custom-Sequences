@@ -42387,96 +42387,6 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
   {
     "game": "The Legend of Zelda: Majora's Mask",
     "composers": [
@@ -44156,6 +44066,314 @@
     "uuid": "77cbae5f-ae6f-4651-b26c-c7f24654ddec",
     "file": "The Legend of Zelda Majora's Mask/Pursuit Theme.mmrs",
     "preview": "https://www.youtube.com/watch?v=5Dxw4Yqe5q4"
+  },
+  {
+    "uuid": "70922760-b1df-4b99-b400-481dcd74a974",
+    "creationDate": "2026-05-01T02:37:17.132Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Hyrule Castle",
+    "composers": [
+      "Manaka Kataoka"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "0"
+    ],
+    "file": "The Legend of Zelda Breath of the Wild/Hyrule Castle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=n2xz8zHCLsU"
+  },
+  {
+    "uuid": "d57ed0e9-1a8e-4df1-bcd2-e9776748e0fd",
+    "creationDate": "2026-05-01T02:58:44.011Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Kass' Theme",
+    "composers": [
+      "Yasuaki Iwata"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "file": "The Legend of Zelda Breath of the Wild/Kass' Theme.mmrs",
+    "preview": "https://www.youtube.com/watch?v=cYxHUmEl5n8"
+  },
+  {
+    "uuid": "8797b056-6ac1-4f88-b5e2-1478c90a84d8",
+    "creationDate": "2026-05-01T15:43:31.360Z",
+    "game": "Mario Kart 64",
+    "song": "Battle Mode",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "file": "Mario Kart 64/Battle Mode.mmrs",
+    "preview": "https://www.youtube.com"
+  },
+  {
+    "uuid": "1c726dd0-10c1-4d90-bc52-132494730fb1",
+    "creationDate": "2026-05-01T15:45:47.363Z",
+    "game": "Mario Kart 64",
+    "song": "Banshee Boardwalk",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "5"
+    ],
+    "file": "Mario Kart 64/Banshee Boardwalk.mmrs",
+    "preview": "https://www.youtube.com"
+  },
+  {
+    "uuid": "302c14a2-2cc5-4f1e-aeb0-c3cf948199a5",
+    "creationDate": "2026-05-01T16:06:13.678Z",
+    "game": "Mario Kart 64",
+    "song": "Bowser's Castle",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "5"
+    ],
+    "file": "Mario Kart 64/Bowser's Castle.mmrs",
+    "preview": "https://www.youtube.com"
+  },
+  {
+    "uuid": "46abcfe4-40ec-4a3e-8c0e-c56d01a120a4",
+    "creationDate": "2026-05-01T16:08:01.351Z",
+    "game": "Mario Kart 64",
+    "song": "Award Ceremony",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Mario Kart 64/Award Ceremony.mmrs",
+    "preview": "https://www.youtube.com"
+  },
+  {
+    "uuid": "c24668be-7e10-4370-919c-718d272dfab0",
+    "creationDate": "2026-05-01T16:10:38.167Z",
+    "game": "Mario Kart 64",
+    "song": "No Trophy For You!",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Mario Kart 64/No Trophy For You!.mmrs",
+    "preview": "https://www.youtube.com"
+  },
+  {
+    "uuid": "a4f364d8-1757-4a1d-b8a5-0b331d5235a4",
+    "creationDate": "2026-05-01T16:13:00.963Z",
+    "game": "Mario Kart 64",
+    "song": "Choco Mountian",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "file": "Mario Kart 64/Choco Mountian.mmrs",
+    "preview": "https://www.youtube.com"
+  },
+  {
+    "uuid": "86dbe85d-34d9-4abb-afd5-661aa73586e7",
+    "creationDate": "2026-05-01T16:14:56.833Z",
+    "game": "Mario Kart 64",
+    "song": "DK's Jungle Parkway",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Mario Kart 64/DK's Jungle Parkway.mmrs",
+    "preview": "https://www.youtube.com"
+  },
+  {
+    "uuid": "36473320-de5e-486d-b4fc-8d3a08253633",
+    "creationDate": "2026-05-01T16:16:00.707Z",
+    "game": "Mario Kart 64",
+    "song": "Frappe Snowland",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "file": "Mario Kart 64/Frappe Snowland.mmrs",
+    "preview": "https://www.youtube.com"
+  },
+  {
+    "uuid": "4fb9a2a4-5705-402c-9ee8-0a8883b9c3a9",
+    "creationDate": "2026-05-01T16:17:03.483Z",
+    "game": "Mario Kart 64",
+    "song": "Koopa Troopa Beach",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Mario Kart 64/Koopa Troopa Beach.mmrs",
+    "preview": "https://www.youtube.com"
+  },
+  {
+    "uuid": "e49175b0-5486-4c67-986b-8da5431118ac",
+    "creationDate": "2026-05-01T16:19:18.087Z",
+    "game": "Mario Kart 64",
+    "song": "Luigi Raceway",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "file": "Mario Kart 64/Luigi Raceway.mmrs",
+    "preview": "https://www.youtube.com"
+  },
+  {
+    "uuid": "8eebd1fe-cd12-479f-8bc2-74bcefd45aa8",
+    "creationDate": "2026-05-01T16:19:53.871Z",
+    "game": "Mario Kart 64",
+    "song": "Main Menu",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Mario Kart 64/Main Menu.mmrs",
+    "preview": "https://www.youtube.com"
+  },
+  {
+    "uuid": "e01e60e9-37f0-4b3c-aa10-5da8ead23354",
+    "creationDate": "2026-05-01T16:20:29.504Z",
+    "game": "Mario Kart 64",
+    "song": "Moo Moo Farm",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "file": "Mario Kart 64/Moo Moo Farm.mmrs",
+    "preview": "https://www.youtube.com"
+  },
+  {
+    "uuid": "1421b9fe-65ed-4d24-8043-98ab901795c1",
+    "creationDate": "2026-05-01T16:22:32.155Z",
+    "game": "Mario Kart 64",
+    "song": "Star Power",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "usesCustomBank": true,
+    "file": "Mario Kart 64/Star Power.mmrs",
+    "preview": "https://www.youtube.com"
+  },
+  {
+    "uuid": "bfab3c99-5da2-4552-8e8b-ac84da26ffe0",
+    "creationDate": "2026-05-01T16:23:07.566Z",
+    "game": "Mario Kart 64",
+    "song": "Toad's Turnpike",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": true,
+    "file": "Mario Kart 64/Toad's Turnpike.mmrs",
+    "preview": "https://www.youtube.com"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
