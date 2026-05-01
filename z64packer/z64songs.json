@@ -44086,5 +44086,23 @@
     "file": "The Legend of Zelda Breath of the Wild/Hyrule Castle.mmrs",
     "preview": "https://www.youtube.com/watch?v=n2xz8zHCLsU"
   },
+  {
+    "uuid": "d57ed0e9-1a8e-4df1-bcd2-e9776748e0fd",
+    "creationDate": "2026-05-01T02:58:44.011Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Kass' Theme",
+    "composers": [
+      "Yasuaki Iwata"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "file": "The Legend of Zelda Breath of the Wild/Kass' Theme.mmrs",
+    "preview": "https://www.youtube.com/watch?v=cYxHUmEl5n8"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
