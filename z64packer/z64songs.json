@@ -45450,5 +45450,23 @@
     "file": "The Legend of Zelda Ocarina of Time/Market.mmrs",
     "preview": "https://www.youtube.com/watch?v=1FiDgyEi2Bg"
   },
+  {
+    "uuid": "8814c639-181b-4ef1-a021-61a2a452ba68",
+    "creationDate": "2026-05-02T06:09:03.087Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Mini Boss Battle",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Mini Boss Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=gNjbEG-13Yk"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
