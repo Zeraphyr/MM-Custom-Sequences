@@ -45237,5 +45237,24 @@
     "file": "The Legend of Zelda Ocarina of Time/Forest Temple (MM Version).mmrs",
     "preview": "https://www.youtube.com"
   },
+  {
+    "uuid": "fc79d310-1ffd-4c96-9271-843df18c3acf",
+    "creationDate": "2026-05-02T01:02:40.782Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Get Spiritual Stone",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Get Spiritual Stone.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Bfvjb8ELkuI"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
