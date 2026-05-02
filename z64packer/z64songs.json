@@ -45090,5 +45090,24 @@
     "file": "The Legend of Zelda Ocarina of Time/Chamber of the Sages.mmrs",
     "preview": "https://www.youtube.com/watch?v=UfvfSHRtCOM"
   },
+  {
+    "uuid": "8088024a-a88d-417d-b4f2-689b7722f404",
+    "creationDate": "2026-05-02T00:44:45.819Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Deku Tree (MM Version)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "1"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Deku Tree (MM Version).mmrs",
+    "preview": "https://www.youtube.com"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
