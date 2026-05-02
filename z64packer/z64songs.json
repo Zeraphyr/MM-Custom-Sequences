@@ -45032,5 +45032,25 @@
     "file": "The Legend of Zelda Ocarina of Time/Escape from Ganon's Castle.mmrs",
     "preview": "https://www.youtube.com/watch?v=b12EllDP-oU"
   },
+  {
+    "uuid": "940eaa57-4a5c-4faf-b4c5-f6c7b90a66d4",
+    "creationDate": "2026-05-02T00:15:08.763Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Hyrule Castle Courtyard",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Hyrule Castle Courtyard.mmrs",
+    "preview": "https://www.youtube.com/watch?v=N6xo31Aqoyc"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
