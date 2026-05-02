@@ -45469,5 +45469,23 @@
     "file": "The Legend of Zelda Ocarina of Time/Fairy Flying.mmrs",
     "preview": "https://www.youtube.com/watch?v=hAsBCTL3kQU"
   },
+  {
+    "uuid": "41b8d56e-78d4-4746-9c5c-4885c2c82ea8",
+    "creationDate": "2026-05-02T06:10:16.993Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Shadow Temple",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Shadow Temple.mmrs",
+    "preview": "https://www.youtube.com/watch?v=XISBVWK4l6s"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
