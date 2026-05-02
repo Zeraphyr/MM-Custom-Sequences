@@ -45507,5 +45507,23 @@
     "file": "The Legend of Zelda Ocarina of Time/Temple of Time.mmrs",
     "preview": "https://www.youtube.com/watch?v=Sv66WYSQPAc"
   },
+  {
+    "uuid": "a4e27821-8876-409d-8068-ee53a2a29a47",
+    "creationDate": "2026-05-02T06:13:22.106Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Water Temple (MM Version)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Water Temple (MM Version).mmrs",
+    "preview": "https://www.youtube.com/watch?v=GlJ3V0KJy9o"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
