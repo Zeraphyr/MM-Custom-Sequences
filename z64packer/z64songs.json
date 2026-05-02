@@ -45489,10 +45489,10 @@
     "preview": "https://www.youtube.com/watch?v=3iV8MkbGm2o"
   },
   {
-    "uuid": "4f60b672-8cd2-4c1c-b928-8269fe69b993",
-    "creationDate": "2026-05-02T06:11:47.936Z",
+    "uuid": "51208308-9228-4198-87af-48370f32c6ba",
+    "creationDate": "2026-05-02T06:12:24.592Z",
     "game": "The Legend of Zelda: Ocarina of Time",
-    "song": "Spirit Temple (MM Version)",
+    "song": "Temple of Time",
     "composers": [
       "Koji Kondo"
     ],
@@ -45501,10 +45501,11 @@
     ],
     "type": "bgm",
     "categories": [
-      "2"
+      "3",
+      "1"
     ],
-    "file": "The Legend of Zelda Ocarina of Time/Spirit Temple (MM Version).mmrs",
-    "preview": "https://www.youtube.com/watch?v=YYBv-Yy6pos"
+    "file": "The Legend of Zelda Ocarina of Time/Temple of Time.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Sv66WYSQPAc"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
