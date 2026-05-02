@@ -45394,5 +45394,23 @@
     "file": "The Legend of Zelda Ocarina of Time/Ice Cavern.mmrs",
     "preview": "https://www.youtube.com/watch?v=fOG2K4I8ZhI"
   },
+  {
+    "uuid": "b3342fb0-a800-45cc-8b95-34a9874cd266",
+    "creationDate": "2026-05-02T06:02:58.249Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Inside the Deku Tree",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Inside the Deku Tree.mmrs",
+    "preview": "https://www.youtube.com/watch?v=WomOOpj-8o8"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
