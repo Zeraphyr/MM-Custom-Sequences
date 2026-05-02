@@ -44978,5 +44978,301 @@
     "file": "Majora's Mask Randomizer/Underground Castle - Navi.mmrs",
     "preview": "https://www.youtube.com/watch?v=QqTAM5Cj08s"
   },
+  {
+    "uuid": "f9274e0c-2f8b-4377-8353-b73bb2c4e506",
+    "creationDate": "2026-05-01T17:24:33.484Z",
+    "game": "The Legend of Zelda: Skyward Sword",
+    "song": "Groose's Theme",
+    "composers": [
+      "Takeshi Hama"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "file": "The Legend of Zelda Skyward Sword/Groose's Theme.mmrs",
+    "preview": "https://www.youtube.com"
+  },
+  {
+    "uuid": "bb37ea8d-a72f-49ba-9bb1-71bddb22b3f8",
+    "creationDate": "2026-05-02T00:10:32.064Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Boss Battle",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Boss Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=e0bSmvYgflk"
+  },
+  {
+    "uuid": "582164f5-cab5-452e-bea8-8835eda1ffa1",
+    "creationDate": "2026-05-02T00:12:20.353Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Escape from Ganon's Castle",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Escape from Ganon's Castle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=b12EllDP-oU"
+  },
+  {
+    "uuid": "940eaa57-4a5c-4faf-b4c5-f6c7b90a66d4",
+    "creationDate": "2026-05-02T00:15:08.763Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Hyrule Castle Courtyard",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Hyrule Castle Courtyard.mmrs",
+    "preview": "https://www.youtube.com/watch?v=N6xo31Aqoyc"
+  },
+  {
+    "uuid": "b516d132-8e59-4e2a-b28c-3ec5ea6ee99f",
+    "creationDate": "2026-05-02T00:41:23.597Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "The Creation of Hyrule",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "16"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/The Creation of Hyrule.mmrs",
+    "preview": "https://www.youtube.com/watch?v=PZ_qb3Tn84M"
+  },
+  {
+    "uuid": "efbb34e6-6848-457a-a8bb-0f1b232d0e60",
+    "creationDate": "2026-05-02T00:42:31.044Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Chamber of the Sages",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "1",
+      "6"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Chamber of the Sages.mmrs",
+    "preview": "https://www.youtube.com/watch?v=UfvfSHRtCOM"
+  },
+  {
+    "uuid": "8088024a-a88d-417d-b4f2-689b7722f404",
+    "creationDate": "2026-05-02T00:44:45.819Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Deku Tree (MM Version)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "1"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Deku Tree (MM Version).mmrs",
+    "preview": "https://www.youtube.com"
+  },
+  {
+    "uuid": "59724e54-7f8e-4cb3-8019-5da47d4cba88",
+    "creationDate": "2026-05-02T00:46:32.113Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Dinosaur Boss Battle",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Dinosaur Boss Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=TnN4vKjiAO4"
+  },
+  {
+    "uuid": "161b5f45-7917-408d-8095-0f032fa699a1",
+    "creationDate": "2026-05-02T00:47:37.559Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Dodongo's Cavern",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Dodongo's Cavern.mmrs",
+    "preview": "https://www.youtube.com/watch?v=oE0e1GpM5KA"
+  },
+  {
+    "uuid": "b8d3857d-0c3f-4a46-9005-3814431ae007",
+    "creationDate": "2026-05-02T00:50:09.036Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Enter Ganondorf",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Enter Ganondorf.mmrs",
+    "preview": "https://www.youtube.com/watch?v=QT22umLz-YQ"
+  },
+  {
+    "uuid": "8174062f-6b42-4204-828c-07522a3e89ab",
+    "creationDate": "2026-05-02T00:54:03.948Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Fire Temple (MM Version)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Fire Temple (MM Version).mmrs",
+    "preview": "https://www.youtube.com"
+  },
+  {
+    "uuid": "43048c3c-9b2e-45a8-8959-6e9073f01d27",
+    "creationDate": "2026-05-02T00:58:26.706Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Get Medallion",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Get Medallion.mmrs",
+    "preview": "https://www.youtube.com/watch?v=HL8E_jRvGuM"
+  },
+  {
+    "uuid": "5bc6d00e-4090-4fdf-b8d2-976aa85d7402",
+    "creationDate": "2026-05-02T01:00:24.734Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Open Door of Time",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Open Door of Time.mmrs",
+    "preview": "https://www.youtube.com/watch?v=pvzYn3ecKlA"
+  },
+  {
+    "uuid": "e46d74de-316c-4439-be27-e61a3ac578a6",
+    "creationDate": "2026-05-02T01:01:37.179Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Forest Temple (MM Version)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Forest Temple (MM Version).mmrs",
+    "preview": "https://www.youtube.com"
+  },
+  {
+    "uuid": "fc79d310-1ffd-4c96-9271-843df18c3acf",
+    "creationDate": "2026-05-02T01:02:40.782Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Get Spiritual Stone",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Get Spiritual Stone.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Bfvjb8ELkuI"
+  },
+  {
+    "uuid": "dd2912a6-66b7-409b-89b1-b4abb4ad8270",
+    "creationDate": "2026-05-02T01:04:52.783Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Master Sword",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Master Sword.mmrs",
+    "preview": "https://www.youtube.com/watch?v=rXTjfImF9gk"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
