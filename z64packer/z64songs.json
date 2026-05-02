@@ -44994,7 +44994,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Skyward Sword/Groose's Theme.mmrs",
-    "preview": "https://www.youtube.com"
+    "preview": "https://www.youtube.com",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "bb37ea8d-a72f-49ba-9bb1-71bddb22b3f8",
@@ -45012,7 +45015,10 @@
       "7"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Boss Battle.mmrs",
-    "preview": "https://www.youtube.com/watch?v=e0bSmvYgflk"
+    "preview": "https://www.youtube.com/watch?v=e0bSmvYgflk",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "582164f5-cab5-452e-bea8-8835eda1ffa1",
@@ -45030,7 +45036,10 @@
       "5"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Escape from Ganon's Castle.mmrs",
-    "preview": "https://www.youtube.com/watch?v=b12EllDP-oU"
+    "preview": "https://www.youtube.com/watch?v=b12EllDP-oU",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "940eaa57-4a5c-4faf-b4c5-f6c7b90a66d4",
@@ -45050,7 +45059,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Hyrule Castle Courtyard.mmrs",
-    "preview": "https://www.youtube.com/watch?v=N6xo31Aqoyc"
+    "preview": "https://www.youtube.com/watch?v=N6xo31Aqoyc",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b516d132-8e59-4e2a-b28c-3ec5ea6ee99f",
@@ -45068,7 +45080,10 @@
       "16"
     ],
     "file": "The Legend of Zelda Ocarina of Time/The Creation of Hyrule.mmrs",
-    "preview": "https://www.youtube.com/watch?v=PZ_qb3Tn84M"
+    "preview": "https://www.youtube.com/watch?v=PZ_qb3Tn84M",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "efbb34e6-6848-457a-a8bb-0f1b232d0e60",
@@ -45088,7 +45103,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Chamber of the Sages.mmrs",
-    "preview": "https://www.youtube.com/watch?v=UfvfSHRtCOM"
+    "preview": "https://www.youtube.com/watch?v=UfvfSHRtCOM",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "8088024a-a88d-417d-b4f2-689b7722f404",
@@ -45107,7 +45125,10 @@
       "1"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Deku Tree (MM Version).mmrs",
-    "preview": "https://www.youtube.com"
+    "preview": "https://www.youtube.com",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "59724e54-7f8e-4cb3-8019-5da47d4cba88",
@@ -45125,7 +45146,10 @@
       "7"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Dinosaur Boss Battle.mmrs",
-    "preview": "https://www.youtube.com/watch?v=TnN4vKjiAO4"
+    "preview": "https://www.youtube.com/watch?v=TnN4vKjiAO4",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "161b5f45-7917-408d-8095-0f032fa699a1",
@@ -45143,7 +45167,10 @@
       "2"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Dodongo's Cavern.mmrs",
-    "preview": "https://www.youtube.com/watch?v=oE0e1GpM5KA"
+    "preview": "https://www.youtube.com/watch?v=oE0e1GpM5KA",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b8d3857d-0c3f-4a46-9005-3814431ae007",
@@ -45161,7 +45188,10 @@
       "9"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Enter Ganondorf.mmrs",
-    "preview": "https://www.youtube.com/watch?v=QT22umLz-YQ"
+    "preview": "https://www.youtube.com/watch?v=QT22umLz-YQ",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "8174062f-6b42-4204-828c-07522a3e89ab",
@@ -45179,7 +45209,10 @@
       "2"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Fire Temple (MM Version).mmrs",
-    "preview": "https://www.youtube.com"
+    "preview": "https://www.youtube.com",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "43048c3c-9b2e-45a8-8959-6e9073f01d27",
@@ -45198,7 +45231,10 @@
       "10"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Get Medallion.mmrs",
-    "preview": "https://www.youtube.com/watch?v=HL8E_jRvGuM"
+    "preview": "https://www.youtube.com/watch?v=HL8E_jRvGuM",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "5bc6d00e-4090-4fdf-b8d2-976aa85d7402",
@@ -45217,7 +45253,10 @@
       "10"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Open Door of Time.mmrs",
-    "preview": "https://www.youtube.com/watch?v=pvzYn3ecKlA"
+    "preview": "https://www.youtube.com/watch?v=pvzYn3ecKlA",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e46d74de-316c-4439-be27-e61a3ac578a6",
@@ -45235,7 +45274,10 @@
       "2"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Forest Temple (MM Version).mmrs",
-    "preview": "https://www.youtube.com"
+    "preview": "https://www.youtube.com",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "fc79d310-1ffd-4c96-9271-843df18c3acf",
@@ -45254,7 +45296,10 @@
       "10"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Get Spiritual Stone.mmrs",
-    "preview": "https://www.youtube.com/watch?v=Bfvjb8ELkuI"
+    "preview": "https://www.youtube.com/watch?v=Bfvjb8ELkuI",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "dd2912a6-66b7-409b-89b1-b4abb4ad8270",
@@ -45272,7 +45317,10 @@
       "8"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Master Sword.mmrs",
-    "preview": "https://www.youtube.com/watch?v=rXTjfImF9gk"
+    "preview": "https://www.youtube.com/watch?v=rXTjfImF9gk",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
