@@ -45219,5 +45219,23 @@
     "file": "The Legend of Zelda Ocarina of Time/Open Door of Time.mmrs",
     "preview": "https://www.youtube.com/watch?v=pvzYn3ecKlA"
   },
+  {
+    "uuid": "e46d74de-316c-4439-be27-e61a3ac578a6",
+    "creationDate": "2026-05-02T01:01:37.179Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Forest Temple (MM Version)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Forest Temple (MM Version).mmrs",
+    "preview": "https://www.youtube.com"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
