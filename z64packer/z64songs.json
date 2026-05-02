@@ -45338,7 +45338,10 @@
       "7"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Last Battle.mmrs",
-    "preview": "https://www.youtube.com/watch?v=Ezv4kMOWXGs"
+    "preview": "https://www.youtube.com/watch?v=Ezv4kMOWXGs",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "0f5deab4-1ee2-4baa-9895-c3d79b85206c",
@@ -45356,7 +45359,10 @@
       "2"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Ganon's Castle (MM Version).mmrs",
-    "preview": "https://www.youtube.com/watch?v=uUFq-o35pcw"
+    "preview": "https://www.youtube.com/watch?v=uUFq-o35pcw",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2ee7f881-279b-4c0f-af54-3da5fcf68e2c",
@@ -45374,7 +45380,10 @@
       "7"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Ganondorf Battle.mmrs",
-    "preview": "https://www.youtube.com/watch?v=L4zVoP63dG4"
+    "preview": "https://www.youtube.com/watch?v=L4zVoP63dG4",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4b7577ca-b0ce-4aac-a321-45ed7ebc8c2d",
@@ -45392,7 +45401,10 @@
       "2"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Ice Cavern.mmrs",
-    "preview": "https://www.youtube.com/watch?v=fOG2K4I8ZhI"
+    "preview": "https://www.youtube.com/watch?v=fOG2K4I8ZhI",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "69d53788-8ecf-4b5f-ba16-d03a38d88fd7",
@@ -45410,7 +45422,10 @@
       "2"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Inside Jabu-Jabu's Belly.mmrs",
-    "preview": "https://www.youtube.com/watch?v=cjclLTI6ZoM"
+    "preview": "https://www.youtube.com/watch?v=cjclLTI6ZoM",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ff9f6dea-f57d-4fab-964a-5c9b1f365595",
@@ -45429,7 +45444,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Kakariko Village (Adult).mmrs",
-    "preview": "https://www.youtube.com/watch?v=KuJ0LR2vX3c"
+    "preview": "https://www.youtube.com/watch?v=KuJ0LR2vX3c",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "f270130e-2d04-46ba-b8c7-49b75efceb3b",
@@ -45448,7 +45466,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Market.mmrs",
-    "preview": "https://www.youtube.com/watch?v=1FiDgyEi2Bg"
+    "preview": "https://www.youtube.com/watch?v=1FiDgyEi2Bg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "6eb0709a-01cf-40a5-9333-37ad488c6cc6",
@@ -45467,7 +45488,10 @@
       "4"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Fairy Flying.mmrs",
-    "preview": "https://www.youtube.com/watch?v=hAsBCTL3kQU"
+    "preview": "https://www.youtube.com/watch?v=hAsBCTL3kQU",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b926e8a1-543d-43e0-8b75-8d18e7e2a148",
@@ -45486,7 +45510,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Sheik's Theme.mmrs",
-    "preview": "https://www.youtube.com/watch?v=3iV8MkbGm2o"
+    "preview": "https://www.youtube.com/watch?v=3iV8MkbGm2o",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "51208308-9228-4198-87af-48370f32c6ba",
@@ -45505,7 +45532,10 @@
       "1"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Temple of Time.mmrs",
-    "preview": "https://www.youtube.com/watch?v=Sv66WYSQPAc"
+    "preview": "https://www.youtube.com/watch?v=Sv66WYSQPAc",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a4e27821-8876-409d-8068-ee53a2a29a47",
@@ -45523,7 +45553,117 @@
       "2"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Water Temple (MM Version).mmrs",
-    "preview": "https://www.youtube.com/watch?v=GlJ3V0KJy9o"
+    "preview": "https://www.youtube.com/watch?v=GlJ3V0KJy9o",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "game": "The Legend of Zelda Ocarina of Time",
+    "song": "Gerudo Valley",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "0"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "15ab6da2-083f-4f9c-8227-d90a1d12a00d",
+    "file": "The Legend of Zelda Ocarina of Time/Gerudo Valley.mmrs"
+  },
+  {
+    "game": "The Legend of Zelda Ocarina of Time",
+    "song": "Shadow Temple",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "f54ef5d0-4378-4fc1-89a6-33412abef051",
+    "file": "The Legend of Zelda Ocarina of Time/Shadow Temple.mmrs"
+  },
+  {
+    "game": "The Legend of Zelda Ocarina of Time",
+    "song": "Mini Boss Battle",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "a8719dd1-a507-4694-996b-38c532a6fb2d",
+    "file": "The Legend of Zelda Ocarina of Time/Mini Boss Battle.mmrs"
+  },
+  {
+    "game": "The Legend of Zelda Ocarina of Time",
+    "song": "Spirit Temple (MM Version)",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "96aaa17c-818c-4843-81a8-33d64a3db0cf",
+    "file": "The Legend of Zelda Ocarina of Time/Spirit Temple (MM Version).mmrs"
+  },
+  {
+    "game": "The Legend of Zelda Ocarina of Time",
+    "song": "Inside the Deku Tree",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "660e81b9-9c44-4989-bd36-afdaf1b4411d",
+    "file": "The Legend of Zelda Ocarina of Time/Inside the Deku Tree.mmrs"
+  },
+  {
+    "game": "The Legend of Zelda Ocarina of Time",
+    "song": "Ganondorf's Theme",
+    "type": "bgm",
+    "categories": [
+      "5"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "8e7d527b-0c10-4f04-9347-6f2683c448c0",
+    "file": "The Legend of Zelda Ocarina of Time/Ganondorf's Theme.mmrs"
+  },
+  {
+    "game": "The Legend of Zelda Ocarina of Time",
+    "song": "Kakariko Village",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "e427fb1e-3e92-40e9-8f7c-2a94ee539e93",
+    "file": "The Legend of Zelda Ocarina of Time/Kakariko Village.mmrs"
+  },
+  {
+    "game": "The Legend of Zelda Ocarina of Time",
+    "song": "Kokiri Forest",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "79053fda-e469-48d2-8f6f-b7752a082871",
+    "file": "The Legend of Zelda Ocarina of Time/Kokiri Forest.mmrs"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
