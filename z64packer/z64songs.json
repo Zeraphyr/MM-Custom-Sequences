@@ -45127,5 +45127,23 @@
     "file": "The Legend of Zelda Ocarina of Time/Dinosaur Boss Battle.mmrs",
     "preview": "https://www.youtube.com/watch?v=TnN4vKjiAO4"
   },
+  {
+    "uuid": "161b5f45-7917-408d-8095-0f032fa699a1",
+    "creationDate": "2026-05-02T00:47:37.559Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Dodongo's Cavern",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Dodongo's Cavern.mmrs",
+    "preview": "https://www.youtube.com/watch?v=oE0e1GpM5KA"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
