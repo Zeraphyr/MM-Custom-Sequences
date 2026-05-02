@@ -45014,5 +45014,23 @@
     "file": "The Legend of Zelda Ocarina of Time/Boss Battle.mmrs",
     "preview": "https://www.youtube.com/watch?v=e0bSmvYgflk"
   },
+  {
+    "uuid": "582164f5-cab5-452e-bea8-8835eda1ffa1",
+    "creationDate": "2026-05-02T00:12:20.353Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Escape from Ganon's Castle",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Escape from Ganon's Castle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=b12EllDP-oU"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
