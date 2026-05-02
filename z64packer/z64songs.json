@@ -45256,5 +45256,23 @@
     "file": "The Legend of Zelda Ocarina of Time/Get Spiritual Stone.mmrs",
     "preview": "https://www.youtube.com/watch?v=Bfvjb8ELkuI"
   },
+  {
+    "uuid": "dd2912a6-66b7-409b-89b1-b4abb4ad8270",
+    "creationDate": "2026-05-02T01:04:52.783Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Master Sword",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Master Sword.mmrs",
+    "preview": "https://www.youtube.com/watch?v=rXTjfImF9gk"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
