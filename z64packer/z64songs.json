@@ -45200,5 +45200,24 @@
     "file": "The Legend of Zelda Ocarina of Time/Get Medallion.mmrs",
     "preview": "https://www.youtube.com/watch?v=HL8E_jRvGuM"
   },
+  {
+    "uuid": "5bc6d00e-4090-4fdf-b8d2-976aa85d7402",
+    "creationDate": "2026-05-02T01:00:24.734Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Open Door of Time",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Open Door of Time.mmrs",
+    "preview": "https://www.youtube.com/watch?v=pvzYn3ecKlA"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
