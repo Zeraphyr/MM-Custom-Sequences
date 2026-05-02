@@ -45109,5 +45109,23 @@
     "file": "The Legend of Zelda Ocarina of Time/Deku Tree (MM Version).mmrs",
     "preview": "https://www.youtube.com"
   },
+  {
+    "uuid": "59724e54-7f8e-4cb3-8019-5da47d4cba88",
+    "creationDate": "2026-05-02T00:46:32.113Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Dinosaur Boss Battle",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Dinosaur Boss Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=TnN4vKjiAO4"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
