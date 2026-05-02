@@ -45181,5 +45181,24 @@
     "file": "The Legend of Zelda Ocarina of Time/Fire Temple (MM Version).mmrs",
     "preview": "https://www.youtube.com"
   },
+  {
+    "uuid": "43048c3c-9b2e-45a8-8959-6e9073f01d27",
+    "creationDate": "2026-05-02T00:58:26.706Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Get Medallion",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Get Medallion.mmrs",
+    "preview": "https://www.youtube.com/watch?v=HL8E_jRvGuM"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
