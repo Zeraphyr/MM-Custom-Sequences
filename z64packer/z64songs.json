@@ -45070,5 +45070,25 @@
     "file": "The Legend of Zelda Ocarina of Time/The Creation of Hyrule.mmrs",
     "preview": "https://www.youtube.com/watch?v=PZ_qb3Tn84M"
   },
+  {
+    "uuid": "efbb34e6-6848-457a-a8bb-0f1b232d0e60",
+    "creationDate": "2026-05-02T00:42:31.044Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Chamber of the Sages",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "1",
+      "6"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Chamber of the Sages.mmrs",
+    "preview": "https://www.youtube.com/watch?v=UfvfSHRtCOM"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
