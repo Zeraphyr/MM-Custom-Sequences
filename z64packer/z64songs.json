@@ -45412,5 +45412,24 @@
     "file": "The Legend of Zelda Ocarina of Time/Inside Jabu-Jabu's Belly.mmrs",
     "preview": "https://www.youtube.com/watch?v=cjclLTI6ZoM"
   },
+  {
+    "uuid": "5c5f8bc8-6ee4-488f-a07f-28eafe2ea8d5",
+    "creationDate": "2026-05-02T06:06:21.740Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Kakariko Village",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Kakariko Village.mmrs",
+    "preview": "https://www.youtube.com/watch?v=rS-Si8vsfbk"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
