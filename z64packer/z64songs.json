@@ -45359,10 +45359,10 @@
     "preview": "https://www.youtube.com/watch?v=uUFq-o35pcw"
   },
   {
-    "uuid": "10a5f775-62c4-4414-ac3e-a26e9d76be8b",
-    "creationDate": "2026-05-02T05:48:24.590Z",
+    "uuid": "2ee7f881-279b-4c0f-af54-3da5fcf68e2c",
+    "creationDate": "2026-05-02T05:49:12.750Z",
     "game": "The Legend of Zelda: Ocarina of Time",
-    "song": "Ganondorf's Theme",
+    "song": "Ganondorf Battle",
     "composers": [
       "Koji Kondo"
     ],
@@ -45371,10 +45371,10 @@
     ],
     "type": "bgm",
     "categories": [
-      "5"
+      "7"
     ],
-    "file": "The Legend of Zelda Ocarina of Time/Ganondorf's Theme.mmrs",
-    "preview": "https://www.youtube.com/watch?v=WpfEDjxWwVY"
+    "file": "The Legend of Zelda Ocarina of Time/Ganondorf Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=L4zVoP63dG4"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
