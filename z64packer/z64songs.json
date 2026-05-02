@@ -45322,5 +45322,23 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "4c736071-8c15-49df-a132-016459c6b5d3",
+    "creationDate": "2026-05-02T05:44:49.982Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Last Battle",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Last Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Ezv4kMOWXGs"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
