@@ -44996,5 +44996,23 @@
     "file": "The Legend of Zelda Skyward Sword/Groose's Theme.mmrs",
     "preview": "https://www.youtube.com"
   },
+  {
+    "uuid": "bb37ea8d-a72f-49ba-9bb1-71bddb22b3f8",
+    "creationDate": "2026-05-02T00:10:32.064Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Boss Battle",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Boss Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=e0bSmvYgflk"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
