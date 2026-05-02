@@ -45163,5 +45163,23 @@
     "file": "The Legend of Zelda Ocarina of Time/Enter Ganondorf.mmrs",
     "preview": "https://www.youtube.com/watch?v=QT22umLz-YQ"
   },
+  {
+    "uuid": "8174062f-6b42-4204-828c-07522a3e89ab",
+    "creationDate": "2026-05-02T00:54:03.948Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Fire Temple (MM Version)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Fire Temple (MM Version).mmrs",
+    "preview": "https://www.youtube.com"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
