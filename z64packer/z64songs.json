@@ -45052,5 +45052,23 @@
     "file": "The Legend of Zelda Ocarina of Time/Hyrule Castle Courtyard.mmrs",
     "preview": "https://www.youtube.com/watch?v=N6xo31Aqoyc"
   },
+  {
+    "uuid": "b516d132-8e59-4e2a-b28c-3ec5ea6ee99f",
+    "creationDate": "2026-05-02T00:41:23.597Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "The Creation of Hyrule",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "16"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/The Creation of Hyrule.mmrs",
+    "preview": "https://www.youtube.com/watch?v=PZ_qb3Tn84M"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
