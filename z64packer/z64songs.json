@@ -45488,5 +45488,23 @@
     "file": "The Legend of Zelda Ocarina of Time/Sheik's Theme.mmrs",
     "preview": "https://www.youtube.com/watch?v=3iV8MkbGm2o"
   },
+  {
+    "uuid": "4f60b672-8cd2-4c1c-b928-8269fe69b993",
+    "creationDate": "2026-05-02T06:11:47.936Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Spirit Temple (MM Version)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Spirit Temple (MM Version).mmrs",
+    "preview": "https://www.youtube.com/watch?v=YYBv-Yy6pos"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
