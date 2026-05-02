@@ -45340,5 +45340,23 @@
     "file": "The Legend of Zelda Ocarina of Time/Last Battle.mmrs",
     "preview": "https://www.youtube.com/watch?v=Ezv4kMOWXGs"
   },
+  {
+    "uuid": "0f5deab4-1ee2-4baa-9895-c3d79b85206c",
+    "creationDate": "2026-05-02T05:47:29.218Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Ganon's Castle (MM Version)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Ganon's Castle (MM Version).mmrs",
+    "preview": "https://www.youtube.com/watch?v=uUFq-o35pcw"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
