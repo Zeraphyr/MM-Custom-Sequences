@@ -45737,7 +45737,10 @@
       "2"
     ],
     "file": "Star Fox 64/Aquas (Variant B).mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b3d0eaf2-859f-4875-a023-ed878202e429",
@@ -45756,7 +45759,10 @@
       "1"
     ],
     "file": "Star Fox 64/Area 6.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "de7118fd-674f-47d9-b799-0f71d8efd496",
@@ -45774,7 +45780,10 @@
       "5"
     ],
     "file": "Star Fox 64/Bolse.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e76691e8-cc42-453d-bc54-e4ee2e17bc25",
@@ -45792,7 +45801,10 @@
       "7"
     ],
     "file": "Star Fox 64/Boss Battle 2.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "568e0d6d-2ca4-43ce-9103-8ce69ca3e958",
@@ -45811,7 +45823,10 @@
       "1"
     ],
     "file": "Star Fox 64/Fichina.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "8951a35c-4911-4b22-bc18-cef7668cb3c4",
@@ -45830,7 +45845,10 @@
       "1"
     ],
     "file": "Star Fox 64/Meteo.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e3977f77-78e5-4779-88ee-08704d8e758f",
@@ -45849,7 +45867,10 @@
       "2"
     ],
     "file": "Star Fox 64/Sector Y.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b70c5765-1360-4639-8956-fc5e3decb035",
@@ -45868,7 +45889,10 @@
       "1"
     ],
     "file": "Star Fox 64/Titania.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "9dcd98f0-6385-4d7f-a7be-1304a521b5a3",
@@ -45887,7 +45911,10 @@
       "3"
     ],
     "file": "Star Fox 64/Zoness.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "176957ec-9fd6-445a-975c-a849920bd215",
@@ -45906,7 +45933,10 @@
       "1"
     ],
     "file": "Super Mario Galaxy 2/Sky Station Galaxy.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "cf3a12f1-4e01-4335-b07a-9fca7905256b",
@@ -45927,7 +45957,9 @@
     ],
     "usesCustomBank": true,
     "file": "Super Mario 64/Bob-Omb Battlefield.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e3042da6-ed7c-4c7f-8997-1f13f8d5cf71",
@@ -45946,7 +45978,10 @@
       "3"
     ],
     "file": "Super Mario 64/Big Boo's Haunt.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "f69a943d-b374-47a5-946f-3accdf37b0dd",
@@ -45965,7 +46000,9 @@
     ],
     "usesCustomBank": true,
     "file": "Super Mario 64/Koopa's Road.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "9adf514e-4c9b-44f9-ae39-88aba8869698",
@@ -45983,7 +46020,10 @@
       "7"
     ],
     "file": "Super Mario 64/Stage Boss.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "821d19d7-0001-45ba-bc81-3fa84f8dc74f",
@@ -46002,7 +46042,10 @@
       "1"
     ],
     "file": "Super Mario 64/Peach's Castle.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "92ffd013-7db3-4924-b492-38056d55b1e6",
@@ -46021,7 +46064,10 @@
       "3"
     ],
     "file": "Super Mario 64/Cool, Cool Mountain.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e9e13463-4425-4fb4-bd28-28dbb7ced47a",
@@ -46039,7 +46085,108 @@
       "10"
     ],
     "file": "Super Mario 64/Bowser Clear.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
+  },
+  {
+    "game": "Star Fox 64",
+    "song": "Venom",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "74017501-bccf-4dd3-9b06-be55120710ce",
+    "file": "Star Fox 64/Venom.mmrs"
+  },
+  {
+    "game": "Star Fox 64",
+    "song": "Katarina",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "5aec6667-8b66-436e-9a7f-770133f47b91",
+    "file": "Star Fox 64/Katarina.mmrs"
+  },
+  {
+    "game": "Star Fox 64",
+    "song": "Boss Battle 1",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "baaf852a-f79f-44b0-a10e-cb71d30df702",
+    "file": "Star Fox 64/Boss Battle 1.mmrs"
+  },
+  {
+    "game": "Star Fox 64",
+    "song": "Corneria",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "800ae2ab-7e6f-4e56-9b7f-34b6f46e6233",
+    "file": "Star Fox 64/Corneria.mmrs"
+  },
+  {
+    "game": "Star Fox 64",
+    "song": "Sector X",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "61440648-6e20-42bf-87ee-2523ad91bbd0",
+    "file": "Star Fox 64/Sector X.mmrs"
+  },
+  {
+    "game": "Star Fox 64",
+    "song": "Star Wolf",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "1efcdb6f-dd9f-45f9-bfe2-87e31c6dbdf4",
+    "file": "Star Fox 64/Star Wolf.mmrs"
+  },
+  {
+    "game": "Star Fox 64",
+    "song": "Boss Battle 3",
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "040c8ff2-84a9-4179-81f3-aed69a636c71",
+    "file": "Star Fox 64/Boss Battle 3.mmrs"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
