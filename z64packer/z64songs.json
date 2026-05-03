@@ -45794,5 +45794,24 @@
     "file": "Star Fox 64/Boss Battle 2.mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "8235f4bb-0b95-4bae-aac5-581523adb18b",
+    "creationDate": "2026-05-03T19:28:12.813Z",
+    "game": "Star Fox 64",
+    "song": "Boss Battle 3",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "file": "Star Fox 64/Boss Battle 3.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
