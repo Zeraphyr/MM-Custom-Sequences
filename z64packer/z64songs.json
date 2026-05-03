@@ -45948,5 +45948,24 @@
     "file": "Super Mario 64/Big Boo's Haunt.mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "f69a943d-b374-47a5-946f-3accdf37b0dd",
+    "creationDate": "2026-05-03T19:44:00.556Z",
+    "game": "Super Mario 64",
+    "song": "Koopa's Road",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Mario 64/Koopa's Road.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
