@@ -45908,5 +45908,26 @@
     "file": "Super Mario Galaxy 2/Sky Station Galaxy.mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "cf3a12f1-4e01-4335-b07a-9fca7905256b",
+    "creationDate": "2026-05-03T19:37:08.408Z",
+    "game": "Super Mario 64",
+    "song": "Bob-Omb Battlefield",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Mario 64/Bob-Omb Battlefield.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
