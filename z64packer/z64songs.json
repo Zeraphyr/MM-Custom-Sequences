@@ -44994,7 +44994,7 @@
       "6"
     ],
     "file": "The Legend of Zelda Skyward Sword/Groose's Theme.mmrs",
-    "preview": "https://www.youtube.com",
+    "preview": "",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45125,7 +45125,7 @@
       "1"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Deku Tree (MM Version).mmrs",
-    "preview": "https://www.youtube.com",
+    "preview": "",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45209,7 +45209,7 @@
       "2"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Fire Temple (MM Version).mmrs",
-    "preview": "https://www.youtube.com",
+    "preview": "",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45274,7 +45274,7 @@
       "2"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Forest Temple (MM Version).mmrs",
-    "preview": "https://www.youtube.com",
+    "preview": "",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45359,7 +45359,7 @@
       "2"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Ganon's Castle (MM Version).mmrs",
-    "preview": "https://www.youtube.com/watch?v=uUFq-o35pcw",
+    "preview": "",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45553,7 +45553,7 @@
       "2"
     ],
     "file": "The Legend of Zelda Ocarina of Time/Water Temple (MM Version).mmrs",
-    "preview": "https://www.youtube.com/watch?v=GlJ3V0KJy9o",
+    "preview": "",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45561,6 +45561,12 @@
   {
     "game": "The Legend of Zelda Ocarina of Time",
     "song": "Gerudo Valley",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
     "type": "bgm",
     "categories": [
       "1",
@@ -45570,11 +45576,18 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "15ab6da2-083f-4f9c-8227-d90a1d12a00d",
-    "file": "The Legend of Zelda Ocarina of Time/Gerudo Valley.mmrs"
+    "file": "The Legend of Zelda Ocarina of Time/Gerudo Valley.mmrs",
+    "preview": "https://www.youtube.com/watch?v=gmwdOH6fJ1s"
   },
   {
     "game": "The Legend of Zelda Ocarina of Time",
     "song": "Shadow Temple",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
     "type": "bgm",
     "categories": [
       "2"
@@ -45583,11 +45596,18 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "f54ef5d0-4378-4fc1-89a6-33412abef051",
-    "file": "The Legend of Zelda Ocarina of Time/Shadow Temple.mmrs"
+    "file": "The Legend of Zelda Ocarina of Time/Shadow Temple.mmrs",
+    "preview": "https://www.youtube.com/watch?v=XISBVWK4l6s"
   },
   {
     "game": "The Legend of Zelda Ocarina of Time",
     "song": "Mini Boss Battle",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
     "type": "bgm",
     "categories": [
       "7"
@@ -45596,11 +45616,18 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "a8719dd1-a507-4694-996b-38c532a6fb2d",
-    "file": "The Legend of Zelda Ocarina of Time/Mini Boss Battle.mmrs"
+    "file": "The Legend of Zelda Ocarina of Time/Mini Boss Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=gNjbEG-13Yk"
   },
   {
     "game": "The Legend of Zelda Ocarina of Time",
     "song": "Spirit Temple (MM Version)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
     "type": "bgm",
     "categories": [
       "2"
@@ -45609,11 +45636,18 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "96aaa17c-818c-4843-81a8-33d64a3db0cf",
-    "file": "The Legend of Zelda Ocarina of Time/Spirit Temple (MM Version).mmrs"
+    "file": "The Legend of Zelda Ocarina of Time/Spirit Temple (MM Version).mmrs",
+    "preview": ""
   },
   {
     "game": "The Legend of Zelda Ocarina of Time",
     "song": "Inside the Deku Tree",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
     "type": "bgm",
     "categories": [
       "2"
@@ -45622,11 +45656,18 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "660e81b9-9c44-4989-bd36-afdaf1b4411d",
-    "file": "The Legend of Zelda Ocarina of Time/Inside the Deku Tree.mmrs"
+    "file": "The Legend of Zelda Ocarina of Time/Inside the Deku Tree.mmrs",
+    "preview": "https://www.youtube.com/watch?v=WomOOpj-8o8"
   },
   {
     "game": "The Legend of Zelda Ocarina of Time",
     "song": "Ganondorf's Theme",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
     "type": "bgm",
     "categories": [
       "5"
@@ -45635,11 +45676,18 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "8e7d527b-0c10-4f04-9347-6f2683c448c0",
-    "file": "The Legend of Zelda Ocarina of Time/Ganondorf's Theme.mmrs"
+    "file": "The Legend of Zelda Ocarina of Time/Ganondorf's Theme.mmrs",
+    "preview": "https://www.youtube.com/watch?v=WpfEDjxWwVY"
   },
   {
     "game": "The Legend of Zelda Ocarina of Time",
     "song": "Kakariko Village",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
     "type": "bgm",
     "categories": [
       "1",
@@ -45649,11 +45697,18 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "e427fb1e-3e92-40e9-8f7c-2a94ee539e93",
-    "file": "The Legend of Zelda Ocarina of Time/Kakariko Village.mmrs"
+    "file": "The Legend of Zelda Ocarina of Time/Kakariko Village.mmrs",
+    "preview": "https://www.youtube.com/watch?v=rS-Si8vsfbk"
   },
   {
     "game": "The Legend of Zelda Ocarina of Time",
     "song": "Kokiri Forest",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
     "type": "bgm",
     "categories": [
       "1",
@@ -45663,7 +45718,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "79053fda-e469-48d2-8f6f-b7752a082871",
-    "file": "The Legend of Zelda Ocarina of Time/Kokiri Forest.mmrs"
+    "file": "The Legend of Zelda Ocarina of Time/Kokiri Forest.mmrs",
+    "preview": "https://www.youtube.com/watch?v=rdaJ5pJmNfo"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
