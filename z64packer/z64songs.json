@@ -45721,5 +45721,23 @@
     "file": "The Legend of Zelda Ocarina of Time/Kokiri Forest.mmrs",
     "preview": "https://www.youtube.com/watch?v=rdaJ5pJmNfo"
   },
+  {
+    "uuid": "df43320a-803b-4b09-96fb-d1e09756a45b",
+    "creationDate": "2026-05-03T18:51:09.031Z",
+    "game": "Star Fox 64",
+    "song": "Aquas (Variant B)",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "Star Fox 64/Aquas (Variant B).mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
