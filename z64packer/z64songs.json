@@ -46280,5 +46280,24 @@
     "file": "Super Mario 64/Bowser Clear.mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "240fadc9-9abd-4751-9a91-065eb611d7e7",
+    "creationDate": "2026-05-03T21:29:37.199Z",
+    "game": "Super Mario 64",
+    "song": "File Select",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "1"
+    ],
+    "file": "Super Mario 64/File Select.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
