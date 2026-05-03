@@ -46244,5 +46244,23 @@
     "preview": "",
     "file": "Star Fox 64/Boss Battle 3.mmrs"
   },
+  {
+    "uuid": "d6062b31-c91b-4085-8e2b-01f3a21f67b5",
+    "creationDate": "2026-05-03T21:10:49.053Z",
+    "game": "Super Mario 64",
+    "song": "Bowser's Message",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "file": "Super Mario 64/Bowser's Message.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
