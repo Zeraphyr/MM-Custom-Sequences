@@ -46299,5 +46299,23 @@
     "file": "Super Mario 64/File Select.mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "d9cff35c-7e23-420c-8a51-e781709caf35",
+    "creationDate": "2026-05-03T21:50:42.008Z",
+    "game": "Super Mario 64",
+    "song": "Ultimate Bowser (Variant A)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "Super Mario 64/Ultimate Bowser (Variant A).mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
