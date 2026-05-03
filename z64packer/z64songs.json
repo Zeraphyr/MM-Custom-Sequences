@@ -46023,5 +46023,23 @@
     "file": "Super Mario 64/Cool, Cool Mountain.mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "e9e13463-4425-4fb4-bd28-28dbb7ced47a",
+    "creationDate": "2026-05-03T19:52:52.570Z",
+    "game": "Super Mario 64",
+    "song": "Bowser Clear",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "file": "Super Mario 64/Bowser Clear.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
