@@ -45889,5 +45889,24 @@
     "file": "Star Fox 64/Zoness.mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "176957ec-9fd6-445a-975c-a849920bd215",
+    "creationDate": "2026-05-03T19:33:49.650Z",
+    "game": "Super Mario Galaxy 2",
+    "song": "Sky Station Galaxy",
+    "composers": [
+      "Mahito Yokota"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Super Mario Galaxy 2/Sky Station Galaxy.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
