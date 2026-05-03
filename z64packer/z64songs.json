@@ -46335,5 +46335,24 @@
     "file": "Super Mario 64/Opening.mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "b37ee2a8-78af-4233-8c31-67b53b50c5cd",
+    "creationDate": "2026-05-03T21:55:52.298Z",
+    "game": "Super Mario 64",
+    "song": "Lakitu",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Super Mario 64/Lakitu.mmrs",
+    "preview": "https://www.youtube.com"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
