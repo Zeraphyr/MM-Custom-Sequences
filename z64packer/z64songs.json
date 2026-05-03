@@ -46262,5 +46262,23 @@
     "file": "Super Mario 64/Bowser's Message.mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "4b8c41e5-e210-4cbf-85cb-4a5044134f98",
+    "creationDate": "2026-05-03T21:13:37.580Z",
+    "game": "Super Mario 64",
+    "song": "Bowser Clear",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "file": "Super Mario 64/Bowser Clear.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
