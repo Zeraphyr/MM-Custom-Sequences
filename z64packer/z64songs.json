@@ -45739,5 +45739,24 @@
     "file": "Star Fox 64/Aquas (Variant B).mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "b3d0eaf2-859f-4875-a023-ed878202e429",
+    "creationDate": "2026-05-03T18:52:41.731Z",
+    "game": "Star Fox 64",
+    "song": "Area 6",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Star Fox 64/Area 6.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
