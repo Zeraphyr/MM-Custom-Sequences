@@ -45721,5 +45721,325 @@
     "file": "The Legend of Zelda Ocarina of Time/Kokiri Forest.mmrs",
     "preview": "https://www.youtube.com/watch?v=rdaJ5pJmNfo"
   },
+  {
+    "uuid": "df43320a-803b-4b09-96fb-d1e09756a45b",
+    "creationDate": "2026-05-03T18:51:09.031Z",
+    "game": "Star Fox 64",
+    "song": "Aquas (Variant B)",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "Star Fox 64/Aquas (Variant B).mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "b3d0eaf2-859f-4875-a023-ed878202e429",
+    "creationDate": "2026-05-03T18:52:41.731Z",
+    "game": "Star Fox 64",
+    "song": "Area 6",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Star Fox 64/Area 6.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "de7118fd-674f-47d9-b799-0f71d8efd496",
+    "creationDate": "2026-05-03T18:56:19.861Z",
+    "game": "Star Fox 64",
+    "song": "Bolse",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5"
+    ],
+    "file": "Star Fox 64/Bolse.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "e76691e8-cc42-453d-bc54-e4ee2e17bc25",
+    "creationDate": "2026-05-03T19:27:40.915Z",
+    "game": "Star Fox 64",
+    "song": "Boss Battle 2",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "Star Fox 64/Boss Battle 2.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "568e0d6d-2ca4-43ce-9103-8ce69ca3e958",
+    "creationDate": "2026-05-03T19:29:05.578Z",
+    "game": "Star Fox 64",
+    "song": "Fichina",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Star Fox 64/Fichina.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "8951a35c-4911-4b22-bc18-cef7668cb3c4",
+    "creationDate": "2026-05-03T19:30:04.491Z",
+    "game": "Star Fox 64",
+    "song": "Meteo",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Star Fox 64/Meteo.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "e3977f77-78e5-4779-88ee-08704d8e758f",
+    "creationDate": "2026-05-03T19:31:07.186Z",
+    "game": "Star Fox 64",
+    "song": "Sector Y",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "file": "Star Fox 64/Sector Y.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "b70c5765-1360-4639-8956-fc5e3decb035",
+    "creationDate": "2026-05-03T19:32:03.994Z",
+    "game": "Star Fox 64",
+    "song": "Titania",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Star Fox 64/Titania.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "9dcd98f0-6385-4d7f-a7be-1304a521b5a3",
+    "creationDate": "2026-05-03T19:32:56.271Z",
+    "game": "Star Fox 64",
+    "song": "Zoness",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Star Fox 64/Zoness.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "176957ec-9fd6-445a-975c-a849920bd215",
+    "creationDate": "2026-05-03T19:33:49.650Z",
+    "game": "Super Mario Galaxy 2",
+    "song": "Sky Station Galaxy",
+    "composers": [
+      "Mahito Yokota"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Super Mario Galaxy 2/Sky Station Galaxy.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "cf3a12f1-4e01-4335-b07a-9fca7905256b",
+    "creationDate": "2026-05-03T19:37:08.408Z",
+    "game": "Super Mario 64",
+    "song": "Bob-Omb Battlefield",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Mario 64/Bob-Omb Battlefield.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "e3042da6-ed7c-4c7f-8997-1f13f8d5cf71",
+    "creationDate": "2026-05-03T19:38:34.682Z",
+    "game": "Super Mario 64",
+    "song": "Big Boo's Haunt",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Super Mario 64/Big Boo's Haunt.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "f69a943d-b374-47a5-946f-3accdf37b0dd",
+    "creationDate": "2026-05-03T19:44:00.556Z",
+    "game": "Super Mario 64",
+    "song": "Koopa's Road",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Mario 64/Koopa's Road.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "9adf514e-4c9b-44f9-ae39-88aba8869698",
+    "creationDate": "2026-05-03T19:46:15.577Z",
+    "game": "Super Mario 64",
+    "song": "Stage Boss",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "Super Mario 64/Stage Boss.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "821d19d7-0001-45ba-bc81-3fa84f8dc74f",
+    "creationDate": "2026-05-03T19:47:51.933Z",
+    "game": "Super Mario 64",
+    "song": "Peach's Castle",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "1"
+    ],
+    "file": "Super Mario 64/Peach's Castle.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "92ffd013-7db3-4924-b492-38056d55b1e6",
+    "creationDate": "2026-05-03T19:50:11.766Z",
+    "game": "Super Mario 64",
+    "song": "Cool, Cool Mountain",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Super Mario 64/Cool, Cool Mountain.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "e9e13463-4425-4fb4-bd28-28dbb7ced47a",
+    "creationDate": "2026-05-03T19:52:52.570Z",
+    "game": "Super Mario 64",
+    "song": "Bowser Clear",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "file": "Super Mario 64/Bowser Clear.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
