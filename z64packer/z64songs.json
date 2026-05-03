@@ -46317,5 +46317,23 @@
     "file": "Super Mario 64/Ultimate Bowser (Variant A).mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "e373ddc1-2fd0-4586-bbec-39e68f405c68",
+    "creationDate": "2026-05-03T21:52:40.402Z",
+    "game": "Super Mario 64",
+    "song": "Opening",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "file": "Super Mario 64/Opening.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
