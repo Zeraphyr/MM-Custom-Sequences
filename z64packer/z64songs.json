@@ -45851,5 +45851,25 @@
     "file": "Star Fox 64/Sector Y.mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "80bb415b-f723-4839-bb61-e8376d0d1e01",
+    "creationDate": "2026-05-03T19:31:34.491Z",
+    "game": "Star Fox 64",
+    "song": "Star Wolf",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "7"
+    ],
+    "file": "Star Fox 64/Star Wolf.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
