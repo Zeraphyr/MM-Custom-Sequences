@@ -45758,5 +45758,23 @@
     "file": "Star Fox 64/Area 6.mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "de7118fd-674f-47d9-b799-0f71d8efd496",
+    "creationDate": "2026-05-03T18:56:19.861Z",
+    "game": "Star Fox 64",
+    "song": "Bolse",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5"
+    ],
+    "file": "Star Fox 64/Bolse.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
