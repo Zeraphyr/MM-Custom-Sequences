@@ -46004,5 +46004,24 @@
     "file": "Super Mario 64/Peach's Castle.mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "92ffd013-7db3-4924-b492-38056d55b1e6",
+    "creationDate": "2026-05-03T19:50:11.766Z",
+    "game": "Super Mario 64",
+    "song": "Cool, Cool Mountain",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Super Mario 64/Cool, Cool Mountain.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
