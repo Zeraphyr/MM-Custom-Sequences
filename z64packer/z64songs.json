@@ -45985,5 +45985,24 @@
     "file": "Super Mario 64/Stage Boss.mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "821d19d7-0001-45ba-bc81-3fa84f8dc74f",
+    "creationDate": "2026-05-03T19:47:51.933Z",
+    "game": "Super Mario 64",
+    "song": "Peach's Castle",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "1"
+    ],
+    "file": "Super Mario 64/Peach's Castle.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
