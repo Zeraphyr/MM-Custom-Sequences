@@ -45737,7 +45737,7 @@
       "2"
     ],
     "file": "Star Fox 64/Aquas (Variant B).mmrs",
-    "preview": "https://www.youtube.com/",
+    "preview": "",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45759,7 +45759,7 @@
       "1"
     ],
     "file": "Star Fox 64/Area 6.mmrs",
-    "preview": "https://www.youtube.com/",
+    "preview": "",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45780,7 +45780,7 @@
       "5"
     ],
     "file": "Star Fox 64/Bolse.mmrs",
-    "preview": "https://www.youtube.com/",
+    "preview": "",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45801,7 +45801,7 @@
       "7"
     ],
     "file": "Star Fox 64/Boss Battle 2.mmrs",
-    "preview": "https://www.youtube.com/",
+    "preview": "",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45823,7 +45823,7 @@
       "1"
     ],
     "file": "Star Fox 64/Fichina.mmrs",
-    "preview": "https://www.youtube.com/",
+    "preview": "",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45845,7 +45845,7 @@
       "1"
     ],
     "file": "Star Fox 64/Meteo.mmrs",
-    "preview": "https://www.youtube.com/",
+    "preview": "",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45867,7 +45867,7 @@
       "2"
     ],
     "file": "Star Fox 64/Sector Y.mmrs",
-    "preview": "https://www.youtube.com/",
+    "preview": "",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45889,7 +45889,7 @@
       "1"
     ],
     "file": "Star Fox 64/Titania.mmrs",
-    "preview": "https://www.youtube.com/",
+    "preview": "",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45911,7 +45911,7 @@
       "3"
     ],
     "file": "Star Fox 64/Zoness.mmrs",
-    "preview": "https://www.youtube.com/",
+    "preview": "",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45933,7 +45933,7 @@
       "1"
     ],
     "file": "Super Mario Galaxy 2/Sky Station Galaxy.mmrs",
-    "preview": "https://www.youtube.com/",
+    "preview": "",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45957,7 +45957,7 @@
     ],
     "usesCustomBank": true,
     "file": "Super Mario 64/Bob-Omb Battlefield.mmrs",
-    "preview": "https://www.youtube.com/",
+    "preview": "",
     "usesCustomSamples": false,
     "usesFormmask": false
   },
@@ -45978,7 +45978,7 @@
       "3"
     ],
     "file": "Super Mario 64/Big Boo's Haunt.mmrs",
-    "preview": "https://www.youtube.com/",
+    "preview": "",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -45987,7 +45987,7 @@
     "uuid": "f69a943d-b374-47a5-946f-3accdf37b0dd",
     "creationDate": "2026-05-03T19:44:00.556Z",
     "game": "Super Mario 64",
-    "song": "Koopa's Road",
+    "song": "Bowser's Road",
     "composers": [
       "Koji Kondo"
     ],
@@ -45999,8 +45999,8 @@
       "2"
     ],
     "usesCustomBank": true,
-    "file": "Super Mario 64/Koopa's Road.mmrs",
-    "preview": "https://www.youtube.com/",
+    "file": "Super Mario 64/Bowser's Road.mmrs",
+    "preview": "",
     "usesCustomSamples": false,
     "usesFormmask": false
   },
@@ -46020,7 +46020,7 @@
       "7"
     ],
     "file": "Super Mario 64/Stage Boss.mmrs",
-    "preview": "https://www.youtube.com/",
+    "preview": "",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -46042,7 +46042,7 @@
       "1"
     ],
     "file": "Super Mario 64/Peach's Castle.mmrs",
-    "preview": "https://www.youtube.com/",
+    "preview": "",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -46064,7 +46064,7 @@
       "3"
     ],
     "file": "Super Mario 64/Cool, Cool Mountain.mmrs",
-    "preview": "https://www.youtube.com/",
+    "preview": "",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -46073,7 +46073,7 @@
     "uuid": "e9e13463-4425-4fb4-bd28-28dbb7ced47a",
     "creationDate": "2026-05-03T19:52:52.570Z",
     "game": "Super Mario 64",
-    "song": "Bowser Clear",
+    "song": "Final Battle Clear",
     "composers": [
       "Koji Kondo"
     ],
@@ -46084,8 +46084,8 @@
     "categories": [
       "10"
     ],
-    "file": "Super Mario 64/Bowser Clear.mmrs",
-    "preview": "https://www.youtube.com/",
+    "file": "Super Mario 64/Final Battle Clear.mmrs",
+    "preview": "",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -46102,6 +46102,14 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "74017501-bccf-4dd3-9b06-be55120710ce",
+    "creationDate": "2026-05-03T19:52:52.570Z",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "preview": "",
     "file": "Star Fox 64/Venom.mmrs"
   },
   {
@@ -46116,6 +46124,14 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "5aec6667-8b66-436e-9a7f-770133f47b91",
+    "creationDate": "2026-05-03T19:52:52.570Z",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "preview": "",
     "file": "Star Fox 64/Katarina.mmrs"
   },
   {
@@ -46129,6 +46145,14 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "baaf852a-f79f-44b0-a10e-cb71d30df702",
+    "creationDate": "2026-05-03T19:52:52.570Z",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "preview": "",
     "file": "Star Fox 64/Boss Battle 1.mmrs"
   },
   {
@@ -46143,6 +46167,14 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "800ae2ab-7e6f-4e56-9b7f-34b6f46e6233",
+    "creationDate": "2026-05-03T19:52:52.570Z",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "preview": "",
     "file": "Star Fox 64/Corneria.mmrs"
   },
   {
@@ -46157,6 +46189,14 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "61440648-6e20-42bf-87ee-2523ad91bbd0",
+    "creationDate": "2026-05-03T19:52:52.570Z",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "preview": "",
     "file": "Star Fox 64/Sector X.mmrs"
   },
   {
@@ -46172,6 +46212,14 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "1efcdb6f-dd9f-45f9-bfe2-87e31c6dbdf4",
+    "creationDate": "2026-05-03T19:52:52.570Z",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "preview": "",
     "file": "Star Fox 64/Star Wolf.mmrs"
   },
   {
@@ -46186,6 +46234,14 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "040c8ff2-84a9-4179-81f3-aed69a636c71",
+    "creationDate": "2026-05-03T19:52:52.570Z",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "preview": "",
     "file": "Star Fox 64/Boss Battle 3.mmrs"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
