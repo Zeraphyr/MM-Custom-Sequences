@@ -45967,5 +45967,23 @@
     "file": "Super Mario 64/Koopa's Road.mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "9adf514e-4c9b-44f9-ae39-88aba8869698",
+    "creationDate": "2026-05-03T19:46:15.577Z",
+    "game": "Super Mario 64",
+    "song": "Stage Boss",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "Super Mario 64/Stage Boss.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
