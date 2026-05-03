@@ -45795,10 +45795,10 @@
     "preview": "https://www.youtube.com/"
   },
   {
-    "uuid": "8235f4bb-0b95-4bae-aac5-581523adb18b",
-    "creationDate": "2026-05-03T19:28:12.813Z",
+    "uuid": "ed9a5757-13d9-4310-9766-8142c2dce011",
+    "creationDate": "2026-05-03T19:28:42.633Z",
     "game": "Star Fox 64",
-    "song": "Boss Battle 3",
+    "song": "Corneria",
     "composers": [
       "Hajime Wakai"
     ],
@@ -45807,10 +45807,10 @@
     ],
     "type": "bgm",
     "categories": [
-      "5",
-      "7"
+      "0",
+      "1"
     ],
-    "file": "Star Fox 64/Boss Battle 3.mmrs",
+    "file": "Star Fox 64/Corneria.mmrs",
     "preview": "https://www.youtube.com/"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
