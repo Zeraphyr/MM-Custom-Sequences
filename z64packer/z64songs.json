@@ -46500,5 +46500,23 @@
     "file": "Super Mario 64/Course Clear.mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "bb55b8a2-5cb5-45df-a000-032e7a0b3a38",
+    "creationDate": "2026-05-04T02:26:27.336Z",
+    "game": "Super Mario 64",
+    "song": "Hazy Maze Cave",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "Super Mario 64/Hazy Maze Cave.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
