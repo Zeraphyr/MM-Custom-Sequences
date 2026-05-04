@@ -52237,5 +52237,28 @@
     "file": "Nintendo 3DS/Internet Settings.mmrs",
     "preview": "Nintendo 3DS/Internet Settings.ogg"
   },
+  {
+    "uuid": "12634e4b-0c17-4e98-a18d-bfe7d04da686",
+    "creationDate": "2026-05-04T19:56:17.777Z",
+    "game": "The Legend of Zelda: Nimpize Adventure",
+    "song": "Lost Woods",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Ostrealava0",
+      "Asra"
+    ],
+    "notes": "Song is Beware the Forest's Mushrooms from Super Mario RPG.",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda Nimpize Adventure/Lost Woods.mmrs",
+    "preview": "https://www.youtube.com/watch?v=2blDAnBAoxY"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
