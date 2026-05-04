@@ -46244,5 +46244,396 @@
     "preview": "",
     "file": "Star Fox 64/Boss Battle 3.mmrs"
   },
+  {
+    "uuid": "d6062b31-c91b-4085-8e2b-01f3a21f67b5",
+    "creationDate": "2026-05-03T21:10:49.053Z",
+    "game": "Super Mario 64",
+    "song": "Bowser's Message",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "file": "Super Mario 64/Bowser's Message.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "4b8c41e5-e210-4cbf-85cb-4a5044134f98",
+    "creationDate": "2026-05-03T21:13:37.580Z",
+    "game": "Super Mario 64",
+    "song": "Bowser Clear",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "file": "Super Mario 64/Bowser Clear.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "240fadc9-9abd-4751-9a91-065eb611d7e7",
+    "creationDate": "2026-05-03T21:29:37.199Z",
+    "game": "Super Mario 64",
+    "song": "File Select",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "1"
+    ],
+    "file": "Super Mario 64/File Select.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "d9cff35c-7e23-420c-8a51-e781709caf35",
+    "creationDate": "2026-05-03T21:50:42.008Z",
+    "game": "Super Mario 64",
+    "song": "Ultimate Bowser (Variant A)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "Super Mario 64/Ultimate Bowser (Variant A).mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "e373ddc1-2fd0-4586-bbec-39e68f405c68",
+    "creationDate": "2026-05-03T21:52:40.402Z",
+    "game": "Super Mario 64",
+    "song": "Opening",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "file": "Super Mario 64/Opening.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "b37ee2a8-78af-4233-8c31-67b53b50c5cd",
+    "creationDate": "2026-05-03T21:55:52.298Z",
+    "game": "Super Mario 64",
+    "song": "Lakitu",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Super Mario 64/Lakitu.mmrs",
+    "preview": "https://www.youtube.com"
+  },
+  {
+    "uuid": "f6e70dd5-600b-4fc6-94b7-b8654398f2e6",
+    "creationDate": "2026-05-04T02:15:26.219Z",
+    "game": "Super Mario 64",
+    "song": "Peach's Letter",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBastket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "file": "Super Mario 64/Peach's Letter.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "666da6ad-30be-4249-97cc-37e37eda94a6",
+    "creationDate": "2026-05-04T02:17:04.465Z",
+    "game": "Mario Kart 64",
+    "song": "Race",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "file": "Mario Kart 64/Race.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "e4961813-33e7-4506-86e7-8b4248c56cba",
+    "creationDate": "2026-05-04T02:19:20.639Z",
+    "game": "Super Mario 64",
+    "song": "Peach is Saved",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "file": "Super Mario 64/Peach is Saved.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "db1c54c3-c5d5-43a2-b17f-f7a8c7a54a8a",
+    "creationDate": "2026-05-04T02:20:02.037Z",
+    "game": "Super Mario 64",
+    "song": "Correct Solution",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "file": "Super Mario 64/Correct Solution.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "786e5c65-21ff-456f-96ba-36f8133cf503",
+    "creationDate": "2026-05-04T02:20:33.613Z",
+    "game": "Super Mario 64",
+    "song": "Power Star",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "file": "Super Mario 64/Power Star.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "41f8f01a-609f-4fa3-a561-2d98d7ee7da9",
+    "creationDate": "2026-05-04T02:21:43.406Z",
+    "game": "Super Mario 64",
+    "song": "Star Get",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Mario 64/Star Get.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "1baa7409-ca30-49f9-bcbf-378a371b4fa7",
+    "creationDate": "2026-05-04T02:22:20.272Z",
+    "game": "Super Mario 64",
+    "song": "Toad's Message",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "file": "Super Mario 64/Toad's Message.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "0b66275c-39b8-4f68-8dae-0626fd1aff0f",
+    "creationDate": "2026-05-04T02:25:54.378Z",
+    "game": "Super Mario 64",
+    "song": "Course Clear",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Mario 64/Course Clear.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "bb55b8a2-5cb5-45df-a000-032e7a0b3a38",
+    "creationDate": "2026-05-04T02:26:27.336Z",
+    "game": "Super Mario 64",
+    "song": "Hazy Maze Cave",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "Super Mario 64/Hazy Maze Cave.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "33bfb96b-29e4-4c15-80d0-680516b73cdd",
+    "creationDate": "2026-05-04T02:27:58.100Z",
+    "game": "Super Mario 64",
+    "song": "Dire, Dire Docks",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Mario 64/Dire, Dire Docks.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "345eb542-19d6-449c-a6de-3a9b2353377f",
+    "creationDate": "2026-05-04T02:28:24.639Z",
+    "game": "Super Mario 64",
+    "song": "Lethal Lava Land",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Super Mario 64/Lethal Lava Land.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "c192af89-e9c3-4e35-821b-311448ec4ca9",
+    "creationDate": "2026-05-04T02:29:00.944Z",
+    "game": "Super Mario 64",
+    "song": "Piranha Plant's Lullaby",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "3"
+    ],
+    "file": "Super Mario 64/Piranha Plant's Lullaby.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "a6e8a5aa-5ce9-4e9c-9ac1-d9868a758c8c",
+    "creationDate": "2026-05-04T02:29:51.855Z",
+    "game": "Super Mario 64",
+    "song": "Merry-Go-Round",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "Super Mario 64/Merry-Go-Round.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "ca09abf7-e8d3-471f-b7f5-705376f1f993",
+    "creationDate": "2026-05-04T02:31:11.314Z",
+    "game": "Super Mario 64",
+    "song": "Slider (Variant B)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Mario 64/Slider (Variant B).mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "8d453653-ffd1-48fe-acb0-a8a4015d2e1b",
+    "creationDate": "2026-05-04T02:32:06.457Z",
+    "game": "Super Mario 64",
+    "song": "Looping Steps",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "3"
+    ],
+    "file": "Super Mario 64/Looping Steps.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
