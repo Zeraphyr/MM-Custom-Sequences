@@ -46372,5 +46372,23 @@
     "file": "Super Mario 64/Peach's Letter.mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "666da6ad-30be-4249-97cc-37e37eda94a6",
+    "creationDate": "2026-05-04T02:17:04.465Z",
+    "game": "Mario Kart 64",
+    "song": "Race",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "file": "Mario Kart 64/Race.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
