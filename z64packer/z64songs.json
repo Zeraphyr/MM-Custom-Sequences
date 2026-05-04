@@ -46354,5 +46354,23 @@
     "file": "Super Mario 64/Lakitu.mmrs",
     "preview": "https://www.youtube.com"
   },
+  {
+    "uuid": "f6e70dd5-600b-4fc6-94b7-b8654398f2e6",
+    "creationDate": "2026-05-04T02:15:26.219Z",
+    "game": "Super Mario 64",
+    "song": "Peach's Letter",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBastket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "file": "Super Mario 64/Peach's Letter.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
