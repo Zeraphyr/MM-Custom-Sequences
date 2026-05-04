@@ -52261,5 +52261,29 @@
     "preview": "https://www.youtube.com/watch?v=TxhsXKX_kDY",
     "lastUpdateDate": "2026-05-04T22:44:13.475Z"
   },
+  {
+    "uuid": "097109cf-a127-4768-87ad-0af87a3a568e",
+    "creationDate": "2026-05-04T23:00:35.114Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Windblight Ganon Battle (Nimpize Adventure Mix)",
+    "composers": [
+      "Manaka Kataoka",
+      "Yasuaki Iwata",
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Sauraen",
+      "Asra"
+    ],
+    "notes": "Also known as Boss Battle 1 from Zelda: Nimpize Adventure.",
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "The Legend of Zelda Breath of the Wild/Windblight Ganon Battle (Nimpize Adventure Mix).mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Windblight Ganon Battle (Nimpize Adventure Mix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
