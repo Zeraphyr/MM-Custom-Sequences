@@ -46390,5 +46390,23 @@
     "file": "Mario Kart 64/Race.mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "e4961813-33e7-4506-86e7-8b4248c56cba",
+    "creationDate": "2026-05-04T02:19:20.639Z",
+    "game": "Super Mario 64",
+    "song": "Peach is Saved",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "file": "Super Mario 64/Peach is Saved.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
