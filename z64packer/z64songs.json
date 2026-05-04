@@ -46444,5 +46444,24 @@
     "file": "Super Mario 64/Power Star.mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "41f8f01a-609f-4fa3-a561-2d98d7ee7da9",
+    "creationDate": "2026-05-04T02:21:43.406Z",
+    "game": "Super Mario 64",
+    "song": "Star Get",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Mario 64/Star Get.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
