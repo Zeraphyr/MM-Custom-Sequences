@@ -46596,5 +46596,25 @@
     "file": "Super Mario 64/Merry-Go-Round.mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "ca09abf7-e8d3-471f-b7f5-705376f1f993",
+    "creationDate": "2026-05-04T02:31:11.314Z",
+    "game": "Super Mario 64",
+    "song": "Slider (Variant B)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Mario 64/Slider (Variant B).mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
