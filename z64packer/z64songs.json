@@ -46260,7 +46260,10 @@
       "9"
     ],
     "file": "Super Mario 64/Bowser's Message.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4b8c41e5-e210-4cbf-85cb-4a5044134f98",
@@ -46278,7 +46281,10 @@
       "8"
     ],
     "file": "Super Mario 64/Bowser Clear.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "240fadc9-9abd-4751-9a91-065eb611d7e7",
@@ -46297,7 +46303,10 @@
       "1"
     ],
     "file": "Super Mario 64/File Select.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d9cff35c-7e23-420c-8a51-e781709caf35",
@@ -46315,7 +46324,10 @@
       "7"
     ],
     "file": "Super Mario 64/Ultimate Bowser (Variant A).mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e373ddc1-2fd0-4586-bbec-39e68f405c68",
@@ -46333,7 +46345,10 @@
       "10"
     ],
     "file": "Super Mario 64/Opening.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b37ee2a8-78af-4233-8c31-67b53b50c5cd",
@@ -46352,7 +46367,10 @@
       "9"
     ],
     "file": "Super Mario 64/Lakitu.mmrs",
-    "preview": "https://www.youtube.com"
+    "preview": "https://www.youtube.com",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "f6e70dd5-600b-4fc6-94b7-b8654398f2e6",
@@ -46370,7 +46388,10 @@
       "8"
     ],
     "file": "Super Mario 64/Peach's Letter.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "666da6ad-30be-4249-97cc-37e37eda94a6",
@@ -46388,7 +46409,10 @@
       "8"
     ],
     "file": "Mario Kart 64/Race.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e4961813-33e7-4506-86e7-8b4248c56cba",
@@ -46406,7 +46430,10 @@
       "10"
     ],
     "file": "Super Mario 64/Peach is Saved.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "db1c54c3-c5d5-43a2-b17f-f7a8c7a54a8a",
@@ -46424,7 +46451,10 @@
       "8"
     ],
     "file": "Super Mario 64/Correct Solution.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "786e5c65-21ff-456f-96ba-36f8133cf503",
@@ -46442,7 +46472,10 @@
       "8"
     ],
     "file": "Super Mario 64/Power Star.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "41f8f01a-609f-4fa3-a561-2d98d7ee7da9",
@@ -46461,7 +46494,9 @@
     ],
     "usesCustomBank": true,
     "file": "Super Mario 64/Star Get.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1baa7409-ca30-49f9-bcbf-378a371b4fa7",
@@ -46479,7 +46514,10 @@
       "8"
     ],
     "file": "Super Mario 64/Toad's Message.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "0b66275c-39b8-4f68-8dae-0626fd1aff0f",
@@ -46498,7 +46536,9 @@
     ],
     "usesCustomBank": true,
     "file": "Super Mario 64/Course Clear.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "bb55b8a2-5cb5-45df-a000-032e7a0b3a38",
@@ -46516,7 +46556,10 @@
       "2"
     ],
     "file": "Super Mario 64/Hazy Maze Cave.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "33bfb96b-29e4-4c15-80d0-680516b73cdd",
@@ -46536,7 +46579,9 @@
     ],
     "usesCustomBank": true,
     "file": "Super Mario 64/Dire, Dire Docks.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "345eb542-19d6-449c-a6de-3a9b2353377f",
@@ -46555,7 +46600,10 @@
       "3"
     ],
     "file": "Super Mario 64/Lethal Lava Land.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c192af89-e9c3-4e35-821b-311448ec4ca9",
@@ -46574,7 +46622,10 @@
       "3"
     ],
     "file": "Super Mario 64/Piranha Plant's Lullaby.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a6e8a5aa-5ce9-4e9c-9ac1-d9868a758c8c",
@@ -46594,7 +46645,10 @@
       "6"
     ],
     "file": "Super Mario 64/Merry-Go-Round.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ca09abf7-e8d3-471f-b7f5-705376f1f993",
@@ -46614,7 +46668,9 @@
     ],
     "usesCustomBank": true,
     "file": "Super Mario 64/Slider (Variant B).mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "8d453653-ffd1-48fe-acb0-a8a4015d2e1b",
@@ -46633,7 +46689,10 @@
       "3"
     ],
     "file": "Super Mario 64/Looping Steps.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
