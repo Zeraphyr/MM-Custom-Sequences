@@ -46481,5 +46481,24 @@
     "file": "Super Mario 64/Toad's Message.mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "0b66275c-39b8-4f68-8dae-0626fd1aff0f",
+    "creationDate": "2026-05-04T02:25:54.378Z",
+    "game": "Super Mario 64",
+    "song": "Course Clear",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Mario 64/Course Clear.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
