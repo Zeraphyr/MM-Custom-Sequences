@@ -46557,5 +46557,24 @@
     "file": "Super Mario 64/Lethal Lava Land.mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "c192af89-e9c3-4e35-821b-311448ec4ca9",
+    "creationDate": "2026-05-04T02:29:00.944Z",
+    "game": "Super Mario 64",
+    "song": "Piranha Plant's Lullaby",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "3"
+    ],
+    "file": "Super Mario 64/Piranha Plant's Lullaby.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
