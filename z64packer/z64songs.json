@@ -46463,5 +46463,23 @@
     "file": "Super Mario 64/Star Get.mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "1baa7409-ca30-49f9-bcbf-378a371b4fa7",
+    "creationDate": "2026-05-04T02:22:20.272Z",
+    "game": "Super Mario 64",
+    "song": "Toad's Message",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "file": "Super Mario 64/Toad's Message.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
