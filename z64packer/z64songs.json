@@ -46518,5 +46518,25 @@
     "file": "Super Mario 64/Hazy Maze Cave.mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "33bfb96b-29e4-4c15-80d0-680516b73cdd",
+    "creationDate": "2026-05-04T02:27:58.100Z",
+    "game": "Super Mario 64",
+    "song": "Dire, Dire Docks",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "usesCustomBank": true,
+    "file": "Super Mario 64/Dire, Dire Docks.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
