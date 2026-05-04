@@ -46616,5 +46616,24 @@
     "file": "Super Mario 64/Slider (Variant B).mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "8d453653-ffd1-48fe-acb0-a8a4015d2e1b",
+    "creationDate": "2026-05-04T02:32:06.457Z",
+    "game": "Super Mario 64",
+    "song": "Looping Steps",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "3"
+    ],
+    "file": "Super Mario 64/Looping Steps.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
