@@ -46538,5 +46538,24 @@
     "file": "Super Mario 64/Dire, Dire Docks.mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "345eb542-19d6-449c-a6de-3a9b2353377f",
+    "creationDate": "2026-05-04T02:28:24.639Z",
+    "game": "Super Mario 64",
+    "song": "Lethal Lava Land",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Super Mario 64/Lethal Lava Land.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
