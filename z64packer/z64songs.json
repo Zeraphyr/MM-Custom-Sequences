@@ -46694,5 +46694,4272 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Girafarig!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "0f1a8de9-bac3-4ad4-a9d2-efbb723616d4",
+    "file": "Pokémon Stadium 2/Oh it's Girafarig!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Smoochum!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "cdd57ad7-8463-4c01-a4fa-37d3a00f9289",
+    "file": "Pokémon Stadium 2/Oh it's Smoochum!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Natu!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "c0a171c4-ad19-4827-8482-0802bf1d8e76",
+    "file": "Pokémon Stadium 2/Oh it's Natu!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Articuno!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "b89dccb5-9316-4500-b39b-33cc334a3f77",
+    "file": "Pokémon Stadium 2/Oh it's Articuno!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Pupitar!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "696c263d-a2a5-4f15-ae0d-431f76a392a0",
+    "file": "Pokémon Stadium 2/Oh it's Pupitar!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Electrode!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "8b3ed9c0-c545-45bd-a392-afe6908247c2",
+    "file": "Pokémon Stadium 2/Oh it's Electrode!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Geodude!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "a824e303-16a1-4bd6-b482-dc4049cf0ba3",
+    "file": "Pokémon Stadium 2/Oh it's Geodude!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Magmar!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "b1cdd946-9e21-4086-8195-93cdac278730",
+    "file": "Pokémon Stadium 2/Oh it's Magmar!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Farfetchd!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "027c6c86-1958-43dd-9af2-3a6d27a56cee",
+    "file": "Pokémon Stadium 2/Oh it's Farfetchd!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Snubbull!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "76ad11c4-5151-4cc2-9895-d6b1ecec3287",
+    "file": "Pokémon Stadium 2/Oh it's Snubbull!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Mew!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "9b9e236f-c304-4659-9694-2f3b6680bc7a",
+    "file": "Pokémon Stadium 2/Oh it's Mew!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Venonat!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "da0f2651-7e1b-4c97-bd8f-a0d0b429feb3",
+    "file": "Pokémon Stadium 2/Oh it's Venonat!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Slowpoke!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "4bdeb0ed-70c7-4627-8b50-5f34b7e70168",
+    "file": "Pokémon Stadium 2/Oh it's Slowpoke!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Togetic!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "2d8b1d8c-f631-4d70-89d9-ad742cb77f73",
+    "file": "Pokémon Stadium 2/Oh it's Togetic!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Drowzee!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "1a72e5a6-1f9d-4270-909c-7a2bc2ef7e42",
+    "file": "Pokémon Stadium 2/Oh it's Drowzee!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Clefairy!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "14099f57-3f88-45b3-a070-51864dcdae4b",
+    "file": "Pokémon Stadium 2/Oh it's Clefairy!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Doduo!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "045737d1-adc1-4cb8-8434-06f8b61728c2",
+    "file": "Pokémon Stadium 2/Oh it's Doduo!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Murkrow!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "d2410668-b750-4dc7-abe4-463cb97fdd60",
+    "file": "Pokémon Stadium 2/Oh it's Murkrow!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Muk!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "ebce569d-bdbf-4448-8772-42bcabbf0452",
+    "file": "Pokémon Stadium 2/Oh it's Muk!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Totodile!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "3cf1ff21-0c5b-45e9-bd6e-05e8ab220a68",
+    "file": "Pokémon Stadium 2/Oh it's Totodile!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Raticate!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "4eaa0f78-baff-47af-8dcf-80f26535954c",
+    "file": "Pokémon Stadium 2/Oh it's Raticate!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Hypno!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "162b8f87-a097-4afb-b97f-528456e4bc6b",
+    "file": "Pokémon Stadium 2/Oh it's Hypno!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Sentret!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "1877676d-b8bf-40ee-8b77-ffa9cf2b4ef8",
+    "file": "Pokémon Stadium 2/Oh it's Sentret!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Sunkern!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "0461105f-348d-4a61-b8b6-f3e90dd24667",
+    "file": "Pokémon Stadium 2/Oh it's Sunkern!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Squirtle!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "bd987ac5-ef0b-4196-b0d1-c370c8f9cc56",
+    "file": "Pokémon Stadium 2/Oh it's Squirtle!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Lanturn!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "96c7a434-0840-4992-9fca-ec6fd95f8a0e",
+    "file": "Pokémon Stadium 2/Oh it's Lanturn!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Horsea!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "6276c2aa-3218-44f1-b6a6-b1bcdc0230ad",
+    "file": "Pokémon Stadium 2/Oh it's Horsea!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Vulpix!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "d6b78536-70cb-4a94-8da1-91dc692c6ace",
+    "file": "Pokémon Stadium 2/Oh it's Vulpix!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Seel!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "a7ed7cf1-9a7d-434b-a474-2dee8b5efe8d",
+    "file": "Pokémon Stadium 2/Oh it's Seel!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Venusaur!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "1c1e9692-90e7-44d2-9d64-a8154541e82a",
+    "file": "Pokémon Stadium 2/Oh it's Venusaur!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Slowking!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "b1354eff-0299-4b5e-9202-2310a2ec6f3c",
+    "file": "Pokémon Stadium 2/Oh it's Slowking!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Mewtwo!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "66953691-55f1-42d2-a2f5-ab9e6fa55c8c",
+    "file": "Pokémon Stadium 2/Oh it's Mewtwo!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Yanma!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "f8557050-deae-41d0-907a-a8081f981734",
+    "file": "Pokémon Stadium 2/Oh it's Yanma!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Octillery!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "636c3e45-19db-4bd9-a4f8-277c4949aad3",
+    "file": "Pokémon Stadium 2/Oh it's Octillery!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Venomoth!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "3ae3300b-cf19-4571-82b9-1698be1b2152",
+    "file": "Pokémon Stadium 2/Oh it's Venomoth!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Miltank!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "9016172c-acf5-4e3c-bdbe-163753f14cb5",
+    "file": "Pokémon Stadium 2/Oh it's Miltank!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Ninetales!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "7416a6d7-81e1-4dfe-acbf-bec17343df43",
+    "file": "Pokémon Stadium 2/Oh it's Ninetales!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Ivysaur!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "9bfc9a74-dca6-4331-a4e2-4aa360630712",
+    "file": "Pokémon Stadium 2/Oh it's Ivysaur!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Slowbro!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "9895a45b-ab96-4913-b138-c6bdb7396028",
+    "file": "Pokémon Stadium 2/Oh it's Slowbro!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Machop!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "46c66d20-3b58-4d59-8d6b-61bf32a697ff",
+    "file": "Pokémon Stadium 2/Oh it's Machop!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Mantine!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "12696b62-9750-4677-ab64-98c167c26832",
+    "file": "Pokémon Stadium 2/Oh it's Mantine!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Porygon 2!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "f705dab2-5ac0-419e-b999-4c9c0a536c7f",
+    "file": "Pokémon Stadium 2/Oh it's Porygon 2!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Magby!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "56625dde-c76f-4498-a314-a7ccb801b085",
+    "file": "Pokémon Stadium 2/Oh it's Magby!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Victreebel!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "4d1e2586-9cb7-4c22-b020-7ae4cbb801e6",
+    "file": "Pokémon Stadium 2/Oh it's Victreebel!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Charizard!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "33e01c49-5eef-45e3-a09c-e4faf2522128",
+    "file": "Pokémon Stadium 2/Oh it's Charizard!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Growlithe!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "01cb25f7-0ac9-4ebd-95e9-48cce3d4c856",
+    "file": "Pokémon Stadium 2/Oh it's Growlithe!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Larvitar!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "f6560f5d-9062-4455-9572-25ad7017c2f4",
+    "file": "Pokémon Stadium 2/Oh it's Larvitar!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Ledian!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "076336bf-fbfb-4f40-a4b2-8c7e554044ed",
+    "file": "Pokémon Stadium 2/Oh it's Ledian!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Jumpluff!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "0ef4cfee-c881-4ec2-8e22-a7191c01bd4c",
+    "file": "Pokémon Stadium 2/Oh it's Jumpluff!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Aerodactyl!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "ed5178d4-0860-4e3a-bda2-f013745e0e66",
+    "file": "Pokémon Stadium 2/Oh it's Aerodactyl!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Rhyhorn!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "bc50b5c8-8146-4daf-a807-83197d6246e3",
+    "file": "Pokémon Stadium 2/Oh it's Rhyhorn!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Bulbasaur!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "16cf8e8d-5daa-4376-a69b-3e0f6cab3dca",
+    "file": "Pokémon Stadium 2/Oh it's Bulbasaur!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Sunflora!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "40a7694f-ab95-4a2c-be7b-66547dcc9897",
+    "file": "Pokémon Stadium 2/Oh it's Sunflora!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Elekid!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "40136a49-9b34-4a3e-a5dc-b3c6078aa2b7",
+    "file": "Pokémon Stadium 2/Oh it's Elekid!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Paras!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "847c94f1-478e-425b-9ab5-d37a6232931f",
+    "file": "Pokémon Stadium 2/Oh it's Paras!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Kakuna!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "9e1e7751-2189-4d1f-abc2-9eb7d005b167",
+    "file": "Pokémon Stadium 2/Oh it's Kakuna!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Parasect!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "62aa49bd-02f5-4558-91e1-6b1aa9e09acd",
+    "file": "Pokémon Stadium 2/Oh it's Parasect!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Qwilfish!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "2bff5516-34c9-475d-af48-e73b35afe1b5",
+    "file": "Pokémon Stadium 2/Oh it's Qwilfish!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Scyther!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "779bd707-990d-4550-8376-e31c948e1904",
+    "file": "Pokémon Stadium 2/Oh it's Scyther!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Blastoise!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "e529321a-beb8-47dd-82c7-83a3ef558b48",
+    "file": "Pokémon Stadium 2/Oh it's Blastoise!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Goldeen!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "d604cefd-8228-44bc-a4d1-2c846244997a",
+    "file": "Pokémon Stadium 2/Oh it's Goldeen!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Furret!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "1bd7bd07-8ebd-4492-93ee-4750ce9f5bf7",
+    "file": "Pokémon Stadium 2/Oh it's Furret!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Hitmonlee!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "8f4eecc6-b818-493a-ade0-a5aa6889beca",
+    "file": "Pokémon Stadium 2/Oh it's Hitmonlee!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Teddiursa!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "0d306b3c-30f1-495a-ba57-beb63e660cfc",
+    "file": "Pokémon Stadium 2/Oh it's Teddiursa!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Weepinbell!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "f8f26914-7850-4bda-8022-17305a9db435",
+    "file": "Pokémon Stadium 2/Oh it's Weepinbell!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Spearow!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "4fc9247f-ba55-4e6b-a2fe-eb9cc560b950",
+    "file": "Pokémon Stadium 2/Oh it's Spearow!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Hitmonchan!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "71363285-868d-4380-b7f8-5409c6672e66",
+    "file": "Pokémon Stadium 2/Oh it's Hitmonchan!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Suicune!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "2658b7a9-c0bd-4d75-b284-fd08b8a92f02",
+    "file": "Pokémon Stadium 2/Oh it's Suicune!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Dragonair!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "52eb3d1a-fee2-47f8-8d07-868208ab3634",
+    "file": "Pokémon Stadium 2/Oh it's Dragonair!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Cleffa!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "33094686-0017-4be8-abe2-c7faeefff0f8",
+    "file": "Pokémon Stadium 2/Oh it's Cleffa!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Vileplume!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "99b6a90e-d537-462f-a4ca-45d8957178b7",
+    "file": "Pokémon Stadium 2/Oh it's Vileplume!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Seaking!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "d4b55f68-ece0-45f4-870a-0b576f00acc5",
+    "file": "Pokémon Stadium 2/Oh it's Seaking!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Mareep!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "f39f4cb0-7433-447d-8d89-1d055e42c73e",
+    "file": "Pokémon Stadium 2/Oh it's Mareep!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Jynx!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "21cb9968-55f1-4de8-bbee-5cc5d38c6054",
+    "file": "Pokémon Stadium 2/Oh it's Jynx!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Chinchou!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "006418da-4154-44da-894f-521ca2342e0a",
+    "file": "Pokémon Stadium 2/Oh it's Chinchou!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Feraligatr!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "496b6d08-8cb4-47bf-b62e-6dfbf8a36e82",
+    "file": "Pokémon Stadium 2/Oh it's Feraligatr!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Marill!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "5276ecaf-c806-422e-afc6-72132f97297e",
+    "file": "Pokémon Stadium 2/Oh it's Marill!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Shuckle!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "0f6f87d2-fae4-4653-b068-b7c3d783cf19",
+    "file": "Pokémon Stadium 2/Oh it's Shuckle!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Pidgey!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "362db224-ceb9-4a0d-95c8-23866b44b509",
+    "file": "Pokémon Stadium 2/Oh it's Pidgey!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Chikorita!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "c14cacb5-ec42-4d4f-b154-ea46e2410a4a",
+    "file": "Pokémon Stadium 2/Oh it's Chikorita!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Golbat!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "7240084c-7362-49f5-b5de-3a48fab9f13b",
+    "file": "Pokémon Stadium 2/Oh it's Golbat!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Phanpy!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "1b0723bd-7fc0-4e89-9dc6-e2b7940b72c0",
+    "file": "Pokémon Stadium 2/Oh it's Phanpy!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Caterpie!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "a9a6547c-0df1-4ff5-abef-43a3c09757be",
+    "file": "Pokémon Stadium 2/Oh it's Caterpie!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Quagsire!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "2065565b-7fe3-45c5-b8c8-90e3c7ca2604",
+    "file": "Pokémon Stadium 2/Oh it's Quagsire!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Zapdos!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "4544ef5b-7f73-4e14-99d9-ce40fb2e33c1",
+    "file": "Pokémon Stadium 2/Oh it's Zapdos!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Meganium!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "25b74a63-bd5c-41cd-a5db-5ce26b11a2ec",
+    "file": "Pokémon Stadium 2/Oh it's Meganium!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Bayleef!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "e28db0a3-a30a-4aff-9621-df68f98cd21f",
+    "file": "Pokémon Stadium 2/Oh it's Bayleef!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Dunsparce!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "082780ae-3a73-4ed8-9d4c-0d914252d26e",
+    "file": "Pokémon Stadium 2/Oh it's Dunsparce!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Nidoran-F!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "a137abeb-0aa0-4b27-88c7-aa8a6a8e6e5b",
+    "file": "Pokémon Stadium 2/Oh it's Nidoran-F!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Togepi!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "f7df46f8-69e0-4219-9d66-131b43d75d99",
+    "file": "Pokémon Stadium 2/Oh it's Togepi!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Crobat!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "07f71a2b-d54a-4446-819e-965f9ec98a79",
+    "file": "Pokémon Stadium 2/Oh it's Crobat!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Omastar!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "0857bfe3-9b0f-445a-aba8-7d1c96aee284",
+    "file": "Pokémon Stadium 2/Oh it's Omastar!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Steelix!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "332cc0e6-cdf2-4254-9af8-2e52fb310248",
+    "file": "Pokémon Stadium 2/Oh it's Steelix!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Chansey!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "dcfa3eab-331a-43f8-994d-6987674e0f49",
+    "file": "Pokémon Stadium 2/Oh it's Chansey!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Nidoqueen!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "784e6235-2780-4d8e-b58d-80ec9ea1b323",
+    "file": "Pokémon Stadium 2/Oh it's Nidoqueen!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Sandslash!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "33ae8a5a-0db8-4cd1-bb82-64b382766042",
+    "file": "Pokémon Stadium 2/Oh it's Sandslash!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Corsola!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "c03048fa-7ee9-4ccf-b67f-7f525a7ba7f3",
+    "file": "Pokémon Stadium 2/Oh it's Corsola!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Delibird!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "ab262690-dc2a-42f2-a676-f075e3eacfa9",
+    "file": "Pokémon Stadium 2/Oh it's Delibird!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Magikarp!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "8f64f0ba-b80e-4296-ba6c-554bf70e5640",
+    "file": "Pokémon Stadium 2/Oh it's Magikarp!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Machamp!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "7d19163c-c052-41d6-9bb9-8ac1dbaaa7ca",
+    "file": "Pokémon Stadium 2/Oh it's Machamp!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Kingdra!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "672013ab-1989-4296-b465-f7a4b443eac7",
+    "file": "Pokémon Stadium 2/Oh it's Kingdra!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Houndoom!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "982ba818-af55-4b5e-978b-5b0595b75f81",
+    "file": "Pokémon Stadium 2/Oh it's Houndoom!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Swinub!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "36817cf3-e9ac-487e-991f-83ac44415d69",
+    "file": "Pokémon Stadium 2/Oh it's Swinub!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Gengar!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "9765daf4-e4d2-412e-9202-7a21bbc2915c",
+    "file": "Pokémon Stadium 2/Oh it's Gengar!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Metapod!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "ae98e7fd-76ba-4c0c-90ca-ef62ff082ae0",
+    "file": "Pokémon Stadium 2/Oh it's Metapod!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Cyndaquil!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "17441538-a0d3-47f8-a43e-67801c6516b4",
+    "file": "Pokémon Stadium 2/Oh it's Cyndaquil!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Pichu!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "1f3eb5e5-2a70-4227-a6b3-e256f63255de",
+    "file": "Pokémon Stadium 2/Oh it's Pichu!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Flaaffy!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "4e4eb86d-9919-4dda-a94e-c8ab189e4d46",
+    "file": "Pokémon Stadium 2/Oh it's Flaaffy!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Golem!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "0635c195-12d2-4d7e-8fdc-fa657e031364",
+    "file": "Pokémon Stadium 2/Oh it's Golem!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Kabutops!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "52824afa-3ae5-4874-9842-8a312e7cb934",
+    "file": "Pokémon Stadium 2/Oh it's Kabutops!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Wartortle!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "25202aeb-7404-4598-a0c3-4bb81d420a76",
+    "file": "Pokémon Stadium 2/Oh it's Wartortle!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Nidoking!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "0447624a-2c8c-4dd4-9041-66be4744523d",
+    "file": "Pokémon Stadium 2/Oh it's Nidoking!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Sudowoodo!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "55651416-b665-4117-9ad1-29593f95ccc9",
+    "file": "Pokémon Stadium 2/Oh it's Sudowoodo!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Slugma!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "f0b487ec-5d04-46cf-92bc-fce591324126",
+    "file": "Pokémon Stadium 2/Oh it's Slugma!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Bellossom!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "68a7db8d-9f4c-4e39-9c80-7056532b2891",
+    "file": "Pokémon Stadium 2/Oh it's Bellossom!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Spinarak!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "e3046b23-2cb5-40a0-a056-dcb026d9eb02",
+    "file": "Pokémon Stadium 2/Oh it's Spinarak!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Sneasel!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "725e16f7-dffa-4aca-8941-d0b3cb16ec7e",
+    "file": "Pokémon Stadium 2/Oh it's Sneasel!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Xatu!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "75c41eec-8fa8-4499-a48e-40fdae3c6dd1",
+    "file": "Pokémon Stadium 2/Oh it's Xatu!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Gastly!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "87c4dc19-3563-4049-8d30-ce9d811b7fb7",
+    "file": "Pokémon Stadium 2/Oh it's Gastly!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Donphan!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "c74844c1-ff81-4e38-9cac-8db1a77aa103",
+    "file": "Pokémon Stadium 2/Oh it's Donphan!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Gyarados!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "6158b326-0f71-415b-b229-89c2704a2a1c",
+    "file": "Pokémon Stadium 2/Oh it's Gyarados!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Clefable!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "bb1c1415-2934-4311-8759-c31e17c4ea64",
+    "file": "Pokémon Stadium 2/Oh it's Clefable!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Beedrill!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "0d413c2e-be8d-4718-b1ae-032dd051a474",
+    "file": "Pokémon Stadium 2/Oh it's Beedrill!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Tyranitar!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "edbb6a42-d5e8-4c38-9a83-1470eeacc99a",
+    "file": "Pokémon Stadium 2/Oh it's Tyranitar!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Wobbuffet!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "ac9a1cdf-d73e-47b6-afb0-18c563c4b017",
+    "file": "Pokémon Stadium 2/Oh it's Wobbuffet!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Quilava!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "04a95721-2c04-4b8d-9fc0-a76d337d2245",
+    "file": "Pokémon Stadium 2/Oh it's Quilava!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Nidoran-M!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "7adfa178-6137-4931-b7cf-52904557ceb9",
+    "file": "Pokémon Stadium 2/Oh it's Nidoran-M!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Eevee!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "c944607e-e19d-485f-a7de-3265073cf4bd",
+    "file": "Pokémon Stadium 2/Oh it's Eevee!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Tangela!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "5dc2e3ed-0385-4088-afba-9f9b934bdb66",
+    "file": "Pokémon Stadium 2/Oh it's Tangela!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Blissey!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "14ede3f4-f470-45b7-87ce-71e3bb649954",
+    "file": "Pokémon Stadium 2/Oh it's Blissey!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Sandshrew!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "2135eeb9-9d3b-40a9-a12e-f30705856f6c",
+    "file": "Pokémon Stadium 2/Oh it's Sandshrew!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Vaporeon!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "ecc3a5b8-600f-4cdf-af02-9d1f4172dc68",
+    "file": "Pokémon Stadium 2/Oh it's Vaporeon!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Hoppip!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "6f05802d-7f27-482e-b5c4-3d3dae732b3b",
+    "file": "Pokémon Stadium 2/Oh it's Hoppip!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Flareon!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "af81b82a-b78b-49ec-b0b2-132959c36561",
+    "file": "Pokémon Stadium 2/Oh it's Flareon!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Moltres!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "b716f865-1b06-459b-978b-f11ecb6aa43a",
+    "file": "Pokémon Stadium 2/Oh it's Moltres!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Wooper!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "a6e2b707-2154-495e-93b1-be6bb9c6885b",
+    "file": "Pokémon Stadium 2/Oh it's Wooper!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Celebi!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "aa6c856b-abd5-408e-8505-2e1e321bec82",
+    "file": "Pokémon Stadium 2/Oh it's Celebi!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Heracross!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "bf745fa8-2bd5-4195-90e1-efc3dcc8c8ac",
+    "file": "Pokémon Stadium 2/Oh it's Heracross!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Arcanine!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "d03799b9-e761-495d-a321-d56a7c4e76b0",
+    "file": "Pokémon Stadium 2/Oh it's Arcanine!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Rhydon!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "be5a8d33-f24b-4a8c-8273-bed00e189567",
+    "file": "Pokémon Stadium 2/Oh it's Rhydon!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Diglett!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "5773f9f2-d2db-4d67-b045-cf4bfeb48a18",
+    "file": "Pokémon Stadium 2/Oh it's Diglett!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Meowth!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "ce5c2e93-280a-4d8a-8949-bf8f28c801eb",
+    "file": "Pokémon Stadium 2/Oh it's Meowth!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Golduck!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "06e49be4-cc31-4221-8b62-c3ecf66424af",
+    "file": "Pokémon Stadium 2/Oh it's Golduck!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Magneton!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "26eb6623-602d-4d57-a880-f932b2bdbe70",
+    "file": "Pokémon Stadium 2/Oh it's Magneton!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Seadra!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "52810b83-a063-4b37-93af-b1fda2d9d389",
+    "file": "Pokémon Stadium 2/Oh it's Seadra!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Weedle!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "c2436284-2536-405a-bb95-c165b0876ee7",
+    "file": "Pokémon Stadium 2/Oh it's Weedle!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Magcargo!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "143583e9-ba1d-4be8-b52e-97a65bf7a63a",
+    "file": "Pokémon Stadium 2/Oh it's Magcargo!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Dugtrio!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "5a5bd0c3-1c65-4d18-945e-f737d8deae9f",
+    "file": "Pokémon Stadium 2/Oh it's Dugtrio!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Politoed!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "796c6993-446a-4fc6-b650-b5bb2454849f",
+    "file": "Pokémon Stadium 2/Oh it's Politoed!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Dratini!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "2ed4c9aa-708b-4336-9171-d1881ab34487",
+    "file": "Pokémon Stadium 2/Oh it's Dratini!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Misdreavus!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "ecc33d06-009f-4cf5-b2c5-9b520ac4d143",
+    "file": "Pokémon Stadium 2/Oh it's Misdreavus!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Butterfree!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "698bd7ea-43e7-49d1-824f-a06116c410a6",
+    "file": "Pokémon Stadium 2/Oh it's Butterfree!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Raichu!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "cc3ecd7b-93ca-4fe4-86b7-35bbc634ad8c",
+    "file": "Pokémon Stadium 2/Oh it's Raichu!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Magnemite!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "fc2a2232-c41e-489d-996f-19057ebd90df",
+    "file": "Pokémon Stadium 2/Oh it's Magnemite!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Weezing!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "894df5d1-663b-4456-9e53-5ae84310eb8b",
+    "file": "Pokémon Stadium 2/Oh it's Weezing!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Primeape!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "34326e7b-76b5-477d-bd73-c7a613915891",
+    "file": "Pokémon Stadium 2/Oh it's Primeape!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Forretress!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "95e44338-1855-4449-a764-1f70917e6bca",
+    "file": "Pokémon Stadium 2/Oh it's Forretress!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Ditto!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "fc840eb0-4ed4-494a-9cb3-1d74418dbe87",
+    "file": "Pokémon Stadium 2/Oh it's Ditto!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Marowak!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "40b726d7-0cef-49db-bfb5-5111dbaa6bea",
+    "file": "Pokémon Stadium 2/Oh it's Marowak!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Ampharos!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "0b7f757d-c67c-4426-bd45-724b0a0ef5a5",
+    "file": "Pokémon Stadium 2/Oh it's Ampharos!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Dewgong!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "00a9084d-59d6-4ca1-a720-414bd147da14",
+    "file": "Pokémon Stadium 2/Oh it's Dewgong!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Pineco!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "ab289164-8524-4149-9bcf-29c83ef848e8",
+    "file": "Pokémon Stadium 2/Oh it's Pineco!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Skarmory!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "75da2d7d-f19d-485c-ac3b-c9d36e9bde34",
+    "file": "Pokémon Stadium 2/Oh it's Skarmory!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Pidgeot!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "bd30a260-22b9-4478-b1ad-2278db0a0a1e",
+    "file": "Pokémon Stadium 2/Oh it's Pidgeot!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Omanyte!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "09a05956-ba74-4ee0-a0da-726354d3a006",
+    "file": "Pokémon Stadium 2/Oh it's Omanyte!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Charmeleon!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "0a928e84-551f-4ca3-943f-539e92cb1990",
+    "file": "Pokémon Stadium 2/Oh it's Charmeleon!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Porygon!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "e3f570b2-9854-4ebb-a85f-ec92897a6420",
+    "file": "Pokémon Stadium 2/Oh it's Porygon!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Tentacruel!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "373e6f83-7dcd-47f5-8f76-eaaa8aa5af70",
+    "file": "Pokémon Stadium 2/Oh it's Tentacruel!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Machoke!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "4a01bb73-0108-4fe3-acc4-f09d344f940b",
+    "file": "Pokémon Stadium 2/Oh it's Machoke!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Lugia!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "949b33ec-eb43-41ef-8893-b1ba9a0a0f34",
+    "file": "Pokémon Stadium 2/Oh it's Lugia!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Pinsir!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "ac371807-7c52-436b-b435-2a5ac887de06",
+    "file": "Pokémon Stadium 2/Oh it's Pinsir!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Rattata!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "11b9ed41-bef5-474d-8bf2-970a464c9bff",
+    "file": "Pokémon Stadium 2/Oh it's Rattata!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Electabuzz!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "fdf41ffb-1908-46a0-b5f2-4f07d6584eb2",
+    "file": "Pokémon Stadium 2/Oh it's Electabuzz!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Nidorina!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "a77002c9-ad5d-47a0-8e68-5f30a1ae6133",
+    "file": "Pokémon Stadium 2/Oh it's Nidorina!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Noctowl!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "c5f12b50-96cd-4488-90bb-ce78a27e3b12",
+    "file": "Pokémon Stadium 2/Oh it's Noctowl!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Unown!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "392fa5e2-1354-44c0-a251-81af50150100",
+    "file": "Pokémon Stadium 2/Oh it's Unown!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Raikou!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "954d6bf1-c86c-44ba-87a4-4a3d18518059",
+    "file": "Pokémon Stadium 2/Oh it's Raikou!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Graveler!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "647bac18-2c08-464b-aab8-c51b38333080",
+    "file": "Pokémon Stadium 2/Oh it's Graveler!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Cloyster!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "13dc708d-bd10-42cc-9d3c-f54bb9b30b91",
+    "file": "Pokémon Stadium 2/Oh it's Cloyster!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Ariados!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "8f3f9b04-46f6-488a-9914-a6cc3230d872",
+    "file": "Pokémon Stadium 2/Oh it's Ariados!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Psyduck!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "3a0c7f4f-a4de-46e6-b866-4ddb4952fe83",
+    "file": "Pokémon Stadium 2/Oh it's Psyduck!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Koffing!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "8080a040-b48c-4bff-9bb2-29e6c98b720e",
+    "file": "Pokémon Stadium 2/Oh it's Koffing!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Starmie!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "7f534071-f65a-4f25-bbf0-be9c6eea4fbc",
+    "file": "Pokémon Stadium 2/Oh it's Starmie!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Pikachu!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "b7e6f981-7939-4819-8c94-19875d730766",
+    "file": "Pokémon Stadium 2/Oh it's Pikachu!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Poliwag!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "525aeb35-41b4-485b-87e9-8de25fa874f2",
+    "file": "Pokémon Stadium 2/Oh it's Poliwag!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Croconaw!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "8d22d776-75d2-44a1-956a-a8d89c4ece52",
+    "file": "Pokémon Stadium 2/Oh it's Croconaw!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Igglybuff!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "59f483e4-b72f-4d68-a379-15fdd3608041",
+    "file": "Pokémon Stadium 2/Oh it's Igglybuff!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Granbull!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "1164f546-49e9-451c-867a-b1b71b8633ab",
+    "file": "Pokémon Stadium 2/Oh it's Granbull!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Onix!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "ad260306-343e-4d71-a2a9-6da3a78496be",
+    "file": "Pokémon Stadium 2/Oh it's Onix!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Ursaring!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "40ac9070-1bd4-4c26-a6ed-09e2924c2c4d",
+    "file": "Pokémon Stadium 2/Oh it's Ursaring!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Dragonite!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "e7f796a4-97b9-48e4-8bd6-5812fc7eb7bc",
+    "file": "Pokémon Stadium 2/Oh it's Dragonite!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Ponyta!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "42d43b3f-0d9b-456e-bce1-f531790b9632",
+    "file": "Pokémon Stadium 2/Oh it's Ponyta!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Exeggutor!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "874ec0cb-935b-4463-98dc-de1a9c6104d7",
+    "file": "Pokémon Stadium 2/Oh it's Exeggutor!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Espeon!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "9050cfb9-b4c2-4ce6-92d2-88466a12a115",
+    "file": "Pokémon Stadium 2/Oh it's Espeon!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Typhlosion!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "4250448f-379a-4229-99b3-cd29f88a28dc",
+    "file": "Pokémon Stadium 2/Oh it's Typhlosion!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Krabby!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "a4865c61-8e22-4ea3-bbc9-6a8b11e3235f",
+    "file": "Pokémon Stadium 2/Oh it's Krabby!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Umbreon!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "89c88d3e-dc51-4d38-a0db-20922c4af3c7",
+    "file": "Pokémon Stadium 2/Oh it's Umbreon!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Piloswine!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "d6d4ec4e-4151-48c4-8621-6414e95013f2",
+    "file": "Pokémon Stadium 2/Oh it's Piloswine!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Rapidash!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "f56141c8-7ab9-4992-8e04-b04aa54d869b",
+    "file": "Pokémon Stadium 2/Oh it's Rapidash!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Remoraid!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "c11661f1-d2a7-4c21-8fe9-f75b47aa9b28",
+    "file": "Pokémon Stadium 2/Oh it's Remoraid!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Entei!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "fe857f8a-3c42-4075-b7c6-d74b5cf71a6c",
+    "file": "Pokémon Stadium 2/Oh it's Entei!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Grimer!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "19cc6ebc-2d35-471e-87f7-e3449f0267e9",
+    "file": "Pokémon Stadium 2/Oh it's Grimer!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Arbok!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "0c752653-d227-43bc-a9cc-22dd915a4579",
+    "file": "Pokémon Stadium 2/Oh it's Arbok!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Ekans!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "901fe249-674a-4fd9-bad2-790cbf16c52b",
+    "file": "Pokémon Stadium 2/Oh it's Ekans!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Jolteon!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "ce204417-265c-4aed-84d2-52aaa2ae03c9",
+    "file": "Pokémon Stadium 2/Oh it's Jolteon!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Hoothoot!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "bb609db1-858d-4d92-beda-0e0cb65e4eb3",
+    "file": "Pokémon Stadium 2/Oh it's Hoothoot!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Voltorb!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "d7a186d2-bc53-47ee-8221-534c823a7350",
+    "file": "Pokémon Stadium 2/Oh it's Voltorb!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Poliwhirl!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "49d8d500-d5f3-4678-9d8c-490ce289501c",
+    "file": "Pokémon Stadium 2/Oh it's Poliwhirl!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Fearow!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "d63d7b85-cb12-46dd-999a-a9fb1b98b1f2",
+    "file": "Pokémon Stadium 2/Oh it's Fearow!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Alakazam!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "b93ab21c-46ee-4d35-bd88-3d85f9726062",
+    "file": "Pokémon Stadium 2/Oh it's Alakazam!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Kingler!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "aeb7f024-7c3c-496a-82d7-6f24960c78a4",
+    "file": "Pokémon Stadium 2/Oh it's Kingler!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Scizor!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "3a6b8dc4-0292-490e-a2cc-074cc905ef97",
+    "file": "Pokémon Stadium 2/Oh it's Scizor!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Ledyba!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "d79958c4-55f9-4dc1-b708-3a4b1089999c",
+    "file": "Pokémon Stadium 2/Oh it's Ledyba!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Charmander!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "73224e49-63b1-4509-9f39-fd8eabf1acf8",
+    "file": "Pokémon Stadium 2/Oh it's Charmander!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Snorlax!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "33fd9a8c-643c-4787-80ce-e285fb71f875",
+    "file": "Pokémon Stadium 2/Oh it's Snorlax!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Kangashkan!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "ec34387f-5fd6-419e-96f9-0cac62d22fd2",
+    "file": "Pokémon Stadium 2/Oh it's Kangashkan!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Cubone!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "c512b9c7-6e61-4902-84c5-0fb2bc420af5",
+    "file": "Pokémon Stadium 2/Oh it's Cubone!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Aipom!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "d7fb36fe-c051-43d9-8401-57b6475cf896",
+    "file": "Pokémon Stadium 2/Oh it's Aipom!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Oddish!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "acaa17bf-b25f-49b0-83b8-d2eab3051b32",
+    "file": "Pokémon Stadium 2/Oh it's Oddish!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Poliwrath!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "518b07f4-e49d-428e-973a-ff476adad63b",
+    "file": "Pokémon Stadium 2/Oh it's Poliwrath!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Tyrogue!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "f5658c21-7ee9-4691-9023-b1f7112867ab",
+    "file": "Pokémon Stadium 2/Oh it's Tyrogue!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Kadabra!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "d18e1da4-909e-42e4-8af8-fb8153caf5c3",
+    "file": "Pokémon Stadium 2/Oh it's Kadabra!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Tauros!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "75c0d6bb-78e6-4453-8fc1-0e746bf327db",
+    "file": "Pokémon Stadium 2/Oh it's Tauros!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Ho-oh!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "85b22665-0e03-412d-93e4-a1350b7793dc",
+    "file": "Pokémon Stadium 2/Oh it's Ho-oh!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Exeggcute!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "1bc756a0-9442-48d2-9370-1c6c25d06da8",
+    "file": "Pokémon Stadium 2/Oh it's Exeggcute!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Haunter!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "af71702c-e84f-4a17-bbc7-c4797eed5566",
+    "file": "Pokémon Stadium 2/Oh it's Haunter!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Bellsprout!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "d93bcb86-0dab-49f0-9235-47dcb7ada19f",
+    "file": "Pokémon Stadium 2/Oh it's Bellsprout!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Nidorino!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "b6d03371-1486-4a18-84b2-e1a4bb8497a9",
+    "file": "Pokémon Stadium 2/Oh it's Nidorino!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Wigglytuff!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "1c7e03df-e681-4e99-94ec-7192a1d0128b",
+    "file": "Pokémon Stadium 2/Oh it's Wigglytuff!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Mankey!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "f7069780-eb33-47dc-b614-fb7ba675a2d3",
+    "file": "Pokémon Stadium 2/Oh it's Mankey!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Tentacool!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "b7db8b62-d283-4928-87f1-7c851744a331",
+    "file": "Pokémon Stadium 2/Oh it's Tentacool!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Staryu!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "ae6a24b4-2775-4bc5-b7b9-9c0791c6124c",
+    "file": "Pokémon Stadium 2/Oh it's Staryu!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Lickitung!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "599411c4-251e-414c-8b2f-8fcf57a9baab",
+    "file": "Pokémon Stadium 2/Oh it's Lickitung!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Pidgeotto!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "33982026-007d-41db-941a-93a590abce2b",
+    "file": "Pokémon Stadium 2/Oh it's Pidgeotto!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Mr Mime!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "ff7c954d-e82d-4e24-ab12-2ef461fd824a",
+    "file": "Pokémon Stadium 2/Oh it's Mr Mime!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Lapras!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "4f2a7d04-aba1-4b1d-a6e0-621f53fbf281",
+    "file": "Pokémon Stadium 2/Oh it's Lapras!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Shellder!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "c04fd3d5-e4a4-4ac3-a050-6a0cdf16a64a",
+    "file": "Pokémon Stadium 2/Oh it's Shellder!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Dodrio!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "675690e2-b483-4122-bb6f-feec990c16f2",
+    "file": "Pokémon Stadium 2/Oh it's Dodrio!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Hitmontop!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "86d311d6-fcb8-443e-8fac-7350aabad85b",
+    "file": "Pokémon Stadium 2/Oh it's Hitmontop!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Skiploom!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "f5aa1b76-dac5-4248-90d9-e768428bae11",
+    "file": "Pokémon Stadium 2/Oh it's Skiploom!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Stantler!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "6da88b9b-7ea2-4090-abed-97bbf87ec32c",
+    "file": "Pokémon Stadium 2/Oh it's Stantler!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Abra!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "265fa870-2073-48d9-a073-76055977b653",
+    "file": "Pokémon Stadium 2/Oh it's Abra!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Gloom!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "7cccb682-715f-4cc7-8065-0cd7f29e24bc",
+    "file": "Pokémon Stadium 2/Oh it's Gloom!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Gligar!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "71aa5094-829d-444d-928d-dfede144dbf6",
+    "file": "Pokémon Stadium 2/Oh it's Gligar!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Jigglypuff!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "19cbcb15-ac2b-46e7-b2cf-530c39117b8d",
+    "file": "Pokémon Stadium 2/Oh it's Jigglypuff!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Smeargle!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "5f5e5276-0f98-41cf-abb7-2a977ac70942",
+    "file": "Pokémon Stadium 2/Oh it's Smeargle!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Zubat!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "b4c1e841-3873-4d3f-8d2f-bceb95bafa90",
+    "file": "Pokémon Stadium 2/Oh it's Zubat!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Persian!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "fff23eca-d880-4b86-b913-d7d459a678be",
+    "file": "Pokémon Stadium 2/Oh it's Persian!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Kabuto!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "c3baffcf-4fc8-460b-9068-c26f6b8227a8",
+    "file": "Pokémon Stadium 2/Oh it's Kabuto!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Houndour!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "ec764add-d591-43f9-820e-4a3d4c1d006a",
+    "file": "Pokémon Stadium 2/Oh it's Houndour!.mmrs"
+  },
+  {
+    "game": "Pokémon Stadium 2",
+    "song": "Oh it's Azumarill!",
+    "type": "fanfare",
+    "categories": [
+      "122",
+      "124",
+      "137",
+      "139",
+      "152"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "uuid": "028ec665-b5ea-4dcb-a4c0-c6859e4e98c0",
+    "file": "Pokémon Stadium 2/Oh it's Azumarill!.mmrs"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
