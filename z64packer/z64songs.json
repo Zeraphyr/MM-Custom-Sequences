@@ -46576,5 +46576,25 @@
     "file": "Super Mario 64/Piranha Plant's Lullaby.mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "a6e8a5aa-5ce9-4e9c-9ac1-d9868a758c8c",
+    "creationDate": "2026-05-04T02:29:51.855Z",
+    "game": "Super Mario 64",
+    "song": "Merry-Go-Round",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "Super Mario 64/Merry-Go-Round.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
