@@ -46426,5 +46426,23 @@
     "file": "Super Mario 64/Correct Solution.mmrs",
     "preview": "https://www.youtube.com/"
   },
+  {
+    "uuid": "786e5c65-21ff-456f-96ba-36f8133cf503",
+    "creationDate": "2026-05-04T02:20:33.613Z",
+    "game": "Super Mario 64",
+    "song": "Power Star",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "DeathBasket"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8"
+    ],
+    "file": "Super Mario 64/Power Star.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
