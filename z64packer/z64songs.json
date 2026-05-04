@@ -52240,16 +52240,16 @@
   {
     "uuid": "12634e4b-0c17-4e98-a18d-bfe7d04da686",
     "creationDate": "2026-05-04T19:56:17.777Z",
-    "game": "The Legend of Zelda: Nimpize Adventure",
-    "song": "Lost Woods",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Beware of the Forest Mushrooms (Nimpize Adventure Mix)",
     "composers": [
       "Yoko Shimomura"
     ],
     "converters": [
-      "Ostrealava0",
+      "Sauraen",
       "Asra"
     ],
-    "notes": "Song is Beware the Forest's Mushrooms from Super Mario RPG.",
+    "notes": "Also known as Lost Woods from Zelda: Nimpize Adventure.",
     "type": "bgm",
     "categories": [
       "0",
@@ -52258,7 +52258,8 @@
       "6"
     ],
     "file": "The Legend of Zelda Nimpize Adventure/Lost Woods.mmrs",
-    "preview": "https://www.youtube.com/watch?v=2blDAnBAoxY"
+    "preview": "https://www.youtube.com/watch?v=TxhsXKX_kDY",
+    "lastUpdateDate": "2026-05-04T22:44:13.475Z"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
