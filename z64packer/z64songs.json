@@ -52285,5 +52285,31 @@
     "file": "The Legend of Zelda Breath of the Wild/Windblight Ganon Battle (Nimpize Adventure Mix).mmrs",
     "preview": "The Legend of Zelda Breath of the Wild/Windblight Ganon Battle (Nimpize Adventure Mix).ogg"
   },
+  {
+    "uuid": "5373711b-e0f7-4c62-ac40-21bbbdad9fdd",
+    "creationDate": "2026-05-04T23:12:23.387Z",
+    "game": "Zelda II: The Adventure of Link",
+    "song": "Dark Link Battle",
+    "composers": [
+      "Akito Nakatsuka"
+    ],
+    "converters": [
+      "Sauraen",
+      "Asra"
+    ],
+    "notes": "Remix of Zelda II's Encounter theme, made by Sauraen for Project Beta Triforce.",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Zelda II The Adventure of Link/Dark Link Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=iiwvSdzN_t8"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
