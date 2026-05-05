@@ -52235,7 +52235,10 @@
       "16"
     ],
     "file": "Nintendo 3DS/Internet Settings.mmrs",
-    "preview": "Nintendo 3DS/Internet Settings.ogg"
+    "preview": "Nintendo 3DS/Internet Settings.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "12634e4b-0c17-4e98-a18d-bfe7d04da686",
@@ -52259,7 +52262,10 @@
     ],
     "file": "The Legend of Zelda Nimpize Adventure/Lost Woods.mmrs",
     "preview": "https://www.youtube.com/watch?v=TxhsXKX_kDY",
-    "lastUpdateDate": "2026-05-04T22:44:13.475Z"
+    "lastUpdateDate": "2026-05-04T22:44:13.475Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "097109cf-a127-4768-87ad-0af87a3a568e",
@@ -52283,7 +52289,10 @@
       "7"
     ],
     "file": "The Legend of Zelda Breath of the Wild/Windblight Ganon Battle (Nimpize Adventure Mix).mmrs",
-    "preview": "The Legend of Zelda Breath of the Wild/Windblight Ganon Battle (Nimpize Adventure Mix).ogg"
+    "preview": "The Legend of Zelda Breath of the Wild/Windblight Ganon Battle (Nimpize Adventure Mix).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "5373711b-e0f7-4c62-ac40-21bbbdad9fdd",
@@ -52309,7 +52318,10 @@
       "7"
     ],
     "file": "Zelda II The Adventure of Link/Dark Link Battle.mmrs",
-    "preview": "https://www.youtube.com/watch?v=iiwvSdzN_t8"
+    "preview": "https://www.youtube.com/watch?v=iiwvSdzN_t8",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "37477cc7-5100-405a-bbd3-6fabcce65486",
@@ -52328,7 +52340,10 @@
       "10"
     ],
     "file": "Omori/Bookcase.mmrs",
-    "preview": "Omori/Bookcase.ogg"
+    "preview": "Omori/Bookcase.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "831e21e5-4cb1-4ef2-a530-86a4d54db3db",
@@ -52350,7 +52365,10 @@
       "16"
     ],
     "file": "Omori/Forest Chillin'.mmrs",
-    "preview": "Omori/Forest Chillin'.ogg"
+    "preview": "Omori/Forest Chillin'.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "5f2256b7-7b1b-4ce8-a689-80d7527e40c8",
@@ -52370,7 +52388,10 @@
       "10"
     ],
     "file": "Omori/It's Okay To Try Again....mmrs",
-    "preview": "Omori/It's Okay To Try Again....ogg"
+    "preview": "Omori/It's Okay To Try Again....ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "460ff7e2-e522-4988-b9c6-e2288e09f0f5",
@@ -52391,7 +52412,10 @@
       "16"
     ],
     "file": "Omori/Lost at a Sleepover.mmrs",
-    "preview": "Omori/Lost at a Sleepover.ogg"
+    "preview": "Omori/Lost at a Sleepover.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d79d1b8c-5fcb-43f7-bdfa-8a5da710b9db",
@@ -52411,7 +52435,10 @@
       "6"
     ],
     "file": "Omori/Lost Library.mmrs",
-    "preview": "Omori/Lost Library.ogg"
+    "preview": "Omori/Lost Library.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "016c935b-899c-42c0-8dc2-ff9796f03aa0",
@@ -52431,7 +52458,10 @@
       "3"
     ],
     "file": "Omori/Lovesick - 80000 Lightyears.mmrs",
-    "preview": "Omori/Lovesick - 80000 Lightyears.ogg"
+    "preview": "Omori/Lovesick - 80000 Lightyears.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e37692ad-2806-4f23-98ae-b917cc7d419e",
@@ -52453,7 +52483,10 @@
       "16"
     ],
     "file": "Omori/WHITE SPACE.mmrs",
-    "preview": "Omori/WHITE SPACE.ogg"
+    "preview": "Omori/WHITE SPACE.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

@@ -3575,5 +3575,8 @@
     "logo": "https://mmrandomizer.com/img/logo/full/png/mm-randomizer-logo_md.png",
     "short_name": "MM Rando"
   },
+  {
+    "game": "Nintendo 3DS"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
