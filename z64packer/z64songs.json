@@ -52488,5 +52488,25 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "5ab7255e-f84d-4345-b30c-fbddf78466a7",
+    "creationDate": "2026-05-05T02:21:47.489Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Ambi's Palace",
+    "composers": [
+      "Minako Adachi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Ambi's Palace.mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Ambi's Palace.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
