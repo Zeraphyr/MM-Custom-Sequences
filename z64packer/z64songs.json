@@ -52433,5 +52433,27 @@
     "file": "Omori/Lovesick - 80000 Lightyears.mmrs",
     "preview": "Omori/Lovesick - 80000 Lightyears.ogg"
   },
+  {
+    "uuid": "e37692ad-2806-4f23-98ae-b917cc7d419e",
+    "creationDate": "2026-05-05T01:26:09.992Z",
+    "game": "Omori",
+    "song": "WHITE SPACE",
+    "composers": [
+      "Jami Lynne"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Omori/WHITE SPACE.mmrs",
+    "preview": "Omori/WHITE SPACE.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
