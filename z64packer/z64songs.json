@@ -52393,5 +52393,25 @@
     "file": "Omori/Lost at a Sleepover.mmrs",
     "preview": "Omori/Lost at a Sleepover.ogg"
   },
+  {
+    "uuid": "d79d1b8c-5fcb-43f7-bdfa-8a5da710b9db",
+    "creationDate": "2026-05-05T01:23:39.318Z",
+    "game": "Omori",
+    "song": "Lost Library",
+    "composers": [
+      "Pedro Silva"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "Omori/Lost Library.mmrs",
+    "preview": "Omori/Lost Library.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
