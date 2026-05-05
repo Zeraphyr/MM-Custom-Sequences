@@ -52413,5 +52413,25 @@
     "file": "Omori/Lost Library.mmrs",
     "preview": "Omori/Lost Library.ogg"
   },
+  {
+    "uuid": "016c935b-899c-42c0-8dc2-ff9796f03aa0",
+    "creationDate": "2026-05-05T01:25:30.745Z",
+    "game": "Omori",
+    "song": "Lovesick - 80000 Lightyears",
+    "composers": [
+      "Jami Lynne"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Omori/Lovesick - 80000 Lightyears.mmrs",
+    "preview": "Omori/Lovesick - 80000 Lightyears.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
