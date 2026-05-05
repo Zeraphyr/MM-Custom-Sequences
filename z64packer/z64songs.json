@@ -52330,5 +52330,27 @@
     "file": "Omori/Bookcase.mmrs",
     "preview": "Omori/Bookcase.ogg"
   },
+  {
+    "uuid": "831e21e5-4cb1-4ef2-a530-86a4d54db3db",
+    "creationDate": "2026-05-05T01:21:11.920Z",
+    "game": "Omori",
+    "song": "Forest Chillin'",
+    "composers": [
+      "Pedro Silva"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Omori/Forest Chillin'.mmrs",
+    "preview": "Omori/Forest Chillin'.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
