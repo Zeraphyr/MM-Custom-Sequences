@@ -52372,5 +52372,26 @@
     "file": "Omori/It's Okay To Try Again....mmrs",
     "preview": "Omori/It's Okay To Try Again....ogg"
   },
+  {
+    "uuid": "460ff7e2-e522-4988-b9c6-e2288e09f0f5",
+    "creationDate": "2026-05-05T01:22:58.790Z",
+    "game": "Omori",
+    "song": "Lost at a Sleepover",
+    "composers": [
+      "Pedro Silva",
+      "Jami Lynne"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Omori/Lost at a Sleepover.mmrs",
+    "preview": "Omori/Lost at a Sleepover.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
