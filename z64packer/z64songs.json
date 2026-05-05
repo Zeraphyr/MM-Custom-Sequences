@@ -52311,5 +52311,24 @@
     "file": "Zelda II The Adventure of Link/Dark Link Battle.mmrs",
     "preview": "https://www.youtube.com/watch?v=iiwvSdzN_t8"
   },
+  {
+    "uuid": "37477cc7-5100-405a-bbd3-6fabcce65486",
+    "creationDate": "2026-05-05T01:20:21.781Z",
+    "game": "Omori",
+    "song": "Bookcase",
+    "composers": [
+      "Pedro Silva"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Omori/Bookcase.mmrs",
+    "preview": "Omori/Bookcase.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
