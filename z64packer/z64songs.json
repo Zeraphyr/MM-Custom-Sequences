@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -52215,6 +52215,245 @@
       "Ted Lewis"
     ],
     "preview": "Pokémon Stadium 2/Oh it's Azumarill!.ogg"
+  },
+  {
+    "uuid": "93602ca1-a1a1-4a19-ab7f-d0a0af602c43",
+    "creationDate": "2026-05-04T19:52:25.921Z",
+    "game": "Nintendo 3DS",
+    "song": "Internet Settings",
+    "composers": [
+      "Unknown"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Nintendo 3DS/Internet Settings.mmrs",
+    "preview": "Nintendo 3DS/Internet Settings.ogg"
+  },
+  {
+    "uuid": "12634e4b-0c17-4e98-a18d-bfe7d04da686",
+    "creationDate": "2026-05-04T19:56:17.777Z",
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "song": "Beware of the Forest Mushrooms (Nimpize Adventure Mix)",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Sauraen",
+      "Asra"
+    ],
+    "notes": "Also known as Lost Woods from Zelda: Nimpize Adventure.",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda Nimpize Adventure/Lost Woods.mmrs",
+    "preview": "https://www.youtube.com/watch?v=TxhsXKX_kDY",
+    "lastUpdateDate": "2026-05-04T22:44:13.475Z"
+  },
+  {
+    "uuid": "097109cf-a127-4768-87ad-0af87a3a568e",
+    "creationDate": "2026-05-04T23:00:35.114Z",
+    "game": "The Legend of Zelda: Breath of the Wild",
+    "song": "Windblight Ganon Battle (Nimpize Adventure Mix)",
+    "composers": [
+      "Manaka Kataoka",
+      "Yasuaki Iwata",
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Sauraen",
+      "Asra"
+    ],
+    "notes": "Also known as Boss Battle 1 from Zelda: Nimpize Adventure.",
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "The Legend of Zelda Breath of the Wild/Windblight Ganon Battle (Nimpize Adventure Mix).mmrs",
+    "preview": "The Legend of Zelda Breath of the Wild/Windblight Ganon Battle (Nimpize Adventure Mix).ogg"
+  },
+  {
+    "uuid": "5373711b-e0f7-4c62-ac40-21bbbdad9fdd",
+    "creationDate": "2026-05-04T23:12:23.387Z",
+    "game": "Zelda II: The Adventure of Link",
+    "song": "Dark Link Battle",
+    "composers": [
+      "Akito Nakatsuka"
+    ],
+    "converters": [
+      "Sauraen",
+      "Asra"
+    ],
+    "notes": "Remix of Zelda II's Encounter theme, made by Sauraen for Project Beta Triforce.",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Zelda II The Adventure of Link/Dark Link Battle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=iiwvSdzN_t8"
+  },
+  {
+    "uuid": "37477cc7-5100-405a-bbd3-6fabcce65486",
+    "creationDate": "2026-05-05T01:20:21.781Z",
+    "game": "Omori",
+    "song": "Bookcase",
+    "composers": [
+      "Pedro Silva"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Omori/Bookcase.mmrs",
+    "preview": "Omori/Bookcase.ogg"
+  },
+  {
+    "uuid": "831e21e5-4cb1-4ef2-a530-86a4d54db3db",
+    "creationDate": "2026-05-05T01:21:11.920Z",
+    "game": "Omori",
+    "song": "Forest Chillin'",
+    "composers": [
+      "Pedro Silva"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Omori/Forest Chillin'.mmrs",
+    "preview": "Omori/Forest Chillin'.ogg"
+  },
+  {
+    "uuid": "5f2256b7-7b1b-4ce8-a689-80d7527e40c8",
+    "creationDate": "2026-05-05T01:22:05.996Z",
+    "game": "Omori",
+    "song": "It's Okay To Try Again...",
+    "composers": [
+      "Pedro Silva"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Omori/It's Okay To Try Again....mmrs",
+    "preview": "Omori/It's Okay To Try Again....ogg"
+  },
+  {
+    "uuid": "460ff7e2-e522-4988-b9c6-e2288e09f0f5",
+    "creationDate": "2026-05-05T01:22:58.790Z",
+    "game": "Omori",
+    "song": "Lost at a Sleepover",
+    "composers": [
+      "Pedro Silva",
+      "Jami Lynne"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Omori/Lost at a Sleepover.mmrs",
+    "preview": "Omori/Lost at a Sleepover.ogg"
+  },
+  {
+    "uuid": "d79d1b8c-5fcb-43f7-bdfa-8a5da710b9db",
+    "creationDate": "2026-05-05T01:23:39.318Z",
+    "game": "Omori",
+    "song": "Lost Library",
+    "composers": [
+      "Pedro Silva"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "Omori/Lost Library.mmrs",
+    "preview": "Omori/Lost Library.ogg"
+  },
+  {
+    "uuid": "016c935b-899c-42c0-8dc2-ff9796f03aa0",
+    "creationDate": "2026-05-05T01:25:30.745Z",
+    "game": "Omori",
+    "song": "Lovesick - 80000 Lightyears",
+    "composers": [
+      "Jami Lynne"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Omori/Lovesick - 80000 Lightyears.mmrs",
+    "preview": "Omori/Lovesick - 80000 Lightyears.ogg"
+  },
+  {
+    "uuid": "e37692ad-2806-4f23-98ae-b917cc7d419e",
+    "creationDate": "2026-05-05T01:26:09.992Z",
+    "game": "Omori",
+    "song": "WHITE SPACE",
+    "composers": [
+      "Jami Lynne"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Omori/WHITE SPACE.mmrs",
+    "preview": "Omori/WHITE SPACE.ogg"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
