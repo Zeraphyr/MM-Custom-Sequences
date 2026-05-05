@@ -52352,5 +52352,25 @@
     "file": "Omori/Forest Chillin'.mmrs",
     "preview": "Omori/Forest Chillin'.ogg"
   },
+  {
+    "uuid": "5f2256b7-7b1b-4ce8-a689-80d7527e40c8",
+    "creationDate": "2026-05-05T01:22:05.996Z",
+    "game": "Omori",
+    "song": "It's Okay To Try Again...",
+    "composers": [
+      "Pedro Silva"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Omori/It's Okay To Try Again....mmrs",
+    "preview": "Omori/It's Okay To Try Again....ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
