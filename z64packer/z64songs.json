@@ -52508,5 +52508,25 @@
     "file": "The Legend of Zelda Oracle of Ages/Ambi's Palace.mmrs",
     "preview": "The Legend of Zelda Oracle of Ages/Ambi's Palace.ogg"
   },
+  {
+    "uuid": "5ac42dc9-f8f6-425d-afdf-1e274a22ed47",
+    "creationDate": "2026-05-06T22:46:28.371Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Ancient Tomb",
+    "composers": [
+      "Kyopi",
+      "M-Adachi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Ancient Tomb.mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Ancient Tomb.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
