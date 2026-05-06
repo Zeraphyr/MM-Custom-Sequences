@@ -52528,5 +52528,24 @@
     "file": "The Legend of Zelda Oracle of Ages/Ancient Tomb.mmrs",
     "preview": "The Legend of Zelda Oracle of Ages/Ancient Tomb.ogg"
   },
+  {
+    "uuid": "9c800932-4490-47df-be5b-3f610498588a",
+    "creationDate": "2026-05-06T22:51:54.363Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Boss Battle",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Boss Battle.mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Boss Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
