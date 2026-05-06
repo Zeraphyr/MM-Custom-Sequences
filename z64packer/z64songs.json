@@ -52547,5 +52547,26 @@
     "file": "The Legend of Zelda Oracle of Ages/Boss Battle.mmrs",
     "preview": "The Legend of Zelda Oracle of Ages/Boss Battle.ogg"
   },
+  {
+    "uuid": "ffb88c42-61f6-4671-828d-87a2bcf03077",
+    "creationDate": "2026-05-06T23:25:09.581Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Zelda Awakens",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Zelda Awakens.mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Zelda Awakens.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
