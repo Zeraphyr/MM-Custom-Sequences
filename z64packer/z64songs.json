@@ -52827,5 +52827,24 @@
     "file": "The Legend of Zelda Oracle of Ages/Sadness.mmrs",
     "preview": "The Legend of Zelda Oracle of Ages/Sadness.ogg"
   },
+  {
+    "uuid": "afd43cb5-7c56-4cd7-b4a8-898cb936d096",
+    "creationDate": "2026-05-07T00:43:50.227Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Symmetry City (Past)",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Symmetry City (Past).mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Symmetry City (Past).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
