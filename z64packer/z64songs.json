@@ -52610,5 +52610,25 @@
     "file": "The Legend of Zelda Oracle of Ages/Fairy's Forest.mmrs",
     "preview": "The Legend of Zelda Oracle of Ages/Fairy's Forest.ogg"
   },
+  {
+    "uuid": "3614b32c-ea01-4ee2-9593-991c1baba75a",
+    "creationDate": "2026-05-07T00:14:55.790Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Game Over",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Game Over.mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Game Over.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
