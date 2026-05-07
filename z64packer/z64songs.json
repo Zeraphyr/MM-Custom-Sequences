@@ -52948,5 +52948,24 @@
     "file": "The Legend of Zelda Oracle of Ages/Wing Dungeon.mmrs",
     "preview": "The Legend of Zelda Oracle of Ages/Wing Dungeon.ogg"
   },
+  {
+    "uuid": "fbb66513-34c0-412b-a5e2-35bda7e1d199",
+    "creationDate": "2026-05-07T00:54:48.062Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Zora Village",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Zora Village.mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Zora Village.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
