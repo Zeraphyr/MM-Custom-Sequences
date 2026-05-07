@@ -52747,5 +52747,24 @@
     "file": "The Legend of Zelda Oracle of Ages/Nayru's Song (Variant B).mmrs",
     "preview": "The Legend of Zelda Oracle of Ages/Nayru's Song (Variant B).ogg"
   },
+  {
+    "uuid": "c055a041-157c-4d24-9ded-073158d5233b",
+    "creationDate": "2026-05-07T00:37:07.175Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Overworld (Past)",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Overworld (Past).mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Overworld (Past).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
