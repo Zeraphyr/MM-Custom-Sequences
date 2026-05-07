@@ -52929,5 +52929,24 @@
     "file": "The Legend of Zelda Oracle of Ages/Tune of Echoes.mmrs",
     "preview": "The Legend of Zelda Oracle of Ages/Tune of Echoes.ogg"
   },
+  {
+    "uuid": "a0be21b8-c94a-42d1-9a49-e9398a173dca",
+    "creationDate": "2026-05-07T00:53:31.337Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Wing Dungeon",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Wing Dungeon.mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Wing Dungeon.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
