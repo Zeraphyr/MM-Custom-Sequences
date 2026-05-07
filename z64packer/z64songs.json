@@ -52706,5 +52706,26 @@
     "file": "The Legend of Zelda Oracle of Ages/Maku Road.mmrs",
     "preview": "The Legend of Zelda Oracle of Ages/Maku Road.ogg"
   },
+  {
+    "uuid": "e569b604-7d2d-4ecb-a155-9d195a9c4f1d",
+    "creationDate": "2026-05-07T00:32:55.190Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Maple's Theme",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "6"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Maple's Theme.mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Maple's Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
