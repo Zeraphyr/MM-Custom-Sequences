@@ -52786,5 +52786,25 @@
     "file": "The Legend of Zelda Oracle of Ages/Ralph's Theme.mmrs",
     "preview": "The Legend of Zelda Oracle of Ages/Ralph's Theme.ogg"
   },
+  {
+    "uuid": "23eb1218-b74a-402b-874a-76841504ad9e",
+    "creationDate": "2026-05-07T00:40:59.854Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Rush for Maple's Items",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Rush for Maple's Items.mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Rush for Maple's Items.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
