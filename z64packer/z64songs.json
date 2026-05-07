@@ -52589,5 +52589,26 @@
     "file": "The Legend of Zelda Oracle of Ages/Epilogue.mmrs",
     "preview": "The Legend of Zelda Oracle of Ages/Epilogue.ogg"
   },
+  {
+    "uuid": "cfc5e98e-9d81-4083-81e2-e77803f58ff8",
+    "creationDate": "2026-05-07T00:12:23.676Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Fairy's Forest",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Fairy's Forest.mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Fairy's Forest.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
