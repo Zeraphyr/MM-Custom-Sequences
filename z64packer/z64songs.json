@@ -52866,5 +52866,26 @@
     "file": "The Legend of Zelda Oracle of Ages/Black Tower (Variant B).mmrs",
     "preview": "The Legend of Zelda Oracle of Ages/Black Tower (Variant B).ogg"
   },
+  {
+    "uuid": "4ad09abd-2978-463b-b891-5cfb246a2120",
+    "creationDate": "2026-05-07T00:49:27.941Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Tune of Ages",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Tune of Ages.mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Tune of Ages.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
