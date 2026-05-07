@@ -52806,5 +52806,26 @@
     "file": "The Legend of Zelda Oracle of Ages/Rush for Maple's Items.mmrs",
     "preview": "The Legend of Zelda Oracle of Ages/Rush for Maple's Items.ogg"
   },
+  {
+    "uuid": "78ea2c4f-a9f7-4f2a-8c68-305789a249db",
+    "creationDate": "2026-05-07T00:42:22.441Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Sadness",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Sadness.mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Sadness.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
