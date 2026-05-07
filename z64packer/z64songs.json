@@ -52649,5 +52649,24 @@
     "file": "The Legend of Zelda Oracle of Ages/Final Battle with Ganon.mmrs",
     "preview": "The Legend of Zelda Oracle of Ages/Final Battle with Ganon.ogg"
   },
+  {
+    "uuid": "727d1aff-d8ad-46be-bf49-6f42cfd3c094",
+    "creationDate": "2026-05-07T00:21:25.030Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "House",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/House.mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/House.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
