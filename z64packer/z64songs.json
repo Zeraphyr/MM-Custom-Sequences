@@ -52630,5 +52630,24 @@
     "file": "The Legend of Zelda Oracle of Ages/Game Over.mmrs",
     "preview": "The Legend of Zelda Oracle of Ages/Game Over.ogg"
   },
+  {
+    "uuid": "5648afd9-b799-4f7f-91b7-c3c3be4ad910",
+    "creationDate": "2026-05-07T00:17:01.890Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Final Battle with Ganon",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Final Battle with Ganon.mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Final Battle with Ganon.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
