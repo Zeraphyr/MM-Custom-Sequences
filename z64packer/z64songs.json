@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -2439,7 +2439,8 @@
     "game": "The Legend of Zelda: Oracle of Ages",
     "song": "Moonlit Grotto",
     "composers": [
-      "Minako Adachi"
+      "Minako Adachi",
+      "Kiyohiro Sada"
     ],
     "converters": [
       "Zeraphyr"
@@ -2460,7 +2461,8 @@
     "game": "The Legend of Zelda: Oracle of Ages",
     "song": "Nayru's Song",
     "composers": [
-      "Minako Adachi"
+      "Minako Adachi",
+      "Kiyohiro Sada"
     ],
     "converters": [
       "Zeraphyr"
@@ -4901,7 +4903,8 @@
     "game": "The Legend of Zelda: Oracle of Ages",
     "song": "Black Tower",
     "composers": [
-      "Minako Adachi and Kiyohiro Sada"
+      "Minako Adachi",
+      "Kiyohiro Sada"
     ],
     "converters": [
       "Fish"
@@ -15970,7 +15973,8 @@
     "game": "The Legend of Zelda: Oracle of Ages",
     "song": "Under the Sea",
     "composers": [
-      "Minako Adachi"
+      "Minako Adachi",
+      "Kiyohiro Sada"
     ],
     "converters": [
       "Senate"
@@ -30630,7 +30634,8 @@
     "game": "The Legend of Zelda: Oracle of Seasons",
     "song": "Dancing Dragon",
     "composers": [
-      "Minako Adachi"
+      "Minako Adachi",
+      "Kiyohiro Sada"
     ],
     "converters": [
       "Isghj"
@@ -30998,7 +31003,8 @@
     "game": "The Legend of Zelda: Oracle of Seasons",
     "song": "Ganon",
     "composers": [
-      "Minako Adachi"
+      "Minako Adachi",
+      "Kiyohiro Sada"
     ],
     "converters": [
       "Joshua8600"
@@ -52492,9 +52498,10 @@
     "uuid": "5ab7255e-f84d-4345-b30c-fbddf78466a7",
     "creationDate": "2026-05-05T02:21:47.489Z",
     "game": "The Legend of Zelda: Oracle of Ages",
-    "song": "Ambi's Palace",
+    "song": "Queen Ambi's Palace",
     "composers": [
-      "Minako Adachi"
+      "Minako Adachi",
+      "Kiyohiro Sada"
     ],
     "converters": [
       "Asra"
@@ -52505,8 +52512,8 @@
       "2",
       "3"
     ],
-    "file": "The Legend of Zelda Oracle of Ages/Ambi's Palace.mmrs",
-    "preview": "The Legend of Zelda Oracle of Ages/Ambi's Palace.ogg",
+    "file": "The Legend of Zelda Oracle of Ages/Queen Ambi's Palace.mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Queen Ambi's Palace.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -52517,8 +52524,8 @@
     "game": "The Legend of Zelda: Oracle of Ages",
     "song": "Ancient Tomb",
     "composers": [
-      "Kyopi",
-      "M-Adachi"
+      "Minako Adachi",
+      "Kiyohiro Sada"
     ],
     "converters": [
       "Asra"

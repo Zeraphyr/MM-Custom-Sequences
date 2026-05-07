@@ -3576,7 +3576,10 @@
     "short_name": "MM Rando"
   },
   {
-    "game": "Nintendo 3DS"
+    "game": "Nintendo 3DS",
+    "series": "Consoles and BIOS",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/d54626bb75d3cf12e2985b50e86eab52.png",
+    "short_name": "3DS"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
