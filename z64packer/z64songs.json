@@ -52568,5 +52568,26 @@
     "file": "The Legend of Zelda Oracle of Ages/Zelda Awakens.mmrs",
     "preview": "The Legend of Zelda Oracle of Ages/Zelda Awakens.ogg"
   },
+  {
+    "uuid": "f84c99d1-b1bf-457c-b37f-6ac8e9208b84",
+    "creationDate": "2026-05-07T00:09:15.738Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Epilogue",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Epilogue.mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Epilogue.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
