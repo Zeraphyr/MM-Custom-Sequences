@@ -52727,5 +52727,25 @@
     "file": "The Legend of Zelda Oracle of Ages/Maple's Theme.mmrs",
     "preview": "The Legend of Zelda Oracle of Ages/Maple's Theme.ogg"
   },
+  {
+    "uuid": "4d89e4fd-c5bb-4ec0-9fb0-063fbdccf3d4",
+    "creationDate": "2026-05-07T00:35:47.436Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Nayru's Song (Variant B)",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Nayru's Song (Variant B).mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Nayru's Song (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
