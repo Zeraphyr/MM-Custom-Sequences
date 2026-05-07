@@ -52668,5 +52668,24 @@
     "file": "The Legend of Zelda Oracle of Ages/House.mmrs",
     "preview": "The Legend of Zelda Oracle of Ages/House.ogg"
   },
+  {
+    "uuid": "65999ab8-136f-4dc1-a30d-77ba3b61148e",
+    "creationDate": "2026-05-07T00:23:48.366Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Tokay's Island Home",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Tokay's Island Home.mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Tokay's Island Home.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
