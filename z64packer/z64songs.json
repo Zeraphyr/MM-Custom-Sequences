@@ -52846,5 +52846,25 @@
     "file": "The Legend of Zelda Oracle of Ages/Symmetry City (Past).mmrs",
     "preview": "The Legend of Zelda Oracle of Ages/Symmetry City (Past).ogg"
   },
+  {
+    "uuid": "6e62e92f-8fec-4892-aea1-42e1de5b8285",
+    "creationDate": "2026-05-07T00:46:05.181Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Black Tower (Variant B)",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Black Tower (Variant B).mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Black Tower (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
