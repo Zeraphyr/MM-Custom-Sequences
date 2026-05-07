@@ -52908,5 +52908,26 @@
     "file": "The Legend of Zelda Oracle of Ages/Tune of Currents.mmrs",
     "preview": "The Legend of Zelda Oracle of Ages/Tune of Currents.ogg"
   },
+  {
+    "uuid": "41abf946-93d5-4f85-a22f-64aafa7e9457",
+    "creationDate": "2026-05-07T00:52:09.316Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Tune of Echoes",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Tune of Echoes.mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Tune of Echoes.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
