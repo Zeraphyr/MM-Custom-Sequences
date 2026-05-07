@@ -52687,5 +52687,24 @@
     "file": "The Legend of Zelda Oracle of Ages/Tokay's Island Home.mmrs",
     "preview": "The Legend of Zelda Oracle of Ages/Tokay's Island Home.ogg"
   },
+  {
+    "uuid": "b321112e-17bb-4ed3-8fde-542c64525094",
+    "creationDate": "2026-05-07T00:28:48.445Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Maku Road",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Maku Road.mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Maku Road.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
