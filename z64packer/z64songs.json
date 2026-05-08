@@ -53659,5 +53659,25 @@
     "file": "The Legend of Zelda Oracle of Seasons/Hide 'n' Seek.mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Hide 'n' Seek.ogg"
   },
+  {
+    "uuid": "a5e1dccb-d9a2-4e8b-8cc6-8afe3c4d3226",
+    "creationDate": "2026-05-08T03:14:32.500Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Crescent Island",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Crescent Island.mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Crescent Island.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
