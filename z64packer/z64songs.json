@@ -53679,5 +53679,25 @@
     "file": "The Legend of Zelda Oracle of Ages/Crescent Island.mmrs",
     "preview": "The Legend of Zelda Oracle of Ages/Crescent Island.ogg"
   },
+  {
+    "uuid": "cb316d4c-fb75-4ae2-b074-cd8b0199f7ae",
+    "creationDate": "2026-05-08T03:15:17.346Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Crown Dungeon",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Crown Dungeon.mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Crown Dungeon.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
