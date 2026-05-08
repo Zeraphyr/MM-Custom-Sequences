@@ -53864,5 +53864,98 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "b9e0928b-131c-49e4-a1bd-51ba5eb7b356",
+    "creationDate": "2026-05-08T17:27:32.182Z",
+    "game": "Xenoblade Chronicles 2",
+    "song": "Song of Giga Rosa",
+    "composers": [
+      "Kenji Hiramatsu"
+    ],
+    "converters": [
+      "Zeraphyr"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Xenoblade Chronicles 2/Song of Giga Rosa.mmrs",
+    "preview": "https://youtu.be/ghaizSoQnaI",
+    "lastUpdateDate": "2026-05-08T17:27:36.751Z"
+  },
+  {
+    "uuid": "88801c10-7f4c-4042-98f9-cb7094a87bc0",
+    "creationDate": "2026-05-08T17:27:32.880Z",
+    "game": "Nier Replicant/Gestalt",
+    "song": "The Wretched Automatons",
+    "composers": [
+      "Keiichi Okabe"
+    ],
+    "converters": [
+      "Yaruzu"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Nier ReplicantGestalt/The Wretched Automatons.mmrs",
+    "preview": "Nier ReplicantGestalt/The Wretched Automatons.mp3",
+    "lastUpdateDate": "2026-05-08T17:27:32.880Z"
+  },
+  {
+    "uuid": "11c596fa-552f-4473-bffe-65efb798df68",
+    "creationDate": "2026-05-08T17:27:35.088Z",
+    "game": "Fire Emblem Echoes: Shadows of Valentia",
+    "song": "The Sacrifice and The Saint",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Seba 20 90 (myself)"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Fire Emblem Echoes Shadows of Valentia/The Sacrifice and The Saint.mmrs",
+    "preview": "Fire Emblem Echoes Shadows of Valentia/The Sacrifice and The Saint.mp3",
+    "lastUpdateDate": "2026-05-08T17:27:35.088Z"
+  },
+  {
+    "uuid": "4276009b-b36f-4ef3-9efd-b3ec70781f9e",
+    "creationDate": "2026-05-08T17:27:35.567Z",
+    "game": "The Legend of Zelda: Link to The Past",
+    "song": "Dark World",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "BigBomba88"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "The Legend of Zelda Link to The Past/Dark World.mmrs",
+    "preview": "The Legend of Zelda Link to The Past/Dark World.mp3",
+    "lastUpdateDate": "2026-05-08T17:27:35.567Z"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
