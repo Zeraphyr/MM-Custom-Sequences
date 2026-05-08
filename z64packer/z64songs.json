@@ -53864,5 +53864,25 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "16d18f9c-14c3-40ac-a566-c2b09293319d",
+    "creationDate": "2026-05-08T03:28:13.875Z",
+    "game": "Persona 3 Portable",
+    "song": "Danger Zone (Variant B)",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7",
+      "157"
+    ],
+    "file": "Persona 3 Portable/Danger Zone (Variant B).mmrs",
+    "preview": "Persona 3 Portable/Danger Zone (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
