@@ -53394,5 +53394,25 @@
     "file": "The Legend of Zelda Oracle of Seasons/Ancient Ruins (XG Remix).mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Ancient Ruins (XG Remix).ogg"
   },
+  {
+    "uuid": "6bbb51ec-4f73-4ba5-952c-259e07c8373a",
+    "creationDate": "2026-05-08T03:02:50.167Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Room of Rites",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Room of Rites.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Room of Rites.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
