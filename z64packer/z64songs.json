@@ -53637,5 +53637,27 @@
     "file": "The Legend of Zelda Oracle of Seasons/Windmill House.mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Windmill House.ogg"
   },
+  {
+    "uuid": "b33e20fc-b9ad-4182-8f62-29e9e27811b4",
+    "creationDate": "2026-05-08T03:12:22.526Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Hide 'n' Seek",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "6"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Hide 'n' Seek.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Hide 'n' Seek.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
