@@ -53088,5 +53088,25 @@
     "file": "The Legend of Zelda Oracle of Seasons/Date with Rosa.mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Date with Rosa.ogg"
   },
+  {
+    "uuid": "c985db54-ce95-4273-9e9a-03b9326e581c",
+    "creationDate": "2026-05-08T02:44:39.963Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Ancient Ruins",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Ancient Ruins.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Ancient Ruins.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
