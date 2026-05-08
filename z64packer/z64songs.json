@@ -53414,5 +53414,24 @@
     "file": "The Legend of Zelda Oracle of Seasons/Room of Rites.mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Room of Rites.ogg"
   },
+  {
+    "uuid": "17f96fdc-efe2-4223-93fe-28d9a083a01f",
+    "creationDate": "2026-05-08T03:03:32.497Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Samasa Desert",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Samasa Desert.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Samasa Desert.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
