@@ -53212,5 +53212,26 @@
     "file": "The Legend of Zelda Oracle of Seasons/Explorer's Crypt.mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Explorer's Crypt.ogg"
   },
+  {
+    "uuid": "a8341d6a-fea0-4a09-b1ea-51ea4db17acd",
+    "creationDate": "2026-05-08T02:52:19.071Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Select File",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Select File.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Select File.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
