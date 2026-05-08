@@ -53233,5 +53233,26 @@
     "file": "The Legend of Zelda Oracle of Seasons/Select File.mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Select File.ogg"
   },
+  {
+    "uuid": "0d03a2fb-1869-4408-8dba-a5ab238af575",
+    "creationDate": "2026-05-08T02:53:05.490Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Temple Remains",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Temple Remains.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Temple Remains.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
