@@ -53576,5 +53576,24 @@
     "file": "The Legend of Zelda Oracle of Seasons/Tarm Ruins.mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Tarm Ruins.ogg"
   },
+  {
+    "uuid": "cfd1916e-5d9f-4edf-9ce8-39f8aa4cfaa5",
+    "creationDate": "2026-05-08T03:09:59.727Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Battle with Twinrova",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Battle with Twinrova.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Battle with Twinrova.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
