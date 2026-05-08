@@ -53536,5 +53536,25 @@
     "file": "The Legend of Zelda Oracle of Seasons/Sunken City.mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Sunken City.ogg"
   },
+  {
+    "uuid": "f35e3aab-4633-46a3-8f20-fed784a38cf4",
+    "creationDate": "2026-05-08T03:08:19.685Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Sword & Shield Maze",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Sword & Shield Maze.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Sword & Shield Maze.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
