@@ -53595,5 +53595,25 @@
     "file": "The Legend of Zelda Oracle of Seasons/Battle with Twinrova.mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Battle with Twinrova.ogg"
   },
+  {
+    "uuid": "014b6b12-79e5-43c3-ae49-8bec8e593ec8",
+    "creationDate": "2026-05-08T03:10:49.485Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Unicorn's Cave",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Unicorn's Cave.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Unicorn's Cave.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
