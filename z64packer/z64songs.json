@@ -53739,5 +53739,25 @@
     "file": "The Legend of Zelda Oracle of Ages/Lynna Village (Past).mmrs",
     "preview": "The Legend of Zelda Oracle of Ages/Lynna Village (Past).ogg"
   },
+  {
+    "uuid": "1c2561c5-a20d-4856-a172-8862b7ddd5c0",
+    "creationDate": "2026-05-08T03:17:32.761Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Spirit's Grave",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Spirit's Grave.mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Spirit's Grave.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
