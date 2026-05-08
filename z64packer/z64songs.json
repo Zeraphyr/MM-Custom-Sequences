@@ -53067,5 +53067,26 @@
     "file": "The Legend of Zelda Oracle of Seasons/Unused Track 1.mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Unused Track 1.ogg"
   },
+  {
+    "uuid": "07e305d2-8682-436b-bbec-2c5d2519246b",
+    "creationDate": "2026-05-08T02:43:36.354Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Date with Rosa",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Date with Rosa.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Date with Rosa.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
