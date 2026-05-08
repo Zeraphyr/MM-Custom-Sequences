@@ -53353,5 +53353,25 @@
     "file": "The Legend of Zelda Oracle of Seasons/Final Battle Against Onox.mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Final Battle Against Onox.ogg"
   },
+  {
+    "uuid": "73ac46ff-bf3a-49d8-ae23-f476360aa1c4",
+    "creationDate": "2026-05-08T02:58:43.276Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Onox's Castle",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Onox's Castle.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Onox's Castle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
