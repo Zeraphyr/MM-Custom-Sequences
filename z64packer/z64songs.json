@@ -53192,5 +53192,25 @@
     "file": "The Legend of Zelda Oracle of Seasons/Darkness Spreads.mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Darkness Spreads.ogg"
   },
+  {
+    "uuid": "78b35480-9857-4271-b66a-ffb2440eccc3",
+    "creationDate": "2026-05-08T02:51:22.106Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Explorer's Crypt",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Explorer's Crypt.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Explorer's Crypt.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
