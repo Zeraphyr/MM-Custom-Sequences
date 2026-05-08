@@ -53455,5 +53455,25 @@
     "file": "The Legend of Zelda Oracle of Seasons/Skull Pirates.mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Skull Pirates.ogg"
   },
+  {
+    "uuid": "3d24c473-56b4-45f1-a349-86c4ffb70461",
+    "creationDate": "2026-05-08T03:04:47.688Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Subrosia",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Subrosia.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Subrosia.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
