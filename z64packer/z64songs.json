@@ -53334,5 +53334,24 @@
     "file": "The Legend of Zelda Oracle of Seasons/Northern Peak.mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Northern Peak.ogg"
   },
+  {
+    "uuid": "dc7d961a-dc4d-4ac8-ba2d-57d875731115",
+    "creationDate": "2026-05-08T02:58:01.894Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Final Battle Against Onox",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Final Battle Against Onox.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Final Battle Against Onox.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
