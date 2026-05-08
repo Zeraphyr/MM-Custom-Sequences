@@ -53294,5 +53294,25 @@
     "file": "The Legend of Zelda Oracle of Seasons/Gorons.mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Gorons.ogg"
   },
+  {
+    "uuid": "78419673-57d2-4ae7-acd7-bd2fd7a96f5f",
+    "creationDate": "2026-05-08T02:56:05.542Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Hero's Cave",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Hero's Cave.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Hero's Cave.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
