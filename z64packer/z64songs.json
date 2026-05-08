@@ -53615,5 +53615,27 @@
     "file": "The Legend of Zelda Oracle of Seasons/Unicorn's Cave.mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Unicorn's Cave.ogg"
   },
+  {
+    "uuid": "203fd3a2-3a8d-450c-8eec-f3996c87f8ea",
+    "creationDate": "2026-05-08T03:11:26.895Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Windmill House",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Windmill House.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Windmill House.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
