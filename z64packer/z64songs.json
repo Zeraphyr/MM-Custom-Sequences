@@ -53944,5 +53944,24 @@
     "file": "Paper Mario/Unused Jingle.mmrs",
     "preview": "Paper Mario/Unused Jingle.ogg"
   },
+  {
+    "uuid": "2b52e5d0-d0af-4f24-a2b7-283d7b110c0b",
+    "creationDate": "2026-05-08T03:35:25.572Z",
+    "game": "Paper Mario",
+    "song": "Battle Fanfare (First Strike)",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Paper Mario/Battle Fanfare (First Strike).mmrs",
+    "preview": "Paper Mario/Battle Fanfare (First Strike).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
