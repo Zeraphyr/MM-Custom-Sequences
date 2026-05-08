@@ -53556,5 +53556,25 @@
     "file": "The Legend of Zelda Oracle of Seasons/Sword & Shield Maze.mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Sword & Shield Maze.ogg"
   },
+  {
+    "uuid": "7d186155-f98f-4048-9258-9387a5de4101",
+    "creationDate": "2026-05-08T03:09:15.751Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Tarm Ruins",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Tarm Ruins.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Tarm Ruins.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
