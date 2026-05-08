@@ -53373,5 +53373,26 @@
     "file": "The Legend of Zelda Oracle of Seasons/Onox's Castle.mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Onox's Castle.ogg"
   },
+  {
+    "uuid": "926f7f32-67f8-4758-9c40-72b7676b8cce",
+    "creationDate": "2026-05-08T03:02:05.673Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Ancient Ruins (XG Remix)",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Teck",
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Ancient Ruins (XG Remix).mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Ancient Ruins (XG Remix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
