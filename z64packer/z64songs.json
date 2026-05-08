@@ -53924,5 +53924,25 @@
     "file": "Paper Mario/Star Piece.mmrs",
     "preview": "Paper Mario/Star Piece.ogg"
   },
+  {
+    "uuid": "9031c5f4-dc02-4bad-b3d1-35e9056d38de",
+    "creationDate": "2026-05-08T03:33:38.572Z",
+    "game": "Paper Mario",
+    "song": "Unused Jingle",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Paper Mario/Unused Jingle.mmrs",
+    "preview": "Paper Mario/Unused Jingle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
