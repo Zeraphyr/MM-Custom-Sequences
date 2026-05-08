@@ -53884,5 +53884,26 @@
     "file": "Persona 3 Portable/Danger Zone (Variant B).mmrs",
     "preview": "Persona 3 Portable/Danger Zone (Variant B).ogg"
   },
+  {
+    "uuid": "1df38f16-1d3f-403b-8c1b-da154554e101",
+    "creationDate": "2026-05-08T03:29:18.264Z",
+    "game": "Persona 5 Royal",
+    "song": "Gentle Madman",
+    "composers": [
+      "Shoji Meguro"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Persona 5 Royal/Gentle Madman.mmrs",
+    "preview": "Persona 5 Royal/Gentle Madman.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
