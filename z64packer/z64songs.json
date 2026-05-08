@@ -53254,5 +53254,25 @@
     "file": "The Legend of Zelda Oracle of Seasons/Temple Remains.mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Temple Remains.ogg"
   },
+  {
+    "uuid": "5c555b8b-e050-4ba2-b718-b798a96a8622",
+    "creationDate": "2026-05-08T02:54:19.463Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Gnarled Root Dungeon",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Gnarled Root Dungeon.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Gnarled Root Dungeon.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
