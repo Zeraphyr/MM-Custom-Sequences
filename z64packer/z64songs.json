@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -53045,6 +53045,719 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
+  },
+  {
+    "uuid": "0fe8a7b5-97bc-4382-af5c-119b18439e56",
+    "creationDate": "2026-05-08T02:41:53.027Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Unused Track 1",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Unused Track 1.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Unused Track 1.ogg"
+  },
+  {
+    "uuid": "07e305d2-8682-436b-bbec-2c5d2519246b",
+    "creationDate": "2026-05-08T02:43:36.354Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Date with Rosa",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Date with Rosa.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Date with Rosa.ogg"
+  },
+  {
+    "uuid": "c985db54-ce95-4273-9e9a-03b9326e581c",
+    "creationDate": "2026-05-08T02:44:39.963Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Ancient Ruins",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Ancient Ruins.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Ancient Ruins.ogg"
+  },
+  {
+    "uuid": "532c4d76-d3af-4a08-92f1-f8628902d630",
+    "creationDate": "2026-05-08T02:45:38.616Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Castle of Despair",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Castle of Despair.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Castle of Despair.ogg"
+  },
+  {
+    "uuid": "954ce88e-b513-4cb4-8b1c-51a17b2f54bd",
+    "creationDate": "2026-05-08T02:47:04.012Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Dancing with Din",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Dancing with Din.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Dancing with Din.ogg"
+  },
+  {
+    "uuid": "48beccae-8cc3-4252-9273-e32ab03c7638",
+    "creationDate": "2026-05-08T02:49:00.923Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Get Element (Variant B)",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Get Element (Variant B).mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Get Element (Variant B).ogg"
+  },
+  {
+    "uuid": "81dc2d9f-dd45-4a42-bc71-5d8af19c9912",
+    "creationDate": "2026-05-08T02:50:14.123Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Darkness Spreads",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "4",
+      "5",
+      "6"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Darkness Spreads.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Darkness Spreads.ogg"
+  },
+  {
+    "uuid": "78b35480-9857-4271-b66a-ffb2440eccc3",
+    "creationDate": "2026-05-08T02:51:22.106Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Explorer's Crypt",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Explorer's Crypt.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Explorer's Crypt.ogg"
+  },
+  {
+    "uuid": "a8341d6a-fea0-4a09-b1ea-51ea4db17acd",
+    "creationDate": "2026-05-08T02:52:19.071Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Select File",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Select File.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Select File.ogg"
+  },
+  {
+    "uuid": "0d03a2fb-1869-4408-8dba-a5ab238af575",
+    "creationDate": "2026-05-08T02:53:05.490Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Temple Remains",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Temple Remains.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Temple Remains.ogg"
+  },
+  {
+    "uuid": "5c555b8b-e050-4ba2-b718-b798a96a8622",
+    "creationDate": "2026-05-08T02:54:19.463Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Gnarled Root Dungeon",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Gnarled Root Dungeon.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Gnarled Root Dungeon.ogg"
+  },
+  {
+    "uuid": "5d44c896-af16-4ccf-b40e-dae622fa8ee3",
+    "creationDate": "2026-05-08T02:55:21.376Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Gorons",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Gorons.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Gorons.ogg"
+  },
+  {
+    "uuid": "78419673-57d2-4ae7-acd7-bd2fd7a96f5f",
+    "creationDate": "2026-05-08T02:56:05.542Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Hero's Cave",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Hero's Cave.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Hero's Cave.ogg"
+  },
+  {
+    "uuid": "2bc8fa17-bbfe-47b7-bbff-f1ac5a374452",
+    "creationDate": "2026-05-08T02:56:52.733Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Northern Peak",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Northern Peak.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Northern Peak.ogg"
+  },
+  {
+    "uuid": "dc7d961a-dc4d-4ac8-ba2d-57d875731115",
+    "creationDate": "2026-05-08T02:58:01.894Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Final Battle Against Onox",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Final Battle Against Onox.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Final Battle Against Onox.ogg"
+  },
+  {
+    "uuid": "73ac46ff-bf3a-49d8-ae23-f476360aa1c4",
+    "creationDate": "2026-05-08T02:58:43.276Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Onox's Castle",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Onox's Castle.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Onox's Castle.ogg"
+  },
+  {
+    "uuid": "926f7f32-67f8-4758-9c40-72b7676b8cce",
+    "creationDate": "2026-05-08T03:02:05.673Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Ancient Ruins (XG Remix)",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Teck",
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Ancient Ruins (XG Remix).mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Ancient Ruins (XG Remix).ogg"
+  },
+  {
+    "uuid": "6bbb51ec-4f73-4ba5-952c-259e07c8373a",
+    "creationDate": "2026-05-08T03:02:50.167Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Room of Rites",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Room of Rites.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Room of Rites.ogg"
+  },
+  {
+    "uuid": "17f96fdc-efe2-4223-93fe-28d9a083a01f",
+    "creationDate": "2026-05-08T03:03:32.497Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Samasa Desert",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Samasa Desert.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Samasa Desert.ogg"
+  },
+  {
+    "uuid": "de985ac5-a9d9-4e9f-8b23-507ecd706ca2",
+    "creationDate": "2026-05-08T03:04:18.141Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Skull Pirates",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Skull Pirates.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Skull Pirates.ogg"
+  },
+  {
+    "uuid": "3d24c473-56b4-45f1-a349-86c4ffb70461",
+    "creationDate": "2026-05-08T03:04:47.688Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Subrosia",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Subrosia.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Subrosia.ogg"
+  },
+  {
+    "uuid": "675a93a7-4be6-41b7-9198-4d07b8a893ff",
+    "creationDate": "2026-05-08T03:05:44.086Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Subrosian Dance",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Subrosian Dance.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Subrosian Dance.ogg"
+  },
+  {
+    "uuid": "7ac20945-60af-4916-b2ae-2645f9e4ddb1",
+    "creationDate": "2026-05-08T03:06:28.338Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Subrosian Market",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Subrosian Market.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Subrosian Market.ogg"
+  },
+  {
+    "uuid": "d17e0d11-f24c-464e-afdc-6f6f2e5ddaf1",
+    "creationDate": "2026-05-08T03:07:36.319Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Sunken City",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Sunken City.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Sunken City.ogg"
+  },
+  {
+    "uuid": "f35e3aab-4633-46a3-8f20-fed784a38cf4",
+    "creationDate": "2026-05-08T03:08:19.685Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Sword & Shield Maze",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Sword & Shield Maze.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Sword & Shield Maze.ogg"
+  },
+  {
+    "uuid": "7d186155-f98f-4048-9258-9387a5de4101",
+    "creationDate": "2026-05-08T03:09:15.751Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Tarm Ruins",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Tarm Ruins.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Tarm Ruins.ogg"
+  },
+  {
+    "uuid": "cfd1916e-5d9f-4edf-9ce8-39f8aa4cfaa5",
+    "creationDate": "2026-05-08T03:09:59.727Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Battle with Twinrova",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Battle with Twinrova.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Battle with Twinrova.ogg"
+  },
+  {
+    "uuid": "014b6b12-79e5-43c3-ae49-8bec8e593ec8",
+    "creationDate": "2026-05-08T03:10:49.485Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Unicorn's Cave",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Unicorn's Cave.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Unicorn's Cave.ogg"
+  },
+  {
+    "uuid": "203fd3a2-3a8d-450c-8eec-f3996c87f8ea",
+    "creationDate": "2026-05-08T03:11:26.895Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Windmill House",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Windmill House.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Windmill House.ogg"
+  },
+  {
+    "uuid": "b33e20fc-b9ad-4182-8f62-29e9e27811b4",
+    "creationDate": "2026-05-08T03:12:22.526Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Hide 'n' Seek",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "4",
+      "5",
+      "6"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Hide 'n' Seek.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Hide 'n' Seek.ogg"
+  },
+  {
+    "uuid": "a5e1dccb-d9a2-4e8b-8cc6-8afe3c4d3226",
+    "creationDate": "2026-05-08T03:14:32.500Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Crescent Island",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Crescent Island.mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Crescent Island.ogg"
+  },
+  {
+    "uuid": "cb316d4c-fb75-4ae2-b074-cd8b0199f7ae",
+    "creationDate": "2026-05-08T03:15:17.346Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Crown Dungeon",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Crown Dungeon.mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Crown Dungeon.ogg"
+  },
+  {
+    "uuid": "e606135a-078d-4d16-85b5-7b805ecb3332",
+    "creationDate": "2026-05-08T03:16:07.698Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Lynna City (Present)",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Lynna City (Present).mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Lynna City (Present).ogg"
+  },
+  {
+    "uuid": "0167e35f-6123-47bf-85a2-33f0f9af5554",
+    "creationDate": "2026-05-08T03:16:48.668Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Lynna Village (Past)",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Lynna Village (Past).mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Lynna Village (Past).ogg"
+  },
+  {
+    "uuid": "1c2561c5-a20d-4856-a172-8862b7ddd5c0",
+    "creationDate": "2026-05-08T03:17:32.761Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Spirit's Grave",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Spirit's Grave.mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Spirit's Grave.ogg"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
