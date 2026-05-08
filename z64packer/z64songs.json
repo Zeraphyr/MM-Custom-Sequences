@@ -53905,5 +53905,24 @@
     "file": "Persona 5 Royal/Gentle Madman.mmrs",
     "preview": "Persona 5 Royal/Gentle Madman.ogg"
   },
+  {
+    "uuid": "76783cff-e55e-42da-9e7a-7335ff959ecf",
+    "creationDate": "2026-05-08T03:33:07.267Z",
+    "game": "Paper Mario",
+    "song": "Star Piece",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Paper Mario/Star Piece.mmrs",
+    "preview": "Paper Mario/Star Piece.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
