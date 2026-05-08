@@ -53516,5 +53516,25 @@
     "file": "The Legend of Zelda Oracle of Seasons/Subrosian Market.mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Subrosian Market.ogg"
   },
+  {
+    "uuid": "d17e0d11-f24c-464e-afdc-6f6f2e5ddaf1",
+    "creationDate": "2026-05-08T03:07:36.319Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Sunken City",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Sunken City.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Sunken City.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
