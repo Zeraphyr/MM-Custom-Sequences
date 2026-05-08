@@ -53497,5 +53497,24 @@
     "file": "The Legend of Zelda Oracle of Seasons/Subrosian Dance.mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Subrosian Dance.ogg"
   },
+  {
+    "uuid": "7ac20945-60af-4916-b2ae-2645f9e4ddb1",
+    "creationDate": "2026-05-08T03:06:28.338Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Subrosian Market",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Subrosian Market.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Subrosian Market.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
