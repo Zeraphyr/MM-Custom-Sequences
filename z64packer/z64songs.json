@@ -53170,5 +53170,27 @@
     "file": "The Legend of Zelda Oracle of Seasons/Get Element (Variant B).mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Get Element (Variant B).ogg"
   },
+  {
+    "uuid": "81dc2d9f-dd45-4a42-bc71-5d8af19c9912",
+    "creationDate": "2026-05-08T02:50:14.123Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Darkness Spreads",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "4",
+      "5",
+      "6"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Darkness Spreads.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Darkness Spreads.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
