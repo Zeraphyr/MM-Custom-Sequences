@@ -53065,7 +53065,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Unused Track 1.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Unused Track 1.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Unused Track 1.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "07e305d2-8682-436b-bbec-2c5d2519246b",
@@ -53086,7 +53089,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Date with Rosa.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Date with Rosa.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Date with Rosa.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c985db54-ce95-4273-9e9a-03b9326e581c",
@@ -53106,7 +53112,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Ancient Ruins.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Ancient Ruins.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Ancient Ruins.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "532c4d76-d3af-4a08-92f1-f8628902d630",
@@ -53127,7 +53136,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Castle of Despair.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Castle of Despair.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Castle of Despair.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "954ce88e-b513-4cb4-8b1c-51a17b2f54bd",
@@ -53149,7 +53161,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Dancing with Din.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Dancing with Din.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Dancing with Din.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "48beccae-8cc3-4252-9273-e32ab03c7638",
@@ -53168,7 +53183,10 @@
       "10"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Get Element (Variant B).mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Get Element (Variant B).ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Get Element (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "81dc2d9f-dd45-4a42-bc71-5d8af19c9912",
@@ -53190,7 +53208,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Darkness Spreads.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Darkness Spreads.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Darkness Spreads.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "78b35480-9857-4271-b66a-ffb2440eccc3",
@@ -53210,7 +53231,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Explorer's Crypt.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Explorer's Crypt.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Explorer's Crypt.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a8341d6a-fea0-4a09-b1ea-51ea4db17acd",
@@ -53231,7 +53255,10 @@
       "16"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Select File.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Select File.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Select File.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "0d03a2fb-1869-4408-8dba-a5ab238af575",
@@ -53252,7 +53279,10 @@
       "2"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Temple Remains.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Temple Remains.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Temple Remains.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "5c555b8b-e050-4ba2-b718-b798a96a8622",
@@ -53272,7 +53302,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Gnarled Root Dungeon.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Gnarled Root Dungeon.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Gnarled Root Dungeon.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "5d44c896-af16-4ccf-b40e-dae622fa8ee3",
@@ -53292,7 +53325,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Gorons.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Gorons.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Gorons.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "78419673-57d2-4ae7-acd7-bd2fd7a96f5f",
@@ -53312,7 +53348,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Hero's Cave.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Hero's Cave.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Hero's Cave.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2bc8fa17-bbfe-47b7-bbff-f1ac5a374452",
@@ -53332,7 +53371,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Northern Peak.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Northern Peak.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Northern Peak.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "dc7d961a-dc4d-4ac8-ba2d-57d875731115",
@@ -53351,7 +53393,10 @@
       "7"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Final Battle Against Onox.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Final Battle Against Onox.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Final Battle Against Onox.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "73ac46ff-bf3a-49d8-ae23-f476360aa1c4",
@@ -53371,7 +53416,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Onox's Castle.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Onox's Castle.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Onox's Castle.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "926f7f32-67f8-4758-9c40-72b7676b8cce",
@@ -53392,7 +53440,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Ancient Ruins (XG Remix).mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Ancient Ruins (XG Remix).ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Ancient Ruins (XG Remix).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "6bbb51ec-4f73-4ba5-952c-259e07c8373a",
@@ -53412,7 +53463,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Room of Rites.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Room of Rites.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Room of Rites.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "17f96fdc-efe2-4223-93fe-28d9a083a01f",
@@ -53431,7 +53485,10 @@
       "0"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Samasa Desert.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Samasa Desert.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Samasa Desert.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "de985ac5-a9d9-4e9f-8b23-507ecd706ca2",
@@ -53453,7 +53510,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Skull Pirates.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Skull Pirates.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Skull Pirates.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "3d24c473-56b4-45f1-a349-86c4ffb70461",
@@ -53473,7 +53533,10 @@
       "1"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Subrosia.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Subrosia.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Subrosia.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "675a93a7-4be6-41b7-9198-4d07b8a893ff",
@@ -53495,7 +53558,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Subrosian Dance.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Subrosian Dance.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Subrosian Dance.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "7ac20945-60af-4916-b2ae-2645f9e4ddb1",
@@ -53514,7 +53580,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Subrosian Market.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Subrosian Market.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Subrosian Market.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d17e0d11-f24c-464e-afdc-6f6f2e5ddaf1",
@@ -53534,7 +53603,10 @@
       "1"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Sunken City.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Sunken City.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Sunken City.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "f35e3aab-4633-46a3-8f20-fed784a38cf4",
@@ -53554,7 +53626,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Sword & Shield Maze.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Sword & Shield Maze.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Sword & Shield Maze.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "7d186155-f98f-4048-9258-9387a5de4101",
@@ -53574,7 +53649,10 @@
       "2"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Tarm Ruins.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Tarm Ruins.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Tarm Ruins.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "cfd1916e-5d9f-4edf-9ce8-39f8aa4cfaa5",
@@ -53593,7 +53671,10 @@
       "7"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Battle with Twinrova.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Battle with Twinrova.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Battle with Twinrova.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "014b6b12-79e5-43c3-ae49-8bec8e593ec8",
@@ -53613,7 +53694,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Unicorn's Cave.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Unicorn's Cave.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Unicorn's Cave.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "203fd3a2-3a8d-450c-8eec-f3996c87f8ea",
@@ -53635,7 +53719,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Windmill House.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Windmill House.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Windmill House.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b33e20fc-b9ad-4182-8f62-29e9e27811b4",
@@ -53657,7 +53744,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Hide 'n' Seek.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Hide 'n' Seek.ogg"
+    "preview": "The Legend of Zelda Oracle of Seasons/Hide 'n' Seek.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a5e1dccb-d9a2-4e8b-8cc6-8afe3c4d3226",
@@ -53677,7 +53767,10 @@
       "1"
     ],
     "file": "The Legend of Zelda Oracle of Ages/Crescent Island.mmrs",
-    "preview": "The Legend of Zelda Oracle of Ages/Crescent Island.ogg"
+    "preview": "The Legend of Zelda Oracle of Ages/Crescent Island.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "cb316d4c-fb75-4ae2-b074-cd8b0199f7ae",
@@ -53697,7 +53790,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Oracle of Ages/Crown Dungeon.mmrs",
-    "preview": "The Legend of Zelda Oracle of Ages/Crown Dungeon.ogg"
+    "preview": "The Legend of Zelda Oracle of Ages/Crown Dungeon.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e606135a-078d-4d16-85b5-7b805ecb3332",
@@ -53717,7 +53813,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Oracle of Ages/Lynna City (Present).mmrs",
-    "preview": "The Legend of Zelda Oracle of Ages/Lynna City (Present).ogg"
+    "preview": "The Legend of Zelda Oracle of Ages/Lynna City (Present).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "0167e35f-6123-47bf-85a2-33f0f9af5554",
@@ -53737,7 +53836,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Oracle of Ages/Lynna Village (Past).mmrs",
-    "preview": "The Legend of Zelda Oracle of Ages/Lynna Village (Past).ogg"
+    "preview": "The Legend of Zelda Oracle of Ages/Lynna Village (Past).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1c2561c5-a20d-4856-a172-8862b7ddd5c0",
@@ -53757,7 +53859,10 @@
       "3"
     ],
     "file": "The Legend of Zelda Oracle of Ages/Spirit's Grave.mmrs",
-    "preview": "The Legend of Zelda Oracle of Ages/Spirit's Grave.ogg"
+    "preview": "The Legend of Zelda Oracle of Ages/Spirit's Grave.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
