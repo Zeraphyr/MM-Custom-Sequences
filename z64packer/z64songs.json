@@ -53274,5 +53274,25 @@
     "file": "The Legend of Zelda Oracle of Seasons/Gnarled Root Dungeon.mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Gnarled Root Dungeon.ogg"
   },
+  {
+    "uuid": "5d44c896-af16-4ccf-b40e-dae622fa8ee3",
+    "creationDate": "2026-05-08T02:55:21.376Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Gorons",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Gorons.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Gorons.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
