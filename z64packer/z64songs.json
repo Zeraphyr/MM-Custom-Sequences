@@ -53699,5 +53699,25 @@
     "file": "The Legend of Zelda Oracle of Ages/Crown Dungeon.mmrs",
     "preview": "The Legend of Zelda Oracle of Ages/Crown Dungeon.ogg"
   },
+  {
+    "uuid": "e606135a-078d-4d16-85b5-7b805ecb3332",
+    "creationDate": "2026-05-08T03:16:07.698Z",
+    "game": "The Legend of Zelda: Oracle of Ages",
+    "song": "Lynna City (Present)",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Ages/Lynna City (Present).mmrs",
+    "preview": "The Legend of Zelda Oracle of Ages/Lynna City (Present).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
