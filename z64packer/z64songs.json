@@ -53314,5 +53314,25 @@
     "file": "The Legend of Zelda Oracle of Seasons/Hero's Cave.mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Hero's Cave.ogg"
   },
+  {
+    "uuid": "2bc8fa17-bbfe-47b7-bbff-f1ac5a374452",
+    "creationDate": "2026-05-08T02:56:52.733Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Northern Peak",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "6"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Northern Peak.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Northern Peak.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
