@@ -54141,5 +54141,26 @@
     "file": "Quest 64/Normoon.mmrs",
     "preview": "Quest 64/Normoon.ogg"
   },
+  {
+    "uuid": "814a7c1c-5325-40e5-be5e-77e0cf46afab",
+    "creationDate": "2026-05-09T19:27:54.213Z",
+    "game": "Quest 64",
+    "song": "Shamwood",
+    "composers": [
+      "Masamichi Amano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Quest 64/Shamwood.mmrs",
+    "preview": "Quest 64/Shamwood.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
