@@ -54162,5 +54162,24 @@
     "file": "Quest 64/Shamwood.mmrs",
     "preview": "Quest 64/Shamwood.ogg"
   },
+  {
+    "uuid": "35741b3f-7054-42cc-9d3f-cce6874bceab",
+    "creationDate": "2026-05-09T19:28:40.909Z",
+    "game": "Quest 64",
+    "song": "Victory",
+    "composers": [
+      "Masamichi Amano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Quest 64/Victory.mmrs",
+    "preview": "Quest 64/Victory.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
