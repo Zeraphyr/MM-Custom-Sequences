@@ -53963,5 +53963,24 @@
     "file": "Paper Mario/Battle Fanfare (First Strike).mmrs",
     "preview": "Paper Mario/Battle Fanfare (First Strike).ogg"
   },
+  {
+    "uuid": "e12c693d-69c1-4102-b38e-05fe6da6dc38",
+    "creationDate": "2026-05-09T16:49:17.501Z",
+    "game": "Poképark Wii: Pikachu's Adventure",
+    "song": "Loading Screen",
+    "composers": [
+      "Ken-ichi Koyano",
+      "Manami Kiyota"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "file": "Poképark Wii Pikachu's Adventure/Loading Screen.mmrs",
+    "preview": "Poképark Wii Pikachu's Adventure/Loading Screen.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
