@@ -53982,5 +53982,25 @@
     "file": "Poképark Wii Pikachu's Adventure/Loading Screen.mmrs",
     "preview": "Poképark Wii Pikachu's Adventure/Loading Screen.ogg"
   },
+  {
+    "uuid": "731ba4ee-37ce-4331-b958-ef976407a5aa",
+    "creationDate": "2026-05-09T16:51:21.397Z",
+    "game": "PlayStation Portable",
+    "song": "Startup",
+    "composers": [
+      "Unknown"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "PlayStation Portable/Startup.mmrs",
+    "preview": "PlayStation Portable/Startup.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
