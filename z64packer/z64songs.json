@@ -54102,5 +54102,24 @@
     "file": "Quest 64/Isle of Skye.mmrs",
     "preview": "Quest 64/Isle of Skye.ogg"
   },
+  {
+    "uuid": "4900f020-c061-48d6-b056-4148a4b620f5",
+    "creationDate": "2026-05-09T19:20:54.458Z",
+    "game": "Quest 64",
+    "song": "Melrode",
+    "composers": [
+      "Masamichi Amano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Quest 64/Melrode.mmrs",
+    "preview": "Quest 64/Melrode.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
