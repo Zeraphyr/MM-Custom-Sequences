@@ -54061,5 +54061,25 @@
     "file": "Quest 64/Dindom Dries.mmrs",
     "preview": "Quest 64/Dindom Dries.ogg"
   },
+  {
+    "uuid": "8c1cace4-b50b-4c2a-b05b-0e5819204554",
+    "creationDate": "2026-05-09T16:56:15.290Z",
+    "game": "Quest 64",
+    "song": "Game Over",
+    "composers": [
+      "Masamichi Amano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Quest 64/Game Over.mmrs",
+    "preview": "Quest 64/Game Over.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
