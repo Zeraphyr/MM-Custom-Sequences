@@ -3582,13 +3582,21 @@
     "short_name": "3DS"
   },
   {
-    "game": "Poképark Wii: Pikachu's Adventure"
+    "game": "Poképark Wii: Pikachu's Adventure",
+    "series": "Pokémon Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/56d33021e640f5d64a611a71b5dc30a3.png",
+    "short_name": "Poképark Wii"
   },
   {
-    "game": "Persona 5 Royal"
+    "game": "Persona 5 Royal",
+    "series": "Persona Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ba038e2a20ded4a1d146841e6ed42f22.png"
   },
   {
-    "game": "PlayStation Portable"
+    "game": "PlayStation Portable",
+    "series": "Consoles and BIOS",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/1aae0a9ac4e4146f2f020491ee2f6181.png",
+    "short_name": "PSP"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
