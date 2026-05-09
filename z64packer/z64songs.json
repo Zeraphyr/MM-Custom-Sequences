@@ -54022,5 +54022,25 @@
     "file": "Quest 64/Beta Track 1.mmrs",
     "preview": "Quest 64/Beta Track 1.ogg"
   },
+  {
+    "uuid": "99d12c3e-cfe1-4c9c-a8f6-1cf9124a4721",
+    "creationDate": "2026-05-09T16:54:00.544Z",
+    "game": "Quest 64",
+    "song": "Beta Track 2",
+    "composers": [
+      "Masamichi Amano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Quest 64/Beta Track 2.mmrs",
+    "preview": "Quest 64/Beta Track 2.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
