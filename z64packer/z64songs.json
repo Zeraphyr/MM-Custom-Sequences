@@ -53882,7 +53882,10 @@
       "157"
     ],
     "file": "Persona 3 Portable/Danger Zone (Variant B).mmrs",
-    "preview": "Persona 3 Portable/Danger Zone (Variant B).ogg"
+    "preview": "Persona 3 Portable/Danger Zone (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1df38f16-1d3f-403b-8c1b-da154554e101",
@@ -53903,7 +53906,10 @@
       "3"
     ],
     "file": "Persona 5 Royal/Gentle Madman.mmrs",
-    "preview": "Persona 5 Royal/Gentle Madman.ogg"
+    "preview": "Persona 5 Royal/Gentle Madman.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "76783cff-e55e-42da-9e7a-7335ff959ecf",
@@ -53922,7 +53928,10 @@
       "9"
     ],
     "file": "Paper Mario/Star Piece.mmrs",
-    "preview": "Paper Mario/Star Piece.ogg"
+    "preview": "Paper Mario/Star Piece.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "9031c5f4-dc02-4bad-b3d1-35e9056d38de",
@@ -53942,7 +53951,10 @@
       "10"
     ],
     "file": "Paper Mario/Unused Jingle.mmrs",
-    "preview": "Paper Mario/Unused Jingle.ogg"
+    "preview": "Paper Mario/Unused Jingle.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2b52e5d0-d0af-4f24-a2b7-283d7b110c0b",
@@ -53961,7 +53973,10 @@
       "5"
     ],
     "file": "Paper Mario/Battle Fanfare (First Strike).mmrs",
-    "preview": "Paper Mario/Battle Fanfare (First Strike).ogg"
+    "preview": "Paper Mario/Battle Fanfare (First Strike).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e12c693d-69c1-4102-b38e-05fe6da6dc38",
@@ -53980,7 +53995,10 @@
       "6"
     ],
     "file": "Poképark Wii Pikachu's Adventure/Loading Screen.mmrs",
-    "preview": "Poképark Wii Pikachu's Adventure/Loading Screen.ogg"
+    "preview": "Poképark Wii Pikachu's Adventure/Loading Screen.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "731ba4ee-37ce-4331-b958-ef976407a5aa",
@@ -54000,7 +54018,10 @@
       "10"
     ],
     "file": "PlayStation Portable/Startup.mmrs",
-    "preview": "PlayStation Portable/Startup.ogg"
+    "preview": "PlayStation Portable/Startup.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "852220b2-8882-4080-a03b-af859a72ec3e",
@@ -54020,7 +54041,10 @@
       "10"
     ],
     "file": "Quest 64/Beta Track 1.mmrs",
-    "preview": "Quest 64/Beta Track 1.ogg"
+    "preview": "Quest 64/Beta Track 1.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "99d12c3e-cfe1-4c9c-a8f6-1cf9124a4721",
@@ -54040,7 +54064,10 @@
       "10"
     ],
     "file": "Quest 64/Beta Track 2.mmrs",
-    "preview": "Quest 64/Beta Track 2.ogg"
+    "preview": "Quest 64/Beta Track 2.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "6de21c3f-4966-4165-a9c9-af2ed7112e8d",
@@ -54059,7 +54086,10 @@
       "3"
     ],
     "file": "Quest 64/Dindom Dries.mmrs",
-    "preview": "Quest 64/Dindom Dries.ogg"
+    "preview": "Quest 64/Dindom Dries.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "8c1cace4-b50b-4c2a-b05b-0e5819204554",
@@ -54079,7 +54109,10 @@
       "10"
     ],
     "file": "Quest 64/Game Over.mmrs",
-    "preview": "Quest 64/Game Over.ogg"
+    "preview": "Quest 64/Game Over.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "3d0da044-8905-401f-87c6-8dff83ea8ff3",
@@ -54100,7 +54133,10 @@
       "157"
     ],
     "file": "Quest 64/Isle of Skye.mmrs",
-    "preview": "Quest 64/Isle of Skye.ogg"
+    "preview": "Quest 64/Isle of Skye.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4900f020-c061-48d6-b056-4148a4b620f5",
@@ -54119,7 +54155,10 @@
       "3"
     ],
     "file": "Quest 64/Melrode.mmrs",
-    "preview": "Quest 64/Melrode.ogg"
+    "preview": "Quest 64/Melrode.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "972d9488-4bfb-4e53-8a9c-d4f414a718db",
@@ -54139,7 +54178,10 @@
       "3"
     ],
     "file": "Quest 64/Normoon.mmrs",
-    "preview": "Quest 64/Normoon.ogg"
+    "preview": "Quest 64/Normoon.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "814a7c1c-5325-40e5-be5e-77e0cf46afab",
@@ -54160,7 +54202,10 @@
       "3"
     ],
     "file": "Quest 64/Shamwood.mmrs",
-    "preview": "Quest 64/Shamwood.ogg"
+    "preview": "Quest 64/Shamwood.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "35741b3f-7054-42cc-9d3f-cce6874bceab",
@@ -54179,7 +54224,10 @@
       "9"
     ],
     "file": "Quest 64/Victory.mmrs",
-    "preview": "Quest 64/Victory.ogg"
+    "preview": "Quest 64/Victory.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

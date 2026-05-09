@@ -3581,5 +3581,14 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/d54626bb75d3cf12e2985b50e86eab52.png",
     "short_name": "3DS"
   },
+  {
+    "game": "Poképark Wii: Pikachu's Adventure"
+  },
+  {
+    "game": "Persona 5 Royal"
+  },
+  {
+    "game": "PlayStation Portable"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
