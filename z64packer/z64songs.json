@@ -54002,5 +54002,25 @@
     "file": "PlayStation Portable/Startup.mmrs",
     "preview": "PlayStation Portable/Startup.ogg"
   },
+  {
+    "uuid": "852220b2-8882-4080-a03b-af859a72ec3e",
+    "creationDate": "2026-05-09T16:53:19.744Z",
+    "game": "Quest 64",
+    "song": "Beta Track 1",
+    "composers": [
+      "Masamichi Amano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Quest 64/Beta Track 1.mmrs",
+    "preview": "Quest 64/Beta Track 1.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
