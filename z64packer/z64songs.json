@@ -54121,5 +54121,25 @@
     "file": "Quest 64/Melrode.mmrs",
     "preview": "Quest 64/Melrode.ogg"
   },
+  {
+    "uuid": "972d9488-4bfb-4e53-8a9c-d4f414a718db",
+    "creationDate": "2026-05-09T19:25:58.030Z",
+    "game": "Quest 64",
+    "song": "Normoon",
+    "composers": [
+      "Masamichi Amano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Quest 64/Normoon.mmrs",
+    "preview": "Quest 64/Normoon.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
