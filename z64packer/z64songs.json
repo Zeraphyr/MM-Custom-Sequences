@@ -54081,5 +54081,26 @@
     "file": "Quest 64/Game Over.mmrs",
     "preview": "Quest 64/Game Over.ogg"
   },
+  {
+    "uuid": "3d0da044-8905-401f-87c6-8dff83ea8ff3",
+    "creationDate": "2026-05-09T19:20:12.989Z",
+    "game": "Quest 64",
+    "song": "Isle of Skye",
+    "composers": [
+      "Masamichi Amano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157"
+    ],
+    "file": "Quest 64/Isle of Skye.mmrs",
+    "preview": "Quest 64/Isle of Skye.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
