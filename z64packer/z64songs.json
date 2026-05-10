@@ -54391,5 +54391,27 @@
     "file": "Resident Evil 3 Nemesis/Free From Fear.mmrs",
     "preview": "Resident Evil 3 Nemesis/Free From Fear.ogg"
   },
+  {
+    "uuid": "3504827d-d72b-4d3d-bb87-5a213c1b1aa8",
+    "creationDate": "2026-05-10T02:41:20.327Z",
+    "game": "Resident Evil (1996)",
+    "song": "Wesker's Theme",
+    "composers": [
+      "Masami Ueda",
+      "Makoto Tomozawa",
+      "Akari Kaida"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "Resident Evil (1996)/Wesker's Theme.mmrs",
+    "preview": "Resident Evil (1996)/Wesker's Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
