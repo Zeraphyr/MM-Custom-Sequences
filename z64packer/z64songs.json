@@ -54413,5 +54413,23 @@
     "file": "Resident Evil (1996)/Wesker's Theme.mmrs",
     "preview": "Resident Evil (1996)/Wesker's Theme.ogg"
   },
+  {
+    "uuid": "169f864d-b1e9-4d0e-96de-65d9f587be92",
+    "creationDate": "2026-05-10T02:51:38.520Z",
+    "game": "Resident Evil 2 (1998)",
+    "song": "Mr. X (T'-B)",
+    "composers": [
+      "Masami Ueda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "Resident Evil 2 (1998)/Mr. X (T'-B).mmrs",
+    "preview": "Resident Evil 2 (1998)/Mr. X (T'-B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
