@@ -54250,5 +54250,24 @@
     "file": "Ranma ½ Hard Battle/A Lot To Learn.mmrs",
     "preview": "Ranma ½ Hard Battle/A Lot To Learn.ogg"
   },
+  {
+    "uuid": "21ae92ce-d596-428d-94d3-94b8d1ae8420",
+    "creationDate": "2026-05-10T02:10:01.373Z",
+    "game": "Ranma ½: Chougi Ranbu-hen",
+    "song": "Win",
+    "composers": [
+      "Toshio Okamoto"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Ranma ½ Chougi Ranbu-hen/Win.mmrs",
+    "preview": "Ranma ½ Chougi Ranbu-hen/Win.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
