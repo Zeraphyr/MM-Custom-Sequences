@@ -54450,5 +54450,24 @@
     "file": "Resident Evil 3 Nemesis/Mysterious Orgel (Correct).mmrs",
     "preview": "Resident Evil 3 Nemesis/Mysterious Orgel (Correct).ogg"
   },
+  {
+    "uuid": "d2ff46e1-95bc-46c0-9020-2368e731bb3c",
+    "creationDate": "2026-05-10T02:55:01.365Z",
+    "game": "Resident Evil 3: Nemesis",
+    "song": "Mysterious Orgel (Wrong)",
+    "composers": [
+      "Masami Ueda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Resident Evil 3 Nemesis/Mysterious Orgel (Wrong).mmrs",
+    "preview": "Resident Evil 3 Nemesis/Mysterious Orgel (Wrong).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
