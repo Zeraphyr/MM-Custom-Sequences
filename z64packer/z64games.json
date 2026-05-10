@@ -3562,7 +3562,7 @@
   {
     "game": "Johann Sebastian Bach",
     "series": "Classical Compositions",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Johann_Sebastian_Bach.jpg/250px-Johann_Sebastian_Bach.jpg"
+    "logo": "https://i.scdn.co/image/a2ec08fe69ecec2748fbc764aede8f1b03ae8f88"
   },
   {
     "game": "Croc: Legend of the Gobbos",
@@ -3599,22 +3599,35 @@
     "short_name": "PSP"
   },
   {
-    "game": "Resident Evil (2002)"
+    "game": "Resident Evil (2002)",
+    "series": "Resident Evil Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/3e53ca3d4e69bc938071715257cc62b9.png"
   },
   {
-    "game": "Ranma ½: Hard Battle"
+    "game": "Ranma ½: Hard Battle",
+    "series": "Ranma ½ Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/869646de33ddff5f32dd0f310a07bf72.png"
   },
   {
-    "game": "Resident Evil 3: Nemesis"
+    "game": "Resident Evil 3: Nemesis",
+    "series": "Resident Evil Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/f2b93ce08763fddf54bcb7beb62a2c74.png"
   },
   {
-    "game": "Ranma ½: Chougi Ranbu-hen"
+    "game": "Ranma ½: Chougi Ranbu-hen",
+    "series": "Ranma ½ Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/5136b65c9852fc84dbe935e11613f9b9.png"
   },
   {
-    "game": "Resident Evil (1996)"
+    "game": "Resident Evil (1996)",
+    "series": "Resident Evil Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/c8758b517083196f05ac29810b924aca.png"
   },
   {
-    "game": "Ludwig van Beethoven"
+    "game": "Ludwig van Beethoven",
+    "series": "Classical Compositions",
+    "logo": "https://i.scdn.co/image/ab6761610000e5eba636b0b244253f602a629796",
+    "short_name": "Beethoven"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

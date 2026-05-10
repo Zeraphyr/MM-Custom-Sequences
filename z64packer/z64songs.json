@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -54444,7 +54444,7 @@
     "uuid": "169f864d-b1e9-4d0e-96de-65d9f587be92",
     "creationDate": "2026-05-10T02:51:38.520Z",
     "game": "Resident Evil 2 (1998)",
-    "song": "Mr. X (T'-B)",
+    "song": "T'-B",
     "composers": [
       "Masami Ueda"
     ],
@@ -54455,8 +54455,8 @@
     "categories": [
       "7"
     ],
-    "file": "Resident Evil 2 (1998)/Mr. X (T'-B).mmrs",
-    "preview": "Resident Evil 2 (1998)/Mr. X (T'-B).ogg",
+    "file": "Resident Evil 2 (1998)/T'-B.mmrs",
+    "preview": "Resident Evil 2 (1998)/T'-B.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
