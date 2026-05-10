@@ -54310,5 +54310,24 @@
     "file": "Ludwig van Beethoven/Moonlight Sonata (1st Movement).mmrs",
     "preview": "Ludwig van Beethoven/Moonlight Sonata (1st Movement).ogg"
   },
+  {
+    "uuid": "d05b04db-a217-47c6-90e6-940045937c13",
+    "creationDate": "2026-05-10T02:33:18.308Z",
+    "game": "Resident Evil 2 (1998)",
+    "song": "The Front Hall",
+    "composers": [
+      "Masami Ueda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Resident Evil 2 (1998)/The Front Hall.mmrs",
+    "preview": "Resident Evil 2 (1998)/The Front Hall.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
