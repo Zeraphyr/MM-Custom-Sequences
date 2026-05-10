@@ -54431,5 +54431,24 @@
     "file": "Resident Evil 2 (1998)/Mr. X (T'-B).mmrs",
     "preview": "Resident Evil 2 (1998)/Mr. X (T'-B).ogg"
   },
+  {
+    "uuid": "8f006812-d241-436f-ac60-51062e678457",
+    "creationDate": "2026-05-10T02:54:09.458Z",
+    "game": "Resident Evil 3: Nemesis",
+    "song": "Mysterious Orgel (Correct)",
+    "composers": [
+      "Masami Ueda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Resident Evil 3 Nemesis/Mysterious Orgel (Correct).mmrs",
+    "preview": "Resident Evil 3 Nemesis/Mysterious Orgel (Correct).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
