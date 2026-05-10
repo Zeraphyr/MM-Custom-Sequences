@@ -54269,5 +54269,24 @@
     "file": "Ranma ½ Chougi Ranbu-hen/Win.mmrs",
     "preview": "Ranma ½ Chougi Ranbu-hen/Win.ogg"
   },
+  {
+    "uuid": "e3bb61c5-fe03-416d-825c-a3082e6045f6",
+    "creationDate": "2026-05-10T02:21:43.326Z",
+    "game": "Resident Evil (2002)",
+    "song": "Guardhouse (1st Floor)",
+    "composers": [
+      "Shusaku Uchiyama"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Resident Evil (2002)/Guardhouse (1st Floor).mmrs",
+    "preview": "Resident Evil (2002)/Guardhouse (1st Floor).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
