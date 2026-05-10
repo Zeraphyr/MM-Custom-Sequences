@@ -54288,5 +54288,27 @@
     "file": "Resident Evil (2002)/Guardhouse (1st Floor).mmrs",
     "preview": "Resident Evil (2002)/Guardhouse (1st Floor).ogg"
   },
+  {
+    "uuid": "a5ac0c19-39c6-46bf-b177-6e500d59cea0",
+    "creationDate": "2026-05-10T02:28:35.374Z",
+    "game": "Ludwig van Beethoven",
+    "song": "Moonlight Sonata (1st Movement)",
+    "composers": [
+      "Ludwig van Beethoven"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "notes": "Also known as Piano Sonata No. 14 - Adagio Sostenuto.",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "Ludwig van Beethoven/Moonlight Sonata (1st Movement).mmrs",
+    "preview": "Ludwig van Beethoven/Moonlight Sonata (1st Movement).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
