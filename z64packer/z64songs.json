@@ -54350,5 +54350,25 @@
     "file": "Resident Evil 2 (1998)/Secure Place.mmrs",
     "preview": "Resident Evil 2 (1998)/Secure Place.ogg"
   },
+  {
+    "uuid": "58bc8420-e748-4e46-a0c9-b15759d6d135",
+    "creationDate": "2026-05-10T02:35:45.220Z",
+    "game": "Resident Evil 2 (1998)",
+    "song": "The Library",
+    "composers": [
+      "Masami Ueda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Resident Evil 2 (1998)/The Library.mmrs",
+    "preview": "Resident Evil 2 (1998)/The Library.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
