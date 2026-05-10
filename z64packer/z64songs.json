@@ -54229,5 +54229,245 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "677dd6ab-5d9c-4285-9e36-ea2c04b947de",
+    "creationDate": "2026-05-10T01:50:16.044Z",
+    "game": "Ranma ½: Hard Battle",
+    "song": "A Lot To Learn",
+    "composers": [
+      "Toshio Okamoto"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Ranma ½ Hard Battle/A Lot To Learn.mmrs",
+    "preview": "Ranma ½ Hard Battle/A Lot To Learn.ogg"
+  },
+  {
+    "uuid": "21ae92ce-d596-428d-94d3-94b8d1ae8420",
+    "creationDate": "2026-05-10T02:10:01.373Z",
+    "game": "Ranma ½: Chougi Ranbu-hen",
+    "song": "Win",
+    "composers": [
+      "Toshio Okamoto"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Ranma ½ Chougi Ranbu-hen/Win.mmrs",
+    "preview": "Ranma ½ Chougi Ranbu-hen/Win.ogg"
+  },
+  {
+    "uuid": "e3bb61c5-fe03-416d-825c-a3082e6045f6",
+    "creationDate": "2026-05-10T02:21:43.326Z",
+    "game": "Resident Evil (2002)",
+    "song": "Guardhouse (1st Floor)",
+    "composers": [
+      "Shusaku Uchiyama"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Resident Evil (2002)/Guardhouse (1st Floor).mmrs",
+    "preview": "Resident Evil (2002)/Guardhouse (1st Floor).ogg"
+  },
+  {
+    "uuid": "a5ac0c19-39c6-46bf-b177-6e500d59cea0",
+    "creationDate": "2026-05-10T02:28:35.374Z",
+    "game": "Ludwig van Beethoven",
+    "song": "Moonlight Sonata (1st Movement)",
+    "composers": [
+      "Ludwig van Beethoven"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "notes": "Also known as Piano Sonata No. 14 - Adagio Sostenuto.",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "3",
+      "4",
+      "6"
+    ],
+    "file": "Ludwig van Beethoven/Moonlight Sonata (1st Movement).mmrs",
+    "preview": "Ludwig van Beethoven/Moonlight Sonata (1st Movement).ogg"
+  },
+  {
+    "uuid": "d05b04db-a217-47c6-90e6-940045937c13",
+    "creationDate": "2026-05-10T02:33:18.308Z",
+    "game": "Resident Evil 2 (1998)",
+    "song": "The Front Hall",
+    "composers": [
+      "Masami Ueda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Resident Evil 2 (1998)/The Front Hall.mmrs",
+    "preview": "Resident Evil 2 (1998)/The Front Hall.ogg"
+  },
+  {
+    "uuid": "0ce72661-b9d4-4728-916d-b235b5f99662",
+    "creationDate": "2026-05-10T02:34:45.957Z",
+    "game": "Resident Evil 2 (1998)",
+    "song": "Secure Place",
+    "composers": [
+      "Masami Ueda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Resident Evil 2 (1998)/Secure Place.mmrs",
+    "preview": "Resident Evil 2 (1998)/Secure Place.ogg"
+  },
+  {
+    "uuid": "58bc8420-e748-4e46-a0c9-b15759d6d135",
+    "creationDate": "2026-05-10T02:35:45.220Z",
+    "game": "Resident Evil 2 (1998)",
+    "song": "The Library",
+    "composers": [
+      "Masami Ueda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Resident Evil 2 (1998)/The Library.mmrs",
+    "preview": "Resident Evil 2 (1998)/The Library.ogg"
+  },
+  {
+    "uuid": "00624bc3-cf1e-49dc-9cd3-4eb919a9e825",
+    "creationDate": "2026-05-10T02:37:57.374Z",
+    "game": "Resident Evil 3: Nemesis",
+    "song": "Free From Fear",
+    "composers": [
+      "Masami Ueda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Resident Evil 3 Nemesis/Free From Fear.mmrs",
+    "preview": "Resident Evil 3 Nemesis/Free From Fear.ogg"
+  },
+  {
+    "uuid": "3504827d-d72b-4d3d-bb87-5a213c1b1aa8",
+    "creationDate": "2026-05-10T02:41:20.327Z",
+    "game": "Resident Evil (1996)",
+    "song": "Wesker's Theme",
+    "composers": [
+      "Masami Ueda",
+      "Makoto Tomozawa",
+      "Akari Kaida"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "Resident Evil (1996)/Wesker's Theme.mmrs",
+    "preview": "Resident Evil (1996)/Wesker's Theme.ogg"
+  },
+  {
+    "uuid": "169f864d-b1e9-4d0e-96de-65d9f587be92",
+    "creationDate": "2026-05-10T02:51:38.520Z",
+    "game": "Resident Evil 2 (1998)",
+    "song": "Mr. X (T'-B)",
+    "composers": [
+      "Masami Ueda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "Resident Evil 2 (1998)/Mr. X (T'-B).mmrs",
+    "preview": "Resident Evil 2 (1998)/Mr. X (T'-B).ogg"
+  },
+  {
+    "uuid": "8f006812-d241-436f-ac60-51062e678457",
+    "creationDate": "2026-05-10T02:54:09.458Z",
+    "game": "Resident Evil 3: Nemesis",
+    "song": "Mysterious Orgel (Correct)",
+    "composers": [
+      "Masami Ueda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Resident Evil 3 Nemesis/Mysterious Orgel (Correct).mmrs",
+    "preview": "Resident Evil 3 Nemesis/Mysterious Orgel (Correct).ogg"
+  },
+  {
+    "uuid": "d2ff46e1-95bc-46c0-9020-2368e731bb3c",
+    "creationDate": "2026-05-10T02:55:01.365Z",
+    "game": "Resident Evil 3: Nemesis",
+    "song": "Mysterious Orgel (Wrong)",
+    "composers": [
+      "Masami Ueda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Resident Evil 3 Nemesis/Mysterious Orgel (Wrong).mmrs",
+    "preview": "Resident Evil 3 Nemesis/Mysterious Orgel (Wrong).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
