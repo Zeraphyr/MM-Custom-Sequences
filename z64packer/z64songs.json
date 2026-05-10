@@ -54248,7 +54248,10 @@
       "16"
     ],
     "file": "Ranma ½ Hard Battle/A Lot To Learn.mmrs",
-    "preview": "Ranma ½ Hard Battle/A Lot To Learn.ogg"
+    "preview": "Ranma ½ Hard Battle/A Lot To Learn.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "21ae92ce-d596-428d-94d3-94b8d1ae8420",
@@ -54267,7 +54270,10 @@
       "9"
     ],
     "file": "Ranma ½ Chougi Ranbu-hen/Win.mmrs",
-    "preview": "Ranma ½ Chougi Ranbu-hen/Win.ogg"
+    "preview": "Ranma ½ Chougi Ranbu-hen/Win.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e3bb61c5-fe03-416d-825c-a3082e6045f6",
@@ -54286,7 +54292,10 @@
       "3"
     ],
     "file": "Resident Evil (2002)/Guardhouse (1st Floor).mmrs",
-    "preview": "Resident Evil (2002)/Guardhouse (1st Floor).ogg"
+    "preview": "Resident Evil (2002)/Guardhouse (1st Floor).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a5ac0c19-39c6-46bf-b177-6e500d59cea0",
@@ -54308,7 +54317,10 @@
       "6"
     ],
     "file": "Ludwig van Beethoven/Moonlight Sonata (1st Movement).mmrs",
-    "preview": "Ludwig van Beethoven/Moonlight Sonata (1st Movement).ogg"
+    "preview": "Ludwig van Beethoven/Moonlight Sonata (1st Movement).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d05b04db-a217-47c6-90e6-940045937c13",
@@ -54327,7 +54339,10 @@
       "3"
     ],
     "file": "Resident Evil 2 (1998)/The Front Hall.mmrs",
-    "preview": "Resident Evil 2 (1998)/The Front Hall.ogg"
+    "preview": "Resident Evil 2 (1998)/The Front Hall.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "0ce72661-b9d4-4728-916d-b235b5f99662",
@@ -54348,7 +54363,10 @@
       "16"
     ],
     "file": "Resident Evil 2 (1998)/Secure Place.mmrs",
-    "preview": "Resident Evil 2 (1998)/Secure Place.ogg"
+    "preview": "Resident Evil 2 (1998)/Secure Place.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "58bc8420-e748-4e46-a0c9-b15759d6d135",
@@ -54368,7 +54386,10 @@
       "3"
     ],
     "file": "Resident Evil 2 (1998)/The Library.mmrs",
-    "preview": "Resident Evil 2 (1998)/The Library.ogg"
+    "preview": "Resident Evil 2 (1998)/The Library.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "00624bc3-cf1e-49dc-9cd3-4eb919a9e825",
@@ -54389,7 +54410,10 @@
       "16"
     ],
     "file": "Resident Evil 3 Nemesis/Free From Fear.mmrs",
-    "preview": "Resident Evil 3 Nemesis/Free From Fear.ogg"
+    "preview": "Resident Evil 3 Nemesis/Free From Fear.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "3504827d-d72b-4d3d-bb87-5a213c1b1aa8",
@@ -54411,7 +54435,10 @@
       "6"
     ],
     "file": "Resident Evil (1996)/Wesker's Theme.mmrs",
-    "preview": "Resident Evil (1996)/Wesker's Theme.ogg"
+    "preview": "Resident Evil (1996)/Wesker's Theme.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "169f864d-b1e9-4d0e-96de-65d9f587be92",
@@ -54429,7 +54456,10 @@
       "7"
     ],
     "file": "Resident Evil 2 (1998)/Mr. X (T'-B).mmrs",
-    "preview": "Resident Evil 2 (1998)/Mr. X (T'-B).ogg"
+    "preview": "Resident Evil 2 (1998)/Mr. X (T'-B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "8f006812-d241-436f-ac60-51062e678457",
@@ -54448,7 +54478,10 @@
       "10"
     ],
     "file": "Resident Evil 3 Nemesis/Mysterious Orgel (Correct).mmrs",
-    "preview": "Resident Evil 3 Nemesis/Mysterious Orgel (Correct).ogg"
+    "preview": "Resident Evil 3 Nemesis/Mysterious Orgel (Correct).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d2ff46e1-95bc-46c0-9020-2368e731bb3c",
@@ -54467,7 +54500,10 @@
       "10"
     ],
     "file": "Resident Evil 3 Nemesis/Mysterious Orgel (Wrong).mmrs",
-    "preview": "Resident Evil 3 Nemesis/Mysterious Orgel (Wrong).ogg"
+    "preview": "Resident Evil 3 Nemesis/Mysterious Orgel (Wrong).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
