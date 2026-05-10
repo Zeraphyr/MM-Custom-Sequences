@@ -54329,5 +54329,26 @@
     "file": "Resident Evil 2 (1998)/The Front Hall.mmrs",
     "preview": "Resident Evil 2 (1998)/The Front Hall.ogg"
   },
+  {
+    "uuid": "0ce72661-b9d4-4728-916d-b235b5f99662",
+    "creationDate": "2026-05-10T02:34:45.957Z",
+    "game": "Resident Evil 2 (1998)",
+    "song": "Secure Place",
+    "composers": [
+      "Masami Ueda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Resident Evil 2 (1998)/Secure Place.mmrs",
+    "preview": "Resident Evil 2 (1998)/Secure Place.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
