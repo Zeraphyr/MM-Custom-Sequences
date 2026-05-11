@@ -54623,5 +54623,29 @@
     "file": "Sonic and the Black Knight/Fight the Knight.mmrs",
     "preview": "Sonic and the Black Knight/Fight the Knight.ogg"
   },
+  {
+    "uuid": "24a9a5cf-efdf-42d6-a5ec-1db23550012d",
+    "creationDate": "2026-05-11T00:39:18.992Z",
+    "game": "SoulCalibur II",
+    "song": "The Legend of Zelda",
+    "composers": [
+      "Junichi Nakatsuru",
+      "Yoshihito Yano"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "5",
+      "16",
+      "157"
+    ],
+    "file": "SoulCalibur II/The Legend of Zelda.mmrs",
+    "preview": "SoulCalibur II/The Legend of Zelda.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
