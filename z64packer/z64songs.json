@@ -54585,5 +54585,24 @@
     "file": "Sonic Adventure 2/Supporting Me ...for Biolizard.mmrs",
     "preview": "Sonic Adventure 2/Supporting Me ...for Biolizard.ogg"
   },
+  {
+    "uuid": "2f85abd5-5b57-4065-a59a-140a1b699900",
+    "creationDate": "2026-05-11T00:29:37.946Z",
+    "game": "Sonic Adventure 2",
+    "song": "Stage Clear",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Sonic Adventure 2/Stage Clear.mmrs",
+    "preview": "Sonic Adventure 2/Stage Clear.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
