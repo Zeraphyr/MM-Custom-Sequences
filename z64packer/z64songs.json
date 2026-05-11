@@ -54524,5 +54524,28 @@
     "file": "RPG Maker VX Ace/Battle 1.mmrs",
     "preview": "RPG Maker VX Ace/Battle 1.ogg"
   },
+  {
+    "uuid": "c146eaea-59e4-4ec6-9eb1-4380eb94bb13",
+    "creationDate": "2026-05-11T00:22:06.286Z",
+    "game": "RPG Maker 2003",
+    "song": "Fairies",
+    "composers": [
+      "Daisuke Shiiba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "notes": "Also known as \"Fairy Forest\".",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "RPG Maker 2003/Fairies.mmrs",
+    "preview": "RPG Maker 2003/Fairies.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
