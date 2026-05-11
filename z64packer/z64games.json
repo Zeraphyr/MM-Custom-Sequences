@@ -3263,6 +3263,7 @@
   },
   {
     "game": "RPG Maker VX Ace",
+    "series": "RPG Maker Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/8339611181c6b2622eec0551fbd4d298.png"
   },
   {
@@ -3630,13 +3631,19 @@
     "short_name": "Beethoven"
   },
   {
-    "game": "RPG Maker 2003"
+    "game": "RPG Maker 2003",
+    "series": "RPG Maker Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/3f504658ddff2e41061b89bdc726a160.png"
   },
   {
-    "game": "Sonic and the Black Knight"
+    "game": "Sonic and the Black Knight",
+    "series": "Sonic the Hedgehog Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/0b5e29aa1acf8bdc5d8935d7036fa4f5.png"
   },
   {
-    "game": "Super Mario Advance 4: Super Mario Bros. 3"
+    "game": "Super Mario Advance 4: Super Mario Bros. 3",
+    "series": "Super Mario Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/59139a91a16c9b09a388091bdfe639de.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
