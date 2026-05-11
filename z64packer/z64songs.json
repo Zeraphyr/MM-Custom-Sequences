@@ -54566,5 +54566,24 @@
     "file": "RPG Maker 2003/Horns.mmrs",
     "preview": "RPG Maker 2003/Horns.ogg"
   },
+  {
+    "uuid": "0d147cf6-3fef-4e88-a32c-46ad3156f2c7",
+    "creationDate": "2026-05-11T00:28:10.596Z",
+    "game": "Sonic Adventure 2",
+    "song": "Supporting Me ...for Biolizard",
+    "composers": [
+      "Fumie Kumatani"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Sonic Adventure 2/Supporting Me ...for Biolizard.mmrs",
+    "preview": "Sonic Adventure 2/Supporting Me ...for Biolizard.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
