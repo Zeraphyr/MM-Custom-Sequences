@@ -54828,5 +54828,24 @@
     "file": "Super Mario Bros. 2/Title Screen.mmrs",
     "preview": "Super Mario Bros. 2/Title Screen.ogg"
   },
+  {
+    "uuid": "25065cae-ce2b-4fb9-82bc-39448d2d449e",
+    "creationDate": "2026-05-11T01:56:56.221Z",
+    "game": "Super Mario Bros. 2",
+    "song": "Final Boss Wart",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Super Mario Bros. 2/Final Boss Wart.mmrs",
+    "preview": "Super Mario Bros. 2/Final Boss Wart.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
