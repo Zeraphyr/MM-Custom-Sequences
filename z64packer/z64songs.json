@@ -54604,5 +54604,24 @@
     "file": "Sonic Adventure 2/Stage Clear.mmrs",
     "preview": "Sonic Adventure 2/Stage Clear.ogg"
   },
+  {
+    "uuid": "b8ec0c3a-401a-4194-862b-7177d1274a67",
+    "creationDate": "2026-05-11T00:34:52.593Z",
+    "game": "Sonic and the Black Knight",
+    "song": "Fight the Knight",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Sonic and the Black Knight/Fight the Knight.mmrs",
+    "preview": "Sonic and the Black Knight/Fight the Knight.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
