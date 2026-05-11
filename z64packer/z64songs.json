@@ -54847,5 +54847,25 @@
     "file": "Super Mario Bros. 2/Final Boss Wart.mmrs",
     "preview": "Super Mario Bros. 2/Final Boss Wart.ogg"
   },
+  {
+    "uuid": "4ab7db08-3cef-44eb-9867-c511575bb697",
+    "creationDate": "2026-05-11T01:59:01.164Z",
+    "game": "Super Mario Bros. 2",
+    "song": "Bonus Chance - Win",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Super Mario Bros. 2/Bonus Chance - Win.mmrs",
+    "preview": "Super Mario Bros. 2/Bonus Chance - Win.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
