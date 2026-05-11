@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -54504,6 +54504,25 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
+  },
+  {
+    "uuid": "e308ac80-c4f8-4360-bc5f-95f94235ebfe",
+    "creationDate": "2026-05-11T00:18:24.917Z",
+    "game": "RPG Maker VX Ace",
+    "song": "Battle 1",
+    "composers": [
+      "Makiko Shimizu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "RPG Maker VX Ace/Battle 1.mmrs",
+    "preview": "RPG Maker VX Ace/Battle 1.ogg"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
