@@ -54670,5 +54670,26 @@
     "file": "The Elder Scrolls V Skyrim/Sons of Skyrim (Campfire Remix).mmrs",
     "preview": "The Elder Scrolls V Skyrim/Sons of Skyrim (Campfire Remix).ogg"
   },
+  {
+    "uuid": "63144ad4-a5c3-4e21-b1c3-c63e18f50c47",
+    "creationDate": "2026-05-11T00:48:06.134Z",
+    "game": "Super Mario 64",
+    "song": "Dire Dire Docks (MM Mix)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Super Mario 64/Dire Dire Docks (MM Mix).mmrs",
+    "preview": "Super Mario 64/Dire Dire Docks (MM Mix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
