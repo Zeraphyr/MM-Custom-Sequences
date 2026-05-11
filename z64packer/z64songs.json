@@ -54792,5 +54792,23 @@
     "file": "Super Mario Bros. 2/Player Select.mmrs",
     "preview": "Super Mario Bros. 2/Player Select.ogg"
   },
+  {
+    "uuid": "04554325-d4ab-4919-9077-ad9f0143ee00",
+    "creationDate": "2026-05-11T01:54:42.193Z",
+    "game": "Super Mario Bros. 2",
+    "song": "Game Over",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9"
+    ],
+    "file": "Super Mario Bros. 2/Game Over.mmrs",
+    "preview": "Super Mario Bros. 2/Game Over.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
