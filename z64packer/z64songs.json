@@ -54647,5 +54647,28 @@
     "file": "SoulCalibur II/The Legend of Zelda.mmrs",
     "preview": "SoulCalibur II/The Legend of Zelda.ogg"
   },
+  {
+    "uuid": "b2eb1953-0e94-4100-a8e9-1f0313085026",
+    "creationDate": "2026-05-11T00:43:09.063Z",
+    "game": "The Elder Scrolls V: Skyrim",
+    "song": "Sons of Skyrim (Campfire Remix)",
+    "composers": [
+      "Jeremy Soule"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6",
+      "16",
+      "16C"
+    ],
+    "file": "The Elder Scrolls V Skyrim/Sons of Skyrim (Campfire Remix).mmrs",
+    "preview": "The Elder Scrolls V Skyrim/Sons of Skyrim (Campfire Remix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
