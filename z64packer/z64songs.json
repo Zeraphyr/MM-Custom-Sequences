@@ -54712,5 +54712,24 @@
     "file": "Super Mario Advance 4 Super Mario Bros. 3/Spade Panel Win.mmrs",
     "preview": "Super Mario Advance 4 Super Mario Bros. 3/Spade Panel Win.ogg"
   },
+  {
+    "uuid": "8e229369-e592-400b-8a3d-fe4614c9755f",
+    "creationDate": "2026-05-11T01:23:53.179Z",
+    "game": "Super Mario Bros. 2",
+    "song": "Bonus Chance",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "10"
+    ],
+    "file": "Super Mario Bros. 2/Bonus Chance.mmrs",
+    "preview": "Super Mario Bros. 2/Bonus Chance.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
