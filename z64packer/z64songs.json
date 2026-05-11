@@ -54691,5 +54691,26 @@
     "file": "Super Mario 64/Dire Dire Docks (MM Mix).mmrs",
     "preview": "Super Mario 64/Dire Dire Docks (MM Mix).ogg"
   },
+  {
+    "uuid": "27af86fd-5f79-4eaf-885e-133d776e0d2f",
+    "creationDate": "2026-05-11T01:15:34.322Z",
+    "game": "Super Mario Advance 4: Super Mario Bros. 3",
+    "song": "Spade Panel Win",
+    "composers": [
+      "Soyo Oka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "notes": "This is originally an unused fanfare from Super Mario All-Stars, in the Super Mario Bros. 2 files.",
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Super Mario Advance 4 Super Mario Bros. 3/Spade Panel Win.mmrs",
+    "preview": "Super Mario Advance 4 Super Mario Bros. 3/Spade Panel Win.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
