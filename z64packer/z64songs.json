@@ -54547,5 +54547,24 @@
     "file": "RPG Maker 2003/Fairies.mmrs",
     "preview": "RPG Maker 2003/Fairies.ogg"
   },
+  {
+    "uuid": "173072b1-b886-4d1a-b6e1-af9edc0cb331",
+    "creationDate": "2026-05-11T00:22:59.457Z",
+    "game": "RPG Maker 2003",
+    "song": "Horns",
+    "composers": [
+      "Daisuke Shiiba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "RPG Maker 2003/Horns.mmrs",
+    "preview": "RPG Maker 2003/Horns.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
