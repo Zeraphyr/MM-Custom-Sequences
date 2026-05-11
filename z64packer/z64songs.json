@@ -54751,5 +54751,24 @@
     "file": "Super Mario Bros. 2/Stage Clear.mmrs",
     "preview": "Super Mario Bros. 2/Stage Clear.ogg"
   },
+  {
+    "uuid": "b302232c-347b-4b2e-b70f-9fe9186bc401",
+    "creationDate": "2026-05-11T01:51:40.237Z",
+    "game": "Super Mario Bros. 2",
+    "song": "Boss Battle",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Super Mario Bros. 2/Boss Battle.mmrs",
+    "preview": "Super Mario Bros. 2/Boss Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
