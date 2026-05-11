@@ -54810,5 +54810,23 @@
     "file": "Super Mario Bros. 2/Game Over.mmrs",
     "preview": "Super Mario Bros. 2/Game Over.ogg"
   },
+  {
+    "uuid": "e86379af-369c-47a5-b50b-808948680c20",
+    "creationDate": "2026-05-11T01:55:56.224Z",
+    "game": "Super Mario Bros. 2",
+    "song": "Title Screen",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "176"
+    ],
+    "file": "Super Mario Bros. 2/Title Screen.mmrs",
+    "preview": "Super Mario Bros. 2/Title Screen.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
