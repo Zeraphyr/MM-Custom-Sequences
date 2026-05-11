@@ -54770,5 +54770,27 @@
     "file": "Super Mario Bros. 2/Boss Battle.mmrs",
     "preview": "Super Mario Bros. 2/Boss Battle.ogg"
   },
+  {
+    "uuid": "4d1499e3-b406-40ae-aaed-eea6af9e0406",
+    "creationDate": "2026-05-11T01:52:58.859Z",
+    "game": "Super Mario Bros. 2",
+    "song": "Player Select",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4",
+      "6",
+      "16"
+    ],
+    "file": "Super Mario Bros. 2/Player Select.mmrs",
+    "preview": "Super Mario Bros. 2/Player Select.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
