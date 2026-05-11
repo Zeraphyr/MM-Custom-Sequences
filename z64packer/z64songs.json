@@ -54731,5 +54731,25 @@
     "file": "Super Mario Bros. 2/Bonus Chance.mmrs",
     "preview": "Super Mario Bros. 2/Bonus Chance.ogg"
   },
+  {
+    "uuid": "ad8ee69b-5fb0-4260-a16a-d376a2a279a9",
+    "creationDate": "2026-05-11T01:26:55.163Z",
+    "game": "Super Mario Bros. 2",
+    "song": "Stage Clear",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Super Mario Bros. 2/Stage Clear.mmrs",
+    "preview": "Super Mario Bros. 2/Stage Clear.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
