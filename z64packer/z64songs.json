@@ -55323,5 +55323,25 @@
     "file": "Shadow the Hedgehog/System Select.mmrs",
     "preview": "Shadow the Hedgehog/System Select.ogg"
   },
+  {
+    "uuid": "6e5fb430-8afd-46d0-8d26-333ab2119656",
+    "creationDate": "2026-05-12T22:36:04.783Z",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "Song of Awakening",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Spirit Tracks/Song of Awakening.mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/Song of Awakening.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
