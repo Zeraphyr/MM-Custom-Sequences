@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -54920,6 +54920,252 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
+  },
+  {
+    "uuid": "ad150487-9eb4-4bb4-b6d7-ca61761cecbd",
+    "creationDate": "2026-05-12T16:38:19.103Z",
+    "game": "Super Mario Galaxy",
+    "song": "Buoy Base Galaxy",
+    "composers": [
+      "Mahito Yokota"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Super Mario Galaxy/Buoy Base Galaxy.mmrs",
+    "preview": "Super Mario Galaxy/Buoy Base Galaxy.ogg"
+  },
+  {
+    "uuid": "d44665c6-27d5-4495-b92a-eb549e896239",
+    "creationDate": "2026-05-12T16:40:01.645Z",
+    "game": "Super Mario Galaxy",
+    "song": "Danger Afoot",
+    "composers": [
+      "Mahito Yokota"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "157"
+    ],
+    "file": "Super Mario Galaxy/Danger Afoot.mmrs",
+    "preview": "Super Mario Galaxy/Danger Afoot.ogg"
+  },
+  {
+    "uuid": "8e1af755-a936-4543-8721-30672cbd5b72",
+    "creationDate": "2026-05-12T16:44:22.352Z",
+    "game": "Super Mario Galaxy",
+    "song": "Star Ball Rolling",
+    "composers": [
+      "Mahito Yokota"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "file": "Super Mario Galaxy/Star Ball Rolling.mmrs",
+    "preview": "Super Mario Galaxy/Star Ball Rolling.ogg"
+  },
+  {
+    "uuid": "ca90386c-7405-4ae3-bb01-65ea492b490d",
+    "creationDate": "2026-05-12T16:45:34.678Z",
+    "game": "Super Mario Galaxy",
+    "song": "Star Get!",
+    "composers": [
+      "Mahito Yokota"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Super Mario Galaxy/Star Get!.mmrs",
+    "preview": "Super Mario Galaxy/Star Get!.ogg"
+  },
+  {
+    "uuid": "6b1ff10e-8910-4608-888a-843513abcb60",
+    "creationDate": "2026-05-12T16:47:47.899Z",
+    "game": "Super Mario Kart",
+    "song": "Title Screen (Prototype 1992-04-13)",
+    "composers": [
+      "Soyo Oka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Super Mario Kart/Title Screen (Prototype 1992-04-13).mmrs",
+    "preview": "Super Mario Kart/Title Screen (Prototype 1992-04-13).ogg"
+  },
+  {
+    "uuid": "3516e05e-9b02-4abe-967b-d0664b6e3f9e",
+    "creationDate": "2026-05-12T16:53:35.938Z",
+    "game": "Star Ocean: Till the End of Time",
+    "song": "Cutting Edge of Notion",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Star Ocean Till the End of Time/Cutting Edge of Notion.mmrs",
+    "preview": "Star Ocean Till the End of Time/Cutting Edge of Notion.ogg"
+  },
+  {
+    "uuid": "39168721-e5e9-43ae-953d-af91678e4b5c",
+    "creationDate": "2026-05-12T16:59:07.975Z",
+    "game": "Secret of Evermore",
+    "song": "Boss Battle",
+    "composers": [
+      "Jeremy Soule"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Secret of Evermore/Boss Battle.mmrs",
+    "preview": "Secret of Evermore/Boss Battle.ogg"
+  },
+  {
+    "uuid": "3f08071c-e1dd-4d4b-bca3-c28cb79af459",
+    "creationDate": "2026-05-12T17:00:38.773Z",
+    "game": "Secret of Evermore",
+    "song": "Mini Boss Battle",
+    "composers": [
+      "Jeremy Soule"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Secret of Evermore/Mini Boss Battle.mmrs",
+    "preview": "Secret of Evermore/Mini Boss Battle.ogg"
+  },
+  {
+    "uuid": "c6264773-9b37-40b0-b1a2-8f675572b7c8",
+    "creationDate": "2026-05-12T17:05:07.442Z",
+    "game": "Sonic.EXE",
+    "song": "Hill Act 1",
+    "composers": [
+      "Kyū Sawamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Sonic.EXE/Hill Act 1.mmrs",
+    "preview": "Sonic.EXE/Hill Act 1.ogg"
+  },
+  {
+    "uuid": "780691b5-da24-4f8f-8f9f-da663eea36ff",
+    "creationDate": "2026-05-12T17:14:27.979Z",
+    "game": "Sonic.EXE: Nightmare Beginning",
+    "song": "Suicide Hill",
+    "composers": [
+      "JaizKoys"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "Sonic.EXE Nightmare Beginning/Suicide Hill.mmrs",
+    "preview": "Sonic.EXE Nightmare Beginning/Suicide Hill.ogg"
+  },
+  {
+    "uuid": "78f7c65a-6f14-42f4-aabe-86adab06b3c4",
+    "creationDate": "2026-05-12T17:17:06.800Z",
+    "game": "Memes",
+    "song": "Sparta Remix",
+    "composers": [
+      "Keaton Monger"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "5",
+      "7",
+      "16",
+      "157"
+    ],
+    "file": "Memes/Sparta Remix.mmrs",
+    "preview": "Memes/Sparta Remix.ogg"
+  },
+  {
+    "uuid": "c36cda7c-a404-4ee5-8d72-a9fa4e932e6c",
+    "creationDate": "2026-05-12T17:18:28.544Z",
+    "game": "Splatoon",
+    "song": "Calamari Inkantation",
+    "composers": [
+      "Shiho Fujii"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7",
+      "157"
+    ],
+    "file": "Splatoon/Calamari Inkantation.mmrs",
+    "preview": "Splatoon/Calamari Inkantation.ogg"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
