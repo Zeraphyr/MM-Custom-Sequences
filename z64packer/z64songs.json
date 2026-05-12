@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -55202,6 +55202,26 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
+  },
+  {
+    "uuid": "5fb16e89-5fd6-4fee-b636-08712ee348ad",
+    "creationDate": "2026-05-12T22:20:55.230Z",
+    "game": "Super Paper Mario",
+    "song": "Perfect Solution (Beta)",
+    "composers": [
+      "Asra"
+    ],
+    "converters": [
+      "Naoko Mitome",
+      "Chika Sekigawa"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Super Paper Mario/Perfect Solution (Beta).mmrs",
+    "preview": "Super Paper Mario/Perfect Solution (Beta).ogg"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
