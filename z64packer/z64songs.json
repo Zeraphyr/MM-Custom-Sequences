@@ -55101,5 +55101,27 @@
     "file": "Sonic.EXE/Hill Act 1.mmrs",
     "preview": "Sonic.EXE/Hill Act 1.ogg"
   },
+  {
+    "uuid": "780691b5-da24-4f8f-8f9f-da663eea36ff",
+    "creationDate": "2026-05-12T17:14:27.979Z",
+    "game": "Sonic.EXE: Nightmare Beginning",
+    "song": "Suicide Hill",
+    "composers": [
+      "JaizKoys"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "Sonic.EXE Nightmare Beginning/Suicide Hill.mmrs",
+    "preview": "Sonic.EXE Nightmare Beginning/Suicide Hill.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
