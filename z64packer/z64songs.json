@@ -55080,5 +55080,26 @@
     "file": "Secret of Evermore/Mini Boss Battle.mmrs",
     "preview": "Secret of Evermore/Mini Boss Battle.ogg"
   },
+  {
+    "uuid": "c6264773-9b37-40b0-b1a2-8f675572b7c8",
+    "creationDate": "2026-05-12T17:05:07.442Z",
+    "game": "Sonic.EXE",
+    "song": "Hill Act 1",
+    "composers": [
+      "Kyū Sawamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Sonic.EXE/Hill Act 1.mmrs",
+    "preview": "Sonic.EXE/Hill Act 1.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
