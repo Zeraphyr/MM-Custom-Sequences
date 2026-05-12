@@ -55020,5 +55020,25 @@
     "file": "Super Mario Kart/Title Screen (Prototype 1992-04-13).mmrs",
     "preview": "Super Mario Kart/Title Screen (Prototype 1992-04-13).ogg"
   },
+  {
+    "uuid": "3516e05e-9b02-4abe-967b-d0664b6e3f9e",
+    "creationDate": "2026-05-12T16:53:35.938Z",
+    "game": "Star Ocean: Till the End of Time",
+    "song": "Cutting Edge of Notion",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Star Ocean Till the End of Time/Cutting Edge of Notion.mmrs",
+    "preview": "Star Ocean Till the End of Time/Cutting Edge of Notion.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
