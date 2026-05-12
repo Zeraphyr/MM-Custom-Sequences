@@ -3645,5 +3645,17 @@
     "series": "Super Mario Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/59139a91a16c9b09a388091bdfe639de.png"
   },
+  {
+    "game": "Secret of Evermore"
+  },
+  {
+    "game": "Star Ocean: Till the End of Time"
+  },
+  {
+    "game": "Sonic.EXE: Nightmare Beginning"
+  },
+  {
+    "game": "Sonic.EXE"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
