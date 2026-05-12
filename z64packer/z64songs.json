@@ -55000,5 +55000,25 @@
     "file": "Super Mario Galaxy/Star Get!.mmrs",
     "preview": "Super Mario Galaxy/Star Get!.ogg"
   },
+  {
+    "uuid": "6b1ff10e-8910-4608-888a-843513abcb60",
+    "creationDate": "2026-05-12T16:47:47.899Z",
+    "game": "Super Mario Kart",
+    "song": "Title Screen (Prototype 1992-04-13)",
+    "composers": [
+      "Soyo Oka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Super Mario Kart/Title Screen (Prototype 1992-04-13).mmrs",
+    "preview": "Super Mario Kart/Title Screen (Prototype 1992-04-13).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
