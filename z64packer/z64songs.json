@@ -55403,5 +55403,25 @@
     "file": "The Legend of Zelda Spirit Tracks/Song of Healing.mmrs",
     "preview": "The Legend of Zelda Spirit Tracks/Song of Healing.ogg"
   },
+  {
+    "uuid": "97a688dd-c654-4ded-9b5c-1af241c31982",
+    "creationDate": "2026-05-12T22:38:58.715Z",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "Song of Light",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Spirit Tracks/Song of Light.mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/Song of Light.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
