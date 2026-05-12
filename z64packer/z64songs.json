@@ -55123,5 +55123,28 @@
     "file": "Sonic.EXE Nightmare Beginning/Suicide Hill.mmrs",
     "preview": "Sonic.EXE Nightmare Beginning/Suicide Hill.ogg"
   },
+  {
+    "uuid": "78f7c65a-6f14-42f4-aabe-86adab06b3c4",
+    "creationDate": "2026-05-12T17:17:06.800Z",
+    "game": "Memes",
+    "song": "Sparta Remix",
+    "composers": [
+      "Keaton Monger"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "5",
+      "7",
+      "16",
+      "157"
+    ],
+    "file": "Memes/Sparta Remix.mmrs",
+    "preview": "Memes/Sparta Remix.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
