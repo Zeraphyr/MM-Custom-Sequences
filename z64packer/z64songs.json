@@ -55423,5 +55423,26 @@
     "file": "The Legend of Zelda Spirit Tracks/Song of Light.mmrs",
     "preview": "The Legend of Zelda Spirit Tracks/Song of Light.ogg"
   },
+  {
+    "uuid": "f4f366fb-cc33-48ca-9e7e-479667c43be2",
+    "creationDate": "2026-05-12T22:40:50.784Z",
+    "game": "Sonic Unleashed",
+    "song": "Endless Possibility (Ranch Version)",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6",
+      "16"
+    ],
+    "file": "Sonic Unleashed/Endless Possibility (Ranch Version).mmrs",
+    "preview": "Sonic Unleashed/Endless Possibility (Ranch Version).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
