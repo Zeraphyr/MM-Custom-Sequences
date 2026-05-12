@@ -54940,5 +54940,27 @@
     "file": "Super Mario Galaxy/Buoy Base Galaxy.mmrs",
     "preview": "Super Mario Galaxy/Buoy Base Galaxy.ogg"
   },
+  {
+    "uuid": "d44665c6-27d5-4495-b92a-eb549e896239",
+    "creationDate": "2026-05-12T16:40:01.645Z",
+    "game": "Super Mario Galaxy",
+    "song": "Danger Afoot",
+    "composers": [
+      "Mahito Yokota"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "157"
+    ],
+    "file": "Super Mario Galaxy/Danger Afoot.mmrs",
+    "preview": "Super Mario Galaxy/Danger Afoot.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
