@@ -55040,5 +55040,25 @@
     "file": "Star Ocean Till the End of Time/Cutting Edge of Notion.mmrs",
     "preview": "Star Ocean Till the End of Time/Cutting Edge of Notion.ogg"
   },
+  {
+    "uuid": "39168721-e5e9-43ae-953d-af91678e4b5c",
+    "creationDate": "2026-05-12T16:59:07.975Z",
+    "game": "Secret of Evermore",
+    "song": "Boss Battle",
+    "composers": [
+      "Jeremy Soule"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Secret of Evermore/Boss Battle.mmrs",
+    "preview": "Secret of Evermore/Boss Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
