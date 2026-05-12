@@ -55343,5 +55343,25 @@
     "file": "The Legend of Zelda Spirit Tracks/Song of Awakening.mmrs",
     "preview": "The Legend of Zelda Spirit Tracks/Song of Awakening.ogg"
   },
+  {
+    "uuid": "fb46528f-cebf-482d-8e96-0f48e70e3994",
+    "creationDate": "2026-05-12T22:36:52.999Z",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "Song of Birds",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Spirit Tracks/Song of Birds.mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/Song of Birds.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
