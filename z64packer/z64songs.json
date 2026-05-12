@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -55202,6 +55202,348 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
+  },
+  {
+    "uuid": "5fb16e89-5fd6-4fee-b636-08712ee348ad",
+    "creationDate": "2026-05-12T22:20:55.230Z",
+    "game": "Super Paper Mario",
+    "song": "Perfect Solution (Beta)",
+    "composers": [
+      "Asra"
+    ],
+    "converters": [
+      "Naoko Mitome",
+      "Chika Sekigawa"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Super Paper Mario/Perfect Solution (Beta).mmrs",
+    "preview": "Super Paper Mario/Perfect Solution (Beta).ogg"
+  },
+  {
+    "uuid": "3c5c7643-dbab-48df-90a9-777fdd12cd22",
+    "creationDate": "2026-05-12T22:25:16.048Z",
+    "game": "Super Smash Bros. Brawl",
+    "song": "Victory (Fire Emblem)",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Super Smash Bros. Brawl/Victory (Fire Emblem).mmrs",
+    "preview": "Super Smash Bros. Brawl/Victory (Fire Emblem).ogg"
+  },
+  {
+    "uuid": "8dead314-fe34-42bd-8ed3-c527d31d018e",
+    "creationDate": "2026-05-12T22:26:27.815Z",
+    "game": "Super Smash Bros. Brawl",
+    "song": "Victory (Metroid)",
+    "composers": [
+      "Shogo Sakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Super Smash Bros. Brawl/Victory (Metroid).mmrs",
+    "preview": "Super Smash Bros. Brawl/Victory (Metroid).ogg"
+  },
+  {
+    "uuid": "b2efe8ae-0cec-4133-9616-5c5b90c72d5b",
+    "creationDate": "2026-05-12T22:28:17.072Z",
+    "game": "Super Smash Bros. Brawl",
+    "song": "Golden Hammer Appears",
+    "composers": [
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Super Smash Bros. Brawl/Golden Hammer Appears.mmrs",
+    "preview": "Super Smash Bros. Brawl/Golden Hammer Appears.ogg"
+  },
+  {
+    "uuid": "876754e8-58d6-4b2b-bc57-469aa209783a",
+    "creationDate": "2026-05-12T22:31:07.089Z",
+    "game": "The Legend of Zelda: Skyward Sword",
+    "song": "Rupoor",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "The Legend of Zelda Skyward Sword/Rupoor.mmrs",
+    "preview": "The Legend of Zelda Skyward Sword/Rupoor.ogg"
+  },
+  {
+    "uuid": "c3802efd-ccb0-4327-abb0-8412c788d86c",
+    "creationDate": "2026-05-12T22:33:29.399Z",
+    "game": "Shadow the Hedgehog",
+    "song": "System: Select",
+    "composers": [
+      "Jun Senoue"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Shadow the Hedgehog/System Select.mmrs",
+    "preview": "Shadow the Hedgehog/System Select.ogg"
+  },
+  {
+    "uuid": "6e5fb430-8afd-46d0-8d26-333ab2119656",
+    "creationDate": "2026-05-12T22:36:04.783Z",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "Song of Awakening",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Spirit Tracks/Song of Awakening.mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/Song of Awakening.ogg"
+  },
+  {
+    "uuid": "fb46528f-cebf-482d-8e96-0f48e70e3994",
+    "creationDate": "2026-05-12T22:36:52.999Z",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "Song of Birds",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Spirit Tracks/Song of Birds.mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/Song of Birds.ogg"
+  },
+  {
+    "uuid": "c2513c80-4f0d-4391-8adf-cec8a319ccb0",
+    "creationDate": "2026-05-12T22:37:43.319Z",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "Song of Discovery",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Spirit Tracks/Song of Discovery.mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/Song of Discovery.ogg"
+  },
+  {
+    "uuid": "f4b6f7c4-1253-4108-ad04-d61f8018b28c",
+    "creationDate": "2026-05-12T22:38:15.106Z",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "Song of Healing",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Spirit Tracks/Song of Healing.mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/Song of Healing.ogg"
+  },
+  {
+    "uuid": "97a688dd-c654-4ded-9b5c-1af241c31982",
+    "creationDate": "2026-05-12T22:38:58.715Z",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "Song of Light",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Spirit Tracks/Song of Light.mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/Song of Light.ogg"
+  },
+  {
+    "uuid": "f4f366fb-cc33-48ca-9e7e-479667c43be2",
+    "creationDate": "2026-05-12T22:40:50.784Z",
+    "game": "Sonic Unleashed",
+    "song": "Endless Possibility (Ranch Version)",
+    "composers": [
+      "Tomoya Ohtani"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6",
+      "16"
+    ],
+    "file": "Sonic Unleashed/Endless Possibility (Ranch Version).mmrs",
+    "preview": "Sonic Unleashed/Endless Possibility (Ranch Version).ogg"
+  },
+  {
+    "uuid": "33a7c04a-bf0d-4a2c-abfe-076cd771779a",
+    "creationDate": "2026-05-12T22:42:11.420Z",
+    "game": "Super Mario Kart",
+    "song": "Title Screen",
+    "composers": [
+      "Soyo Oka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Super Mario Kart/Title Screen.mmrs",
+    "preview": "Super Mario Kart/Title Screen.ogg"
+  },
+  {
+    "uuid": "4cf66c0e-2bc5-40ff-8708-61b6317075c4",
+    "creationDate": "2026-05-12T22:43:28.163Z",
+    "game": "Super Smash Flash 2",
+    "song": "Menu 2",
+    "composers": [
+      "Ema Alvarado",
+      "Jacob Tjolsen"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "6",
+      "16"
+    ],
+    "file": "Super Smash Flash 2/Menu 2.mmrs",
+    "preview": "Super Smash Flash 2/Menu 2.ogg"
+  },
+  {
+    "uuid": "ddd5f6ec-67a9-454b-9a3d-fccd03847dbe",
+    "creationDate": "2026-05-12T22:44:36.456Z",
+    "game": "Tales of Destiny",
+    "song": "Unfinished World (Variant B)",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Tales of Destiny/Unfinished World (Variant B).mmrs",
+    "preview": "Tales of Destiny/Unfinished World (Variant B).ogg"
+  },
+  {
+    "uuid": "e5973653-19f7-4ed8-89fa-ea634509d1dd",
+    "creationDate": "2026-05-12T22:47:33.650Z",
+    "game": "Tales of Hearts",
+    "song": "Mysterious Arms Soma",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Tales of Hearts/Mysterious Arms Soma.mmrs",
+    "preview": "Tales of Hearts/Mysterious Arms Soma.ogg"
+  },
+  {
+    "uuid": "71e8c9a0-4b79-44b9-9741-229c6d10d798",
+    "creationDate": "2026-05-12T22:48:24.265Z",
+    "game": "Tales of Hearts",
+    "song": "Restless Spiria",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Tales of Hearts/Restless Spiria.mmrs",
+    "preview": "Tales of Hearts/Restless Spiria.ogg"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
