@@ -3643,19 +3643,28 @@
   {
     "game": "Super Mario Advance 4: Super Mario Bros. 3",
     "series": "Super Mario Series",
-    "logo": "https://cdn2.steamgriddb.com/logo_thumb/59139a91a16c9b09a388091bdfe639de.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/59139a91a16c9b09a388091bdfe639de.png",
+    "short_name": "Super Mario Advance 4"
   },
   {
-    "game": "Secret of Evermore"
+    "game": "Secret of Evermore",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/6080b4a414292cce8d1c1b197708fefb.png"
   },
   {
-    "game": "Star Ocean: Till the End of Time"
+    "game": "Star Ocean: Till the End of Time",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/84648eaca6a7fc8394fbdb9cf07fd236.png",
+    "short_name": "Star Ocean 3"
   },
   {
-    "game": "Sonic.EXE: Nightmare Beginning"
+    "game": "Sonic.EXE: Nightmare Beginning",
+    "series": "Sonic the Hedgehog Series",
+    "logo": "",
+    "short_name": "Sonic.EXE NB"
   },
   {
-    "game": "Sonic.EXE"
+    "game": "Sonic.EXE",
+    "series": "Sonic the Hedgehog Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/3292a73c68dfe2d1244b14cdfb7fc26a.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

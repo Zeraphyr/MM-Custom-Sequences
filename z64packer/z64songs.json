@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -55108,7 +55108,7 @@
     "uuid": "c6264773-9b37-40b0-b1a2-8f675572b7c8",
     "creationDate": "2026-05-12T17:05:07.442Z",
     "game": "Sonic.EXE",
-    "song": "Hill Act 1",
+    "song": "HILL",
     "composers": [
       "Kyū Sawamura"
     ],
@@ -55122,8 +55122,8 @@
       "2",
       "3"
     ],
-    "file": "Sonic.EXE/Hill Act 1.mmrs",
-    "preview": "Sonic.EXE/Hill Act 1.ogg",
+    "file": "Sonic.EXE/HILL.mmrs",
+    "preview": "Sonic.EXE/HILL.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
