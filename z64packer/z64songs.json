@@ -55383,5 +55383,25 @@
     "file": "The Legend of Zelda Spirit Tracks/Song of Discovery.mmrs",
     "preview": "The Legend of Zelda Spirit Tracks/Song of Discovery.ogg"
   },
+  {
+    "uuid": "f4b6f7c4-1253-4108-ad04-d61f8018b28c",
+    "creationDate": "2026-05-12T22:38:15.106Z",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "Song of Healing",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Spirit Tracks/Song of Healing.mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/Song of Healing.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
