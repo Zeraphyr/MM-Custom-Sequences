@@ -54980,5 +54980,25 @@
     "file": "Super Mario Galaxy/Star Ball Rolling.mmrs",
     "preview": "Super Mario Galaxy/Star Ball Rolling.ogg"
   },
+  {
+    "uuid": "ca90386c-7405-4ae3-bb01-65ea492b490d",
+    "creationDate": "2026-05-12T16:45:34.678Z",
+    "game": "Super Mario Galaxy",
+    "song": "Star Get!",
+    "composers": [
+      "Mahito Yokota"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Super Mario Galaxy/Star Get!.mmrs",
+    "preview": "Super Mario Galaxy/Star Get!.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
