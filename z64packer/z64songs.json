@@ -55526,5 +55526,24 @@
     "file": "Tales of Hearts/Mysterious Arms Soma.mmrs",
     "preview": "Tales of Hearts/Mysterious Arms Soma.ogg"
   },
+  {
+    "uuid": "71e8c9a0-4b79-44b9-9741-229c6d10d798",
+    "creationDate": "2026-05-12T22:48:24.265Z",
+    "game": "Tales of Hearts",
+    "song": "Restless Spiria",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Tales of Hearts/Restless Spiria.mmrs",
+    "preview": "Tales of Hearts/Restless Spiria.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
