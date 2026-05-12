@@ -55263,5 +55263,24 @@
     "file": "Super Smash Bros. Brawl/Victory (Metroid).mmrs",
     "preview": "Super Smash Bros. Brawl/Victory (Metroid).ogg"
   },
+  {
+    "uuid": "b2efe8ae-0cec-4133-9616-5c5b90c72d5b",
+    "creationDate": "2026-05-12T22:28:17.072Z",
+    "game": "Super Smash Bros. Brawl",
+    "song": "Golden Hammer Appears",
+    "composers": [
+      "Hirokazu Tanaka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Super Smash Bros. Brawl/Golden Hammer Appears.mmrs",
+    "preview": "Super Smash Bros. Brawl/Golden Hammer Appears.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
