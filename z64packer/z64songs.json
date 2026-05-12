@@ -55507,5 +55507,24 @@
     "file": "Tales of Destiny/Unfinished World (Variant B).mmrs",
     "preview": "Tales of Destiny/Unfinished World (Variant B).ogg"
   },
+  {
+    "uuid": "e5973653-19f7-4ed8-89fa-ea634509d1dd",
+    "creationDate": "2026-05-12T22:47:33.650Z",
+    "game": "Tales of Hearts",
+    "song": "Mysterious Arms Soma",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Tales of Hearts/Mysterious Arms Soma.mmrs",
+    "preview": "Tales of Hearts/Mysterious Arms Soma.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
