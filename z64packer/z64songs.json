@@ -55466,5 +55466,26 @@
     "file": "Super Mario Kart/Title Screen.mmrs",
     "preview": "Super Mario Kart/Title Screen.ogg"
   },
+  {
+    "uuid": "4cf66c0e-2bc5-40ff-8708-61b6317075c4",
+    "creationDate": "2026-05-12T22:43:28.163Z",
+    "game": "Super Smash Flash 2",
+    "song": "Menu 2",
+    "composers": [
+      "Ema Alvarado",
+      "Jacob Tjolsen"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "6",
+      "16"
+    ],
+    "file": "Super Smash Flash 2/Menu 2.mmrs",
+    "preview": "Super Smash Flash 2/Menu 2.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
