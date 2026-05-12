@@ -55363,5 +55363,25 @@
     "file": "The Legend of Zelda Spirit Tracks/Song of Birds.mmrs",
     "preview": "The Legend of Zelda Spirit Tracks/Song of Birds.ogg"
   },
+  {
+    "uuid": "c2513c80-4f0d-4391-8adf-cec8a319ccb0",
+    "creationDate": "2026-05-12T22:37:43.319Z",
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "Song of Discovery",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Spirit Tracks/Song of Discovery.mmrs",
+    "preview": "The Legend of Zelda Spirit Tracks/Song of Discovery.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
