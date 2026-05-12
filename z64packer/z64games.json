@@ -3667,13 +3667,19 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/3292a73c68dfe2d1244b14cdfb7fc26a.png"
   },
   {
-    "game": "Super Paper Mario"
+    "game": "Super Paper Mario",
+    "series": "Paper Mario Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/94ac0b3779b362267bc17b1f287b36ed.png"
   },
   {
-    "game": "Super Smash Flash 2"
+    "game": "Super Smash Flash 2",
+    "series": "Super Smash Bros Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/168411596e4c04bb30eaf83385d15c96.png"
   },
   {
-    "game": "Tales of Hearts"
+    "game": "Tales of Hearts",
+    "series": "Tales of Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/87b975920cf2a335c1751a794e57e8c8.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
