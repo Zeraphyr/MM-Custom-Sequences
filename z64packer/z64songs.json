@@ -55282,5 +55282,24 @@
     "file": "Super Smash Bros. Brawl/Golden Hammer Appears.mmrs",
     "preview": "Super Smash Bros. Brawl/Golden Hammer Appears.ogg"
   },
+  {
+    "uuid": "876754e8-58d6-4b2b-bc57-469aa209783a",
+    "creationDate": "2026-05-12T22:31:07.089Z",
+    "game": "The Legend of Zelda: Skyward Sword",
+    "song": "Rupoor",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "The Legend of Zelda Skyward Sword/Rupoor.mmrs",
+    "preview": "The Legend of Zelda Skyward Sword/Rupoor.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
