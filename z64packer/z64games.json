@@ -3666,5 +3666,14 @@
     "series": "Sonic the Hedgehog Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/3292a73c68dfe2d1244b14cdfb7fc26a.png"
   },
+  {
+    "game": "Super Paper Mario"
+  },
+  {
+    "game": "Super Smash Flash 2"
+  },
+  {
+    "game": "Tales of Hearts"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
