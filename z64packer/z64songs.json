@@ -55243,5 +55243,25 @@
     "file": "Super Smash Bros. Brawl/Victory (Fire Emblem).mmrs",
     "preview": "Super Smash Bros. Brawl/Victory (Fire Emblem).ogg"
   },
+  {
+    "uuid": "8dead314-fe34-42bd-8ed3-c527d31d018e",
+    "creationDate": "2026-05-12T22:26:27.815Z",
+    "game": "Super Smash Bros. Brawl",
+    "song": "Victory (Metroid)",
+    "composers": [
+      "Shogo Sakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Super Smash Bros. Brawl/Victory (Metroid).mmrs",
+    "preview": "Super Smash Bros. Brawl/Victory (Metroid).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
