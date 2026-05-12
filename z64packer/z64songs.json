@@ -55146,5 +55146,26 @@
     "file": "Memes/Sparta Remix.mmrs",
     "preview": "Memes/Sparta Remix.ogg"
   },
+  {
+    "uuid": "c36cda7c-a404-4ee5-8d72-a9fa4e932e6c",
+    "creationDate": "2026-05-12T17:18:28.544Z",
+    "game": "Splatoon",
+    "song": "Calamari Inkantation",
+    "composers": [
+      "Shiho Fujii"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7",
+      "157"
+    ],
+    "file": "Splatoon/Calamari Inkantation.mmrs",
+    "preview": "Splatoon/Calamari Inkantation.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
