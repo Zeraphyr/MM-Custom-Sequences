@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -54920,6 +54920,25 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
+  },
+  {
+    "uuid": "ad150487-9eb4-4bb4-b6d7-ca61761cecbd",
+    "creationDate": "2026-05-12T16:38:19.103Z",
+    "game": "Super Mario Galaxy",
+    "song": "Buoy Base Galaxy",
+    "composers": [
+      "Mahito Yokota"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Super Mario Galaxy/Buoy Base Galaxy.mmrs",
+    "preview": "Super Mario Galaxy/Buoy Base Galaxy.ogg"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
