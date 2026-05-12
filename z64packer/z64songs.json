@@ -55223,5 +55223,25 @@
     "file": "Super Paper Mario/Perfect Solution (Beta).mmrs",
     "preview": "Super Paper Mario/Perfect Solution (Beta).ogg"
   },
+  {
+    "uuid": "3c5c7643-dbab-48df-90a9-777fdd12cd22",
+    "creationDate": "2026-05-12T22:25:16.048Z",
+    "game": "Super Smash Bros. Brawl",
+    "song": "Victory (Fire Emblem)",
+    "composers": [
+      "Yuka Tsujiyoko"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Super Smash Bros. Brawl/Victory (Fire Emblem).mmrs",
+    "preview": "Super Smash Bros. Brawl/Victory (Fire Emblem).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
