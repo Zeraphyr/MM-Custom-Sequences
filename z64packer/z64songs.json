@@ -55060,5 +55060,25 @@
     "file": "Secret of Evermore/Boss Battle.mmrs",
     "preview": "Secret of Evermore/Boss Battle.ogg"
   },
+  {
+    "uuid": "3f08071c-e1dd-4d4b-bca3-c28cb79af459",
+    "creationDate": "2026-05-12T17:00:38.773Z",
+    "game": "Secret of Evermore",
+    "song": "Mini Boss Battle",
+    "composers": [
+      "Jeremy Soule"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Secret of Evermore/Mini Boss Battle.mmrs",
+    "preview": "Secret of Evermore/Mini Boss Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
