@@ -56598,5 +56598,25 @@
     "file": "Terranigma/Revival of Humans.mmrs",
     "preview": "Terranigma/Revival of Humans.ogg"
   },
+  {
+    "uuid": "1ed220c8-2419-41ca-aa61-48fdc1b6723c",
+    "creationDate": "2026-05-14T04:06:20.545Z",
+    "game": "Terranigma",
+    "song": "Tower of Trial",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Terranigma/Tower of Trial.mmrs",
+    "preview": "Terranigma/Tower of Trial.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
