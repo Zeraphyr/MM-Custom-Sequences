@@ -56332,5 +56332,25 @@
     "file": "Terranigma/Revival of Plants.mmrs",
     "preview": "Terranigma/Revival of Plants.ogg"
   },
+  {
+    "uuid": "98561129-24f7-4e47-be18-f4f6071acf0b",
+    "creationDate": "2026-05-14T03:47:40.642Z",
+    "game": "Terranigma",
+    "song": "Liotto",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Terranigma/Liotto.mmrs",
+    "preview": "Terranigma/Liotto.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
