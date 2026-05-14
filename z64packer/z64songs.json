@@ -55862,5 +55862,27 @@
     "file": "Terranigma/Barren Land.mmrs",
     "preview": "Terranigma/Barren Land.ogg"
   },
+  {
+    "uuid": "16f25808-d09c-4065-a4ab-960548ebbd10",
+    "creationDate": "2026-05-14T02:59:15.495Z",
+    "game": "Terranigma",
+    "song": "Dr. Beruga",
+    "composers": [
+      "Miyoko Takaoka",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Terranigma/Dr. Beruga.mmrs",
+    "preview": "Terranigma/Dr. Beruga.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
