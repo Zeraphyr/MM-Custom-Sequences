@@ -56372,5 +56372,26 @@
     "file": "Terranigma/My Beloved Loire.mmrs",
     "preview": "Terranigma/My Beloved Loire.ogg"
   },
+  {
+    "uuid": "a4a00eff-4528-4a13-9b7f-608750562248",
+    "creationDate": "2026-05-14T03:50:43.800Z",
+    "game": "Terranigma",
+    "song": "New Equipment",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Terranigma/New Equipment.mmrs",
+    "preview": "Terranigma/New Equipment.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
