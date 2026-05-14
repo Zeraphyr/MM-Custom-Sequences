@@ -56393,5 +56393,26 @@
     "file": "Terranigma/New Equipment.mmrs",
     "preview": "Terranigma/New Equipment.ogg"
   },
+  {
+    "uuid": "814be6dc-e212-4fba-989c-a7657e447783",
+    "creationDate": "2026-05-14T03:51:47.202Z",
+    "game": "Terranigma",
+    "song": "Nomads in a Desert",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Terranigma/Nomads in a Desert.mmrs",
+    "preview": "Terranigma/Nomads in a Desert.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
