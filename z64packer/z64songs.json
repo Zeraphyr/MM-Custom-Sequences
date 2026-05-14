@@ -56476,5 +56476,26 @@
     "file": "Terranigma/Prime Blue.mmrs",
     "preview": "Terranigma/Prime Blue.ogg"
   },
+  {
+    "uuid": "15f7be53-deab-4add-a0ec-319ddf0fe61a",
+    "creationDate": "2026-05-14T03:57:20.063Z",
+    "game": "Terranigma",
+    "song": "Royalty",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Terranigma/Royalty.mmrs",
+    "preview": "Terranigma/Royalty.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
