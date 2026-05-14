@@ -55596,5 +55596,26 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "98d0238c-cb5a-493a-b366-bf312e5ce258",
+    "creationDate": "2026-05-14T02:28:14.724Z",
+    "game": "Terraria",
+    "song": "Boss 1",
+    "composers": [
+      "Scott Lloyd Shelly"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7",
+      "157"
+    ],
+    "file": "Terraria/Boss 1.mmrs",
+    "preview": "Terraria/Boss 1.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
