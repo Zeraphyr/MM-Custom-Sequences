@@ -55757,5 +55757,26 @@
     "file": "The Fate of the Bombiwa/The Royal Test.mmrs",
     "preview": "https://www.youtube.com/watch?v=D3BL23_BZ_I"
   },
+  {
+    "uuid": "12b35e12-0a25-4225-a8b0-4659c2e8e53d",
+    "creationDate": "2026-05-14T02:46:08.934Z",
+    "game": "The Fate of the Bombiwa",
+    "song": "The Thread Of Grief",
+    "composers": [
+      "DezZival"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16",
+      "157"
+    ],
+    "file": "The Fate of the Bombiwa/The Thread Of Grief.mmrs",
+    "preview": "The Fate of the Bombiwa/The Thread Of Grief.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
