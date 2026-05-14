@@ -55778,5 +55778,25 @@
     "file": "The Fate of the Bombiwa/The Thread Of Grief.mmrs",
     "preview": "The Fate of the Bombiwa/The Thread Of Grief.ogg"
   },
+  {
+    "uuid": "d20c48b9-b025-4d9f-b5ea-a49100d30492",
+    "creationDate": "2026-05-14T02:47:15.195Z",
+    "game": "The Fate of the Bombiwa",
+    "song": "The Thread Of Grief Start",
+    "composers": [
+      "DezZival"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Fate of the Bombiwa/The Thread Of Grief Start.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
