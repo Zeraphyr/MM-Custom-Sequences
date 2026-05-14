@@ -55676,5 +55676,26 @@
     "file": "Terraria Calamity Mod/Guardian of the Former Seas.mmrs",
     "preview": "Terraria Calamity Mod/Guardian of the Former Seas.ogg"
   },
+  {
+    "uuid": "b9640108-101d-45cf-b15f-edf9a090c5b7",
+    "creationDate": "2026-05-14T02:38:13.968Z",
+    "game": "The Fate of the Bombiwa",
+    "song": "Impurebrain Castle",
+    "composers": [
+      "DezZival"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "The Fate of the Bombiwa/Impurebrain Castle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=KMqY41DPjq8"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
