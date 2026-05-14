@@ -56557,5 +56557,26 @@
     "file": "Terranigma/Shopping.mmrs",
     "preview": "Terranigma/Shopping.ogg"
   },
+  {
+    "uuid": "8b6ae2d3-3469-401e-af4e-5fa3649b2274",
+    "creationDate": "2026-05-14T04:04:02.648Z",
+    "game": "Terranigma",
+    "song": "Good Night...",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Terranigma/Good Night....mmrs",
+    "preview": "Terranigma/Good Night....ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
