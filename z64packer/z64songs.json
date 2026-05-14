@@ -56517,5 +56517,26 @@
     "file": "Terranigma/Royd.mmrs",
     "preview": "Terranigma/Royd.ogg"
   },
+  {
+    "uuid": "368c30db-87e2-4396-a893-725003a92a2b",
+    "creationDate": "2026-05-14T03:59:37.101Z",
+    "game": "Terranigma",
+    "song": "Run! Run!",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Terranigma/Run! Run!.mmrs",
+    "preview": "Terranigma/Run! Run!.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
