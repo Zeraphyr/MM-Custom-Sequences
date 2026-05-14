@@ -56027,5 +56027,26 @@
     "file": "Terranigma/Green Returns.mmrs",
     "preview": "Terranigma/Green Returns.ogg"
   },
+  {
+    "uuid": "ad59bd57-6bd3-4d57-b72f-8b14dab8af70",
+    "creationDate": "2026-05-14T03:22:23.821Z",
+    "game": "Terranigma",
+    "song": "The Castle of Dragoon",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Terranigma/The Castle of Dragoon.mmrs",
+    "preview": "Terranigma/The Castle of Dragoon.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
