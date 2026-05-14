@@ -56352,5 +56352,25 @@
     "file": "Terranigma/Liotto.mmrs",
     "preview": "Terranigma/Liotto.ogg"
   },
+  {
+    "uuid": "27441e16-9303-49e8-afe7-c731e51f2dcc",
+    "creationDate": "2026-05-14T03:48:50.855Z",
+    "game": "Terranigma",
+    "song": "My Beloved Loire",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Terranigma/My Beloved Loire.mmrs",
+    "preview": "Terranigma/My Beloved Loire.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
