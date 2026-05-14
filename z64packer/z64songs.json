@@ -56455,5 +56455,26 @@
     "file": "Terranigma/Perel.mmrs",
     "preview": "Terranigma/Perel.ogg"
   },
+  {
+    "uuid": "1520e424-1972-4e64-b05f-74ba18e92da1",
+    "creationDate": "2026-05-14T03:55:48.911Z",
+    "game": "Terranigma",
+    "song": "Prime Blue",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Terranigma/Prime Blue.mmrs",
+    "preview": "Terranigma/Prime Blue.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
