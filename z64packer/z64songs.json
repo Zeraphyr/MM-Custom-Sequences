@@ -55924,5 +55924,26 @@
     "file": "Terranigma/Bird's Paradise.mmrs",
     "preview": "Terranigma/Bird's Paradise.ogg"
   },
+  {
+    "uuid": "b733d6be-33f2-475e-8da8-1b9508ecfa9e",
+    "creationDate": "2026-05-14T03:03:34.254Z",
+    "game": "Terranigma",
+    "song": "Powerful Enemies",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Terranigma/Powerful Enemies.mmrs",
+    "preview": "Terranigma/Powerful Enemies.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
