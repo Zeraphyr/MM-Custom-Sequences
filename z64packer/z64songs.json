@@ -56271,5 +56271,27 @@
     "file": "Terranigma/Top of Saint Mountain.mmrs",
     "preview": "Terranigma/Top of Saint Mountain.ogg"
   },
+  {
+    "uuid": "c4f589c5-3386-49e8-b5f5-f6d9f1f9df52",
+    "creationDate": "2026-05-14T03:40:21.509Z",
+    "game": "Terranigma",
+    "song": "Willful Lion",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3",
+      "4"
+    ],
+    "file": "Terranigma/Willful Lion.mmrs",
+    "preview": "Terranigma/Willful Lion.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
