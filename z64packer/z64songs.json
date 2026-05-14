@@ -55966,5 +55966,25 @@
     "file": "Terranigma/An Omen.mmrs",
     "preview": "Terranigma/An Omen.ogg"
   },
+  {
+    "uuid": "3ea92fc6-5f78-45f8-bc09-a51525f73eae",
+    "creationDate": "2026-05-14T03:15:37.681Z",
+    "game": "Terranigma",
+    "song": "Contest",
+    "composers": [
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4"
+    ],
+    "file": "Terranigma/Contest.mmrs",
+    "preview": "Terranigma/Contest.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
