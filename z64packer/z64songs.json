@@ -55884,5 +55884,24 @@
     "file": "Terranigma/Dr. Beruga.mmrs",
     "preview": "Terranigma/Dr. Beruga.ogg"
   },
+  {
+    "uuid": "4b9e2314-59c2-44b3-9415-a21e487dad83",
+    "creationDate": "2026-05-14T03:00:09.898Z",
+    "game": "Terranigma",
+    "song": "Beruga's Laboratory",
+    "composers": [
+      "Yuzo Koshiro"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Terranigma/Beruga's Laboratory.mmrs",
+    "preview": "Terranigma/Beruga's Laboratory.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
