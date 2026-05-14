@@ -56188,5 +56188,26 @@
     "file": "Terranigma/Freedom, USA.mmrs",
     "preview": "Terranigma/Freedom, USA.ogg"
   },
+  {
+    "uuid": "52e4c823-aab8-42a6-b600-ae54f8553afb",
+    "creationDate": "2026-05-14T03:34:25.004Z",
+    "game": "Terranigma",
+    "song": "Fyda",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Terranigma/Fyda.mmrs",
+    "preview": "Terranigma/Fyda.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
