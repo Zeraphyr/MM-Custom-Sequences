@@ -56578,5 +56578,25 @@
     "file": "Terranigma/Good Night....mmrs",
     "preview": "Terranigma/Good Night....ogg"
   },
+  {
+    "uuid": "af87d68c-2df0-4b71-a228-c6949425d125",
+    "creationDate": "2026-05-14T04:05:25.019Z",
+    "game": "Terranigma",
+    "song": "Revival of Humans",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Terranigma/Revival of Humans.mmrs",
+    "preview": "Terranigma/Revival of Humans.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
