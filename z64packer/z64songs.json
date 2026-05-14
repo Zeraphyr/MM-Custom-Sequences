@@ -56168,5 +56168,25 @@
     "file": "Terranigma/Entrance.mmrs",
     "preview": "Terranigma/Entrance.ogg"
   },
+  {
+    "uuid": "f753feb7-226e-4d07-9699-4b55de8c1260",
+    "creationDate": "2026-05-14T03:33:17.767Z",
+    "game": "Terranigma",
+    "song": "Freedom, USA",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Terranigma/Freedom, USA.mmrs",
+    "preview": "Terranigma/Freedom, USA.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
