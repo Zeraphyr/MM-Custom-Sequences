@@ -56209,5 +56209,25 @@
     "file": "Terranigma/Fyda.mmrs",
     "preview": "Terranigma/Fyda.ogg"
   },
+  {
+    "uuid": "dab2eb72-c27c-4f69-9aeb-a9405c99c76e",
+    "creationDate": "2026-05-14T03:35:30.322Z",
+    "game": "Terranigma",
+    "song": "Defeat",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Terranigma/Defeat.mmrs",
+    "preview": "Terranigma/Defeat.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
