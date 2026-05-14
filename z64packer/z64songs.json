@@ -56048,5 +56048,26 @@
     "file": "Terranigma/The Castle of Dragoon.mmrs",
     "preview": "Terranigma/The Castle of Dragoon.ogg"
   },
+  {
+    "uuid": "b2b4d3f5-0638-44ee-970b-7946ac37ab3e",
+    "creationDate": "2026-05-14T03:23:24.399Z",
+    "game": "Terranigma",
+    "song": "Elle",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Terranigma/Elle.mmrs",
+    "preview": "Terranigma/Elle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
