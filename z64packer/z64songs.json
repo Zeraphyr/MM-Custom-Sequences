@@ -56659,5 +56659,25 @@
     "file": "Terranigma/Under the Great Tree.mmrs",
     "preview": "Terranigma/Under the Great Tree.ogg"
   },
+  {
+    "uuid": "813963ab-b7ea-4630-81c5-d20fc1468d76",
+    "creationDate": "2026-05-14T04:13:22.531Z",
+    "game": "Terranigma",
+    "song": "Yomi",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "file": "Terranigma/Yomi.mmrs",
+    "preview": "Terranigma/Yomi.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
