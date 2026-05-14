@@ -56538,5 +56538,24 @@
     "file": "Terranigma/Run! Run!.mmrs",
     "preview": "Terranigma/Run! Run!.ogg"
   },
+  {
+    "uuid": "b2f51d29-5316-435a-8573-5c43c6cd5753",
+    "creationDate": "2026-05-14T04:00:57.124Z",
+    "game": "Terranigma",
+    "song": "Shopping",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "144"
+    ],
+    "file": "Terranigma/Shopping.mmrs",
+    "preview": "Terranigma/Shopping.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
