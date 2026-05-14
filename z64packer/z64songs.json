@@ -56006,5 +56006,26 @@
     "file": "Terranigma/Open the Door.mmrs",
     "preview": "Terranigma/Open the Door.ogg"
   },
+  {
+    "uuid": "22573e58-edc7-4228-8f5b-2b326d1a5b2f",
+    "creationDate": "2026-05-14T03:20:36.027Z",
+    "game": "Terranigma",
+    "song": "Green Returns",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Terranigma/Green Returns.mmrs",
+    "preview": "Terranigma/Green Returns.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
