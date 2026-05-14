@@ -56497,5 +56497,25 @@
     "file": "Terranigma/Royalty.mmrs",
     "preview": "Terranigma/Royalty.ogg"
   },
+  {
+    "uuid": "abb957d0-a9f0-4495-a4b5-c9212a53cc2c",
+    "creationDate": "2026-05-14T03:58:01.693Z",
+    "game": "Terranigma",
+    "song": "Royd",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Terranigma/Royd.mmrs",
+    "preview": "Terranigma/Royd.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
