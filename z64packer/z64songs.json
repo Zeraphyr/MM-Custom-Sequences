@@ -56229,5 +56229,26 @@
     "file": "Terranigma/Defeat.mmrs",
     "preview": "Terranigma/Defeat.ogg"
   },
+  {
+    "uuid": "a3fcfb10-9a19-4a00-97f8-ce991666f124",
+    "creationDate": "2026-05-14T03:36:25.024Z",
+    "game": "Terranigma",
+    "song": "Save Data",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Terranigma/Save Data.mmrs",
+    "preview": "Terranigma/Save Data.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
