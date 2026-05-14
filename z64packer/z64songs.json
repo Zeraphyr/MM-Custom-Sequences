@@ -55986,5 +55986,25 @@
     "file": "Terranigma/Contest.mmrs",
     "preview": "Terranigma/Contest.ogg"
   },
+  {
+    "uuid": "a3b421a2-f13b-43d9-80f5-412ecf6edda8",
+    "creationDate": "2026-05-14T03:18:07.031Z",
+    "game": "Terranigma",
+    "song": "Open the Door",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Terranigma/Open the Door.mmrs",
+    "preview": "Terranigma/Open the Door.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
