@@ -56313,5 +56313,24 @@
     "file": "Terranigma/Lhasa.mmrs",
     "preview": "Terranigma/Lhasa.ogg"
   },
+  {
+    "uuid": "55a625df-8f05-4768-8c73-d2755a6086b5",
+    "creationDate": "2026-05-14T03:43:33.490Z",
+    "game": "Terranigma",
+    "song": "Revival of Plants",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "file": "Terranigma/Revival of Plants.mmrs",
+    "preview": "Terranigma/Revival of Plants.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
