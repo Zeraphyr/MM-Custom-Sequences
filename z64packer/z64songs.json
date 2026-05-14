@@ -56089,5 +56089,24 @@
     "file": "Terranigma/Evergreen.mmrs",
     "preview": "Terranigma/Evergreen.ogg"
   },
+  {
+    "uuid": "03e7099b-bd7e-4aa2-8a80-bd8100068d60",
+    "creationDate": "2026-05-14T03:26:19.108Z",
+    "game": "Terranigma",
+    "song": "Revival of Birds",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "file": "Terranigma/Revival of Birds.mmrs",
+    "preview": "Terranigma/Revival of Birds.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
