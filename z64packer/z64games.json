@@ -2480,7 +2480,7 @@
   },
   {
     "game": "Ultimate Trial",
-    "series": "The Legend of Zelda Series",
+    "series": "The Legend of Zelda ROM Hacks",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/163e6dcb584a22121d0a7740ba2f27b8.png"
   },
   {
@@ -2573,7 +2573,7 @@
   },
   {
     "game": "The Legend of Zelda: Feesh Mode",
-    "series": "The Legend of Zelda Series",
+    "series": "The Legend of Zelda ROM Hacks",
     "short_name": "Zelda: Feesh Mode"
   },
   {
@@ -2619,7 +2619,7 @@
   },
   {
     "game": "The Legend of Zelda: Master of Time",
-    "series": "The Legend of Zelda Series",
+    "series": "The Legend of Zelda ROM Hacks",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/9e93e6df252f2b251bb4d1559f04e190.png",
     "short_name": "Zelda: Master of Time"
   },
@@ -2992,7 +2992,7 @@
   },
   {
     "game": "Ura Zelda",
-    "series": "The Legend of Zelda Series",
+    "series": "The Legend of Zelda ROM Hacks",
     "logo": "https://i.imgur.com/70HgS3T.png"
   },
   {
@@ -3125,7 +3125,7 @@
   },
   {
     "game": "The Legend of Zelda: The Missing Link",
-    "series": "The Legend of Zelda Series",
+    "series": "The Legend of Zelda ROM Hacks",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/be88129b607a07093e4c9c3ac177c1d8.png",
     "short_name": "Zelda: The Missing Link"
   },
@@ -3231,7 +3231,7 @@
   },
   {
     "game": "Zelda 64: Dawn & Dusk",
-    "series": "The Legend of Zelda Series",
+    "series": "The Legend of Zelda ROM Hacks",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/a8d3a866ac2f8703fc51569e27bcbd5d.png"
   },
   {
@@ -3572,7 +3572,7 @@
   },
   {
     "game": "Majora's Mask Randomizer",
-    "series": "The Legend of Zelda Series",
+    "series": "The Legend of Zelda ROM Hacks",
     "logo": "https://mmrandomizer.com/img/logo/full/png/mm-randomizer-logo_md.png",
     "short_name": "MM Rando"
   },
@@ -3682,13 +3682,19 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/87b975920cf2a335c1751a794e57e8c8.png"
   },
   {
-    "game": "The Fate of the Bombiwa"
+    "game": "The Fate of the Bombiwa",
+    "series": "The Legend of Zelda ROM Hacks",
+    "logo": "https://i.imgur.com/c5a38KJ.png"
   },
   {
-    "game": "Terraria: Calamity Mod"
+    "game": "Terraria: Calamity Mod",
+    "series": "Terraria Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/b04a6bd02d0b88b5785d4c5b560824a0.png"
   },
   {
-    "game": "Terraria"
+    "game": "Terraria",
+    "series": "Terraria Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/7ed26e5b74f5591924bd2c32297c5c95.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
