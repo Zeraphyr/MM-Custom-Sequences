@@ -55637,5 +55637,25 @@
     "file": "Terraria/Boss 2.mmrs",
     "preview": "Terraria/Boss 2.ogg"
   },
+  {
+    "uuid": "6b2a3f76-4c1f-48a3-ad0f-cd97c58280b4",
+    "creationDate": "2026-05-14T02:33:07.999Z",
+    "game": "Terraria",
+    "song": "Plantera",
+    "composers": [
+      "Scott Lloyd Shelly"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Terraria/Plantera.mmrs",
+    "preview": "Terraria/Plantera.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
