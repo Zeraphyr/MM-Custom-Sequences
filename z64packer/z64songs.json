@@ -56069,5 +56069,25 @@
     "file": "Terranigma/Elle.mmrs",
     "preview": "Terranigma/Elle.ogg"
   },
+  {
+    "uuid": "e8b928f6-79ed-40b5-99b0-1f77c4694a18",
+    "creationDate": "2026-05-14T03:24:39.851Z",
+    "game": "Terranigma",
+    "song": "Evergreen",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Terranigma/Evergreen.mmrs",
+    "preview": "Terranigma/Evergreen.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
