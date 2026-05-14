@@ -56434,5 +56434,26 @@
     "file": "Terranigma/Overworld.mmrs",
     "preview": "Terranigma/Overworld.ogg"
   },
+  {
+    "uuid": "826a3680-d307-4000-bc83-e763897aacc1",
+    "creationDate": "2026-05-14T03:54:59.639Z",
+    "game": "Terranigma",
+    "song": "Perel",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Terranigma/Perel.mmrs",
+    "preview": "Terranigma/Perel.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
