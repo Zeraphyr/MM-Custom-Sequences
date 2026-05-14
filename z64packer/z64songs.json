@@ -55945,5 +55945,26 @@
     "file": "Terranigma/Powerful Enemies.mmrs",
     "preview": "Terranigma/Powerful Enemies.ogg"
   },
+  {
+    "uuid": "c0627ff2-d17b-4df0-b5bf-7e99a65ae3e8",
+    "creationDate": "2026-05-14T03:08:44.602Z",
+    "game": "Terranigma",
+    "song": "An Omen",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Terranigma/An Omen.mmrs",
+    "preview": "Terranigma/An Omen.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
