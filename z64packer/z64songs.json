@@ -55903,5 +55903,26 @@
     "file": "Terranigma/Beruga's Laboratory.mmrs",
     "preview": "Terranigma/Beruga's Laboratory.ogg"
   },
+  {
+    "uuid": "af558bda-c1b9-4b01-ab61-d428ff3fab15",
+    "creationDate": "2026-05-14T03:01:33.237Z",
+    "game": "Terranigma",
+    "song": "Bird's Paradise",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Terranigma/Bird's Paradise.mmrs",
+    "preview": "Terranigma/Bird's Paradise.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
