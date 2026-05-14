@@ -56293,5 +56293,25 @@
     "file": "Terranigma/Willful Lion.mmrs",
     "preview": "Terranigma/Willful Lion.ogg"
   },
+  {
+    "uuid": "967fe711-b0bd-45a6-a70b-47aa2e1c3c27",
+    "creationDate": "2026-05-14T03:41:21.310Z",
+    "game": "Terranigma",
+    "song": "Lhasa",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Terranigma/Lhasa.mmrs",
+    "preview": "Terranigma/Lhasa.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
