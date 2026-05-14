@@ -55716,5 +55716,27 @@
     "file": "The Fate of the Bombiwa/Mysterious Lair.mmrs",
     "preview": "https://www.youtube.com/watch?v=qwhN1ds4ATQ"
   },
+  {
+    "uuid": "3fb50a7d-18c2-4ff6-99ab-5821f6acfacc",
+    "creationDate": "2026-05-14T02:41:53.899Z",
+    "game": "The Fate of the Bombiwa",
+    "song": "Plan Exposition",
+    "composers": [
+      "DezZival"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6",
+      "16",
+      "157"
+    ],
+    "file": "The Fate of the Bombiwa/Plan Exposition.mmrs",
+    "preview": "https://www.youtube.com/watch?v=IkSBESVnMHI"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
