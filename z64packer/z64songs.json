@@ -55615,7 +55615,10 @@
       "157"
     ],
     "file": "Terraria/Boss 1.mmrs",
-    "preview": "Terraria/Boss 1.ogg"
+    "preview": "Terraria/Boss 1.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2dfd181c-bf11-443b-a3ff-6cabc42053c7",
@@ -55635,7 +55638,10 @@
       "7"
     ],
     "file": "Terraria/Boss 2.mmrs",
-    "preview": "Terraria/Boss 2.ogg"
+    "preview": "Terraria/Boss 2.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "6b2a3f76-4c1f-48a3-ad0f-cd97c58280b4",
@@ -55655,7 +55661,10 @@
       "7"
     ],
     "file": "Terraria/Plantera.mmrs",
-    "preview": "Terraria/Plantera.ogg"
+    "preview": "Terraria/Plantera.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "25f4dba4-7f1f-497c-8f91-69c39d147233",
@@ -55674,7 +55683,10 @@
       "7"
     ],
     "file": "Terraria Calamity Mod/Guardian of the Former Seas.mmrs",
-    "preview": "Terraria Calamity Mod/Guardian of the Former Seas.ogg"
+    "preview": "Terraria Calamity Mod/Guardian of the Former Seas.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b9640108-101d-45cf-b15f-edf9a090c5b7",
@@ -55695,7 +55707,10 @@
       "16"
     ],
     "file": "The Fate of the Bombiwa/Impurebrain Castle.mmrs",
-    "preview": "https://www.youtube.com/watch?v=KMqY41DPjq8"
+    "preview": "https://www.youtube.com/watch?v=KMqY41DPjq8",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a88d2e95-18df-4dd9-8fe7-451b7ca4967b",
@@ -55714,7 +55729,10 @@
       "3"
     ],
     "file": "The Fate of the Bombiwa/Mysterious Lair.mmrs",
-    "preview": "https://www.youtube.com/watch?v=qwhN1ds4ATQ"
+    "preview": "https://www.youtube.com/watch?v=qwhN1ds4ATQ",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "3fb50a7d-18c2-4ff6-99ab-5821f6acfacc",
@@ -55736,7 +55754,10 @@
       "157"
     ],
     "file": "The Fate of the Bombiwa/Plan Exposition.mmrs",
-    "preview": "https://www.youtube.com/watch?v=IkSBESVnMHI"
+    "preview": "https://www.youtube.com/watch?v=IkSBESVnMHI",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2fd1715a-c74e-454a-9000-bd49a5bb5bde",
@@ -55755,7 +55776,10 @@
       "3"
     ],
     "file": "The Fate of the Bombiwa/The Royal Test.mmrs",
-    "preview": "https://www.youtube.com/watch?v=D3BL23_BZ_I"
+    "preview": "https://www.youtube.com/watch?v=D3BL23_BZ_I",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "12b35e12-0a25-4225-a8b0-4659c2e8e53d",
@@ -55776,7 +55800,10 @@
       "157"
     ],
     "file": "The Fate of the Bombiwa/The Thread Of Grief.mmrs",
-    "preview": "The Fate of the Bombiwa/The Thread Of Grief.ogg"
+    "preview": "The Fate of the Bombiwa/The Thread Of Grief.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d20c48b9-b025-4d9f-b5ea-a49100d30492",
@@ -55796,7 +55823,10 @@
       "10"
     ],
     "file": "The Fate of the Bombiwa/The Thread Of Grief Start.mmrs",
-    "preview": "https://www.youtube.com/"
+    "preview": "https://www.youtube.com/",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a90204e6-9a78-41df-b467-7670ad244cbe",
@@ -55816,7 +55846,10 @@
       "16"
     ],
     "file": "Terranigma/A Place to Rest.mmrs",
-    "preview": "Terranigma/A Place to Rest.ogg"
+    "preview": "Terranigma/A Place to Rest.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "51aa3a18-9d53-434a-aadf-14f0545746d9",
@@ -55837,7 +55870,10 @@
       "3"
     ],
     "file": "Terranigma/Asia.mmrs",
-    "preview": "Terranigma/Asia.ogg"
+    "preview": "Terranigma/Asia.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e9f3a5a8-381d-40d5-a882-2ce325409040",
@@ -55860,7 +55896,10 @@
       "157"
     ],
     "file": "Terranigma/Barren Land.mmrs",
-    "preview": "Terranigma/Barren Land.ogg"
+    "preview": "Terranigma/Barren Land.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "16f25808-d09c-4065-a4ab-960548ebbd10",
@@ -55882,7 +55921,10 @@
       "3"
     ],
     "file": "Terranigma/Dr. Beruga.mmrs",
-    "preview": "Terranigma/Dr. Beruga.ogg"
+    "preview": "Terranigma/Dr. Beruga.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4b9e2314-59c2-44b3-9415-a21e487dad83",
@@ -55901,7 +55943,10 @@
       "3"
     ],
     "file": "Terranigma/Beruga's Laboratory.mmrs",
-    "preview": "Terranigma/Beruga's Laboratory.ogg"
+    "preview": "Terranigma/Beruga's Laboratory.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "af558bda-c1b9-4b01-ab61-d428ff3fab15",
@@ -55922,7 +55967,10 @@
       "3"
     ],
     "file": "Terranigma/Bird's Paradise.mmrs",
-    "preview": "Terranigma/Bird's Paradise.ogg"
+    "preview": "Terranigma/Bird's Paradise.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b733d6be-33f2-475e-8da8-1b9508ecfa9e",
@@ -55943,7 +55991,10 @@
       "7"
     ],
     "file": "Terranigma/Powerful Enemies.mmrs",
-    "preview": "Terranigma/Powerful Enemies.ogg"
+    "preview": "Terranigma/Powerful Enemies.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c0627ff2-d17b-4df0-b5bf-7e99a65ae3e8",
@@ -55964,7 +56015,10 @@
       "10"
     ],
     "file": "Terranigma/An Omen.mmrs",
-    "preview": "Terranigma/An Omen.ogg"
+    "preview": "Terranigma/An Omen.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "3ea92fc6-5f78-45f8-bc09-a51525f73eae",
@@ -55984,7 +56038,10 @@
       "4"
     ],
     "file": "Terranigma/Contest.mmrs",
-    "preview": "Terranigma/Contest.ogg"
+    "preview": "Terranigma/Contest.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a3b421a2-f13b-43d9-80f5-412ecf6edda8",
@@ -56004,7 +56061,10 @@
       "10"
     ],
     "file": "Terranigma/Open the Door.mmrs",
-    "preview": "Terranigma/Open the Door.ogg"
+    "preview": "Terranigma/Open the Door.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "22573e58-edc7-4228-8f5b-2b326d1a5b2f",
@@ -56025,7 +56085,10 @@
       "16"
     ],
     "file": "Terranigma/Green Returns.mmrs",
-    "preview": "Terranigma/Green Returns.ogg"
+    "preview": "Terranigma/Green Returns.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ad59bd57-6bd3-4d57-b72f-8b14dab8af70",
@@ -56046,7 +56109,10 @@
       "3"
     ],
     "file": "Terranigma/The Castle of Dragoon.mmrs",
-    "preview": "Terranigma/The Castle of Dragoon.ogg"
+    "preview": "Terranigma/The Castle of Dragoon.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b2b4d3f5-0638-44ee-970b-7946ac37ab3e",
@@ -56067,7 +56133,10 @@
       "16"
     ],
     "file": "Terranigma/Elle.mmrs",
-    "preview": "Terranigma/Elle.ogg"
+    "preview": "Terranigma/Elle.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e8b928f6-79ed-40b5-99b0-1f77c4694a18",
@@ -56087,7 +56156,10 @@
       "1"
     ],
     "file": "Terranigma/Evergreen.mmrs",
-    "preview": "Terranigma/Evergreen.ogg"
+    "preview": "Terranigma/Evergreen.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "03e7099b-bd7e-4aa2-8a80-bd8100068d60",
@@ -56106,7 +56178,10 @@
       "10"
     ],
     "file": "Terranigma/Revival of Birds.mmrs",
-    "preview": "Terranigma/Revival of Birds.ogg"
+    "preview": "Terranigma/Revival of Birds.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "738abe15-a818-4ac6-88ac-8a1a007a24dd",
@@ -56126,7 +56201,10 @@
       "7"
     ],
     "file": "Terranigma/Dark Gaia.mmrs",
-    "preview": "Terranigma/Dark Gaia.ogg"
+    "preview": "Terranigma/Dark Gaia.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c0c9f2a9-ff28-45dc-97e1-bd17e9dadb24",
@@ -56147,7 +56225,10 @@
       "3"
     ],
     "file": "Terranigma/Flying to the Sky.mmrs",
-    "preview": "Terranigma/Flying to the Sky.ogg"
+    "preview": "Terranigma/Flying to the Sky.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "db1d7df8-0a0a-4b57-bc64-1c93c2247ef6",
@@ -56166,7 +56247,10 @@
       "2"
     ],
     "file": "Terranigma/Entrance.mmrs",
-    "preview": "Terranigma/Entrance.ogg"
+    "preview": "Terranigma/Entrance.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "f753feb7-226e-4d07-9699-4b55de8c1260",
@@ -56186,7 +56270,10 @@
       "3"
     ],
     "file": "Terranigma/Freedom, USA.mmrs",
-    "preview": "Terranigma/Freedom, USA.ogg"
+    "preview": "Terranigma/Freedom, USA.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "52e4c823-aab8-42a6-b600-ae54f8553afb",
@@ -56207,7 +56294,10 @@
       "16"
     ],
     "file": "Terranigma/Fyda.mmrs",
-    "preview": "Terranigma/Fyda.ogg"
+    "preview": "Terranigma/Fyda.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "dab2eb72-c27c-4f69-9aeb-a9405c99c76e",
@@ -56227,7 +56317,10 @@
       "10"
     ],
     "file": "Terranigma/Defeat.mmrs",
-    "preview": "Terranigma/Defeat.ogg"
+    "preview": "Terranigma/Defeat.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a3fcfb10-9a19-4a00-97f8-ce991666f124",
@@ -56248,7 +56341,10 @@
       "10"
     ],
     "file": "Terranigma/Save Data.mmrs",
-    "preview": "Terranigma/Save Data.ogg"
+    "preview": "Terranigma/Save Data.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "997dc1f9-c6bd-4b18-8f57-07655a4c8500",
@@ -56269,7 +56365,10 @@
       "3"
     ],
     "file": "Terranigma/Top of Saint Mountain.mmrs",
-    "preview": "Terranigma/Top of Saint Mountain.ogg"
+    "preview": "Terranigma/Top of Saint Mountain.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c4f589c5-3386-49e8-b5f5-f6d9f1f9df52",
@@ -56291,7 +56390,10 @@
       "4"
     ],
     "file": "Terranigma/Willful Lion.mmrs",
-    "preview": "Terranigma/Willful Lion.ogg"
+    "preview": "Terranigma/Willful Lion.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "967fe711-b0bd-45a6-a70b-47aa2e1c3c27",
@@ -56311,7 +56413,10 @@
       "3"
     ],
     "file": "Terranigma/Lhasa.mmrs",
-    "preview": "Terranigma/Lhasa.ogg"
+    "preview": "Terranigma/Lhasa.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "55a625df-8f05-4768-8c73-d2755a6086b5",
@@ -56330,7 +56435,10 @@
       "10"
     ],
     "file": "Terranigma/Revival of Plants.mmrs",
-    "preview": "Terranigma/Revival of Plants.ogg"
+    "preview": "Terranigma/Revival of Plants.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "98561129-24f7-4e47-be18-f4f6071acf0b",
@@ -56350,7 +56458,10 @@
       "3"
     ],
     "file": "Terranigma/Liotto.mmrs",
-    "preview": "Terranigma/Liotto.ogg"
+    "preview": "Terranigma/Liotto.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "27441e16-9303-49e8-afe7-c731e51f2dcc",
@@ -56370,7 +56481,10 @@
       "3"
     ],
     "file": "Terranigma/My Beloved Loire.mmrs",
-    "preview": "Terranigma/My Beloved Loire.ogg"
+    "preview": "Terranigma/My Beloved Loire.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a4a00eff-4528-4a13-9b7f-608750562248",
@@ -56391,7 +56505,10 @@
       "10"
     ],
     "file": "Terranigma/New Equipment.mmrs",
-    "preview": "Terranigma/New Equipment.ogg"
+    "preview": "Terranigma/New Equipment.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "814be6dc-e212-4fba-989c-a7657e447783",
@@ -56412,7 +56529,10 @@
       "3"
     ],
     "file": "Terranigma/Nomads in a Desert.mmrs",
-    "preview": "Terranigma/Nomads in a Desert.ogg"
+    "preview": "Terranigma/Nomads in a Desert.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "62f62572-31a8-4021-aa73-63b328077822",
@@ -56432,7 +56552,10 @@
       "1"
     ],
     "file": "Terranigma/Overworld.mmrs",
-    "preview": "Terranigma/Overworld.ogg"
+    "preview": "Terranigma/Overworld.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "826a3680-d307-4000-bc83-e763897aacc1",
@@ -56453,7 +56576,10 @@
       "6"
     ],
     "file": "Terranigma/Perel.mmrs",
-    "preview": "Terranigma/Perel.ogg"
+    "preview": "Terranigma/Perel.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1520e424-1972-4e64-b05f-74ba18e92da1",
@@ -56474,7 +56600,10 @@
       "16"
     ],
     "file": "Terranigma/Prime Blue.mmrs",
-    "preview": "Terranigma/Prime Blue.ogg"
+    "preview": "Terranigma/Prime Blue.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "15f7be53-deab-4add-a0ec-319ddf0fe61a",
@@ -56495,7 +56624,10 @@
       "6"
     ],
     "file": "Terranigma/Royalty.mmrs",
-    "preview": "Terranigma/Royalty.ogg"
+    "preview": "Terranigma/Royalty.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "abb957d0-a9f0-4495-a4b5-c9212a53cc2c",
@@ -56515,7 +56647,10 @@
       "16"
     ],
     "file": "Terranigma/Royd.mmrs",
-    "preview": "Terranigma/Royd.ogg"
+    "preview": "Terranigma/Royd.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "368c30db-87e2-4396-a893-725003a92a2b",
@@ -56536,7 +56671,10 @@
       "7"
     ],
     "file": "Terranigma/Run! Run!.mmrs",
-    "preview": "Terranigma/Run! Run!.ogg"
+    "preview": "Terranigma/Run! Run!.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b2f51d29-5316-435a-8573-5c43c6cd5753",
@@ -56555,7 +56693,10 @@
       "144"
     ],
     "file": "Terranigma/Shopping.mmrs",
-    "preview": "Terranigma/Shopping.ogg"
+    "preview": "Terranigma/Shopping.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "8b6ae2d3-3469-401e-af4e-5fa3649b2274",
@@ -56576,7 +56717,10 @@
       "10"
     ],
     "file": "Terranigma/Good Night....mmrs",
-    "preview": "Terranigma/Good Night....ogg"
+    "preview": "Terranigma/Good Night....ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "af87d68c-2df0-4b71-a228-c6949425d125",
@@ -56596,7 +56740,10 @@
       "16"
     ],
     "file": "Terranigma/Revival of Humans.mmrs",
-    "preview": "Terranigma/Revival of Humans.ogg"
+    "preview": "Terranigma/Revival of Humans.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1ed220c8-2419-41ca-aa61-48fdc1b6723c",
@@ -56616,7 +56763,10 @@
       "3"
     ],
     "file": "Terranigma/Tower of Trial.mmrs",
-    "preview": "Terranigma/Tower of Trial.ogg"
+    "preview": "Terranigma/Tower of Trial.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "86c2a0d7-ed73-4fa3-8c2e-deebae097329",
@@ -56635,7 +56785,10 @@
       "157"
     ],
     "file": "Terranigma/The Gaia Stone.mmrs",
-    "preview": "Terranigma/The Gaia Stone.ogg"
+    "preview": "Terranigma/The Gaia Stone.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "dfcc9823-a182-4df2-97ce-217ea1cef004",
@@ -56657,7 +56810,10 @@
       "3"
     ],
     "file": "Terranigma/Under the Great Tree.mmrs",
-    "preview": "Terranigma/Under the Great Tree.ogg"
+    "preview": "Terranigma/Under the Great Tree.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "813963ab-b7ea-4630-81c5-d20fc1468d76",
@@ -56677,7 +56833,10 @@
       "6"
     ],
     "file": "Terranigma/Yomi.mmrs",
-    "preview": "Terranigma/Yomi.ogg"
+    "preview": "Terranigma/Yomi.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
