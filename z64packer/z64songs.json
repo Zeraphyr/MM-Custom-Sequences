@@ -56149,5 +56149,24 @@
     "file": "Terranigma/Flying to the Sky.mmrs",
     "preview": "Terranigma/Flying to the Sky.ogg"
   },
+  {
+    "uuid": "db1d7df8-0a0a-4b57-bc64-1c93c2247ef6",
+    "creationDate": "2026-05-14T03:31:56.927Z",
+    "game": "Terranigma",
+    "song": "Entrance",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "Terranigma/Entrance.mmrs",
+    "preview": "Terranigma/Entrance.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
