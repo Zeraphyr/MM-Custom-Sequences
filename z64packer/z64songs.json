@@ -56637,5 +56637,27 @@
     "file": "Terranigma/The Gaia Stone.mmrs",
     "preview": "Terranigma/The Gaia Stone.ogg"
   },
+  {
+    "uuid": "dfcc9823-a182-4df2-97ce-217ea1cef004",
+    "creationDate": "2026-05-14T04:12:36.524Z",
+    "game": "Terranigma",
+    "song": "Under the Great Tree",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "notes": "TODO: This one needs fixing; plenty of instruments are completely out of tune.",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Terranigma/Under the Great Tree.mmrs",
+    "preview": "Terranigma/Under the Great Tree.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
