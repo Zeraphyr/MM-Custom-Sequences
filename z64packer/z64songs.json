@@ -56618,5 +56618,24 @@
     "file": "Terranigma/Tower of Trial.mmrs",
     "preview": "Terranigma/Tower of Trial.ogg"
   },
+  {
+    "uuid": "86c2a0d7-ed73-4fa3-8c2e-deebae097329",
+    "creationDate": "2026-05-14T04:07:48.988Z",
+    "game": "Terranigma",
+    "song": "The Gaia Stone",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "157"
+    ],
+    "file": "Terranigma/The Gaia Stone.mmrs",
+    "preview": "Terranigma/The Gaia Stone.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
