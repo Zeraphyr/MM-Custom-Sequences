@@ -56108,5 +56108,25 @@
     "file": "Terranigma/Revival of Birds.mmrs",
     "preview": "Terranigma/Revival of Birds.ogg"
   },
+  {
+    "uuid": "738abe15-a818-4ac6-88ac-8a1a007a24dd",
+    "creationDate": "2026-05-14T03:27:11.877Z",
+    "game": "Terranigma",
+    "song": "Dark Gaia",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Terranigma/Dark Gaia.mmrs",
+    "preview": "Terranigma/Dark Gaia.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
