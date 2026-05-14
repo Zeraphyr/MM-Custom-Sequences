@@ -55839,5 +55839,28 @@
     "file": "Terranigma/Asia.mmrs",
     "preview": "Terranigma/Asia.ogg"
   },
+  {
+    "uuid": "e9f3a5a8-381d-40d5-a882-2ce325409040",
+    "creationDate": "2026-05-14T02:55:16.401Z",
+    "game": "Terranigma",
+    "song": "Barren Land",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Takaoka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "157"
+    ],
+    "file": "Terranigma/Barren Land.mmrs",
+    "preview": "Terranigma/Barren Land.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
