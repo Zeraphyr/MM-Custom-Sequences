@@ -56414,5 +56414,25 @@
     "file": "Terranigma/Nomads in a Desert.mmrs",
     "preview": "Terranigma/Nomads in a Desert.ogg"
   },
+  {
+    "uuid": "62f62572-31a8-4021-aa73-63b328077822",
+    "creationDate": "2026-05-14T03:53:53.593Z",
+    "game": "Terranigma",
+    "song": "Overworld",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Terranigma/Overworld.mmrs",
+    "preview": "Terranigma/Overworld.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
