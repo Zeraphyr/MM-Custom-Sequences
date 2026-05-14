@@ -55596,5 +55596,1088 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "98d0238c-cb5a-493a-b366-bf312e5ce258",
+    "creationDate": "2026-05-14T02:28:14.724Z",
+    "game": "Terraria",
+    "song": "Boss 1",
+    "composers": [
+      "Scott Lloyd Shelly"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7",
+      "157"
+    ],
+    "file": "Terraria/Boss 1.mmrs",
+    "preview": "Terraria/Boss 1.ogg"
+  },
+  {
+    "uuid": "2dfd181c-bf11-443b-a3ff-6cabc42053c7",
+    "creationDate": "2026-05-14T02:31:59.321Z",
+    "game": "Terraria",
+    "song": "Boss 2",
+    "composers": [
+      "Scott Lloyd Shelley"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Terraria/Boss 2.mmrs",
+    "preview": "Terraria/Boss 2.ogg"
+  },
+  {
+    "uuid": "6b2a3f76-4c1f-48a3-ad0f-cd97c58280b4",
+    "creationDate": "2026-05-14T02:33:07.999Z",
+    "game": "Terraria",
+    "song": "Plantera",
+    "composers": [
+      "Scott Lloyd Shelly"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Terraria/Plantera.mmrs",
+    "preview": "Terraria/Plantera.ogg"
+  },
+  {
+    "uuid": "25f4dba4-7f1f-497c-8f91-69c39d147233",
+    "creationDate": "2026-05-14T02:35:11.719Z",
+    "game": "Terraria: Calamity Mod",
+    "song": "Guardian of the Former Seas",
+    "composers": [
+      "DM DOKURO"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Terraria Calamity Mod/Guardian of the Former Seas.mmrs",
+    "preview": "Terraria Calamity Mod/Guardian of the Former Seas.ogg"
+  },
+  {
+    "uuid": "b9640108-101d-45cf-b15f-edf9a090c5b7",
+    "creationDate": "2026-05-14T02:38:13.968Z",
+    "game": "The Fate of the Bombiwa",
+    "song": "Impurebrain Castle",
+    "composers": [
+      "DezZival"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "The Fate of the Bombiwa/Impurebrain Castle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=KMqY41DPjq8"
+  },
+  {
+    "uuid": "a88d2e95-18df-4dd9-8fe7-451b7ca4967b",
+    "creationDate": "2026-05-14T02:39:32.282Z",
+    "game": "The Fate of the Bombiwa",
+    "song": "Mysterious Lair",
+    "composers": [
+      "DezZival"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Fate of the Bombiwa/Mysterious Lair.mmrs",
+    "preview": "https://www.youtube.com/watch?v=qwhN1ds4ATQ"
+  },
+  {
+    "uuid": "3fb50a7d-18c2-4ff6-99ab-5821f6acfacc",
+    "creationDate": "2026-05-14T02:41:53.899Z",
+    "game": "The Fate of the Bombiwa",
+    "song": "Plan Exposition",
+    "composers": [
+      "DezZival"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6",
+      "16",
+      "157"
+    ],
+    "file": "The Fate of the Bombiwa/Plan Exposition.mmrs",
+    "preview": "https://www.youtube.com/watch?v=IkSBESVnMHI"
+  },
+  {
+    "uuid": "2fd1715a-c74e-454a-9000-bd49a5bb5bde",
+    "creationDate": "2026-05-14T02:42:44.234Z",
+    "game": "The Fate of the Bombiwa",
+    "song": "The Royal Test",
+    "composers": [
+      "DezZival"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Fate of the Bombiwa/The Royal Test.mmrs",
+    "preview": "https://www.youtube.com/watch?v=D3BL23_BZ_I"
+  },
+  {
+    "uuid": "12b35e12-0a25-4225-a8b0-4659c2e8e53d",
+    "creationDate": "2026-05-14T02:46:08.934Z",
+    "game": "The Fate of the Bombiwa",
+    "song": "The Thread Of Grief",
+    "composers": [
+      "DezZival"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16",
+      "157"
+    ],
+    "file": "The Fate of the Bombiwa/The Thread Of Grief.mmrs",
+    "preview": "The Fate of the Bombiwa/The Thread Of Grief.ogg"
+  },
+  {
+    "uuid": "d20c48b9-b025-4d9f-b5ea-a49100d30492",
+    "creationDate": "2026-05-14T02:47:15.195Z",
+    "game": "The Fate of the Bombiwa",
+    "song": "The Thread Of Grief Start",
+    "composers": [
+      "DezZival"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Fate of the Bombiwa/The Thread Of Grief Start.mmrs",
+    "preview": "https://www.youtube.com/"
+  },
+  {
+    "uuid": "a90204e6-9a78-41df-b467-7670ad244cbe",
+    "creationDate": "2026-05-14T02:52:38.669Z",
+    "game": "Terranigma",
+    "song": "A Place to Rest",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Terranigma/A Place to Rest.mmrs",
+    "preview": "Terranigma/A Place to Rest.ogg"
+  },
+  {
+    "uuid": "51aa3a18-9d53-434a-aadf-14f0545746d9",
+    "creationDate": "2026-05-14T02:54:00.547Z",
+    "game": "Terranigma",
+    "song": "Asia",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Terranigma/Asia.mmrs",
+    "preview": "Terranigma/Asia.ogg"
+  },
+  {
+    "uuid": "e9f3a5a8-381d-40d5-a882-2ce325409040",
+    "creationDate": "2026-05-14T02:55:16.401Z",
+    "game": "Terranigma",
+    "song": "Barren Land",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Takaoka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "157"
+    ],
+    "file": "Terranigma/Barren Land.mmrs",
+    "preview": "Terranigma/Barren Land.ogg"
+  },
+  {
+    "uuid": "16f25808-d09c-4065-a4ab-960548ebbd10",
+    "creationDate": "2026-05-14T02:59:15.495Z",
+    "game": "Terranigma",
+    "song": "Dr. Beruga",
+    "composers": [
+      "Miyoko Takaoka",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Terranigma/Dr. Beruga.mmrs",
+    "preview": "Terranigma/Dr. Beruga.ogg"
+  },
+  {
+    "uuid": "4b9e2314-59c2-44b3-9415-a21e487dad83",
+    "creationDate": "2026-05-14T03:00:09.898Z",
+    "game": "Terranigma",
+    "song": "Beruga's Laboratory",
+    "composers": [
+      "Yuzo Koshiro"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Terranigma/Beruga's Laboratory.mmrs",
+    "preview": "Terranigma/Beruga's Laboratory.ogg"
+  },
+  {
+    "uuid": "af558bda-c1b9-4b01-ab61-d428ff3fab15",
+    "creationDate": "2026-05-14T03:01:33.237Z",
+    "game": "Terranigma",
+    "song": "Bird's Paradise",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Terranigma/Bird's Paradise.mmrs",
+    "preview": "Terranigma/Bird's Paradise.ogg"
+  },
+  {
+    "uuid": "b733d6be-33f2-475e-8da8-1b9508ecfa9e",
+    "creationDate": "2026-05-14T03:03:34.254Z",
+    "game": "Terranigma",
+    "song": "Powerful Enemies",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Terranigma/Powerful Enemies.mmrs",
+    "preview": "Terranigma/Powerful Enemies.ogg"
+  },
+  {
+    "uuid": "c0627ff2-d17b-4df0-b5bf-7e99a65ae3e8",
+    "creationDate": "2026-05-14T03:08:44.602Z",
+    "game": "Terranigma",
+    "song": "An Omen",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Terranigma/An Omen.mmrs",
+    "preview": "Terranigma/An Omen.ogg"
+  },
+  {
+    "uuid": "3ea92fc6-5f78-45f8-bc09-a51525f73eae",
+    "creationDate": "2026-05-14T03:15:37.681Z",
+    "game": "Terranigma",
+    "song": "Contest",
+    "composers": [
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "4"
+    ],
+    "file": "Terranigma/Contest.mmrs",
+    "preview": "Terranigma/Contest.ogg"
+  },
+  {
+    "uuid": "a3b421a2-f13b-43d9-80f5-412ecf6edda8",
+    "creationDate": "2026-05-14T03:18:07.031Z",
+    "game": "Terranigma",
+    "song": "Open the Door",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Terranigma/Open the Door.mmrs",
+    "preview": "Terranigma/Open the Door.ogg"
+  },
+  {
+    "uuid": "22573e58-edc7-4228-8f5b-2b326d1a5b2f",
+    "creationDate": "2026-05-14T03:20:36.027Z",
+    "game": "Terranigma",
+    "song": "Green Returns",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Terranigma/Green Returns.mmrs",
+    "preview": "Terranigma/Green Returns.ogg"
+  },
+  {
+    "uuid": "ad59bd57-6bd3-4d57-b72f-8b14dab8af70",
+    "creationDate": "2026-05-14T03:22:23.821Z",
+    "game": "Terranigma",
+    "song": "The Castle of Dragoon",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Terranigma/The Castle of Dragoon.mmrs",
+    "preview": "Terranigma/The Castle of Dragoon.ogg"
+  },
+  {
+    "uuid": "b2b4d3f5-0638-44ee-970b-7946ac37ab3e",
+    "creationDate": "2026-05-14T03:23:24.399Z",
+    "game": "Terranigma",
+    "song": "Elle",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Terranigma/Elle.mmrs",
+    "preview": "Terranigma/Elle.ogg"
+  },
+  {
+    "uuid": "e8b928f6-79ed-40b5-99b0-1f77c4694a18",
+    "creationDate": "2026-05-14T03:24:39.851Z",
+    "game": "Terranigma",
+    "song": "Evergreen",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Terranigma/Evergreen.mmrs",
+    "preview": "Terranigma/Evergreen.ogg"
+  },
+  {
+    "uuid": "03e7099b-bd7e-4aa2-8a80-bd8100068d60",
+    "creationDate": "2026-05-14T03:26:19.108Z",
+    "game": "Terranigma",
+    "song": "Revival of Birds",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "file": "Terranigma/Revival of Birds.mmrs",
+    "preview": "Terranigma/Revival of Birds.ogg"
+  },
+  {
+    "uuid": "738abe15-a818-4ac6-88ac-8a1a007a24dd",
+    "creationDate": "2026-05-14T03:27:11.877Z",
+    "game": "Terranigma",
+    "song": "Dark Gaia",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Terranigma/Dark Gaia.mmrs",
+    "preview": "Terranigma/Dark Gaia.ogg"
+  },
+  {
+    "uuid": "c0c9f2a9-ff28-45dc-97e1-bd17e9dadb24",
+    "creationDate": "2026-05-14T03:28:23.141Z",
+    "game": "Terranigma",
+    "song": "Flying to the Sky",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Terranigma/Flying to the Sky.mmrs",
+    "preview": "Terranigma/Flying to the Sky.ogg"
+  },
+  {
+    "uuid": "db1d7df8-0a0a-4b57-bc64-1c93c2247ef6",
+    "creationDate": "2026-05-14T03:31:56.927Z",
+    "game": "Terranigma",
+    "song": "Entrance",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "Terranigma/Entrance.mmrs",
+    "preview": "Terranigma/Entrance.ogg"
+  },
+  {
+    "uuid": "f753feb7-226e-4d07-9699-4b55de8c1260",
+    "creationDate": "2026-05-14T03:33:17.767Z",
+    "game": "Terranigma",
+    "song": "Freedom, USA",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Terranigma/Freedom, USA.mmrs",
+    "preview": "Terranigma/Freedom, USA.ogg"
+  },
+  {
+    "uuid": "52e4c823-aab8-42a6-b600-ae54f8553afb",
+    "creationDate": "2026-05-14T03:34:25.004Z",
+    "game": "Terranigma",
+    "song": "Fyda",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Terranigma/Fyda.mmrs",
+    "preview": "Terranigma/Fyda.ogg"
+  },
+  {
+    "uuid": "dab2eb72-c27c-4f69-9aeb-a9405c99c76e",
+    "creationDate": "2026-05-14T03:35:30.322Z",
+    "game": "Terranigma",
+    "song": "Defeat",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Terranigma/Defeat.mmrs",
+    "preview": "Terranigma/Defeat.ogg"
+  },
+  {
+    "uuid": "a3fcfb10-9a19-4a00-97f8-ce991666f124",
+    "creationDate": "2026-05-14T03:36:25.024Z",
+    "game": "Terranigma",
+    "song": "Save Data",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Terranigma/Save Data.mmrs",
+    "preview": "Terranigma/Save Data.ogg"
+  },
+  {
+    "uuid": "997dc1f9-c6bd-4b18-8f57-07655a4c8500",
+    "creationDate": "2026-05-14T03:39:04.431Z",
+    "game": "Terranigma",
+    "song": "Top of Saint Mountain",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3"
+    ],
+    "file": "Terranigma/Top of Saint Mountain.mmrs",
+    "preview": "Terranigma/Top of Saint Mountain.ogg"
+  },
+  {
+    "uuid": "c4f589c5-3386-49e8-b5f5-f6d9f1f9df52",
+    "creationDate": "2026-05-14T03:40:21.509Z",
+    "game": "Terranigma",
+    "song": "Willful Lion",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3",
+      "4"
+    ],
+    "file": "Terranigma/Willful Lion.mmrs",
+    "preview": "Terranigma/Willful Lion.ogg"
+  },
+  {
+    "uuid": "967fe711-b0bd-45a6-a70b-47aa2e1c3c27",
+    "creationDate": "2026-05-14T03:41:21.310Z",
+    "game": "Terranigma",
+    "song": "Lhasa",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Terranigma/Lhasa.mmrs",
+    "preview": "Terranigma/Lhasa.ogg"
+  },
+  {
+    "uuid": "55a625df-8f05-4768-8c73-d2755a6086b5",
+    "creationDate": "2026-05-14T03:43:33.490Z",
+    "game": "Terranigma",
+    "song": "Revival of Plants",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "10"
+    ],
+    "file": "Terranigma/Revival of Plants.mmrs",
+    "preview": "Terranigma/Revival of Plants.ogg"
+  },
+  {
+    "uuid": "98561129-24f7-4e47-be18-f4f6071acf0b",
+    "creationDate": "2026-05-14T03:47:40.642Z",
+    "game": "Terranigma",
+    "song": "Liotto",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Terranigma/Liotto.mmrs",
+    "preview": "Terranigma/Liotto.ogg"
+  },
+  {
+    "uuid": "27441e16-9303-49e8-afe7-c731e51f2dcc",
+    "creationDate": "2026-05-14T03:48:50.855Z",
+    "game": "Terranigma",
+    "song": "My Beloved Loire",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Terranigma/My Beloved Loire.mmrs",
+    "preview": "Terranigma/My Beloved Loire.ogg"
+  },
+  {
+    "uuid": "a4a00eff-4528-4a13-9b7f-608750562248",
+    "creationDate": "2026-05-14T03:50:43.800Z",
+    "game": "Terranigma",
+    "song": "New Equipment",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Terranigma/New Equipment.mmrs",
+    "preview": "Terranigma/New Equipment.ogg"
+  },
+  {
+    "uuid": "814be6dc-e212-4fba-989c-a7657e447783",
+    "creationDate": "2026-05-14T03:51:47.202Z",
+    "game": "Terranigma",
+    "song": "Nomads in a Desert",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Terranigma/Nomads in a Desert.mmrs",
+    "preview": "Terranigma/Nomads in a Desert.ogg"
+  },
+  {
+    "uuid": "62f62572-31a8-4021-aa73-63b328077822",
+    "creationDate": "2026-05-14T03:53:53.593Z",
+    "game": "Terranigma",
+    "song": "Overworld",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Terranigma/Overworld.mmrs",
+    "preview": "Terranigma/Overworld.ogg"
+  },
+  {
+    "uuid": "826a3680-d307-4000-bc83-e763897aacc1",
+    "creationDate": "2026-05-14T03:54:59.639Z",
+    "game": "Terranigma",
+    "song": "Perel",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Terranigma/Perel.mmrs",
+    "preview": "Terranigma/Perel.ogg"
+  },
+  {
+    "uuid": "1520e424-1972-4e64-b05f-74ba18e92da1",
+    "creationDate": "2026-05-14T03:55:48.911Z",
+    "game": "Terranigma",
+    "song": "Prime Blue",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Terranigma/Prime Blue.mmrs",
+    "preview": "Terranigma/Prime Blue.ogg"
+  },
+  {
+    "uuid": "15f7be53-deab-4add-a0ec-319ddf0fe61a",
+    "creationDate": "2026-05-14T03:57:20.063Z",
+    "game": "Terranigma",
+    "song": "Royalty",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Terranigma/Royalty.mmrs",
+    "preview": "Terranigma/Royalty.ogg"
+  },
+  {
+    "uuid": "abb957d0-a9f0-4495-a4b5-c9212a53cc2c",
+    "creationDate": "2026-05-14T03:58:01.693Z",
+    "game": "Terranigma",
+    "song": "Royd",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Terranigma/Royd.mmrs",
+    "preview": "Terranigma/Royd.ogg"
+  },
+  {
+    "uuid": "368c30db-87e2-4396-a893-725003a92a2b",
+    "creationDate": "2026-05-14T03:59:37.101Z",
+    "game": "Terranigma",
+    "song": "Run! Run!",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Terranigma/Run! Run!.mmrs",
+    "preview": "Terranigma/Run! Run!.ogg"
+  },
+  {
+    "uuid": "b2f51d29-5316-435a-8573-5c43c6cd5753",
+    "creationDate": "2026-05-14T04:00:57.124Z",
+    "game": "Terranigma",
+    "song": "Shopping",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "144"
+    ],
+    "file": "Terranigma/Shopping.mmrs",
+    "preview": "Terranigma/Shopping.ogg"
+  },
+  {
+    "uuid": "8b6ae2d3-3469-401e-af4e-5fa3649b2274",
+    "creationDate": "2026-05-14T04:04:02.648Z",
+    "game": "Terranigma",
+    "song": "Good Night...",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Terranigma/Good Night....mmrs",
+    "preview": "Terranigma/Good Night....ogg"
+  },
+  {
+    "uuid": "af87d68c-2df0-4b71-a228-c6949425d125",
+    "creationDate": "2026-05-14T04:05:25.019Z",
+    "game": "Terranigma",
+    "song": "Revival of Humans",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Terranigma/Revival of Humans.mmrs",
+    "preview": "Terranigma/Revival of Humans.ogg"
+  },
+  {
+    "uuid": "1ed220c8-2419-41ca-aa61-48fdc1b6723c",
+    "creationDate": "2026-05-14T04:06:20.545Z",
+    "game": "Terranigma",
+    "song": "Tower of Trial",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Terranigma/Tower of Trial.mmrs",
+    "preview": "Terranigma/Tower of Trial.ogg"
+  },
+  {
+    "uuid": "86c2a0d7-ed73-4fa3-8c2e-deebae097329",
+    "creationDate": "2026-05-14T04:07:48.988Z",
+    "game": "Terranigma",
+    "song": "The Gaia Stone",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "157"
+    ],
+    "file": "Terranigma/The Gaia Stone.mmrs",
+    "preview": "Terranigma/The Gaia Stone.ogg"
+  },
+  {
+    "uuid": "dfcc9823-a182-4df2-97ce-217ea1cef004",
+    "creationDate": "2026-05-14T04:12:36.524Z",
+    "game": "Terranigma",
+    "song": "Under the Great Tree",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "notes": "TODO: This one needs fixing; plenty of instruments are completely out of tune.",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Terranigma/Under the Great Tree.mmrs",
+    "preview": "Terranigma/Under the Great Tree.ogg"
+  },
+  {
+    "uuid": "813963ab-b7ea-4630-81c5-d20fc1468d76",
+    "creationDate": "2026-05-14T04:13:22.531Z",
+    "game": "Terranigma",
+    "song": "Yomi",
+    "composers": [
+      "Masanori Hikichi",
+      "Miyoko Kobayashi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "file": "Terranigma/Yomi.mmrs",
+    "preview": "Terranigma/Yomi.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
