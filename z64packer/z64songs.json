@@ -56250,5 +56250,26 @@
     "file": "Terranigma/Save Data.mmrs",
     "preview": "Terranigma/Save Data.ogg"
   },
+  {
+    "uuid": "997dc1f9-c6bd-4b18-8f57-07655a4c8500",
+    "creationDate": "2026-05-14T03:39:04.431Z",
+    "game": "Terranigma",
+    "song": "Top of Saint Mountain",
+    "composers": [
+      "Miyoko Kobayashi",
+      "Masanori Hikichi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3"
+    ],
+    "file": "Terranigma/Top of Saint Mountain.mmrs",
+    "preview": "Terranigma/Top of Saint Mountain.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
