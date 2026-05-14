@@ -55738,5 +55738,24 @@
     "file": "The Fate of the Bombiwa/Plan Exposition.mmrs",
     "preview": "https://www.youtube.com/watch?v=IkSBESVnMHI"
   },
+  {
+    "uuid": "2fd1715a-c74e-454a-9000-bd49a5bb5bde",
+    "creationDate": "2026-05-14T02:42:44.234Z",
+    "game": "The Fate of the Bombiwa",
+    "song": "The Royal Test",
+    "composers": [
+      "DezZival"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Fate of the Bombiwa/The Royal Test.mmrs",
+    "preview": "https://www.youtube.com/watch?v=D3BL23_BZ_I"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
