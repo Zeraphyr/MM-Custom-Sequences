@@ -55657,5 +55657,24 @@
     "file": "Terraria/Plantera.mmrs",
     "preview": "Terraria/Plantera.ogg"
   },
+  {
+    "uuid": "25f4dba4-7f1f-497c-8f91-69c39d147233",
+    "creationDate": "2026-05-14T02:35:11.719Z",
+    "game": "Terraria: Calamity Mod",
+    "song": "Guardian of the Former Seas",
+    "composers": [
+      "DM DOKURO"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Terraria Calamity Mod/Guardian of the Former Seas.mmrs",
+    "preview": "Terraria Calamity Mod/Guardian of the Former Seas.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
