@@ -56838,5 +56838,24 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "00030bad-c8b4-4076-b194-5a246f6680f2",
+    "creationDate": "2026-05-15T02:09:16.364Z",
+    "game": "Tales of the Abyss",
+    "song": "A Song ~Song by Tear~",
+    "composers": [
+      "Motoo Fujiwara"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Tales of the Abyss/A Song ~Song by Tear~.mmrs",
+    "preview": "Tales of the Abyss/A Song ~Song by Tear~.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
