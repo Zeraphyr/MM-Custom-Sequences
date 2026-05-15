@@ -57153,5 +57153,24 @@
     "file": "Tales of Phantasia/Ah My God....mmrs",
     "preview": "Tales of Phantasia/Ah My God....ogg"
   },
+  {
+    "uuid": "d6bfdb3d-af9a-494b-9ce7-f918ab883aaf",
+    "creationDate": "2026-05-15T23:51:15.945Z",
+    "game": "Tales of Phantasia",
+    "song": "Take up the Cross (Variant B)",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Tales of Phantasia/Take up the Cross (Variant B).mmrs",
+    "preview": "Tales of Phantasia/Take up the Cross (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
