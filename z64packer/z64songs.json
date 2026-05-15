@@ -57132,5 +57132,26 @@
     "file": "Tales of Phantasia/Contract.mmrs",
     "preview": "Tales of Phantasia/Contract.ogg"
   },
+  {
+    "uuid": "7209c3b7-2b84-4ab3-8d6a-7da537d2ee37",
+    "creationDate": "2026-05-15T23:49:58.979Z",
+    "game": "Tales of Phantasia",
+    "song": "Ah My God...",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Tales of Phantasia/Ah My God....mmrs",
+    "preview": "Tales of Phantasia/Ah My God....ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
