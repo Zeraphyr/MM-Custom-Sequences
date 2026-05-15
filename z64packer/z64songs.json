@@ -56857,5 +56857,25 @@
     "file": "Tales of the Abyss/A Song ~Song by Tear~.mmrs",
     "preview": "Tales of the Abyss/A Song ~Song by Tear~.ogg"
   },
+  {
+    "uuid": "1aebd16d-79b7-4ddb-a4f5-1f9af1653dc4",
+    "creationDate": "2026-05-15T02:11:12.201Z",
+    "game": "Tales of the Abyss",
+    "song": "Meaning of Birth",
+    "composers": [
+      "Motoo Fujiwara"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Tales of the Abyss/Meaning of Birth.mmrs",
+    "preview": "Tales of the Abyss/Meaning of Birth.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
