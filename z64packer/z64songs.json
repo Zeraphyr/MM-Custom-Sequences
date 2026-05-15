@@ -57050,5 +57050,27 @@
     "file": "Tales of Phantasia/Clown.mmrs",
     "preview": "Tales of Phantasia/Clown.ogg"
   },
+  {
+    "uuid": "886621d6-a6e2-40c6-bf73-d125582021e2",
+    "creationDate": "2026-05-15T02:41:42.197Z",
+    "game": "Tales of Phantasia",
+    "song": "Dhaos's Resurrection",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6",
+      "157"
+    ],
+    "file": "Tales of Phantasia/Dhaos's Resurrection.mmrs",
+    "preview": "Tales of Phantasia/Dhaos's Resurrection.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
