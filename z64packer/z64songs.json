@@ -56972,5 +56972,25 @@
     "file": "Tales of Innocence/Break Through with the Sword (Variant B).mmrs",
     "preview": "Tales of Innocence/Break Through with the Sword (Variant B).ogg"
   },
+  {
+    "uuid": "e4cd782d-0576-46a2-95ba-d2101cdb3226",
+    "creationDate": "2026-05-15T02:30:47.313Z",
+    "game": "Paper Mario: The Origami King",
+    "song": "Red Streamer Battle",
+    "composers": [
+      "Yoshito Sekigawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Paper Mario The Origami King/Red Streamer Battle.mmrs",
+    "preview": "Paper Mario The Origami King/Red Streamer Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
