@@ -57031,5 +57031,24 @@
     "file": "Tales of Phantasia/Be Absentminded.mmrs",
     "preview": "Tales of Phantasia/Be Absentminded.ogg"
   },
+  {
+    "uuid": "09382f68-3cc4-43b1-91fa-b2d482231e3b",
+    "creationDate": "2026-05-15T02:40:24.777Z",
+    "game": "Tales of Phantasia",
+    "song": "Clown",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Tales of Phantasia/Clown.mmrs",
+    "preview": "Tales of Phantasia/Clown.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
