@@ -56992,5 +56992,25 @@
     "file": "Paper Mario The Origami King/Red Streamer Battle.mmrs",
     "preview": "Paper Mario The Origami King/Red Streamer Battle.ogg"
   },
+  {
+    "uuid": "6ab971f3-39aa-448d-8079-ae9697d562c0",
+    "creationDate": "2026-05-15T02:36:02.346Z",
+    "game": "Tales of Phantasia",
+    "song": "Awakening",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Tales of Phantasia/Awakening.mmrs",
+    "preview": "Tales of Phantasia/Awakening.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
