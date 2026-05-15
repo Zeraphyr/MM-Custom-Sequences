@@ -56897,5 +56897,24 @@
     "file": "Tales of Destiny/Bared Fangs (Variant B).mmrs",
     "preview": "Tales of Destiny/Bared Fangs (Variant B).ogg"
   },
+  {
+    "uuid": "def4fc4a-4a37-4e60-a7e0-21a909bc6a58",
+    "creationDate": "2026-05-15T02:14:53.269Z",
+    "game": "Tales of Eternia",
+    "song": "Inferia Battle (Variant B)",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Tales of Eternia/Inferia Battle (Variant B).mmrs",
+    "preview": "Tales of Eternia/Inferia Battle (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
