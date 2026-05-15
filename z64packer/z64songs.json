@@ -57111,5 +57111,26 @@
     "file": "Tales of Phantasia/Fighting of the Spirit (Variant C).mmrs",
     "preview": "Tales of Phantasia/Fighting of the Spirit (Variant C).ogg"
   },
+  {
+    "uuid": "db958433-552f-49f5-b122-a99f7988f9d4",
+    "creationDate": "2026-05-15T23:48:38.550Z",
+    "game": "Tales of Phantasia",
+    "song": "Contract",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Tales of Phantasia/Contract.mmrs",
+    "preview": "Tales of Phantasia/Contract.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
