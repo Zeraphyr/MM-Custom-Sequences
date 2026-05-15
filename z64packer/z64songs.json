@@ -56916,5 +56916,24 @@
     "file": "Tales of Eternia/Inferia Battle (Variant B).mmrs",
     "preview": "Tales of Eternia/Inferia Battle (Variant B).ogg"
   },
+  {
+    "uuid": "45ca85eb-5653-47f5-b8f6-72390d2bb2fe",
+    "creationDate": "2026-05-15T02:17:11.289Z",
+    "game": "Tales of Graces",
+    "song": "Grasp It with All Your Might",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Tales of Graces/Grasp It with All Your Might.mmrs",
+    "preview": "Tales of Graces/Grasp It with All Your Might.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
