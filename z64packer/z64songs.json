@@ -56935,5 +56935,23 @@
     "file": "Tales of Graces/Grasp It with All Your Might.mmrs",
     "preview": "Tales of Graces/Grasp It with All Your Might.ogg"
   },
+  {
+    "uuid": "1531ed9f-b8df-4bb7-9e9b-9a2e86cd7f20",
+    "creationDate": "2026-05-15T02:26:25.575Z",
+    "game": "Tales of Innocence",
+    "song": "Crush with the Sword",
+    "composers": [
+      "Kazuhiro Nakamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "Tales of Innocence/Crush with the Sword.mmrs",
+    "preview": "Tales of Innocence/Crush with the Sword.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
