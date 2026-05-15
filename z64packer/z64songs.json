@@ -57091,5 +57091,25 @@
     "file": "Tales of Phantasia/Fighting of the Spirit (Variant B).mmrs",
     "preview": "Tales of Phantasia/Fighting of the Spirit (Variant B).ogg"
   },
+  {
+    "uuid": "69fc3081-1606-48b5-be72-e1e4f8cf8cf8",
+    "creationDate": "2026-05-15T02:44:56.713Z",
+    "game": "Tales of Phantasia",
+    "song": "Fighting of the Spirit (Variant C)",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "notes": "Same as Variant B, but with pitch bends.",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "Tales of Phantasia/Fighting of the Spirit (Variant C).mmrs",
+    "preview": "Tales of Phantasia/Fighting of the Spirit (Variant C).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
