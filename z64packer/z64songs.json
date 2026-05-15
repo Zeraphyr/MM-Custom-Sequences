@@ -57072,5 +57072,24 @@
     "file": "Tales of Phantasia/Dhaos's Resurrection.mmrs",
     "preview": "Tales of Phantasia/Dhaos's Resurrection.ogg"
   },
+  {
+    "uuid": "c7c4cc4c-6fa0-4c80-8583-b98b099d67c7",
+    "creationDate": "2026-05-15T02:43:33.382Z",
+    "game": "Tales of Phantasia",
+    "song": "Fighting of the Spirit (Variant B)",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "Tales of Phantasia/Fighting of the Spirit (Variant B).mmrs",
+    "preview": "Tales of Phantasia/Fighting of the Spirit (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
