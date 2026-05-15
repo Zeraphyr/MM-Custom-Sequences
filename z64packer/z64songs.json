@@ -56953,5 +56953,24 @@
     "file": "Tales of Innocence/Crush with the Sword.mmrs",
     "preview": "Tales of Innocence/Crush with the Sword.ogg"
   },
+  {
+    "uuid": "d5c2f1bb-9df3-49ec-be7e-b1a6da459f50",
+    "creationDate": "2026-05-15T02:27:34.633Z",
+    "game": "Tales of Innocence",
+    "song": "Break Through with the Sword (Variant B)",
+    "composers": [
+      "Kazuhiro Nakamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Tales of Innocence/Break Through with the Sword (Variant B).mmrs",
+    "preview": "Tales of Innocence/Break Through with the Sword (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
