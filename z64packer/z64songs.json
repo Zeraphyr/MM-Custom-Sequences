@@ -56877,5 +56877,25 @@
     "file": "Tales of the Abyss/Meaning of Birth.mmrs",
     "preview": "Tales of the Abyss/Meaning of Birth.ogg"
   },
+  {
+    "uuid": "9277d7b5-1685-4e0a-a6bd-76fd17d4f59d",
+    "creationDate": "2026-05-15T02:12:31.190Z",
+    "game": "Tales of Destiny",
+    "song": "Bared Fangs (Variant B)",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Tales of Destiny/Bared Fangs (Variant B).mmrs",
+    "preview": "Tales of Destiny/Bared Fangs (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
