@@ -57012,5 +57012,24 @@
     "file": "Tales of Phantasia/Awakening.mmrs",
     "preview": "Tales of Phantasia/Awakening.ogg"
   },
+  {
+    "uuid": "e5336e41-4b33-401f-8659-02d3466d3b26",
+    "creationDate": "2026-05-15T02:37:29.065Z",
+    "game": "Tales of Phantasia",
+    "song": "Be Absentminded",
+    "composers": [
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "file": "Tales of Phantasia/Be Absentminded.mmrs",
+    "preview": "Tales of Phantasia/Be Absentminded.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
