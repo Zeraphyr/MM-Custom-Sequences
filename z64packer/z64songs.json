@@ -56855,7 +56855,10 @@
       "16"
     ],
     "file": "Tales of the Abyss/A Song ~Song by Tear~.mmrs",
-    "preview": "Tales of the Abyss/A Song ~Song by Tear~.ogg"
+    "preview": "Tales of the Abyss/A Song ~Song by Tear~.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1aebd16d-79b7-4ddb-a4f5-1f9af1653dc4",
@@ -56875,7 +56878,10 @@
       "16"
     ],
     "file": "Tales of the Abyss/Meaning of Birth.mmrs",
-    "preview": "Tales of the Abyss/Meaning of Birth.ogg"
+    "preview": "Tales of the Abyss/Meaning of Birth.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "9277d7b5-1685-4e0a-a6bd-76fd17d4f59d",
@@ -56895,7 +56901,10 @@
       "5"
     ],
     "file": "Tales of Destiny/Bared Fangs (Variant B).mmrs",
-    "preview": "Tales of Destiny/Bared Fangs (Variant B).ogg"
+    "preview": "Tales of Destiny/Bared Fangs (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "def4fc4a-4a37-4e60-a7e0-21a909bc6a58",
@@ -56914,7 +56923,10 @@
       "5"
     ],
     "file": "Tales of Eternia/Inferia Battle (Variant B).mmrs",
-    "preview": "Tales of Eternia/Inferia Battle (Variant B).ogg"
+    "preview": "Tales of Eternia/Inferia Battle (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "45ca85eb-5653-47f5-b8f6-72390d2bb2fe",
@@ -56933,7 +56945,10 @@
       "5"
     ],
     "file": "Tales of Graces/Grasp It with All Your Might.mmrs",
-    "preview": "Tales of Graces/Grasp It with All Your Might.ogg"
+    "preview": "Tales of Graces/Grasp It with All Your Might.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1531ed9f-b8df-4bb7-9e9b-9a2e86cd7f20",
@@ -56951,7 +56966,10 @@
       "7"
     ],
     "file": "Tales of Innocence/Crush with the Sword.mmrs",
-    "preview": "Tales of Innocence/Crush with the Sword.ogg"
+    "preview": "Tales of Innocence/Crush with the Sword.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d5c2f1bb-9df3-49ec-be7e-b1a6da459f50",
@@ -56970,7 +56988,10 @@
       "5"
     ],
     "file": "Tales of Innocence/Break Through with the Sword (Variant B).mmrs",
-    "preview": "Tales of Innocence/Break Through with the Sword (Variant B).ogg"
+    "preview": "Tales of Innocence/Break Through with the Sword (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e4cd782d-0576-46a2-95ba-d2101cdb3226",
@@ -56990,7 +57011,10 @@
       "7"
     ],
     "file": "Paper Mario The Origami King/Red Streamer Battle.mmrs",
-    "preview": "Paper Mario The Origami King/Red Streamer Battle.ogg"
+    "preview": "Paper Mario The Origami King/Red Streamer Battle.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "6ab971f3-39aa-448d-8079-ae9697d562c0",
@@ -57010,7 +57034,10 @@
       "10"
     ],
     "file": "Tales of Phantasia/Awakening.mmrs",
-    "preview": "Tales of Phantasia/Awakening.ogg"
+    "preview": "Tales of Phantasia/Awakening.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e5336e41-4b33-401f-8659-02d3466d3b26",
@@ -57029,7 +57056,10 @@
       "6"
     ],
     "file": "Tales of Phantasia/Be Absentminded.mmrs",
-    "preview": "Tales of Phantasia/Be Absentminded.ogg"
+    "preview": "Tales of Phantasia/Be Absentminded.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "09382f68-3cc4-43b1-91fa-b2d482231e3b",
@@ -57048,7 +57078,10 @@
       "16"
     ],
     "file": "Tales of Phantasia/Clown.mmrs",
-    "preview": "Tales of Phantasia/Clown.ogg"
+    "preview": "Tales of Phantasia/Clown.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "886621d6-a6e2-40c6-bf73-d125582021e2",
@@ -57070,7 +57103,10 @@
       "157"
     ],
     "file": "Tales of Phantasia/Dhaos's Resurrection.mmrs",
-    "preview": "Tales of Phantasia/Dhaos's Resurrection.ogg"
+    "preview": "Tales of Phantasia/Dhaos's Resurrection.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c7c4cc4c-6fa0-4c80-8583-b98b099d67c7",
@@ -57089,7 +57125,10 @@
       "7"
     ],
     "file": "Tales of Phantasia/Fighting of the Spirit (Variant B).mmrs",
-    "preview": "Tales of Phantasia/Fighting of the Spirit (Variant B).ogg"
+    "preview": "Tales of Phantasia/Fighting of the Spirit (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "69fc3081-1606-48b5-be72-e1e4f8cf8cf8",
@@ -57109,7 +57148,10 @@
       "7"
     ],
     "file": "Tales of Phantasia/Fighting of the Spirit (Variant C).mmrs",
-    "preview": "Tales of Phantasia/Fighting of the Spirit (Variant C).ogg"
+    "preview": "Tales of Phantasia/Fighting of the Spirit (Variant C).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "db958433-552f-49f5-b122-a99f7988f9d4",
@@ -57130,7 +57172,10 @@
       "10"
     ],
     "file": "Tales of Phantasia/Contract.mmrs",
-    "preview": "Tales of Phantasia/Contract.ogg"
+    "preview": "Tales of Phantasia/Contract.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "7209c3b7-2b84-4ab3-8d6a-7da537d2ee37",
@@ -57151,7 +57196,10 @@
       "10"
     ],
     "file": "Tales of Phantasia/Ah My God....mmrs",
-    "preview": "Tales of Phantasia/Ah My God....ogg"
+    "preview": "Tales of Phantasia/Ah My God....ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d6bfdb3d-af9a-494b-9ce7-f918ab883aaf",
@@ -57170,7 +57218,10 @@
       "5"
     ],
     "file": "Tales of Phantasia/Take up the Cross (Variant B).mmrs",
-    "preview": "Tales of Phantasia/Take up the Cross (Variant B).ogg"
+    "preview": "Tales of Phantasia/Take up the Cross (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "9a7287a1-fa01-463a-b280-a76f762cec3f",
@@ -57192,7 +57243,10 @@
       "3"
     ],
     "file": "Tales of Symphonia/Deepest Woods.mmrs",
-    "preview": "Tales of Symphonia/Deepest Woods.ogg"
+    "preview": "Tales of Symphonia/Deepest Woods.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "0ab0aac1-e36e-402e-a202-460e14036a5e",
@@ -57212,7 +57266,10 @@
       "3"
     ],
     "file": "Tales of Symphonia/Derris-Kharlan.mmrs",
-    "preview": "Tales of Symphonia/Derris-Kharlan.ogg"
+    "preview": "Tales of Symphonia/Derris-Kharlan.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d13f580f-fac0-45b0-bc15-beb34d246b28",
@@ -57231,7 +57288,10 @@
       "3"
     ],
     "file": "Tales of Symphonia/Derris-Kharlan ~Appear~.mmrs",
-    "preview": "Tales of Symphonia/Derris-Kharlan ~Appear~.ogg"
+    "preview": "Tales of Symphonia/Derris-Kharlan ~Appear~.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ff0caf95-03b4-4535-bf23-26391a4ea1b4",
@@ -57250,7 +57310,10 @@
       "3"
     ],
     "file": "Tales of Symphonia/Derris-Kharlan ~Shrine~.mmrs",
-    "preview": "Tales of Symphonia/Derris-Kharlan ~Shrine~.ogg"
+    "preview": "Tales of Symphonia/Derris-Kharlan ~Shrine~.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "7d3ad093-eff7-4197-9d75-9988ebf42241",
@@ -57270,7 +57333,10 @@
       "7"
     ],
     "file": "Tales of Symphonia Dawn of the New World/The More That I Try.mmrs",
-    "preview": "Tales of Symphonia Dawn of the New World/The More That I Try.ogg"
+    "preview": "Tales of Symphonia Dawn of the New World/The More That I Try.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c13945e9-2897-4f03-ac8c-1953c7b61aca",
@@ -57289,7 +57355,10 @@
       "1"
     ],
     "file": "Tales of Symphonia/Dry Trail.mmrs",
-    "preview": "Tales of Symphonia/Dry Trail.ogg"
+    "preview": "Tales of Symphonia/Dry Trail.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "0bb032c2-7c6e-4a8e-ab3d-eb22bfbe8e61",
@@ -57308,7 +57377,10 @@
       "16"
     ],
     "file": "Tales of Symphonia/Eternal Oath.mmrs",
-    "preview": "Tales of Symphonia/Eternal Oath.ogg"
+    "preview": "Tales of Symphonia/Eternal Oath.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a1021da8-dd7a-418c-8adf-bf145db0a983",
@@ -57328,7 +57400,10 @@
       "3"
     ],
     "file": "Tales of Symphonia/Old Familiar Scent of Iselia.mmrs",
-    "preview": "Tales of Symphonia/Old Familiar Scent of Iselia.ogg"
+    "preview": "Tales of Symphonia/Old Familiar Scent of Iselia.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "07956929-c902-4503-afdd-9e984de6c933",
@@ -57349,7 +57424,10 @@
       "6"
     ],
     "file": "Tales of Symphonia/Far From Our World.mmrs",
-    "preview": "Tales of Symphonia/Far From Our World.ogg"
+    "preview": "Tales of Symphonia/Far From Our World.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2017ab7c-d623-4649-b282-75e3377fed61",
@@ -57368,7 +57446,10 @@
       "7"
     ],
     "file": "Tales of Symphonia/Final Destination.mmrs",
-    "preview": "Tales of Symphonia/Final Destination.ogg"
+    "preview": "Tales of Symphonia/Final Destination.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "3da69f7b-8c6e-48a6-bbff-90d42f77270a",
@@ -57388,7 +57469,10 @@
       "2"
     ],
     "file": "Tales of Symphonia/Forest of the Treant.mmrs",
-    "preview": "Tales of Symphonia/Forest of the Treant.ogg"
+    "preview": "Tales of Symphonia/Forest of the Treant.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2e6177d2-eac4-472f-84ff-b4fe978b6f3b",
@@ -57408,7 +57492,10 @@
       "6"
     ],
     "file": "Tales of Symphonia/House of Salvation.mmrs",
-    "preview": "Tales of Symphonia/House of Salvation.ogg"
+    "preview": "Tales of Symphonia/House of Salvation.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "93d5a326-47a5-4a49-8c09-7ada44de0a3d",
@@ -57429,7 +57516,10 @@
       "157"
     ],
     "file": "Tales of Symphonia/Keen-Edged Blade.mmrs",
-    "preview": "Tales of Symphonia/Keen-Edged Blade.ogg"
+    "preview": "Tales of Symphonia/Keen-Edged Blade.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "84403aa5-79db-437b-add9-3ea59f5d349b",
@@ -57449,7 +57539,10 @@
       "7"
     ],
     "file": "Tales of Symphonia/Keep Your Guard Up.mmrs",
-    "preview": "Tales of Symphonia/Keep Your Guard Up.ogg"
+    "preview": "Tales of Symphonia/Keep Your Guard Up.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "179210cb-239f-4ff3-9b7e-49e26650b08a",
@@ -57469,7 +57562,10 @@
       "16"
     ],
     "file": "Tales of Symphonia/Kratos.mmrs",
-    "preview": "Tales of Symphonia/Kratos.ogg"
+    "preview": "Tales of Symphonia/Kratos.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1fb7b235-32d6-4745-9431-2cea03d600a8",
@@ -57489,7 +57585,10 @@
       "157"
     ],
     "file": "Tales of Symphonia/Last Battle ~Will~.mmrs",
-    "preview": "Tales of Symphonia/Last Battle ~Will~.ogg"
+    "preview": "Tales of Symphonia/Last Battle ~Will~.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "53b89c72-a697-44d0-a2f5-148cdcc62921",
@@ -57509,7 +57608,10 @@
       "7"
     ],
     "file": "Tales of Symphonia/Like a Glint of Light.mmrs",
-    "preview": "Tales of Symphonia/Like a Glint of Light.ogg"
+    "preview": "Tales of Symphonia/Like a Glint of Light.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "58742596-9557-4965-b965-d09630c1f85d",
@@ -57528,7 +57630,10 @@
       "10"
     ],
     "file": "Tales of Symphonia/Nobody Knows.mmrs",
-    "preview": "Tales of Symphonia/Nobody Knows.ogg"
+    "preview": "Tales of Symphonia/Nobody Knows.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "f92d0955-241d-43fd-8f67-be3ae8a3ec1d",
@@ -57547,7 +57652,10 @@
       "1"
     ],
     "file": "Tales of Symphonia/The Land of Sylvarant.mmrs",
-    "preview": "Tales of Symphonia/The Land of Sylvarant.ogg"
+    "preview": "Tales of Symphonia/The Land of Sylvarant.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "72e86e40-b464-4cb4-b48c-28d1c8b30eb2",
@@ -57566,7 +57674,10 @@
       "16"
     ],
     "file": "Tales of Symphonia/Tales of Symphonia.mmrs",
-    "preview": "Tales of Symphonia/Tales of Symphonia.ogg"
+    "preview": "Tales of Symphonia/Tales of Symphonia.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "62e7029f-18a5-4893-970e-06797d536d06",
@@ -57586,7 +57697,10 @@
       "16"
     ],
     "file": "Tales of Symphonia/Zelos.mmrs",
-    "preview": "Tales of Symphonia/Zelos.ogg"
+    "preview": "Tales of Symphonia/Zelos.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ebdc47f4-e6ae-4766-8639-71b5f04d42ec",
@@ -57610,7 +57724,10 @@
       "16"
     ],
     "file": "Touhou Gensoukyou Lotus Land Story/Bad Apple!!.mmrs",
-    "preview": "Touhou Gensoukyou Lotus Land Story/Bad Apple!!.ogg"
+    "preview": "Touhou Gensoukyou Lotus Land Story/Bad Apple!!.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "905d9036-aed5-4f5e-8fd3-9af4de73ffe8",
@@ -57628,7 +57745,10 @@
       "7"
     ],
     "file": "Touhou 9 Phantasmagoria of Flower View/Flowering Night.mmrs",
-    "preview": "Touhou 9 Phantasmagoria of Flower View/Flowering Night.ogg"
+    "preview": "Touhou 9 Phantasmagoria of Flower View/Flowering Night.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "0ab70e9c-018a-4eb4-8e42-465a0f5427f6",
@@ -57646,7 +57766,10 @@
       "7"
     ],
     "file": "Touhou 10 Mountain of Faith/Faith is for the Transient People.mmrs",
-    "preview": "Touhou 10 Mountain of Faith/Faith is for the Transient People.ogg"
+    "preview": "Touhou 10 Mountain of Faith/Faith is for the Transient People.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "546da540-f08e-4548-8680-0ce2e43c4342",
@@ -57667,7 +57790,10 @@
       "157"
     ],
     "file": "Tales of Vesperia/Chance for a Big Reversal.mmrs",
-    "preview": "Tales of Vesperia/Chance for a Big Reversal.ogg"
+    "preview": "Tales of Vesperia/Chance for a Big Reversal.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "9c969cea-ff4c-46e5-9109-27c8c4ca1304",
@@ -57688,7 +57814,10 @@
       "16"
     ],
     "file": "Tales of Vesperia/World Map.mmrs",
-    "preview": "Tales of Vesperia/World Map.ogg"
+    "preview": "Tales of Vesperia/World Map.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "358b5c28-5151-4000-96fc-77bff3fd1366",
@@ -57707,7 +57836,10 @@
       "1"
     ],
     "file": "Tales of Xillia/Captivated by the Journey.mmrs",
-    "preview": "Tales of Xillia/Captivated by the Journey.ogg"
+    "preview": "Tales of Xillia/Captivated by the Journey.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
