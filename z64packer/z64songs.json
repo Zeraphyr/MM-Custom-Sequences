@@ -57431,5 +57431,25 @@
     "file": "Tales of Symphonia/Keen-Edged Blade.mmrs",
     "preview": "Tales of Symphonia/Keen-Edged Blade.ogg"
   },
+  {
+    "uuid": "84403aa5-79db-437b-add9-3ea59f5d349b",
+    "creationDate": "2026-05-16T00:59:57.507Z",
+    "game": "Tales of Symphonia",
+    "song": "Keep Your Guard Up",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "file": "Tales of Symphonia/Keep Your Guard Up.mmrs",
+    "preview": "Tales of Symphonia/Keep Your Guard Up.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
