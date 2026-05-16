@@ -57330,5 +57330,26 @@
     "file": "Tales of Symphonia/Old Familiar Scent of Iselia.mmrs",
     "preview": "Tales of Symphonia/Old Familiar Scent of Iselia.ogg"
   },
+  {
+    "uuid": "07956929-c902-4503-afdd-9e984de6c933",
+    "creationDate": "2026-05-16T00:55:04.012Z",
+    "game": "Tales of Symphonia",
+    "song": "Far From Our World",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "file": "Tales of Symphonia/Far From Our World.mmrs",
+    "preview": "Tales of Symphonia/Far From Our World.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
