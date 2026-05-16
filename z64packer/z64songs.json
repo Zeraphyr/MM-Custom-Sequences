@@ -57881,5 +57881,24 @@
     "file": "The Legend of Zelda Twilight Princess/Battle (First Half).mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Battle (First Half).ogg"
   },
+  {
+    "uuid": "3d721976-7692-457b-9052-37a2a5f8c5c9",
+    "creationDate": "2026-05-16T21:25:48.928Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Battle (Second Half)",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Battle (Second Half).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Battle (Second Half).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
