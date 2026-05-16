@@ -57861,5 +57861,25 @@
     "file": "The Legend of Zelda Twilight Princess/Wii Channel Menu.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Wii Channel Menu.ogg"
   },
+  {
+    "uuid": "39b5781f-749a-4e07-a24d-42f9f98b2199",
+    "creationDate": "2026-05-16T21:24:47.274Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Battle (First Half)",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "6"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Battle (First Half).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Battle (First Half).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
