@@ -57172,5 +57172,27 @@
     "file": "Tales of Phantasia/Take up the Cross (Variant B).mmrs",
     "preview": "Tales of Phantasia/Take up the Cross (Variant B).ogg"
   },
+  {
+    "uuid": "9a7287a1-fa01-463a-b280-a76f762cec3f",
+    "creationDate": "2026-05-16T00:21:54.056Z",
+    "game": "Tales of Symphonia",
+    "song": "Deepest Woods",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Tales of Symphonia/Deepest Woods.mmrs",
+    "preview": "Tales of Symphonia/Deepest Woods.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
