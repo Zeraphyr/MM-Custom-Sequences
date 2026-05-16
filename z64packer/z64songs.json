@@ -57530,5 +57530,24 @@
     "file": "Tales of Symphonia/Nobody Knows.mmrs",
     "preview": "Tales of Symphonia/Nobody Knows.ogg"
   },
+  {
+    "uuid": "f92d0955-241d-43fd-8f67-be3ae8a3ec1d",
+    "creationDate": "2026-05-16T01:05:18.706Z",
+    "game": "Tales of Symphonia",
+    "song": "The Land of Sylvarant",
+    "composers": [
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Tales of Symphonia/The Land of Sylvarant.mmrs",
+    "preview": "Tales of Symphonia/The Land of Sylvarant.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
