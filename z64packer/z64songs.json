@@ -57272,5 +57272,24 @@
     "file": "Tales of Symphonia Dawn of the New World/The More That I Try.mmrs",
     "preview": "Tales of Symphonia Dawn of the New World/The More That I Try.ogg"
   },
+  {
+    "uuid": "c13945e9-2897-4f03-ac8c-1953c7b61aca",
+    "creationDate": "2026-05-16T00:50:09.830Z",
+    "game": "Tales of Symphonia",
+    "song": "Dry Trail",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Tales of Symphonia/Dry Trail.mmrs",
+    "preview": "Tales of Symphonia/Dry Trail.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
