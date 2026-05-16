@@ -57958,5 +57958,24 @@
     "file": "The Legend of Zelda Twilight Princess/Item Get.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Item Get.ogg"
   },
+  {
+    "uuid": "64db896b-e06d-416b-9f3b-231c52023c1c",
+    "creationDate": "2026-05-16T21:44:08.700Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Small Item Get",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Small Item Get.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Small Item Get.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
