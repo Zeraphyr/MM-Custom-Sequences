@@ -57900,5 +57900,25 @@
     "file": "The Legend of Zelda Twilight Princess/Battle (Second Half).mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Battle (Second Half).ogg"
   },
+  {
+    "uuid": "5a453ea0-f75a-4554-8fbd-e0b36fb85133",
+    "creationDate": "2026-05-16T21:27:06.913Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Fused Shadow Get",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Fused Shadow Get.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Fused Shadow Get.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
