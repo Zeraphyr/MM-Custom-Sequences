@@ -57471,5 +57471,25 @@
     "file": "Tales of Symphonia/Kratos.mmrs",
     "preview": "Tales of Symphonia/Kratos.ogg"
   },
+  {
+    "uuid": "1fb7b235-32d6-4745-9431-2cea03d600a8",
+    "creationDate": "2026-05-16T01:02:07.828Z",
+    "game": "Tales of Symphonia",
+    "song": "Last Battle ~Will~",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "157"
+    ],
+    "file": "Tales of Symphonia/Last Battle ~Will~.mmrs",
+    "preview": "Tales of Symphonia/Last Battle ~Will~.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
