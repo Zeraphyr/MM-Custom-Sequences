@@ -57233,5 +57233,24 @@
     "file": "Tales of Symphonia/Derris-Kharlan ~Appear~.mmrs",
     "preview": "Tales of Symphonia/Derris-Kharlan ~Appear~.ogg"
   },
+  {
+    "uuid": "ff0caf95-03b4-4535-bf23-26391a4ea1b4",
+    "creationDate": "2026-05-16T00:47:11.189Z",
+    "game": "Tales of Symphonia",
+    "song": "Derris-Kharlan ~Shrine~",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Tales of Symphonia/Derris-Kharlan ~Shrine~.mmrs",
+    "preview": "Tales of Symphonia/Derris-Kharlan ~Shrine~.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
