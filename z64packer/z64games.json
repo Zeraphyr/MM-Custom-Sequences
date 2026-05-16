@@ -3697,25 +3697,42 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/7ed26e5b74f5591924bd2c32297c5c95.png"
   },
   {
-    "game": "Tales of Vesperia"
+    "game": "Tales of Vesperia",
+    "series": "Tales of Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/2a411410d3bb1d0795d4b49c82781ae4.png"
   },
   {
-    "game": "Touhou 9: Phantasmagoria of Flower View"
+    "game": "Touhou 9: Phantasmagoria of Flower View",
+    "series": "Touhou Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/26c79831bb09706f44a4e975518b1997.png",
+    "short_name": "Touhou 9"
   },
   {
-    "game": "Touhou 10: Mountain of Faith"
+    "game": "Touhou 10: Mountain of Faith",
+    "series": "Touhou Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/99e0722e1aa545671c53329a03371f86.png",
+    "short_name": "Touhou 10"
   },
   {
-    "game": "Tales of Xillia"
+    "game": "Tales of Xillia",
+    "series": "Tales of Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/423bda0277208315b660744c034afa04.png"
   },
   {
-    "game": "Tales of Graces"
+    "game": "Tales of Graces",
+    "series": "Tales of Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/3f6a6506d74b74151ac6c9e7a5a57765.png"
   },
   {
-    "game": "Tales of Symphonia: Dawn of the New World"
+    "game": "Tales of Symphonia: Dawn of the New World",
+    "series": "Tales of Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ea3aed2bce2d893088e71e188ebca823.png"
   },
   {
-    "game": "Touhou Gensoukyou: Lotus Land Story"
+    "game": "Touhou Gensoukyou: Lotus Land Story",
+    "series": "Touhou Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/94267a1be8bc63568117c29b78bd5250.png",
+    "short_name": "Touhou 4"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
