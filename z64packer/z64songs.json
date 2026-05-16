@@ -57920,5 +57920,24 @@
     "file": "The Legend of Zelda Twilight Princess/Fused Shadow Get.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Fused Shadow Get.ogg"
   },
+  {
+    "uuid": "29e72921-c69a-4895-bb92-81d6ffa751e6",
+    "creationDate": "2026-05-16T21:28:13.653Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Game Over (Variant B)",
+    "composers": [
+      "Asuka Ota"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Game Over (Variant B).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Game Over (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
