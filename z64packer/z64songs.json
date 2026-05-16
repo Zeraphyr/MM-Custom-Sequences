@@ -57310,5 +57310,25 @@
     "file": "Tales of Symphonia/Eternal Oath.mmrs",
     "preview": "Tales of Symphonia/Eternal Oath.ogg"
   },
+  {
+    "uuid": "a1021da8-dd7a-418c-8adf-bf145db0a983",
+    "creationDate": "2026-05-16T00:53:19.553Z",
+    "game": "Tales of Symphonia",
+    "song": "Old Familiar Scent of Iselia",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Tales of Symphonia/Old Familiar Scent of Iselia.mmrs",
+    "preview": "Tales of Symphonia/Old Familiar Scent of Iselia.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
