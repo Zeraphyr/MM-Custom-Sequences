@@ -57669,5 +57669,26 @@
     "file": "Tales of Vesperia/Chance for a Big Reversal.mmrs",
     "preview": "Tales of Vesperia/Chance for a Big Reversal.ogg"
   },
+  {
+    "uuid": "9c969cea-ff4c-46e5-9109-27c8c4ca1304",
+    "creationDate": "2026-05-16T01:29:37.624Z",
+    "game": "Tales of Vesperia",
+    "song": "World Map",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "notes": "TODO: Am I crazy or this song doesn't sound anything like any of the world maps of ToV? I think this may be a different song...",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "16"
+    ],
+    "file": "Tales of Vesperia/World Map.mmrs",
+    "preview": "Tales of Vesperia/World Map.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
