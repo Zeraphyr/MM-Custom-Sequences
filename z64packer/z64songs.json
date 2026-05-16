@@ -57194,5 +57194,25 @@
     "file": "Tales of Symphonia/Deepest Woods.mmrs",
     "preview": "Tales of Symphonia/Deepest Woods.ogg"
   },
+  {
+    "uuid": "0ab0aac1-e36e-402e-a202-460e14036a5e",
+    "creationDate": "2026-05-16T00:40:17.373Z",
+    "game": "Tales of Symphonia",
+    "song": "Derris-Kharlan",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "notes": "I couldn't recognize which variant of the songs this is...",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Tales of Symphonia/Derris-Kharlan.mmrs",
+    "preview": "Tales of Symphonia/Derris-Kharlan.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
