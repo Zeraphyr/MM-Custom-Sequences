@@ -57410,5 +57410,26 @@
     "file": "Tales of Symphonia/House of Salvation.mmrs",
     "preview": "Tales of Symphonia/House of Salvation.ogg"
   },
+  {
+    "uuid": "93d5a326-47a5-4a49-8c09-7ada44de0a3d",
+    "creationDate": "2026-05-16T00:59:01.554Z",
+    "game": "Tales of Symphonia",
+    "song": "Keen-Edged Blade",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7",
+      "157"
+    ],
+    "file": "Tales of Symphonia/Keen-Edged Blade.mmrs",
+    "preview": "Tales of Symphonia/Keen-Edged Blade.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
