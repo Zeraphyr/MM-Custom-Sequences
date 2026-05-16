@@ -57252,5 +57252,25 @@
     "file": "Tales of Symphonia/Derris-Kharlan ~Shrine~.mmrs",
     "preview": "Tales of Symphonia/Derris-Kharlan ~Shrine~.ogg"
   },
+  {
+    "uuid": "7d3ad093-eff7-4197-9d75-9988ebf42241",
+    "creationDate": "2026-05-16T00:48:13.251Z",
+    "game": "Tales of Symphonia: Dawn of the New World",
+    "song": "The More That I Try",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Tales of Symphonia Dawn of the New World/The More That I Try.mmrs",
+    "preview": "Tales of Symphonia Dawn of the New World/The More That I Try.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
