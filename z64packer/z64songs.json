@@ -57491,5 +57491,25 @@
     "file": "Tales of Symphonia/Last Battle ~Will~.mmrs",
     "preview": "Tales of Symphonia/Last Battle ~Will~.ogg"
   },
+  {
+    "uuid": "53b89c72-a697-44d0-a2f5-148cdcc62921",
+    "creationDate": "2026-05-16T01:03:02.492Z",
+    "game": "Tales of Symphonia",
+    "song": "Like a Glint of Light",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "file": "Tales of Symphonia/Like a Glint of Light.mmrs",
+    "preview": "Tales of Symphonia/Like a Glint of Light.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
