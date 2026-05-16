@@ -57977,5 +57977,24 @@
     "file": "The Legend of Zelda Twilight Princess/Small Item Get.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Small Item Get.ogg"
   },
+  {
+    "uuid": "4aea3925-d869-4049-afa0-0024e83c04a6",
+    "creationDate": "2026-05-16T21:45:25.563Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Golden Bug Catch",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Golden Bug Catch.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Golden Bug Catch.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
