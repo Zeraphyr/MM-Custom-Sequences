@@ -57351,5 +57351,24 @@
     "file": "Tales of Symphonia/Far From Our World.mmrs",
     "preview": "Tales of Symphonia/Far From Our World.ogg"
   },
+  {
+    "uuid": "2017ab7c-d623-4649-b282-75e3377fed61",
+    "creationDate": "2026-05-16T00:56:04.930Z",
+    "game": "Tales of Symphonia",
+    "song": "Final Destination",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "file": "Tales of Symphonia/Final Destination.mmrs",
+    "preview": "Tales of Symphonia/Final Destination.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
