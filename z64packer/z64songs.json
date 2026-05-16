@@ -57690,5 +57690,24 @@
     "file": "Tales of Vesperia/World Map.mmrs",
     "preview": "Tales of Vesperia/World Map.ogg"
   },
+  {
+    "uuid": "358b5c28-5151-4000-96fc-77bff3fd1366",
+    "creationDate": "2026-05-16T01:31:30.814Z",
+    "game": "Tales of Xillia",
+    "song": "Captivated by the Journey",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Tales of Xillia/Captivated by the Journey.mmrs",
+    "preview": "Tales of Xillia/Captivated by the Journey.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
