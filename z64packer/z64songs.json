@@ -57549,5 +57549,24 @@
     "file": "Tales of Symphonia/The Land of Sylvarant.mmrs",
     "preview": "Tales of Symphonia/The Land of Sylvarant.ogg"
   },
+  {
+    "uuid": "72e86e40-b464-4cb4-b48c-28d1c8b30eb2",
+    "creationDate": "2026-05-16T01:06:20.581Z",
+    "game": "Tales of Symphonia",
+    "song": "Tales of Symphonia",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Tales of Symphonia/Tales of Symphonia.mmrs",
+    "preview": "Tales of Symphonia/Tales of Symphonia.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
