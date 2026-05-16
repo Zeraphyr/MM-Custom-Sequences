@@ -57390,5 +57390,25 @@
     "file": "Tales of Symphonia/Forest of the Treant.mmrs",
     "preview": "Tales of Symphonia/Forest of the Treant.ogg"
   },
+  {
+    "uuid": "2e6177d2-eac4-472f-84ff-b4fe978b6f3b",
+    "creationDate": "2026-05-16T00:58:11.736Z",
+    "game": "Tales of Symphonia",
+    "song": "House of Salvation",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Tales of Symphonia/House of Salvation.mmrs",
+    "preview": "Tales of Symphonia/House of Salvation.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
