@@ -57612,5 +57612,23 @@
     "file": "Touhou Gensoukyou Lotus Land Story/Bad Apple!!.mmrs",
     "preview": "Touhou Gensoukyou Lotus Land Story/Bad Apple!!.ogg"
   },
+  {
+    "uuid": "905d9036-aed5-4f5e-8fd3-9af4de73ffe8",
+    "creationDate": "2026-05-16T01:11:28.326Z",
+    "game": "Touhou 9: Phantasmagoria of Flower View",
+    "song": "Flowering Night",
+    "composers": [
+      "ZUN"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "Touhou 9 Phantasmagoria of Flower View/Flowering Night.mmrs",
+    "preview": "Touhou 9 Phantasmagoria of Flower View/Flowering Night.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
