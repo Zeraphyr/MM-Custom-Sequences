@@ -57568,5 +57568,25 @@
     "file": "Tales of Symphonia/Tales of Symphonia.mmrs",
     "preview": "Tales of Symphonia/Tales of Symphonia.ogg"
   },
+  {
+    "uuid": "62e7029f-18a5-4893-970e-06797d536d06",
+    "creationDate": "2026-05-16T01:07:22.984Z",
+    "game": "Tales of Symphonia",
+    "song": "Zelos",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Tales of Symphonia/Zelos.mmrs",
+    "preview": "Tales of Symphonia/Zelos.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
