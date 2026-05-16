@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -57840,6 +57840,26 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
+  },
+  {
+    "uuid": "b7da2a31-d159-4eef-bd0a-206e62e77811",
+    "creationDate": "2026-05-16T21:21:04.146Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Wii Channel Menu",
+    "composers": [
+      "Michiru Oshima"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Wii Channel Menu.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Wii Channel Menu.ogg"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
