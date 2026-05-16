@@ -57291,5 +57291,24 @@
     "file": "Tales of Symphonia/Dry Trail.mmrs",
     "preview": "Tales of Symphonia/Dry Trail.ogg"
   },
+  {
+    "uuid": "0bb032c2-7c6e-4a8e-ab3d-eb22bfbe8e61",
+    "creationDate": "2026-05-16T00:51:28.403Z",
+    "game": "Tales of Symphonia",
+    "song": "Eternal Oath",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Tales of Symphonia/Eternal Oath.mmrs",
+    "preview": "Tales of Symphonia/Eternal Oath.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
