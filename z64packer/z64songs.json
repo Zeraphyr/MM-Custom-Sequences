@@ -56838,5 +56838,876 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "00030bad-c8b4-4076-b194-5a246f6680f2",
+    "creationDate": "2026-05-15T02:09:16.364Z",
+    "game": "Tales of the Abyss",
+    "song": "A Song ~Song by Tear~",
+    "composers": [
+      "Motoo Fujiwara"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Tales of the Abyss/A Song ~Song by Tear~.mmrs",
+    "preview": "Tales of the Abyss/A Song ~Song by Tear~.ogg"
+  },
+  {
+    "uuid": "1aebd16d-79b7-4ddb-a4f5-1f9af1653dc4",
+    "creationDate": "2026-05-15T02:11:12.201Z",
+    "game": "Tales of the Abyss",
+    "song": "Meaning of Birth",
+    "composers": [
+      "Motoo Fujiwara"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Tales of the Abyss/Meaning of Birth.mmrs",
+    "preview": "Tales of the Abyss/Meaning of Birth.ogg"
+  },
+  {
+    "uuid": "9277d7b5-1685-4e0a-a6bd-76fd17d4f59d",
+    "creationDate": "2026-05-15T02:12:31.190Z",
+    "game": "Tales of Destiny",
+    "song": "Bared Fangs (Variant B)",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Tales of Destiny/Bared Fangs (Variant B).mmrs",
+    "preview": "Tales of Destiny/Bared Fangs (Variant B).ogg"
+  },
+  {
+    "uuid": "def4fc4a-4a37-4e60-a7e0-21a909bc6a58",
+    "creationDate": "2026-05-15T02:14:53.269Z",
+    "game": "Tales of Eternia",
+    "song": "Inferia Battle (Variant B)",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Tales of Eternia/Inferia Battle (Variant B).mmrs",
+    "preview": "Tales of Eternia/Inferia Battle (Variant B).ogg"
+  },
+  {
+    "uuid": "45ca85eb-5653-47f5-b8f6-72390d2bb2fe",
+    "creationDate": "2026-05-15T02:17:11.289Z",
+    "game": "Tales of Graces",
+    "song": "Grasp It with All Your Might",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Tales of Graces/Grasp It with All Your Might.mmrs",
+    "preview": "Tales of Graces/Grasp It with All Your Might.ogg"
+  },
+  {
+    "uuid": "1531ed9f-b8df-4bb7-9e9b-9a2e86cd7f20",
+    "creationDate": "2026-05-15T02:26:25.575Z",
+    "game": "Tales of Innocence",
+    "song": "Crush with the Sword",
+    "composers": [
+      "Kazuhiro Nakamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "Tales of Innocence/Crush with the Sword.mmrs",
+    "preview": "Tales of Innocence/Crush with the Sword.ogg"
+  },
+  {
+    "uuid": "d5c2f1bb-9df3-49ec-be7e-b1a6da459f50",
+    "creationDate": "2026-05-15T02:27:34.633Z",
+    "game": "Tales of Innocence",
+    "song": "Break Through with the Sword (Variant B)",
+    "composers": [
+      "Kazuhiro Nakamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Tales of Innocence/Break Through with the Sword (Variant B).mmrs",
+    "preview": "Tales of Innocence/Break Through with the Sword (Variant B).ogg"
+  },
+  {
+    "uuid": "e4cd782d-0576-46a2-95ba-d2101cdb3226",
+    "creationDate": "2026-05-15T02:30:47.313Z",
+    "game": "Paper Mario: The Origami King",
+    "song": "Red Streamer Battle",
+    "composers": [
+      "Yoshito Sekigawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Paper Mario The Origami King/Red Streamer Battle.mmrs",
+    "preview": "Paper Mario The Origami King/Red Streamer Battle.ogg"
+  },
+  {
+    "uuid": "6ab971f3-39aa-448d-8079-ae9697d562c0",
+    "creationDate": "2026-05-15T02:36:02.346Z",
+    "game": "Tales of Phantasia",
+    "song": "Awakening",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Tales of Phantasia/Awakening.mmrs",
+    "preview": "Tales of Phantasia/Awakening.ogg"
+  },
+  {
+    "uuid": "e5336e41-4b33-401f-8659-02d3466d3b26",
+    "creationDate": "2026-05-15T02:37:29.065Z",
+    "game": "Tales of Phantasia",
+    "song": "Be Absentminded",
+    "composers": [
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "file": "Tales of Phantasia/Be Absentminded.mmrs",
+    "preview": "Tales of Phantasia/Be Absentminded.ogg"
+  },
+  {
+    "uuid": "09382f68-3cc4-43b1-91fa-b2d482231e3b",
+    "creationDate": "2026-05-15T02:40:24.777Z",
+    "game": "Tales of Phantasia",
+    "song": "Clown",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Tales of Phantasia/Clown.mmrs",
+    "preview": "Tales of Phantasia/Clown.ogg"
+  },
+  {
+    "uuid": "886621d6-a6e2-40c6-bf73-d125582021e2",
+    "creationDate": "2026-05-15T02:41:42.197Z",
+    "game": "Tales of Phantasia",
+    "song": "Dhaos's Resurrection",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6",
+      "157"
+    ],
+    "file": "Tales of Phantasia/Dhaos's Resurrection.mmrs",
+    "preview": "Tales of Phantasia/Dhaos's Resurrection.ogg"
+  },
+  {
+    "uuid": "c7c4cc4c-6fa0-4c80-8583-b98b099d67c7",
+    "creationDate": "2026-05-15T02:43:33.382Z",
+    "game": "Tales of Phantasia",
+    "song": "Fighting of the Spirit (Variant B)",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "Tales of Phantasia/Fighting of the Spirit (Variant B).mmrs",
+    "preview": "Tales of Phantasia/Fighting of the Spirit (Variant B).ogg"
+  },
+  {
+    "uuid": "69fc3081-1606-48b5-be72-e1e4f8cf8cf8",
+    "creationDate": "2026-05-15T02:44:56.713Z",
+    "game": "Tales of Phantasia",
+    "song": "Fighting of the Spirit (Variant C)",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "notes": "Same as Variant B, but with pitch bends.",
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "Tales of Phantasia/Fighting of the Spirit (Variant C).mmrs",
+    "preview": "Tales of Phantasia/Fighting of the Spirit (Variant C).ogg"
+  },
+  {
+    "uuid": "db958433-552f-49f5-b122-a99f7988f9d4",
+    "creationDate": "2026-05-15T23:48:38.550Z",
+    "game": "Tales of Phantasia",
+    "song": "Contract",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Tales of Phantasia/Contract.mmrs",
+    "preview": "Tales of Phantasia/Contract.ogg"
+  },
+  {
+    "uuid": "7209c3b7-2b84-4ab3-8d6a-7da537d2ee37",
+    "creationDate": "2026-05-15T23:49:58.979Z",
+    "game": "Tales of Phantasia",
+    "song": "Ah My God...",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Tales of Phantasia/Ah My God....mmrs",
+    "preview": "Tales of Phantasia/Ah My God....ogg"
+  },
+  {
+    "uuid": "d6bfdb3d-af9a-494b-9ce7-f918ab883aaf",
+    "creationDate": "2026-05-15T23:51:15.945Z",
+    "game": "Tales of Phantasia",
+    "song": "Take up the Cross (Variant B)",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "Tales of Phantasia/Take up the Cross (Variant B).mmrs",
+    "preview": "Tales of Phantasia/Take up the Cross (Variant B).ogg"
+  },
+  {
+    "uuid": "9a7287a1-fa01-463a-b280-a76f762cec3f",
+    "creationDate": "2026-05-16T00:21:54.056Z",
+    "game": "Tales of Symphonia",
+    "song": "Deepest Woods",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Tales of Symphonia/Deepest Woods.mmrs",
+    "preview": "Tales of Symphonia/Deepest Woods.ogg"
+  },
+  {
+    "uuid": "0ab0aac1-e36e-402e-a202-460e14036a5e",
+    "creationDate": "2026-05-16T00:40:17.373Z",
+    "game": "Tales of Symphonia",
+    "song": "Derris-Kharlan",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "notes": "I couldn't recognize which variant of the songs this is...",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Tales of Symphonia/Derris-Kharlan.mmrs",
+    "preview": "Tales of Symphonia/Derris-Kharlan.ogg"
+  },
+  {
+    "uuid": "d13f580f-fac0-45b0-bc15-beb34d246b28",
+    "creationDate": "2026-05-16T00:45:57.686Z",
+    "game": "Tales of Symphonia",
+    "song": "Derris-Kharlan ~Appear~",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Tales of Symphonia/Derris-Kharlan ~Appear~.mmrs",
+    "preview": "Tales of Symphonia/Derris-Kharlan ~Appear~.ogg"
+  },
+  {
+    "uuid": "ff0caf95-03b4-4535-bf23-26391a4ea1b4",
+    "creationDate": "2026-05-16T00:47:11.189Z",
+    "game": "Tales of Symphonia",
+    "song": "Derris-Kharlan ~Shrine~",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Tales of Symphonia/Derris-Kharlan ~Shrine~.mmrs",
+    "preview": "Tales of Symphonia/Derris-Kharlan ~Shrine~.ogg"
+  },
+  {
+    "uuid": "7d3ad093-eff7-4197-9d75-9988ebf42241",
+    "creationDate": "2026-05-16T00:48:13.251Z",
+    "game": "Tales of Symphonia: Dawn of the New World",
+    "song": "The More That I Try",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Tales of Symphonia Dawn of the New World/The More That I Try.mmrs",
+    "preview": "Tales of Symphonia Dawn of the New World/The More That I Try.ogg"
+  },
+  {
+    "uuid": "c13945e9-2897-4f03-ac8c-1953c7b61aca",
+    "creationDate": "2026-05-16T00:50:09.830Z",
+    "game": "Tales of Symphonia",
+    "song": "Dry Trail",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Tales of Symphonia/Dry Trail.mmrs",
+    "preview": "Tales of Symphonia/Dry Trail.ogg"
+  },
+  {
+    "uuid": "0bb032c2-7c6e-4a8e-ab3d-eb22bfbe8e61",
+    "creationDate": "2026-05-16T00:51:28.403Z",
+    "game": "Tales of Symphonia",
+    "song": "Eternal Oath",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Tales of Symphonia/Eternal Oath.mmrs",
+    "preview": "Tales of Symphonia/Eternal Oath.ogg"
+  },
+  {
+    "uuid": "a1021da8-dd7a-418c-8adf-bf145db0a983",
+    "creationDate": "2026-05-16T00:53:19.553Z",
+    "game": "Tales of Symphonia",
+    "song": "Old Familiar Scent of Iselia",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Tales of Symphonia/Old Familiar Scent of Iselia.mmrs",
+    "preview": "Tales of Symphonia/Old Familiar Scent of Iselia.ogg"
+  },
+  {
+    "uuid": "07956929-c902-4503-afdd-9e984de6c933",
+    "creationDate": "2026-05-16T00:55:04.012Z",
+    "game": "Tales of Symphonia",
+    "song": "Far From Our World",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "6"
+    ],
+    "file": "Tales of Symphonia/Far From Our World.mmrs",
+    "preview": "Tales of Symphonia/Far From Our World.ogg"
+  },
+  {
+    "uuid": "2017ab7c-d623-4649-b282-75e3377fed61",
+    "creationDate": "2026-05-16T00:56:04.930Z",
+    "game": "Tales of Symphonia",
+    "song": "Final Destination",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "file": "Tales of Symphonia/Final Destination.mmrs",
+    "preview": "Tales of Symphonia/Final Destination.ogg"
+  },
+  {
+    "uuid": "3da69f7b-8c6e-48a6-bbff-90d42f77270a",
+    "creationDate": "2026-05-16T00:56:58.243Z",
+    "game": "Tales of Symphonia",
+    "song": "Forest of the Treant",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Tales of Symphonia/Forest of the Treant.mmrs",
+    "preview": "Tales of Symphonia/Forest of the Treant.ogg"
+  },
+  {
+    "uuid": "2e6177d2-eac4-472f-84ff-b4fe978b6f3b",
+    "creationDate": "2026-05-16T00:58:11.736Z",
+    "game": "Tales of Symphonia",
+    "song": "House of Salvation",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Tales of Symphonia/House of Salvation.mmrs",
+    "preview": "Tales of Symphonia/House of Salvation.ogg"
+  },
+  {
+    "uuid": "93d5a326-47a5-4a49-8c09-7ada44de0a3d",
+    "creationDate": "2026-05-16T00:59:01.554Z",
+    "game": "Tales of Symphonia",
+    "song": "Keen-Edged Blade",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7",
+      "157"
+    ],
+    "file": "Tales of Symphonia/Keen-Edged Blade.mmrs",
+    "preview": "Tales of Symphonia/Keen-Edged Blade.ogg"
+  },
+  {
+    "uuid": "84403aa5-79db-437b-add9-3ea59f5d349b",
+    "creationDate": "2026-05-16T00:59:57.507Z",
+    "game": "Tales of Symphonia",
+    "song": "Keep Your Guard Up",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "file": "Tales of Symphonia/Keep Your Guard Up.mmrs",
+    "preview": "Tales of Symphonia/Keep Your Guard Up.ogg"
+  },
+  {
+    "uuid": "179210cb-239f-4ff3-9b7e-49e26650b08a",
+    "creationDate": "2026-05-16T01:00:58.896Z",
+    "game": "Tales of Symphonia",
+    "song": "Kratos",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Tales of Symphonia/Kratos.mmrs",
+    "preview": "Tales of Symphonia/Kratos.ogg"
+  },
+  {
+    "uuid": "1fb7b235-32d6-4745-9431-2cea03d600a8",
+    "creationDate": "2026-05-16T01:02:07.828Z",
+    "game": "Tales of Symphonia",
+    "song": "Last Battle ~Will~",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "157"
+    ],
+    "file": "Tales of Symphonia/Last Battle ~Will~.mmrs",
+    "preview": "Tales of Symphonia/Last Battle ~Will~.ogg"
+  },
+  {
+    "uuid": "53b89c72-a697-44d0-a2f5-148cdcc62921",
+    "creationDate": "2026-05-16T01:03:02.492Z",
+    "game": "Tales of Symphonia",
+    "song": "Like a Glint of Light",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7"
+    ],
+    "file": "Tales of Symphonia/Like a Glint of Light.mmrs",
+    "preview": "Tales of Symphonia/Like a Glint of Light.ogg"
+  },
+  {
+    "uuid": "58742596-9557-4965-b965-d09630c1f85d",
+    "creationDate": "2026-05-16T01:04:05.983Z",
+    "game": "Tales of Symphonia",
+    "song": "Nobody Knows",
+    "composers": [
+      "Akio Shimizu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Tales of Symphonia/Nobody Knows.mmrs",
+    "preview": "Tales of Symphonia/Nobody Knows.ogg"
+  },
+  {
+    "uuid": "f92d0955-241d-43fd-8f67-be3ae8a3ec1d",
+    "creationDate": "2026-05-16T01:05:18.706Z",
+    "game": "Tales of Symphonia",
+    "song": "The Land of Sylvarant",
+    "composers": [
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Tales of Symphonia/The Land of Sylvarant.mmrs",
+    "preview": "Tales of Symphonia/The Land of Sylvarant.ogg"
+  },
+  {
+    "uuid": "72e86e40-b464-4cb4-b48c-28d1c8b30eb2",
+    "creationDate": "2026-05-16T01:06:20.581Z",
+    "game": "Tales of Symphonia",
+    "song": "Tales of Symphonia",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Tales of Symphonia/Tales of Symphonia.mmrs",
+    "preview": "Tales of Symphonia/Tales of Symphonia.ogg"
+  },
+  {
+    "uuid": "62e7029f-18a5-4893-970e-06797d536d06",
+    "creationDate": "2026-05-16T01:07:22.984Z",
+    "game": "Tales of Symphonia",
+    "song": "Zelos",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Tales of Symphonia/Zelos.mmrs",
+    "preview": "Tales of Symphonia/Zelos.ogg"
+  },
+  {
+    "uuid": "ebdc47f4-e6ae-4766-8639-71b5f04d42ec",
+    "creationDate": "2026-05-16T01:09:15.431Z",
+    "game": "Touhou Gensoukyou: Lotus Land Story",
+    "song": "Bad Apple!!",
+    "composers": [
+      "ZUN (Jun'ya Ota)"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "5",
+      "7",
+      "16"
+    ],
+    "file": "Touhou Gensoukyou Lotus Land Story/Bad Apple!!.mmrs",
+    "preview": "Touhou Gensoukyou Lotus Land Story/Bad Apple!!.ogg"
+  },
+  {
+    "uuid": "905d9036-aed5-4f5e-8fd3-9af4de73ffe8",
+    "creationDate": "2026-05-16T01:11:28.326Z",
+    "game": "Touhou 9: Phantasmagoria of Flower View",
+    "song": "Flowering Night",
+    "composers": [
+      "ZUN"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "Touhou 9 Phantasmagoria of Flower View/Flowering Night.mmrs",
+    "preview": "Touhou 9 Phantasmagoria of Flower View/Flowering Night.ogg"
+  },
+  {
+    "uuid": "0ab70e9c-018a-4eb4-8e42-465a0f5427f6",
+    "creationDate": "2026-05-16T01:12:45.007Z",
+    "game": "Touhou 10: Mountain of Faith",
+    "song": "Faith is for the Transient People",
+    "composers": [
+      "ZUN"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "Touhou 10 Mountain of Faith/Faith is for the Transient People.mmrs",
+    "preview": "Touhou 10 Mountain of Faith/Faith is for the Transient People.ogg"
+  },
+  {
+    "uuid": "546da540-f08e-4548-8680-0ce2e43c4342",
+    "creationDate": "2026-05-16T01:13:49.570Z",
+    "game": "Tales of Vesperia",
+    "song": "Chance for a Big Reversal",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7",
+      "16",
+      "157"
+    ],
+    "file": "Tales of Vesperia/Chance for a Big Reversal.mmrs",
+    "preview": "Tales of Vesperia/Chance for a Big Reversal.ogg"
+  },
+  {
+    "uuid": "9c969cea-ff4c-46e5-9109-27c8c4ca1304",
+    "creationDate": "2026-05-16T01:29:37.624Z",
+    "game": "Tales of Vesperia",
+    "song": "World Map",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "notes": "TODO: Am I crazy or this song doesn't sound anything like any of the world maps of ToV? I think this may be a different song...",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "16"
+    ],
+    "file": "Tales of Vesperia/World Map.mmrs",
+    "preview": "Tales of Vesperia/World Map.ogg"
+  },
+  {
+    "uuid": "358b5c28-5151-4000-96fc-77bff3fd1366",
+    "creationDate": "2026-05-16T01:31:30.814Z",
+    "game": "Tales of Xillia",
+    "song": "Captivated by the Journey",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Tales of Xillia/Captivated by the Journey.mmrs",
+    "preview": "Tales of Xillia/Captivated by the Journey.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
