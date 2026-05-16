@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -1908,7 +1908,7 @@
   {
     "uuid": "b15479db-9837-4480-853b-4355813e77bc",
     "creationDate": "2026-03-08T04:06:38.967Z",
-    "game": "Touhou Kanjuden ~ Legacy of Lunatic Kingdom",
+    "game": "Touhou 15: Legacy of Lunatic Kingdom",
     "song": "Pure Furies ~ Whereabouts of the Heart",
     "composers": [
       "ZUN (Jun'ya Ōta)"
@@ -1926,13 +1926,13 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Touhou Kanjuden ~ Legacy of Lunatic Kingdom/Pure Furies ~ Whereabouts of the Heart.mmrs",
+    "file": "Touhou 15 Legacy of Lunatic Kingdom/Pure Furies ~ Whereabouts of the Heart.mmrs",
     "preview": "https://www.youtube.com/watch?v=-HMrPlCkiBk"
   },
   {
     "uuid": "9e12647e-b42b-40f6-84db-a051b3f546b7",
     "creationDate": "2026-03-08T04:10:32.821Z",
-    "game": "Touhou Kishinjō ~ Double Dealing Character",
+    "game": "Touhou 14: Double Dealing Character",
     "song": "Little Princess",
     "composers": [
       "ZUN (Jun'ya Ōta)"
@@ -1949,13 +1949,13 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "usesFormmask": false,
-    "file": "Touhou Kishinjō ~ Double Dealing Character/Little Princess.mmrs",
+    "file": "Touhou 14 Double Dealing Character/Little Princess.mmrs",
     "preview": "https://www.youtube.com/watch?v=b_YeLlaAIow"
   },
   {
     "uuid": "2e15fe9f-428d-417b-980b-cc830ef40470",
     "creationDate": "2026-03-08T04:12:08.308Z",
-    "game": "Touhou Chiireiden ~ Subterranean Animism",
+    "game": "Touhou 11: Subterranean Animism",
     "song": "Solar Sect of Mystic Wisdom ~ Nuclear Fusion",
     "composers": [
       "ZUN (Jun'ya Ōta)"
@@ -1972,13 +1972,13 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Touhou Chiireiden ~ Subterranean Animism/Nuclear Fusion.mmrs",
+    "file": "Touhou 11 Subterranean Animism/Nuclear Fusion.mmrs",
     "preview": "https://www.youtube.com/watch?v=_OuDrljGe6U"
   },
   {
     "uuid": "c3895083-f31d-43d0-8e01-b8f70c30b4d0",
     "creationDate": "2026-03-08T04:14:32.789Z",
-    "game": "Touhou Youyoumu ~ Perfect Cherry Blossom",
+    "game": "Touhou 7: Perfect Cherry Blossom",
     "song": "Necrofantasia",
     "composers": [
       "ZUN (Jun'ya Ōta)"
@@ -1997,13 +1997,13 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Touhou Youyoumu ~ Perfect Cherry Blossom/Necrofantasia.mmrs",
+    "file": "Touhou 7 Perfect Cherry Blossom/Necrofantasia.mmrs",
     "preview": "https://www.youtube.com/watch?v=H9J20in_SRg"
   },
   {
     "uuid": "88b51720-7b43-42e6-9329-01a628c5d973",
     "creationDate": "2026-03-08T04:17:09.092Z",
-    "game": "Touhou Eiyashou ~ Imperishable Night",
+    "game": "Touhou 8: Imperishable Night",
     "song": "Flight of the Bamboo Cutter ~ Lunatic Princess",
     "composers": [
       "ZUN (Jun'ya Ōta)"
@@ -2020,13 +2020,13 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Touhou Eiyashou ~ Imperishable Night/Flight of the Bamboo Cutter ~ Lunatic Princess.mmrs",
+    "file": "Touhou 8 Imperishable Night/Flight of the Bamboo Cutter ~ Lunatic Princess.mmrs",
     "preview": "https://www.youtube.com/watch?v=Q0CuJDs1Wjw"
   },
   {
     "uuid": "8ef261bb-b06f-47f4-96cc-4b6dba21ca4b",
     "creationDate": "2026-03-08T04:18:57.380Z",
-    "game": "Touhou Eiyashou ~ Imperishable Night",
+    "game": "Touhou 8: Imperishable Night",
     "song": "Cinderella Cage ~ Kagome-Kagome",
     "composers": [
       "ZUN (Jun'ya Ōta)"
@@ -2044,13 +2044,13 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Touhou Eiyashou ~ Imperishable Night/Cinderella Cage ~ Kagome-Kagome.mmrs",
+    "file": "Touhou 8 Imperishable Night/Cinderella Cage ~ Kagome-Kagome.mmrs",
     "preview": "https://www.youtube.com/watch?v=ye7RSS3Uh-Q"
   },
   {
     "uuid": "4626df5f-ca67-429c-9780-8117e1c4043e",
     "creationDate": "2026-03-08T04:21:06.815Z",
-    "game": "Touhou Eiyashou ~ Imperishable Night",
+    "game": "Touhou 8: Imperishable Night",
     "song": "Gensokyo Millenium ~ History of the Moon",
     "composers": [
       "ZUN (Jun'ya Ōta)"
@@ -2068,13 +2068,13 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Touhou Eiyashou ~ Imperishable Night/Gensokyo Millenium ~ History of the Moon.mmrs",
+    "file": "Touhou 8 Imperishable Night/Gensokyo Millenium ~ History of the Moon.mmrs",
     "preview": "https://www.youtube.com/watch?v=Xapm9433lwg"
   },
   {
     "uuid": "b0bf8f76-de7b-4c6f-a833-857f814cd1b5",
     "creationDate": "2026-03-08T04:23:36.952Z",
-    "game": "Touhou Kanjuden ~ Legacy of Lunatic Kingdom",
+    "game": "Touhou 15: Legacy of Lunatic Kingdom",
     "song": "The Reversed Wheel of Fortune",
     "composers": [
       "ZUN (Jun'ya Ōta)"
@@ -2092,13 +2092,13 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Touhou Kanjuden ~ Legacy of Lunatic Kingdom/Reversed Wheel of Fortune.mmrs",
+    "file": "Touhou 15 Legacy of Lunatic Kingdom/Reversed Wheel of Fortune.mmrs",
     "preview": "https://www.youtube.com/watch?v=q8l7y4XZivE"
   },
   {
     "uuid": "8b7ca7ea-0a0f-4e3f-986a-259805bd1f5f",
     "creationDate": "2026-03-08T04:25:47.370Z",
-    "game": "Touhou Fuujinroku ~ Mountain of Faith",
+    "game": "Touhou 10: Mountain of Faith",
     "song": "Nitori's Theme ~ Candid Friend",
     "composers": [
       "ZUN (Jun'ya Ōta)"
@@ -2116,13 +2116,13 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Touhou Fuujinroku ~ Mountain of Faith/Nitori's Theme ~ Candid Friend.mmrs",
+    "file": "Touhou 10 Mountain of Faith/Nitori's Theme ~ Candid Friend.mmrs",
     "preview": "https://www.youtube.com/watch?v=T45q4Bi5_i4"
   },
   {
     "uuid": "3255f0da-b10a-4456-a518-6d21362ed93b",
     "creationDate": "2026-03-08T04:28:15.840Z",
-    "game": "Touhou Kishinjō ~ Double Dealing Character",
+    "game": "Touhou 14: Double Dealing Character",
     "song": "Primordial Beat ~ Pristine Beat",
     "composers": [
       "ZUN (Jun'ya Ōta)"
@@ -2139,13 +2139,13 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Touhou Kishinjō ~ Double Dealing Character/Primordial Beat ~ Pristine Beat.mmrs",
+    "file": "Touhou 14 Double Dealing Character/Primordial Beat ~ Pristine Beat.mmrs",
     "preview": "https://www.youtube.com/watch?v=pL_IIRtrX-c"
   },
   {
     "uuid": "c33a4160-7162-4e92-b525-6a48d8c6e0a1",
     "creationDate": "2026-03-08T04:30:15.678Z",
-    "game": "Touhou Chiireiden ~ Subterranean Animism",
+    "game": "Touhou 11: Subterranean Animism",
     "song": "Last Remote ~ Koishi Komeiji's Theme",
     "composers": [
       "ZUN (Jun'ya Ōta)"
@@ -2163,13 +2163,13 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Touhou Chiireiden ~ Subterranean Animism/Last Remote ~ Koishi Komeiji's Theme.mmrs",
+    "file": "Touhou 11 Subterranean Animism/Last Remote ~ Koishi Komeiji's Theme.mmrs",
     "preview": "https://www.youtube.com/watch?v=o0DItw06QDc"
   },
   {
     "uuid": "3eed143b-fee0-46c0-91b9-4df39e46e964",
     "creationDate": "2026-03-08T04:31:54.334Z",
-    "game": "Touhou Chiireiden ~ Subterranean Animism",
+    "game": "Touhou 11: Subterranean Animism",
     "song": "Hartmann's Youkai Girl",
     "composers": [
       "ZUN (Jun'ya Ōta)"
@@ -2186,13 +2186,13 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "usesFormmask": false,
-    "file": "Touhou Chiireiden ~ Subterranean Animism/Hartmann's Youkai Girl.mmrs",
+    "file": "Touhou 11 Subterranean Animism/Hartmann's Youkai Girl.mmrs",
     "preview": "https://www.youtube.com/watch?v=PUXk4b1vZOQ"
   },
   {
     "uuid": "785dd695-0541-4b1e-a2db-9dde774bc60b",
     "creationDate": "2026-03-08T04:33:42.572Z",
-    "game": "Touhou Kanjuden ~ Legacy of Lunatic Kingdom",
+    "game": "Touhou 15: Legacy of Lunatic Kingdom",
     "song": "Faraway Voyage Of 380000 Kilometers",
     "composers": [
       "ZUN (Jun'ya Ōta)"
@@ -2210,13 +2210,13 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Touhou Kanjuden ~ Legacy of Lunatic Kingdom/Faraway Voyage Of 380000 Kilometers.mmrs",
+    "file": "Touhou 15 Legacy of Lunatic Kingdom/Faraway Voyage Of 380000 Kilometers.mmrs",
     "preview": "https://www.youtube.com/watch?v=67yHCG3kaf8"
   },
   {
     "uuid": "595eb388-9c7a-4209-a763-894075448b29",
     "creationDate": "2026-03-08T04:35:34.134Z",
-    "game": "Touhou Youyoumu ~ Perfect Cherry Blossom",
+    "game": "Touhou 7: Perfect Cherry Blossom",
     "song": "The Doll Maker of Bucuresti",
     "composers": [
       "ZUN (Jun'ya Ōta)"
@@ -2234,13 +2234,13 @@
     "usesCustomBank": true,
     "usesCustomSamples": true,
     "usesFormmask": false,
-    "file": "Touhou Youyoumu ~ Perfect Cherry Blossom/The Doll Maker of Bucuresti.mmrs",
+    "file": "Touhou 7 Perfect Cherry Blossom/The Doll Maker of Bucuresti.mmrs",
     "preview": "https://www.youtube.com/watch?v=waURzG07PKo"
   },
   {
     "uuid": "20039ec4-7627-47f3-8395-a01e5cc88a1f",
     "creationDate": "2026-03-08T04:37:14.475Z",
-    "game": "Touhou Eiyashou ~ Imperishable Night",
+    "game": "Touhou 8: Imperishable Night",
     "song": "Retribution for the Eternal Night ~ Imperishable Night",
     "composers": [
       "ZUN (Jun'ya Ōta)"
@@ -2258,13 +2258,13 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Touhou Eiyashou ~ Imperishable Night/Imperishable Night.mmrs",
+    "file": "Touhou 8 Imperishable Night/Imperishable Night.mmrs",
     "preview": "https://www.youtube.com/watch?v=ga7bC1aFwLE"
   },
   {
     "uuid": "0ab0d224-7a4d-4497-abcb-2be1b2eca475",
     "creationDate": "2026-03-08T04:39:39.585Z",
-    "game": "Touhou Eiyashou ~ Imperishable Night",
+    "game": "Touhou 8: Imperishable Night",
     "song": "Reach for the Moon, Immortal Smoke",
     "composers": [
       "ZUN (Jun'ya Ōta)"
@@ -2281,13 +2281,13 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Touhou Eiyashou ~ Imperishable Night/Reach for the Moon, Immortal Smoke.mmrs",
+    "file": "Touhou 8 Imperishable Night/Reach for the Moon, Immortal Smoke.mmrs",
     "preview": "https://www.youtube.com/watch?v=9IzMiwHULvk"
   },
   {
     "uuid": "0c17324e-1135-444a-9aae-d250db8cf227",
     "creationDate": "2026-03-08T04:42:16.428Z",
-    "game": "Touhou Eiyashou ~ Imperishable Night",
+    "game": "Touhou 8: Imperishable Night",
     "song": "Lunatic Eyes ~ Invisible Full Moon",
     "composers": [
       "ZUN (Jun'ya Ōta)"
@@ -2304,7 +2304,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Touhou Eiyashou ~ Imperishable Night/Lunatic Eyes Invisible Moon.mmrs",
+    "file": "Touhou 8 Imperishable Night/Lunatic Eyes Invisible Moon.mmrs",
     "preview": "https://www.youtube.com/watch?v=HPUri6eYb5s"
   },
   {
@@ -21280,7 +21280,7 @@
   {
     "uuid": "7f11ea48-7169-4a20-90b2-3f479c56aba7",
     "creationDate": "2026-03-25T13:33:50.565Z",
-    "game": "Touhou Koumakyou ~ the Embodiment of Scarlet Devil",
+    "game": "Touhou 6: The Embodiment of Scarlet Devil",
     "song": "Septette for a Dead Princess",
     "composers": [
       "ZUN"
@@ -21296,13 +21296,13 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Touhou Koumakyou ~ the Embodiment of Scarlet Devil/Septette for a Dead Princess.mmrs",
-    "preview": "Touhou Koumakyou ~ the Embodiment of Scarlet Devil/Septette for a Dead Princess.mp3"
+    "file": "Touhou 6 The Embodiment of Scarlet Devil/Septette for a Dead Princess.mmrs",
+    "preview": "Touhou 6 The Embodiment of Scarlet Devil/Septette for a Dead Princess.mp3"
   },
   {
     "uuid": "588797b7-d5a3-4c8f-8a6c-7a5432c8fc6e",
     "creationDate": "2026-03-25T13:34:43.891Z",
-    "game": "Touhou Youyoumu ~ Perfect Cherry Blossom",
+    "game": "Touhou 7: Perfect Cherry Blossom",
     "song": "Border of Life",
     "composers": [
       "ZUN"
@@ -21318,13 +21318,13 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Touhou Youyoumu ~ Perfect Cherry Blossom/Border of Life.mmrs",
-    "preview": "Touhou Youyoumu ~ Perfect Cherry Blossom/Border of Life.mp3"
+    "file": "Touhou 7 Perfect Cherry Blossom/Border of Life.mmrs",
+    "preview": "Touhou 7 Perfect Cherry Blossom/Border of Life.mp3"
   },
   {
     "uuid": "45bc3578-7a62-4bf8-8897-8e58ef40cdba",
     "creationDate": "2026-03-25T15:08:14.740Z",
-    "game": "Touhou Youyoumu ~ Perfect Cherry Blossom",
+    "game": "Touhou 7: Perfect Cherry Blossom",
     "song": "Ghostly Band ~ Phantom Ensemble",
     "composers": [
       "ZUN"
@@ -21340,13 +21340,13 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Touhou Youyoumu ~ Perfect Cherry Blossom/Ghostly Band ~ Phantom Ensemble.mmrs",
-    "preview": "Touhou Youyoumu ~ Perfect Cherry Blossom/Ghostly Band ~ Phantom Ensemble.mp3"
+    "file": "Touhou 7 Perfect Cherry Blossom/Ghostly Band ~ Phantom Ensemble.mmrs",
+    "preview": "Touhou 7 Perfect Cherry Blossom/Ghostly Band ~ Phantom Ensemble.mp3"
   },
   {
     "uuid": "6006ed42-aaaa-419a-ad63-e63aec80f8de",
     "creationDate": "2026-03-25T15:09:07.781Z",
-    "game": "Touhou Fuujinroku ~ Mountain of Faith",
+    "game": "Touhou 10: Mountain of Faith",
     "song": "Because Princess Inada is Scolding Me",
     "composers": [
       "ZUN"
@@ -21362,8 +21362,8 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Touhou Fuujinroku ~ Mountain of Faith/Because Princess Inada is Scolding Me.mmrs",
-    "preview": "Touhou Fuujinroku ~ Mountain of Faith/Because Princess Inada is Scolding Me.mp3"
+    "file": "Touhou 10 Mountain of Faith/Because Princess Inada is Scolding Me.mmrs",
+    "preview": "Touhou 10 Mountain of Faith/Because Princess Inada is Scolding Me.mp3"
   },
   {
     "uuid": "af8cf1e1-edb4-459f-ad6b-c67588d3f314",
@@ -30202,7 +30202,7 @@
   {
     "uuid": "a9c8b681-b36a-4158-9554-e4853ee9ba04",
     "creationDate": "2026-04-09T03:04:36.287Z",
-    "game": "Touhou Youyoumu ~ Perfect Cherry Blossom",
+    "game": "Touhou 7: Perfect Cherry Blossom",
     "song": "Necrofantasia (Variant B)",
     "composers": [
       "ZUN"
@@ -30218,8 +30218,8 @@
       "7",
       "157"
     ],
-    "file": "Touhou Youyoumu ~ Perfect Cherry Blossom/Necrofantasia (Variant B).mmrs",
-    "preview": "Touhou Youyoumu ~ Perfect Cherry Blossom/Necrofantasia (Variant B).ogg",
+    "file": "Touhou 7 Perfect Cherry Blossom/Necrofantasia (Variant B).mmrs",
+    "preview": "Touhou 7 Perfect Cherry Blossom/Necrofantasia (Variant B).ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -57705,7 +57705,7 @@
   {
     "uuid": "ebdc47f4-e6ae-4766-8639-71b5f04d42ec",
     "creationDate": "2026-05-16T01:09:15.431Z",
-    "game": "Touhou Gensoukyou: Lotus Land Story",
+    "game": "Touhou 4: Lotus Land Story",
     "song": "Bad Apple!!",
     "composers": [
       "ZUN (Jun'ya Ota)"
@@ -57723,8 +57723,8 @@
       "7",
       "16"
     ],
-    "file": "Touhou Gensoukyou Lotus Land Story/Bad Apple!!.mmrs",
-    "preview": "Touhou Gensoukyou Lotus Land Story/Bad Apple!!.ogg",
+    "file": "Touhou 4 Lotus Land Story/Bad Apple!!.mmrs",
+    "preview": "Touhou 4 Lotus Land Story/Bad Apple!!.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
