@@ -57939,5 +57939,24 @@
     "file": "The Legend of Zelda Twilight Princess/Game Over (Variant B).mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Game Over (Variant B).ogg"
   },
+  {
+    "uuid": "cd8ee4e0-e5fd-4ecf-982e-eca62c346c3f",
+    "creationDate": "2026-05-16T21:43:35.383Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Item Get",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Item Get.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Item Get.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
