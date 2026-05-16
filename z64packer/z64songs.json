@@ -57648,5 +57648,26 @@
     "file": "Touhou 10 Mountain of Faith/Faith is for the Transient People.mmrs",
     "preview": "Touhou 10 Mountain of Faith/Faith is for the Transient People.ogg"
   },
+  {
+    "uuid": "546da540-f08e-4548-8680-0ce2e43c4342",
+    "creationDate": "2026-05-16T01:13:49.570Z",
+    "game": "Tales of Vesperia",
+    "song": "Chance for a Big Reversal",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7",
+      "16",
+      "157"
+    ],
+    "file": "Tales of Vesperia/Chance for a Big Reversal.mmrs",
+    "preview": "Tales of Vesperia/Chance for a Big Reversal.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
