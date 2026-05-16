@@ -57451,5 +57451,25 @@
     "file": "Tales of Symphonia/Keep Your Guard Up.mmrs",
     "preview": "Tales of Symphonia/Keep Your Guard Up.ogg"
   },
+  {
+    "uuid": "179210cb-239f-4ff3-9b7e-49e26650b08a",
+    "creationDate": "2026-05-16T01:00:58.896Z",
+    "game": "Tales of Symphonia",
+    "song": "Kratos",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Tales of Symphonia/Kratos.mmrs",
+    "preview": "Tales of Symphonia/Kratos.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
