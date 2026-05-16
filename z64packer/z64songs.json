@@ -57511,5 +57511,24 @@
     "file": "Tales of Symphonia/Like a Glint of Light.mmrs",
     "preview": "Tales of Symphonia/Like a Glint of Light.ogg"
   },
+  {
+    "uuid": "58742596-9557-4965-b965-d09630c1f85d",
+    "creationDate": "2026-05-16T01:04:05.983Z",
+    "game": "Tales of Symphonia",
+    "song": "Nobody Knows",
+    "composers": [
+      "Akio Shimizu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Tales of Symphonia/Nobody Knows.mmrs",
+    "preview": "Tales of Symphonia/Nobody Knows.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
