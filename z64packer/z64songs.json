@@ -57370,5 +57370,25 @@
     "file": "Tales of Symphonia/Final Destination.mmrs",
     "preview": "Tales of Symphonia/Final Destination.ogg"
   },
+  {
+    "uuid": "3da69f7b-8c6e-48a6-bbff-90d42f77270a",
+    "creationDate": "2026-05-16T00:56:58.243Z",
+    "game": "Tales of Symphonia",
+    "song": "Forest of the Treant",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "file": "Tales of Symphonia/Forest of the Treant.mmrs",
+    "preview": "Tales of Symphonia/Forest of the Treant.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
