@@ -58266,5 +58266,295 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "dda01958-2e18-4da5-a7cc-cea342ea89e6",
+    "creationDate": "2026-05-17T03:30:24.116Z",
+    "game": "Undertale",
+    "song": "Dogbass",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Undertale/Dogbass.mmrs",
+    "preview": "Undertale/Dogbass.ogg"
+  },
+  {
+    "uuid": "564aeec1-0cac-4127-bb1d-e543ba06e749",
+    "creationDate": "2026-05-17T03:35:01.774Z",
+    "game": "Undertale",
+    "song": "Your Best Friend (Variant A)",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Undertale/Your Best Friend (Variant A).mmrs",
+    "preview": "Undertale/Your Best Friend (Variant A).ogg"
+  },
+  {
+    "uuid": "10448de6-d50a-4d1c-ada0-d5ad324c58e6",
+    "creationDate": "2026-05-17T03:35:35.094Z",
+    "game": "Undertale",
+    "song": "Your Best Friend (Variant B)",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Undertale/Your Best Friend (Variant B).mmrs",
+    "preview": "Undertale/Your Best Friend (Variant B).ogg"
+  },
+  {
+    "uuid": "e025d76a-f414-415c-b5fc-d496ff9509d3",
+    "creationDate": "2026-05-17T03:41:30.488Z",
+    "game": "Undertale",
+    "song": "Gaster's Theme (Variant A)",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Undertale/Gaster's Theme (Variant A).mmrs",
+    "preview": "Undertale/Gaster's Theme (Variant A).ogg"
+  },
+  {
+    "uuid": "bf713afd-a0e6-467a-b613-2a26532f450a",
+    "creationDate": "2026-05-17T03:42:06.936Z",
+    "game": "Undertale",
+    "song": "Gaster's Theme (Variant B)",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Undertale/Gaster's Theme (Variant B).mmrs",
+    "preview": "Undertale/Gaster's Theme (Variant B).ogg"
+  },
+  {
+    "uuid": "ff7dcb84-3308-4712-9bb4-92c9ed94dd5f",
+    "creationDate": "2026-05-17T03:46:36.486Z",
+    "game": "Undertale",
+    "song": "Nyeh Heh Heh!",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Undertale/Nyeh Heh Heh!.mmrs",
+    "preview": "Undertale/Nyeh Heh Heh!.ogg"
+  },
+  {
+    "uuid": "5aba8cc5-6984-436f-a974-1119f8e71797",
+    "creationDate": "2026-05-17T04:05:51.140Z",
+    "game": "Nintendo Wii",
+    "song": "Bios Crash",
+    "composers": [
+      "-"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Nintendo Wii/Bios Crash.mmrs",
+    "preview": "Nintendo Wii/Bios Crash.ogg"
+  },
+  {
+    "uuid": "499c0d89-bc38-4b41-9dc2-314ecf826d85",
+    "creationDate": "2026-05-17T04:09:49.257Z",
+    "game": "Nintendo Wii U",
+    "song": "Mii Editor (GamePad)",
+    "composers": [
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Nintendo Wii U/Mii Editor (GamePad).mmrs",
+    "preview": "Nintendo Wii U/Mii Editor (GamePad).ogg"
+  },
+  {
+    "uuid": "7a711bc2-10b7-400e-a537-61984d7442ef",
+    "creationDate": "2026-05-17T04:15:31.247Z",
+    "game": "Windows 10",
+    "song": "Background",
+    "composers": [
+      "Matthew Bennett"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Windows 10/Background.mmrs",
+    "preview": "Windows 10/Background.ogg"
+  },
+  {
+    "uuid": "2c2bfffd-3226-41a4-b3f3-78198d16065c",
+    "creationDate": "2026-05-17T04:16:30.915Z",
+    "game": "Windows 10",
+    "song": "Foreground",
+    "composers": [
+      "Matthew Bennett"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Windows 10/Foreground.mmrs",
+    "preview": "Windows 10/Foreground.ogg"
+  },
+  {
+    "uuid": "6df3f445-d6ef-43be-8083-3416d4069f4a",
+    "creationDate": "2026-05-17T04:18:31.091Z",
+    "game": "Windows 10",
+    "song": "Hardware Insert",
+    "composers": [
+      "Matthew Bennett"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Windows 10/Hardware Insert.mmrs",
+    "preview": "Windows 10/Hardware Insert.ogg"
+  },
+  {
+    "uuid": "360b2f51-7988-4d0c-8c8e-5ca528ca542b",
+    "creationDate": "2026-05-17T04:19:48.366Z",
+    "game": "Windows 10",
+    "song": "Hardware Remove",
+    "composers": [
+      "Matthew Bennett"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Windows 10/Hardware Remove.mmrs",
+    "preview": "Windows 10/Hardware Remove.ogg"
+  },
+  {
+    "uuid": "2f8bf312-3256-4d86-aeb0-4e0001e44092",
+    "creationDate": "2026-05-17T04:21:01.327Z",
+    "game": "Windows 10",
+    "song": "Hardware Fail",
+    "composers": [
+      "Matthew Bennett"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Windows 10/Hardware Fail.mmrs",
+    "preview": "Windows 10/Hardware Fail.ogg"
+  },
+  {
+    "uuid": "a7fd723f-03b1-40dc-96b1-29346f7bc820",
+    "creationDate": "2026-05-17T04:23:14.168Z",
+    "game": "Windows 10",
+    "song": "Notify System Generic",
+    "composers": [
+      "Matthew Bennett"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Windows 10/Notify System Generic.mmrs",
+    "preview": "Windows 10/Notify System Generic.ogg"
+  },
+  {
+    "uuid": "d6c54dc6-2a32-4ec7-99b4-a1239817528a",
+    "creationDate": "2026-05-17T04:26:22.884Z",
+    "game": "Windows 98",
+    "song": "Chimes",
+    "composers": [
+      "Matthew Bennett"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Windows 98/Chimes.mmrs",
+    "preview": "Windows 98/Chimes.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
