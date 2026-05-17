@@ -58054,5 +58054,24 @@
     "file": "The Legend of Zelda Twilight Princess/Hyrule Field Night.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Hyrule Field Night.ogg"
   },
+  {
+    "uuid": "572d5cdb-f319-40a0-908d-6017ddcd925d",
+    "creationDate": "2026-05-17T02:33:05.245Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Mirror of Twilight Completed",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Mirror of Twilight Completed.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Mirror of Twilight Completed.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
