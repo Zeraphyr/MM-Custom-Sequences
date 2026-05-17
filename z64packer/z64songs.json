@@ -58620,7 +58620,10 @@
       "10"
     ],
     "file": "Thomas the Tank Engine & Friends/Story Music Clip 9.mmrs",
-    "preview": "Thomas the Tank Engine & Friends/Story Music Clip 9.ogg"
+    "preview": "Thomas the Tank Engine & Friends/Story Music Clip 9.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b7b8b6a8-d150-4755-aaae-ea7989fc0f16",
@@ -58640,7 +58643,10 @@
       "7"
     ],
     "file": "YIIK A Postmodern RPG/Into the Mind.mmrs",
-    "preview": "YIIK A Postmodern RPG/Into the Mind.ogg"
+    "preview": "YIIK A Postmodern RPG/Into the Mind.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "312d1ced-a19d-4e7a-897e-18c8a3231e4f",
@@ -58659,7 +58665,10 @@
       "10"
     ],
     "file": "YIIK A Postmodern RPG/Victory.mmrs",
-    "preview": "YIIK A Postmodern RPG/Victory.ogg"
+    "preview": "YIIK A Postmodern RPG/Victory.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "862be129-3212-42f7-a8ce-92a7cbff4285",
@@ -58679,7 +58688,10 @@
       "3"
     ],
     "file": "Yo-kai Watch 3/New Yo-kai City.mmrs",
-    "preview": "Yo-kai Watch 3/New Yo-kai City.ogg"
+    "preview": "Yo-kai Watch 3/New Yo-kai City.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "5c91df78-d057-4bea-b7ff-98128b85171b",
@@ -58699,7 +58711,10 @@
       "3"
     ],
     "file": "Yoshi's Island DS/Castle & Fortress (Kiosk Demo).mmrs",
-    "preview": "Yoshi's Island DS/Castle & Fortress (Kiosk Demo).ogg"
+    "preview": "Yoshi's Island DS/Castle & Fortress (Kiosk Demo).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
