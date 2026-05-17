@@ -58152,5 +58152,24 @@
     "file": "The Legend of Zelda Twilight Princess/The Vessel of Light Is Full of Tears.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/The Vessel of Light Is Full of Tears.ogg"
   },
+  {
+    "uuid": "6c77ad23-0493-4b28-8a6d-99e3afd643a7",
+    "creationDate": "2026-05-17T02:41:13.910Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Queen Rutela's Theme (Variant B)",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Queen Rutela's Theme (Variant B).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Queen Rutela's Theme (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
