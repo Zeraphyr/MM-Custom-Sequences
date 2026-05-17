@@ -58342,5 +58342,26 @@
     "file": "Undertale/Gaster's Theme (Variant A).mmrs",
     "preview": "Undertale/Gaster's Theme (Variant A).ogg"
   },
+  {
+    "uuid": "bf713afd-a0e6-467a-b613-2a26532f450a",
+    "creationDate": "2026-05-17T03:42:06.936Z",
+    "game": "Undertale",
+    "song": "Gaster's Theme (Variant B)",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Undertale/Gaster's Theme (Variant B).mmrs",
+    "preview": "Undertale/Gaster's Theme (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
