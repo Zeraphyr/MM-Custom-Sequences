@@ -58035,5 +58035,24 @@
     "file": "The Legend of Zelda Twilight Princess/King Bulblin Clear Fanfare.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/King Bulblin Clear Fanfare.ogg"
   },
+  {
+    "uuid": "515144f4-f9e8-465b-bdee-e42a3c5b3962",
+    "creationDate": "2026-05-17T02:30:41.092Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Hyrule Field Night",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Hyrule Field Night.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Hyrule Field Night.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
