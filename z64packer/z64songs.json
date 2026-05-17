@@ -58363,5 +58363,24 @@
     "file": "Undertale/Gaster's Theme (Variant B).mmrs",
     "preview": "Undertale/Gaster's Theme (Variant B).ogg"
   },
+  {
+    "uuid": "ff7dcb84-3308-4712-9bb4-92c9ed94dd5f",
+    "creationDate": "2026-05-17T03:46:36.486Z",
+    "game": "Undertale",
+    "song": "Nyeh Heh Heh!",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Undertale/Nyeh Heh Heh!.mmrs",
+    "preview": "Undertale/Nyeh Heh Heh!.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
