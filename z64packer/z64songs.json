@@ -58642,5 +58642,24 @@
     "file": "YIIK A Postmodern RPG/Into the Mind.mmrs",
     "preview": "YIIK A Postmodern RPG/Into the Mind.ogg"
   },
+  {
+    "uuid": "312d1ced-a19d-4e7a-897e-18c8a3231e4f",
+    "creationDate": "2026-05-17T18:07:40.884Z",
+    "game": "YIIK: A Postmodern RPG",
+    "song": "Victory",
+    "composers": [
+      "Calum Bowen"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "YIIK A Postmodern RPG/Victory.mmrs",
+    "preview": "YIIK A Postmodern RPG/Victory.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
