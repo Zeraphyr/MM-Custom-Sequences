@@ -58015,5 +58015,25 @@
     "file": "The Legend of Zelda Twilight Princess/Heart Container Get.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Heart Container Get.ogg"
   },
+  {
+    "uuid": "1b5cd702-2dd2-49d2-bf0b-604a82d9377a",
+    "creationDate": "2026-05-17T02:29:01.785Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "King Bulblin Clear Fanfare",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/King Bulblin Clear Fanfare.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/King Bulblin Clear Fanfare.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
