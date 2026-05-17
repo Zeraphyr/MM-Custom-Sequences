@@ -58499,5 +58499,24 @@
     "file": "Windows 10/Hardware Remove.mmrs",
     "preview": "Windows 10/Hardware Remove.ogg"
   },
+  {
+    "uuid": "2f8bf312-3256-4d86-aeb0-4e0001e44092",
+    "creationDate": "2026-05-17T04:21:01.327Z",
+    "game": "Windows 10",
+    "song": "Hardware Fail",
+    "composers": [
+      "Matthew Bennett"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Windows 10/Hardware Fail.mmrs",
+    "preview": "Windows 10/Hardware Fail.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
