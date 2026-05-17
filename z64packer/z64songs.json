@@ -57859,7 +57859,10 @@
       "10"
     ],
     "file": "The Legend of Zelda Twilight Princess/Wii Channel Menu.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Wii Channel Menu.ogg"
+    "preview": "The Legend of Zelda Twilight Princess/Wii Channel Menu.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "39b5781f-749a-4e07-a24d-42f9f98b2199",
@@ -57879,7 +57882,10 @@
       "6"
     ],
     "file": "The Legend of Zelda Twilight Princess/Battle (First Half).mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Battle (First Half).ogg"
+    "preview": "The Legend of Zelda Twilight Princess/Battle (First Half).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "3d721976-7692-457b-9052-37a2a5f8c5c9",
@@ -57898,7 +57904,10 @@
       "5"
     ],
     "file": "The Legend of Zelda Twilight Princess/Battle (Second Half).mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Battle (Second Half).ogg"
+    "preview": "The Legend of Zelda Twilight Princess/Battle (Second Half).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "5a453ea0-f75a-4554-8fbd-e0b36fb85133",
@@ -57918,7 +57927,10 @@
       "10"
     ],
     "file": "The Legend of Zelda Twilight Princess/Fused Shadow Get.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Fused Shadow Get.ogg"
+    "preview": "The Legend of Zelda Twilight Princess/Fused Shadow Get.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "29e72921-c69a-4895-bb92-81d6ffa751e6",
@@ -57937,7 +57949,10 @@
       "10"
     ],
     "file": "The Legend of Zelda Twilight Princess/Game Over (Variant B).mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Game Over (Variant B).ogg"
+    "preview": "The Legend of Zelda Twilight Princess/Game Over (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "cd8ee4e0-e5fd-4ecf-982e-eca62c346c3f",
@@ -57956,7 +57971,10 @@
       "9"
     ],
     "file": "The Legend of Zelda Twilight Princess/Item Get.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Item Get.ogg"
+    "preview": "The Legend of Zelda Twilight Princess/Item Get.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "64db896b-e06d-416b-9f3b-231c52023c1c",
@@ -57975,7 +57993,10 @@
       "9"
     ],
     "file": "The Legend of Zelda Twilight Princess/Small Item Get.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Small Item Get.ogg"
+    "preview": "The Legend of Zelda Twilight Princess/Small Item Get.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4aea3925-d869-4049-afa0-0024e83c04a6",
@@ -57994,7 +58015,10 @@
       "9"
     ],
     "file": "The Legend of Zelda Twilight Princess/Golden Bug Catch.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Golden Bug Catch.ogg"
+    "preview": "The Legend of Zelda Twilight Princess/Golden Bug Catch.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "fda5e40f-005d-4836-a45e-fea5e9188273",
@@ -58013,7 +58037,10 @@
       "9"
     ],
     "file": "The Legend of Zelda Twilight Princess/Heart Container Get.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Heart Container Get.ogg"
+    "preview": "The Legend of Zelda Twilight Princess/Heart Container Get.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1b5cd702-2dd2-49d2-bf0b-604a82d9377a",
@@ -58033,7 +58060,10 @@
       "10"
     ],
     "file": "The Legend of Zelda Twilight Princess/King Bulblin Clear Fanfare.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/King Bulblin Clear Fanfare.ogg"
+    "preview": "The Legend of Zelda Twilight Princess/King Bulblin Clear Fanfare.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "515144f4-f9e8-465b-bdee-e42a3c5b3962",
@@ -58052,7 +58082,10 @@
       "1"
     ],
     "file": "The Legend of Zelda Twilight Princess/Hyrule Field Night.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Hyrule Field Night.ogg"
+    "preview": "The Legend of Zelda Twilight Princess/Hyrule Field Night.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "572d5cdb-f319-40a0-908d-6017ddcd925d",
@@ -58071,7 +58104,10 @@
       "16"
     ],
     "file": "The Legend of Zelda Twilight Princess/Mirror of Twilight Completed.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Mirror of Twilight Completed.ogg"
+    "preview": "The Legend of Zelda Twilight Princess/Mirror of Twilight Completed.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "96681deb-48fe-434b-8d0c-099ce9d49fc3",
@@ -58091,7 +58127,10 @@
       "16"
     ],
     "file": "The Legend of Zelda Twilight Princess/Ooccoo's Theme.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Ooccoo's Theme.ogg"
+    "preview": "The Legend of Zelda Twilight Princess/Ooccoo's Theme.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "db3296c7-c94d-4617-9c20-defbf5b0009e",
@@ -58110,7 +58149,10 @@
       "9"
     ],
     "file": "The Legend of Zelda Twilight Princess/Treasure Chest Open.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Treasure Chest Open.ogg"
+    "preview": "The Legend of Zelda Twilight Princess/Treasure Chest Open.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "5dcc762c-c5f4-4e3e-b145-68f97700f32e",
@@ -58130,7 +58172,10 @@
       "10"
     ],
     "file": "The Legend of Zelda Twilight Princess/Rupee Get.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Rupee Get.ogg"
+    "preview": "The Legend of Zelda Twilight Princess/Rupee Get.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "6072bae4-99b3-4312-9c3a-0b54ea199dd4",
@@ -58150,7 +58195,10 @@
       "10"
     ],
     "file": "The Legend of Zelda Twilight Princess/The Vessel of Light Is Full of Tears.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/The Vessel of Light Is Full of Tears.ogg"
+    "preview": "The Legend of Zelda Twilight Princess/The Vessel of Light Is Full of Tears.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "6c77ad23-0493-4b28-8a6d-99e3afd643a7",
@@ -58169,7 +58217,10 @@
       "16"
     ],
     "file": "The Legend of Zelda Twilight Princess/Queen Rutela's Theme (Variant B).mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Queen Rutela's Theme (Variant B).ogg"
+    "preview": "The Legend of Zelda Twilight Princess/Queen Rutela's Theme (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a00fb8e3-ddd7-4236-8391-c8da0d74c8f7",
@@ -58188,7 +58239,10 @@
       "16"
     ],
     "file": "The Legend of Zelda Twilight Princess/Title.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Title.ogg"
+    "preview": "The Legend of Zelda Twilight Princess/Title.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "5da88c0c-710e-4ebc-b679-413667bed1b4",
@@ -58207,7 +58261,10 @@
       "10"
     ],
     "file": "The Legend of Zelda Twilight Princess/Hyrule Field Morning.mmrs",
-    "preview": "The Legend of Zelda Twilight Princess/Hyrule Field Morning.ogg"
+    "preview": "The Legend of Zelda Twilight Princess/Hyrule Field Morning.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
