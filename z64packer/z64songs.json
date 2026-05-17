@@ -58382,5 +58382,25 @@
     "file": "Undertale/Nyeh Heh Heh!.mmrs",
     "preview": "Undertale/Nyeh Heh Heh!.ogg"
   },
+  {
+    "uuid": "5aba8cc5-6984-436f-a974-1119f8e71797",
+    "creationDate": "2026-05-17T04:05:51.140Z",
+    "game": "Nintendo Wii",
+    "song": "Bios Crash",
+    "composers": [
+      "-"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Nintendo Wii/Bios Crash.mmrs",
+    "preview": "Nintendo Wii/Bios Crash.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
