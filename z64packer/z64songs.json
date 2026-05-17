@@ -57996,5 +57996,24 @@
     "file": "The Legend of Zelda Twilight Princess/Golden Bug Catch.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Golden Bug Catch.ogg"
   },
+  {
+    "uuid": "fda5e40f-005d-4836-a45e-fea5e9188273",
+    "creationDate": "2026-05-17T02:26:45.393Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Heart Container Get",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Heart Container Get.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Heart Container Get.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
