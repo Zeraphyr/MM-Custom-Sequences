@@ -58304,5 +58304,24 @@
     "file": "Undertale/Your Best Friend (Variant A).mmrs",
     "preview": "Undertale/Your Best Friend (Variant A).ogg"
   },
+  {
+    "uuid": "10448de6-d50a-4d1c-ada0-d5ad324c58e6",
+    "creationDate": "2026-05-17T03:35:35.094Z",
+    "game": "Undertale",
+    "song": "Your Best Friend (Variant B)",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Undertale/Your Best Friend (Variant B).mmrs",
+    "preview": "Undertale/Your Best Friend (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
