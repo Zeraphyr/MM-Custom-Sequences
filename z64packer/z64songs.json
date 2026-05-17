@@ -58285,5 +58285,24 @@
     "file": "Undertale/Dogbass.mmrs",
     "preview": "Undertale/Dogbass.ogg"
   },
+  {
+    "uuid": "564aeec1-0cac-4127-bb1d-e543ba06e749",
+    "creationDate": "2026-05-17T03:35:01.774Z",
+    "game": "Undertale",
+    "song": "Your Best Friend (Variant A)",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Undertale/Your Best Friend (Variant A).mmrs",
+    "preview": "Undertale/Your Best Friend (Variant A).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
