@@ -58323,5 +58323,24 @@
     "file": "Undertale/Your Best Friend (Variant B).mmrs",
     "preview": "Undertale/Your Best Friend (Variant B).ogg"
   },
+  {
+    "uuid": "e025d76a-f414-415c-b5fc-d496ff9509d3",
+    "creationDate": "2026-05-17T03:41:30.488Z",
+    "game": "Undertale",
+    "song": "Gaster's Theme (Variant A)",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Undertale/Gaster's Theme (Variant A).mmrs",
+    "preview": "Undertale/Gaster's Theme (Variant A).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
