@@ -3705,13 +3705,20 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/ea3aed2bce2d893088e71e188ebca823.png"
   },
   {
-    "game": "Nintendo Wii U"
+    "game": "Nintendo Wii U",
+    "series": "Consoles and BIOS",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/9b4db5a70a498cb5022c8702b13e7956.png",
+    "short_name": "Wii U"
   },
   {
-    "game": "Windows 98"
+    "game": "Windows 98",
+    "series": "Consoles and BIOS",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/4c74744a9c10b3001a1d9b87f86eb26f.png"
   },
   {
-    "game": "Windows 10"
+    "game": "Windows 10",
+    "series": "Consoles and BIOS",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/0adde37468be10ecf593f1586c143494.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
