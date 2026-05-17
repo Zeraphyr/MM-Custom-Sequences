@@ -58601,5 +58601,26 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "ac34f563-8ec8-4e17-bcff-92098a01892f",
+    "creationDate": "2026-05-17T18:01:27.697Z",
+    "game": "Thomas the Tank Engine & Friends",
+    "song": "Story Music Clip 9",
+    "composers": [
+      "Mike O'Donnell",
+      "Junior Campbell"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Thomas the Tank Engine & Friends/Story Music Clip 9.mmrs",
+    "preview": "Thomas the Tank Engine & Friends/Story Music Clip 9.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
