@@ -58190,5 +58190,24 @@
     "file": "The Legend of Zelda Twilight Princess/Title.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Title.ogg"
   },
+  {
+    "uuid": "5da88c0c-710e-4ebc-b679-413667bed1b4",
+    "creationDate": "2026-05-17T02:44:12.565Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Hyrule Field Morning",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Hyrule Field Morning.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Hyrule Field Morning.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
