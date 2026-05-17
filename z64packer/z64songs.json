@@ -58402,5 +58402,26 @@
     "file": "Nintendo Wii/Bios Crash.mmrs",
     "preview": "Nintendo Wii/Bios Crash.ogg"
   },
+  {
+    "uuid": "499c0d89-bc38-4b41-9dc2-314ecf826d85",
+    "creationDate": "2026-05-17T04:09:49.257Z",
+    "game": "Nintendo Wii U",
+    "song": "Mii Editor (GamePad)",
+    "composers": [
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Nintendo Wii U/Mii Editor (GamePad).mmrs",
+    "preview": "Nintendo Wii U/Mii Editor (GamePad).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
