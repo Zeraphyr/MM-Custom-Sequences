@@ -58442,5 +58442,24 @@
     "file": "Windows 10/Background.mmrs",
     "preview": "Windows 10/Background.ogg"
   },
+  {
+    "uuid": "2c2bfffd-3226-41a4-b3f3-78198d16065c",
+    "creationDate": "2026-05-17T04:16:30.915Z",
+    "game": "Windows 10",
+    "song": "Foreground",
+    "composers": [
+      "Matthew Bennett"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Windows 10/Foreground.mmrs",
+    "preview": "Windows 10/Foreground.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
