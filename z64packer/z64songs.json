@@ -58112,5 +58112,25 @@
     "file": "The Legend of Zelda Twilight Princess/Treasure Chest Open.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Treasure Chest Open.ogg"
   },
+  {
+    "uuid": "5dcc762c-c5f4-4e3e-b145-68f97700f32e",
+    "creationDate": "2026-05-17T02:36:40.526Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Rupee Get",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Rupee Get.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Rupee Get.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
