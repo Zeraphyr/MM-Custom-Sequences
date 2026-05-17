@@ -58480,5 +58480,24 @@
     "file": "Windows 10/Hardware Insert.mmrs",
     "preview": "Windows 10/Hardware Insert.ogg"
   },
+  {
+    "uuid": "360b2f51-7988-4d0c-8c8e-5ca528ca542b",
+    "creationDate": "2026-05-17T04:19:48.366Z",
+    "game": "Windows 10",
+    "song": "Hardware Remove",
+    "composers": [
+      "Matthew Bennett"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Windows 10/Hardware Remove.mmrs",
+    "preview": "Windows 10/Hardware Remove.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
