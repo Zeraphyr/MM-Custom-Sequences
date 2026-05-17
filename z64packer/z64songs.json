@@ -58681,5 +58681,25 @@
     "file": "Yo-kai Watch 3/New Yo-kai City.mmrs",
     "preview": "Yo-kai Watch 3/New Yo-kai City.ogg"
   },
+  {
+    "uuid": "5c91df78-d057-4bea-b7ff-98128b85171b",
+    "creationDate": "2026-05-17T18:13:51.022Z",
+    "game": "Yoshi's Island DS",
+    "song": "Castle & Fortress (Kiosk Demo)",
+    "composers": [
+      "Yutaka Minobe",
+      "Masayoshi Ishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Yoshi's Island DS/Castle & Fortress (Kiosk Demo).mmrs",
+    "preview": "Yoshi's Island DS/Castle & Fortress (Kiosk Demo).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
