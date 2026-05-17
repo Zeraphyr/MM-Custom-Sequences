@@ -58073,5 +58073,25 @@
     "file": "The Legend of Zelda Twilight Princess/Mirror of Twilight Completed.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Mirror of Twilight Completed.ogg"
   },
+  {
+    "uuid": "96681deb-48fe-434b-8d0c-099ce9d49fc3",
+    "creationDate": "2026-05-17T02:34:03.507Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Ooccoo's Theme",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Ooccoo's Theme.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Ooccoo's Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
