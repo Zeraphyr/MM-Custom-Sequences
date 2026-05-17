@@ -58518,5 +58518,24 @@
     "file": "Windows 10/Hardware Fail.mmrs",
     "preview": "Windows 10/Hardware Fail.ogg"
   },
+  {
+    "uuid": "a7fd723f-03b1-40dc-96b1-29346f7bc820",
+    "creationDate": "2026-05-17T04:23:14.168Z",
+    "game": "Windows 10",
+    "song": "Notify System Generic",
+    "composers": [
+      "Matthew Bennett"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Windows 10/Notify System Generic.mmrs",
+    "preview": "Windows 10/Notify System Generic.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
