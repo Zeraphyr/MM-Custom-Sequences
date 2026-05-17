@@ -3721,13 +3721,18 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/0adde37468be10ecf593f1586c143494.png"
   },
   {
-    "game": "YIIK: A Postmodern RPG"
+    "game": "YIIK: A Postmodern RPG",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/e9b82e4d55c91c6abbf9dedf898172a0.png",
+    "short_name": "YIIK"
   },
   {
-    "game": "Thomas the Tank Engine & Friends"
+    "game": "Thomas the Tank Engine & Friends",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/348ff59ec3c07fe84960f63a167d58f9.png"
   },
   {
-    "game": "Yo-kai Watch 3"
+    "game": "Yo-kai Watch 3",
+    "series": "Yo-kai Watch Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/3b7cd3a5ad79da7f656f33072ad212fe.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
