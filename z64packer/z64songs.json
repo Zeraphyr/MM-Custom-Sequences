@@ -58171,5 +58171,24 @@
     "file": "The Legend of Zelda Twilight Princess/Queen Rutela's Theme (Variant B).mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Queen Rutela's Theme (Variant B).ogg"
   },
+  {
+    "uuid": "a00fb8e3-ddd7-4236-8391-c8da0d74c8f7",
+    "creationDate": "2026-05-17T02:42:24.762Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Title",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Title.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Title.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
