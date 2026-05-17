@@ -58266,5 +58266,24 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "dda01958-2e18-4da5-a7cc-cea342ea89e6",
+    "creationDate": "2026-05-17T03:30:24.116Z",
+    "game": "Undertale",
+    "song": "Dogbass",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Undertale/Dogbass.mmrs",
+    "preview": "Undertale/Dogbass.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
