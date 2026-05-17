@@ -58537,5 +58537,24 @@
     "file": "Windows 10/Notify System Generic.mmrs",
     "preview": "Windows 10/Notify System Generic.ogg"
   },
+  {
+    "uuid": "d6c54dc6-2a32-4ec7-99b4-a1239817528a",
+    "creationDate": "2026-05-17T04:26:22.884Z",
+    "game": "Windows 98",
+    "song": "Chimes",
+    "composers": [
+      "Matthew Bennett"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Windows 98/Chimes.mmrs",
+    "preview": "Windows 98/Chimes.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
