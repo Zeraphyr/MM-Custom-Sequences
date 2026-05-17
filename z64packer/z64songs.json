@@ -58132,5 +58132,25 @@
     "file": "The Legend of Zelda Twilight Princess/Rupee Get.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Rupee Get.ogg"
   },
+  {
+    "uuid": "6072bae4-99b3-4312-9c3a-0b54ea199dd4",
+    "creationDate": "2026-05-17T02:38:44.351Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "The Vessel of Light Is Full of Tears",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/The Vessel of Light Is Full of Tears.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/The Vessel of Light Is Full of Tears.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
