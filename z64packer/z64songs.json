@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -57840,6 +57840,374 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
+  },
+  {
+    "uuid": "b7da2a31-d159-4eef-bd0a-206e62e77811",
+    "creationDate": "2026-05-16T21:21:04.146Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Wii Channel Menu",
+    "composers": [
+      "Michiru Oshima"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Wii Channel Menu.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Wii Channel Menu.ogg"
+  },
+  {
+    "uuid": "39b5781f-749a-4e07-a24d-42f9f98b2199",
+    "creationDate": "2026-05-16T21:24:47.274Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Battle (First Half)",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "6"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Battle (First Half).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Battle (First Half).ogg"
+  },
+  {
+    "uuid": "3d721976-7692-457b-9052-37a2a5f8c5c9",
+    "creationDate": "2026-05-16T21:25:48.928Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Battle (Second Half)",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Battle (Second Half).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Battle (Second Half).ogg"
+  },
+  {
+    "uuid": "5a453ea0-f75a-4554-8fbd-e0b36fb85133",
+    "creationDate": "2026-05-16T21:27:06.913Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Fused Shadow Get",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Fused Shadow Get.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Fused Shadow Get.ogg"
+  },
+  {
+    "uuid": "29e72921-c69a-4895-bb92-81d6ffa751e6",
+    "creationDate": "2026-05-16T21:28:13.653Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Game Over (Variant B)",
+    "composers": [
+      "Asuka Ota"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Game Over (Variant B).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Game Over (Variant B).ogg"
+  },
+  {
+    "uuid": "cd8ee4e0-e5fd-4ecf-982e-eca62c346c3f",
+    "creationDate": "2026-05-16T21:43:35.383Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Item Get",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Item Get.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Item Get.ogg"
+  },
+  {
+    "uuid": "64db896b-e06d-416b-9f3b-231c52023c1c",
+    "creationDate": "2026-05-16T21:44:08.700Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Small Item Get",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Small Item Get.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Small Item Get.ogg"
+  },
+  {
+    "uuid": "4aea3925-d869-4049-afa0-0024e83c04a6",
+    "creationDate": "2026-05-16T21:45:25.563Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Golden Bug Catch",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Golden Bug Catch.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Golden Bug Catch.ogg"
+  },
+  {
+    "uuid": "fda5e40f-005d-4836-a45e-fea5e9188273",
+    "creationDate": "2026-05-17T02:26:45.393Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Heart Container Get",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Heart Container Get.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Heart Container Get.ogg"
+  },
+  {
+    "uuid": "1b5cd702-2dd2-49d2-bf0b-604a82d9377a",
+    "creationDate": "2026-05-17T02:29:01.785Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "King Bulblin Clear Fanfare",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/King Bulblin Clear Fanfare.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/King Bulblin Clear Fanfare.ogg"
+  },
+  {
+    "uuid": "515144f4-f9e8-465b-bdee-e42a3c5b3962",
+    "creationDate": "2026-05-17T02:30:41.092Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Hyrule Field Night",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Hyrule Field Night.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Hyrule Field Night.ogg"
+  },
+  {
+    "uuid": "572d5cdb-f319-40a0-908d-6017ddcd925d",
+    "creationDate": "2026-05-17T02:33:05.245Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Mirror of Twilight Completed",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Mirror of Twilight Completed.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Mirror of Twilight Completed.ogg"
+  },
+  {
+    "uuid": "96681deb-48fe-434b-8d0c-099ce9d49fc3",
+    "creationDate": "2026-05-17T02:34:03.507Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Ooccoo's Theme",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Ooccoo's Theme.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Ooccoo's Theme.ogg"
+  },
+  {
+    "uuid": "db3296c7-c94d-4617-9c20-defbf5b0009e",
+    "creationDate": "2026-05-17T02:35:37.892Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Treasure Chest Open",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Treasure Chest Open.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Treasure Chest Open.ogg"
+  },
+  {
+    "uuid": "5dcc762c-c5f4-4e3e-b145-68f97700f32e",
+    "creationDate": "2026-05-17T02:36:40.526Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Rupee Get",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Rupee Get.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Rupee Get.ogg"
+  },
+  {
+    "uuid": "6072bae4-99b3-4312-9c3a-0b54ea199dd4",
+    "creationDate": "2026-05-17T02:38:44.351Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "The Vessel of Light Is Full of Tears",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/The Vessel of Light Is Full of Tears.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/The Vessel of Light Is Full of Tears.ogg"
+  },
+  {
+    "uuid": "6c77ad23-0493-4b28-8a6d-99e3afd643a7",
+    "creationDate": "2026-05-17T02:41:13.910Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Queen Rutela's Theme (Variant B)",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Queen Rutela's Theme (Variant B).mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Queen Rutela's Theme (Variant B).ogg"
+  },
+  {
+    "uuid": "a00fb8e3-ddd7-4236-8391-c8da0d74c8f7",
+    "creationDate": "2026-05-17T02:42:24.762Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Title",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Title.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Title.ogg"
+  },
+  {
+    "uuid": "5da88c0c-710e-4ebc-b679-413667bed1b4",
+    "creationDate": "2026-05-17T02:44:12.565Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Hyrule Field Morning",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Hyrule Field Morning.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Hyrule Field Morning.ogg"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
