@@ -58283,7 +58283,10 @@
       "9"
     ],
     "file": "Undertale/Dogbass.mmrs",
-    "preview": "Undertale/Dogbass.ogg"
+    "preview": "Undertale/Dogbass.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "564aeec1-0cac-4127-bb1d-e543ba06e749",
@@ -58302,7 +58305,10 @@
       "16"
     ],
     "file": "Undertale/Your Best Friend (Variant A).mmrs",
-    "preview": "Undertale/Your Best Friend (Variant A).ogg"
+    "preview": "Undertale/Your Best Friend (Variant A).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "10448de6-d50a-4d1c-ada0-d5ad324c58e6",
@@ -58321,7 +58327,10 @@
       "16"
     ],
     "file": "Undertale/Your Best Friend (Variant B).mmrs",
-    "preview": "Undertale/Your Best Friend (Variant B).ogg"
+    "preview": "Undertale/Your Best Friend (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e025d76a-f414-415c-b5fc-d496ff9509d3",
@@ -58340,7 +58349,10 @@
       "16"
     ],
     "file": "Undertale/Gaster's Theme (Variant A).mmrs",
-    "preview": "Undertale/Gaster's Theme (Variant A).ogg"
+    "preview": "Undertale/Gaster's Theme (Variant A).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "bf713afd-a0e6-467a-b613-2a26532f450a",
@@ -58361,7 +58373,10 @@
       "16"
     ],
     "file": "Undertale/Gaster's Theme (Variant B).mmrs",
-    "preview": "Undertale/Gaster's Theme (Variant B).ogg"
+    "preview": "Undertale/Gaster's Theme (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ff7dcb84-3308-4712-9bb4-92c9ed94dd5f",
@@ -58380,7 +58395,10 @@
       "16"
     ],
     "file": "Undertale/Nyeh Heh Heh!.mmrs",
-    "preview": "Undertale/Nyeh Heh Heh!.ogg"
+    "preview": "Undertale/Nyeh Heh Heh!.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "5aba8cc5-6984-436f-a974-1119f8e71797",
@@ -58400,7 +58418,10 @@
       "10"
     ],
     "file": "Nintendo Wii/Bios Crash.mmrs",
-    "preview": "Nintendo Wii/Bios Crash.ogg"
+    "preview": "Nintendo Wii/Bios Crash.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "499c0d89-bc38-4b41-9dc2-314ecf826d85",
@@ -58421,7 +58442,10 @@
       "16"
     ],
     "file": "Nintendo Wii U/Mii Editor (GamePad).mmrs",
-    "preview": "Nintendo Wii U/Mii Editor (GamePad).ogg"
+    "preview": "Nintendo Wii U/Mii Editor (GamePad).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "7a711bc2-10b7-400e-a537-61984d7442ef",
@@ -58440,7 +58464,10 @@
       "9"
     ],
     "file": "Windows 10/Background.mmrs",
-    "preview": "Windows 10/Background.ogg"
+    "preview": "Windows 10/Background.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2c2bfffd-3226-41a4-b3f3-78198d16065c",
@@ -58459,7 +58486,10 @@
       "9"
     ],
     "file": "Windows 10/Foreground.mmrs",
-    "preview": "Windows 10/Foreground.ogg"
+    "preview": "Windows 10/Foreground.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "6df3f445-d6ef-43be-8083-3416d4069f4a",
@@ -58478,7 +58508,10 @@
       "9"
     ],
     "file": "Windows 10/Hardware Insert.mmrs",
-    "preview": "Windows 10/Hardware Insert.ogg"
+    "preview": "Windows 10/Hardware Insert.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "360b2f51-7988-4d0c-8c8e-5ca528ca542b",
@@ -58497,7 +58530,10 @@
       "9"
     ],
     "file": "Windows 10/Hardware Remove.mmrs",
-    "preview": "Windows 10/Hardware Remove.ogg"
+    "preview": "Windows 10/Hardware Remove.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "2f8bf312-3256-4d86-aeb0-4e0001e44092",
@@ -58516,7 +58552,10 @@
       "9"
     ],
     "file": "Windows 10/Hardware Fail.mmrs",
-    "preview": "Windows 10/Hardware Fail.ogg"
+    "preview": "Windows 10/Hardware Fail.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a7fd723f-03b1-40dc-96b1-29346f7bc820",
@@ -58535,7 +58574,10 @@
       "9"
     ],
     "file": "Windows 10/Notify System Generic.mmrs",
-    "preview": "Windows 10/Notify System Generic.ogg"
+    "preview": "Windows 10/Notify System Generic.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d6c54dc6-2a32-4ec7-99b4-a1239817528a",
@@ -58554,7 +58596,10 @@
       "9"
     ],
     "file": "Windows 98/Chimes.mmrs",
-    "preview": "Windows 98/Chimes.ogg"
+    "preview": "Windows 98/Chimes.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
