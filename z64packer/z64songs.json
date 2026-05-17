@@ -58093,5 +58093,24 @@
     "file": "The Legend of Zelda Twilight Princess/Ooccoo's Theme.mmrs",
     "preview": "The Legend of Zelda Twilight Princess/Ooccoo's Theme.ogg"
   },
+  {
+    "uuid": "db3296c7-c94d-4617-9c20-defbf5b0009e",
+    "creationDate": "2026-05-17T02:35:37.892Z",
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Treasure Chest Open",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "The Legend of Zelda Twilight Princess/Treasure Chest Open.mmrs",
+    "preview": "The Legend of Zelda Twilight Princess/Treasure Chest Open.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
