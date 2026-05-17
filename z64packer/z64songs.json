@@ -58622,5 +58622,25 @@
     "file": "Thomas the Tank Engine & Friends/Story Music Clip 9.mmrs",
     "preview": "Thomas the Tank Engine & Friends/Story Music Clip 9.ogg"
   },
+  {
+    "uuid": "b7b8b6a8-d150-4755-aaae-ea7989fc0f16",
+    "creationDate": "2026-05-17T18:06:18.387Z",
+    "game": "YIIK: A Postmodern RPG",
+    "song": "Into the Mind",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "YIIK A Postmodern RPG/Into the Mind.mmrs",
+    "preview": "YIIK A Postmodern RPG/Into the Mind.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
