@@ -58461,5 +58461,24 @@
     "file": "Windows 10/Foreground.mmrs",
     "preview": "Windows 10/Foreground.ogg"
   },
+  {
+    "uuid": "6df3f445-d6ef-43be-8083-3416d4069f4a",
+    "creationDate": "2026-05-17T04:18:31.091Z",
+    "game": "Windows 10",
+    "song": "Hardware Insert",
+    "composers": [
+      "Matthew Bennett"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "Windows 10/Hardware Insert.mmrs",
+    "preview": "Windows 10/Hardware Insert.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
