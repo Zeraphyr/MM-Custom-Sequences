@@ -58601,5 +58601,105 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "ac34f563-8ec8-4e17-bcff-92098a01892f",
+    "creationDate": "2026-05-17T18:01:27.697Z",
+    "game": "Thomas the Tank Engine & Friends",
+    "song": "Story Music Clip 9",
+    "composers": [
+      "Mike O'Donnell",
+      "Junior Campbell"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Thomas the Tank Engine & Friends/Story Music Clip 9.mmrs",
+    "preview": "Thomas the Tank Engine & Friends/Story Music Clip 9.ogg"
+  },
+  {
+    "uuid": "b7b8b6a8-d150-4755-aaae-ea7989fc0f16",
+    "creationDate": "2026-05-17T18:06:18.387Z",
+    "game": "YIIK: A Postmodern RPG",
+    "song": "Into the Mind",
+    "composers": [
+      "Toby Fox"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "YIIK A Postmodern RPG/Into the Mind.mmrs",
+    "preview": "YIIK A Postmodern RPG/Into the Mind.ogg"
+  },
+  {
+    "uuid": "312d1ced-a19d-4e7a-897e-18c8a3231e4f",
+    "creationDate": "2026-05-17T18:07:40.884Z",
+    "game": "YIIK: A Postmodern RPG",
+    "song": "Victory",
+    "composers": [
+      "Calum Bowen"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "YIIK A Postmodern RPG/Victory.mmrs",
+    "preview": "YIIK A Postmodern RPG/Victory.ogg"
+  },
+  {
+    "uuid": "862be129-3212-42f7-a8ce-92a7cbff4285",
+    "creationDate": "2026-05-17T18:10:25.468Z",
+    "game": "Yo-kai Watch 3",
+    "song": "New Yo-kai City",
+    "composers": [
+      "Kenichiro Saigo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Yo-kai Watch 3/New Yo-kai City.mmrs",
+    "preview": "Yo-kai Watch 3/New Yo-kai City.ogg"
+  },
+  {
+    "uuid": "5c91df78-d057-4bea-b7ff-98128b85171b",
+    "creationDate": "2026-05-17T18:13:51.022Z",
+    "game": "Yoshi's Island DS",
+    "song": "Castle & Fortress (Kiosk Demo)",
+    "composers": [
+      "Yutaka Minobe",
+      "Masayoshi Ishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Yoshi's Island DS/Castle & Fortress (Kiosk Demo).mmrs",
+    "preview": "Yoshi's Island DS/Castle & Fortress (Kiosk Demo).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
