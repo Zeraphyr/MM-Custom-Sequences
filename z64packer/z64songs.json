@@ -58734,7 +58734,10 @@
       "10"
     ],
     "file": "The Legend of Zelda The Wind Waker/Ballad of Gales.mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Ballad of Gales.ogg"
+    "preview": "The Legend of Zelda The Wind Waker/Ballad of Gales.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "484ec27c-458e-4f07-b447-20cf3c351f4c",
@@ -58753,7 +58756,10 @@
       "10"
     ],
     "file": "The Legend of Zelda The Wind Waker/The Deku Tree's Crisis.mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/The Deku Tree's Crisis.ogg"
+    "preview": "The Legend of Zelda The Wind Waker/The Deku Tree's Crisis.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "46c668ba-1bda-4268-b0c5-22167acfba3b",
@@ -58773,7 +58779,10 @@
       "10"
     ],
     "file": "The Legend of Zelda The Wind Waker/Earth God's Lyric.mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Earth God's Lyric.ogg"
+    "preview": "The Legend of Zelda The Wind Waker/Earth God's Lyric.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "86dd9cec-86a9-460b-b85e-b73c43e385ec",
@@ -58792,7 +58801,10 @@
       "10"
     ],
     "file": "The Legend of Zelda The Wind Waker/Yacht Game Failure.mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Yacht Game Failure.ogg"
+    "preview": "The Legend of Zelda The Wind Waker/Yacht Game Failure.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e71a99fb-305e-4df6-8a7f-544148d2888b",
@@ -58812,7 +58824,10 @@
       "7"
     ],
     "file": "The Legend of Zelda The Wind Waker/Ganondorf Battle.mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Ganondorf Battle.ogg"
+    "preview": "The Legend of Zelda The Wind Waker/Ganondorf Battle.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "384b066c-318c-4993-9e95-313c11b3139d",
@@ -58832,7 +58847,10 @@
       "157"
     ],
     "file": "The Legend of Zelda The Wind Waker/Ganon's Castle (Medley).mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Ganon's Castle (Medley).ogg"
+    "preview": "The Legend of Zelda The Wind Waker/Ganon's Castle (Medley).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b30c6c92-8816-4512-97fa-4e451ca82eb6",
@@ -58852,7 +58870,10 @@
       "10"
     ],
     "file": "The Legend of Zelda The Wind Waker/Get Item.mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Get Item.ogg"
+    "preview": "The Legend of Zelda The Wind Waker/Get Item.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "fa19acb4-7620-43bf-91d1-7dabad5739cb",
@@ -58871,7 +58892,10 @@
       "10"
     ],
     "file": "The Legend of Zelda The Wind Waker/Get Master Sword.mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Get Master Sword.ogg"
+    "preview": "The Legend of Zelda The Wind Waker/Get Master Sword.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e28c3768-0c41-4f9d-8556-bf7c5c9c1cc1",
@@ -58890,7 +58914,10 @@
       "9"
     ],
     "file": "The Legend of Zelda The Wind Waker/Get Orb.mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Get Orb.ogg"
+    "preview": "The Legend of Zelda The Wind Waker/Get Orb.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "09f20ec5-d012-4a8e-b50b-07a579e26e05",
@@ -58909,7 +58936,10 @@
       "9"
     ],
     "file": "The Legend of Zelda The Wind Waker/Get Small Item.mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Get Small Item.ogg"
+    "preview": "The Legend of Zelda The Wind Waker/Get Small Item.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b357f3e5-8a7e-430c-9cbc-12388da1435a",
@@ -58928,7 +58958,10 @@
       "9"
     ],
     "file": "The Legend of Zelda The Wind Waker/Get Treasure Box.mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Get Treasure Box.ogg"
+    "preview": "The Legend of Zelda The Wind Waker/Get Treasure Box.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d0d3e940-9c9d-436c-967e-78789ae94c07",
@@ -58947,7 +58980,10 @@
       "6"
     ],
     "file": "The Legend of Zelda The Wind Waker/Grandma's Theme.mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Grandma's Theme.ogg"
+    "preview": "The Legend of Zelda The Wind Waker/Grandma's Theme.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a44eb19d-ba68-4486-8103-76819c07ef92",
@@ -58966,7 +59002,10 @@
       "9"
     ],
     "file": "The Legend of Zelda The Wind Waker/Get Baton Song.mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Get Baton Song.ogg"
+    "preview": "The Legend of Zelda The Wind Waker/Get Baton Song.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "865e17c7-b7b9-4f42-8d1f-debbffd2a21a",
@@ -58986,7 +59025,10 @@
       "7"
     ],
     "file": "The Legend of Zelda The Wind Waker/Puppet Ganon (Snake Mode).mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Puppet Ganon (Snake Mode).ogg"
+    "preview": "The Legend of Zelda The Wind Waker/Puppet Ganon (Snake Mode).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d8a5d8f4-41f1-49b7-9970-ef40a3718abc",
@@ -59006,7 +59048,10 @@
       "3"
     ],
     "file": "The Legend of Zelda The Wind Waker/Tower of the Gods (Variant B).mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Tower of the Gods (Variant B).ogg"
+    "preview": "The Legend of Zelda The Wind Waker/Tower of the Gods (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "5c83c700-d439-4e1e-b2a6-3f394ecf4de1",
@@ -59025,7 +59070,10 @@
       "10"
     ],
     "file": "The Legend of Zelda The Wind Waker/Tetra Discovered.mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Tetra Discovered.ogg"
+    "preview": "The Legend of Zelda The Wind Waker/Tetra Discovered.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "92835b23-d3aa-4fd8-b60c-2c1a175e42b0",
@@ -59044,7 +59092,10 @@
       "10"
     ],
     "file": "The Legend of Zelda The Wind Waker/Yacht Game Goal.mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Yacht Game Goal.ogg"
+    "preview": "The Legend of Zelda The Wind Waker/Yacht Game Goal.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
