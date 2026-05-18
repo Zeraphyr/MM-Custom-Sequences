@@ -59384,5 +59384,25 @@
     "file": "The Legend of Zelda Ocarina of Time/Ganondorf's Theme (Symphonic Mix).mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Ganondorf's Theme (Symphonic Mix).ogg"
   },
+  {
+    "uuid": "037cf8fb-4707-4c68-be1d-27e68a448d96",
+    "creationDate": "2026-05-18T19:21:16.231Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Gerudo Valley (Metal Mix)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Gerudo Valley (Metal Mix).mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Gerudo Valley (Metal Mix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
