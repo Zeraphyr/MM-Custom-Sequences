@@ -58949,5 +58949,24 @@
     "file": "The Legend of Zelda The Wind Waker/Grandma's Theme.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Grandma's Theme.ogg"
   },
+  {
+    "uuid": "a44eb19d-ba68-4486-8103-76819c07ef92",
+    "creationDate": "2026-05-18T02:20:27.843Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Get Baton Song",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Get Baton Song.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Get Baton Song.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
