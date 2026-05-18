@@ -59342,5 +59342,26 @@
     "file": "The Legend of Zelda Ocarina of Time/Inside the Deku Tree (Variations Mix).mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Inside the Deku Tree (Variations Mix).ogg"
   },
+  {
+    "uuid": "6e424da6-0cf3-4e40-ac92-a083a704e3d9",
+    "creationDate": "2026-05-18T19:13:45.516Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Epona's Song (Melody Mix)",
+    "composers": [
+      "Koji Kondo",
+      "Jeff Chermak"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Epona's Song (Melody Mix).mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Epona's Song (Melody Mix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
