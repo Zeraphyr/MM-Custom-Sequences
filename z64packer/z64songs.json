@@ -59008,5 +59008,24 @@
     "file": "The Legend of Zelda The Wind Waker/Tower of the Gods (Variant B).mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Tower of the Gods (Variant B).ogg"
   },
+  {
+    "uuid": "5c83c700-d439-4e1e-b2a6-3f394ecf4de1",
+    "creationDate": "2026-05-18T02:25:15.120Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Tetra Discovered",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Tetra Discovered.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Tetra Discovered.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
