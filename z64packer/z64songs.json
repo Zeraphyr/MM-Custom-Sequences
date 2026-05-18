@@ -59404,5 +59404,25 @@
     "file": "The Legend of Zelda Ocarina of Time/Gerudo Valley (Metal Mix).mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Gerudo Valley (Metal Mix).ogg"
   },
+  {
+    "uuid": "b27511b2-6e5f-4a22-9993-bebec543124b",
+    "creationDate": "2026-05-18T19:24:10.898Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Goron City (Arranged)",
+    "composers": [
+      "Koji Kondo",
+      "Goat Hair"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Goron City (Arranged).mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Goron City (Arranged).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
