@@ -58814,5 +58814,25 @@
     "file": "The Legend of Zelda The Wind Waker/Ganondorf Battle.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Ganondorf Battle.ogg"
   },
+  {
+    "uuid": "384b066c-318c-4993-9e95-313c11b3139d",
+    "creationDate": "2026-05-18T02:10:29.057Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Ganon's Castle (Medley)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "157"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Ganon's Castle (Medley).mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Ganon's Castle (Medley).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
