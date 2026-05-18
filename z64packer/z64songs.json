@@ -58720,7 +58720,7 @@
     "uuid": "d8a26adf-88cd-4daf-9874-5b107ae5bdd4",
     "creationDate": "2026-05-18T01:49:46.783Z",
     "game": "The Legend of Zelda: The Wind Waker",
-    "song": "Ballad of Gales",
+    "song": "Ballad of Gales (Baton)",
     "composers": [
       "Hajime Wakai"
     ],
@@ -58735,9 +58735,7 @@
     ],
     "file": "The Legend of Zelda The Wind Waker/Ballad of Gales.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Ballad of Gales.ogg",
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
+    "lastUpdateDate": "2026-05-18T03:16:08.041Z"
   },
   {
     "uuid": "484ec27c-458e-4f07-b447-20cf3c351f4c",
@@ -59096,6 +59094,66 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
+  },
+  {
+    "uuid": "4b3bface-a386-4716-b5c3-8ab260394900",
+    "creationDate": "2026-05-18T03:18:02.691Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Song of Passing (Baton)",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Song of Passing (Baton).mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Song of Passing (Baton).ogg"
+  },
+  {
+    "uuid": "b70773a7-17b4-44f8-8bce-39b68affec3b",
+    "creationDate": "2026-05-18T03:19:04.909Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Wind God's Aria (Baton)",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Wind God's Aria (Baton).mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Wind God's Aria (Baton).ogg"
+  },
+  {
+    "uuid": "608f311c-b1a3-4d2f-a508-679b847b75ea",
+    "creationDate": "2026-05-18T03:19:52.600Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Wind's Requiem (Baton)",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Wind's Requiem (Baton).mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Wind's Requiem (Baton).ogg"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
