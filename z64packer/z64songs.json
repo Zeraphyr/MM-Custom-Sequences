@@ -58892,5 +58892,24 @@
     "file": "The Legend of Zelda The Wind Waker/Get Orb.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Get Orb.ogg"
   },
+  {
+    "uuid": "09f20ec5-d012-4a8e-b50b-07a579e26e05",
+    "creationDate": "2026-05-18T02:15:48.559Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Get Small Item",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Get Small Item.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Get Small Item.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
