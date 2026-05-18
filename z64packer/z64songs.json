@@ -58716,5 +58716,25 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "d8a26adf-88cd-4daf-9874-5b107ae5bdd4",
+    "creationDate": "2026-05-18T01:49:46.783Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Ballad of Gales",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Ballad of Gales.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Ballad of Gales.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
