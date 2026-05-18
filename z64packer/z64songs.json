@@ -58755,5 +58755,25 @@
     "file": "The Legend of Zelda The Wind Waker/The Deku Tree's Crisis.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/The Deku Tree's Crisis.ogg"
   },
+  {
+    "uuid": "46c668ba-1bda-4268-b0c5-22167acfba3b",
+    "creationDate": "2026-05-18T01:55:01.145Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Earth God's Lyric",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Earth God's Lyric.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Earth God's Lyric.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
