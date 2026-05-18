@@ -58720,7 +58720,7 @@
     "uuid": "d8a26adf-88cd-4daf-9874-5b107ae5bdd4",
     "creationDate": "2026-05-18T01:49:46.783Z",
     "game": "The Legend of Zelda: The Wind Waker",
-    "song": "Ballad of Gales",
+    "song": "Ballad of Gales (Baton)",
     "composers": [
       "Hajime Wakai"
     ],
@@ -58735,9 +58735,7 @@
     ],
     "file": "The Legend of Zelda The Wind Waker/Ballad of Gales.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Ballad of Gales.ogg",
-    "usesCustomBank": false,
-    "usesCustomSamples": false,
-    "usesFormmask": false
+    "lastUpdateDate": "2026-05-18T03:16:08.041Z"
   },
   {
     "uuid": "484ec27c-458e-4f07-b447-20cf3c351f4c",
