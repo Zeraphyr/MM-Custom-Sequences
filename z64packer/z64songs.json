@@ -58716,5 +58716,335 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "d8a26adf-88cd-4daf-9874-5b107ae5bdd4",
+    "creationDate": "2026-05-18T01:49:46.783Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Ballad of Gales",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Ballad of Gales.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Ballad of Gales.ogg"
+  },
+  {
+    "uuid": "484ec27c-458e-4f07-b447-20cf3c351f4c",
+    "creationDate": "2026-05-18T01:52:44.313Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "The Deku Tree's Crisis",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/The Deku Tree's Crisis.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/The Deku Tree's Crisis.ogg"
+  },
+  {
+    "uuid": "46c668ba-1bda-4268-b0c5-22167acfba3b",
+    "creationDate": "2026-05-18T01:55:01.145Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Earth God's Lyric",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Earth God's Lyric.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Earth God's Lyric.ogg"
+  },
+  {
+    "uuid": "86dd9cec-86a9-460b-b85e-b73c43e385ec",
+    "creationDate": "2026-05-18T02:00:08.841Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Yacht Game Failure",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Yacht Game Failure.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Yacht Game Failure.ogg"
+  },
+  {
+    "uuid": "e71a99fb-305e-4df6-8a7f-544148d2888b",
+    "creationDate": "2026-05-18T02:01:35.436Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Ganondorf Battle",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Ganondorf Battle.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Ganondorf Battle.ogg"
+  },
+  {
+    "uuid": "384b066c-318c-4993-9e95-313c11b3139d",
+    "creationDate": "2026-05-18T02:10:29.057Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Ganon's Castle (Medley)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "157"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Ganon's Castle (Medley).mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Ganon's Castle (Medley).ogg"
+  },
+  {
+    "uuid": "b30c6c92-8816-4512-97fa-4e451ca82eb6",
+    "creationDate": "2026-05-18T02:11:52.400Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Get Item",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Get Item.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Get Item.ogg"
+  },
+  {
+    "uuid": "fa19acb4-7620-43bf-91d1-7dabad5739cb",
+    "creationDate": "2026-05-18T02:13:08.616Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Get Master Sword",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Get Master Sword.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Get Master Sword.ogg"
+  },
+  {
+    "uuid": "e28c3768-0c41-4f9d-8556-bf7c5c9c1cc1",
+    "creationDate": "2026-05-18T02:14:46.194Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Get Orb",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Get Orb.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Get Orb.ogg"
+  },
+  {
+    "uuid": "09f20ec5-d012-4a8e-b50b-07a579e26e05",
+    "creationDate": "2026-05-18T02:15:48.559Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Get Small Item",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Get Small Item.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Get Small Item.ogg"
+  },
+  {
+    "uuid": "b357f3e5-8a7e-430c-9cbc-12388da1435a",
+    "creationDate": "2026-05-18T02:17:46.929Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Get Treasure Box",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Get Treasure Box.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Get Treasure Box.ogg"
+  },
+  {
+    "uuid": "d0d3e940-9c9d-436c-967e-78789ae94c07",
+    "creationDate": "2026-05-18T02:19:22.837Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Grandma's Theme",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Grandma's Theme.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Grandma's Theme.ogg"
+  },
+  {
+    "uuid": "a44eb19d-ba68-4486-8103-76819c07ef92",
+    "creationDate": "2026-05-18T02:20:27.843Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Get Baton Song",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Get Baton Song.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Get Baton Song.ogg"
+  },
+  {
+    "uuid": "865e17c7-b7b9-4f42-8d1f-debbffd2a21a",
+    "creationDate": "2026-05-18T02:21:41.688Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Puppet Ganon (Snake Mode)",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Puppet Ganon (Snake Mode).mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Puppet Ganon (Snake Mode).ogg"
+  },
+  {
+    "uuid": "d8a5d8f4-41f1-49b7-9970-ef40a3718abc",
+    "creationDate": "2026-05-18T02:24:06.098Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Tower of the Gods (Variant B)",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Tower of the Gods (Variant B).mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Tower of the Gods (Variant B).ogg"
+  },
+  {
+    "uuid": "5c83c700-d439-4e1e-b2a6-3f394ecf4de1",
+    "creationDate": "2026-05-18T02:25:15.120Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Tetra Discovered",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Tetra Discovered.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Tetra Discovered.ogg"
+  },
+  {
+    "uuid": "92835b23-d3aa-4fd8-b60c-2c1a175e42b0",
+    "creationDate": "2026-05-18T02:27:23.512Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Yacht Game Goal",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Yacht Game Goal.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Yacht Game Goal.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
