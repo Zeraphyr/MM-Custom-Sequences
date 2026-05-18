@@ -58736,5 +58736,24 @@
     "file": "The Legend of Zelda The Wind Waker/Ballad of Gales.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Ballad of Gales.ogg"
   },
+  {
+    "uuid": "484ec27c-458e-4f07-b447-20cf3c351f4c",
+    "creationDate": "2026-05-18T01:52:44.313Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "The Deku Tree's Crisis",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/The Deku Tree's Crisis.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/The Deku Tree's Crisis.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
