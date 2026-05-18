@@ -59224,5 +59224,24 @@
     "file": "The Legend of Zelda Ocarina of Time/Prelude of Light.mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Prelude of Light.ogg"
   },
+  {
+    "uuid": "ea479ca1-c568-417e-8820-10baa2be3ca5",
+    "creationDate": "2026-05-18T19:03:13.924Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Requiem of Spirit",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Requiem of Spirit.mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Requiem of Spirit.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
