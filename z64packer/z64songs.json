@@ -59027,5 +59027,24 @@
     "file": "The Legend of Zelda The Wind Waker/Tetra Discovered.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Tetra Discovered.ogg"
   },
+  {
+    "uuid": "92835b23-d3aa-4fd8-b60c-2c1a175e42b0",
+    "creationDate": "2026-05-18T02:27:23.512Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Yacht Game Goal",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Yacht Game Goal.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Yacht Game Goal.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
