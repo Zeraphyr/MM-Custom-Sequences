@@ -58775,5 +58775,24 @@
     "file": "The Legend of Zelda The Wind Waker/Earth God's Lyric.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Earth God's Lyric.ogg"
   },
+  {
+    "uuid": "86dd9cec-86a9-460b-b85e-b73c43e385ec",
+    "creationDate": "2026-05-18T02:00:08.841Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Yacht Game Failure",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Yacht Game Failure.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Yacht Game Failure.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
