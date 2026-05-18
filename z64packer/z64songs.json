@@ -59445,5 +59445,26 @@
     "file": "The Legend of Zelda Ocarina of Time/Ice Cavern (Haunted Mix).mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Ice Cavern (Haunted Mix).ogg"
   },
+  {
+    "uuid": "71be4dbd-9080-4220-aa0e-b48fc922ffaa",
+    "creationDate": "2026-05-18T19:27:02.628Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Kakariko Village (Campfire Mix)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Kakariko Village (Campfire Mix).mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Kakariko Village (Campfire Mix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
