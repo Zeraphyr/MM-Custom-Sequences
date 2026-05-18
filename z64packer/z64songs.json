@@ -59486,5 +59486,24 @@
     "file": "The Legend of Zelda Ocarina of Time/Kokiri Forest (Party Mix).mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Kokiri Forest (Party Mix).ogg"
   },
+  {
+    "uuid": "80192a59-92e6-4918-82d9-d7ca880378fe",
+    "creationDate": "2026-05-18T19:30:15.981Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Master Sword (Remix)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Master Sword (Remix).mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Master Sword (Remix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
