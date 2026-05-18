@@ -59322,5 +59322,25 @@
     "file": "The Legend of Zelda Ocarina of Time/Bolero of Fire (Symphony Mix).mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Bolero of Fire (Symphony Mix).ogg"
   },
+  {
+    "uuid": "efb93e66-d2cc-41dd-9722-1b7aaf8a2b83",
+    "creationDate": "2026-05-18T19:12:16.800Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Inside the Deku Tree (Variations Mix)",
+    "composers": [
+      "Koji Kondo",
+      "Michael Richardson"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Inside the Deku Tree (Variations Mix).mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Inside the Deku Tree (Variations Mix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
