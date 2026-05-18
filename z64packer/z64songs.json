@@ -59243,5 +59243,25 @@
     "file": "The Legend of Zelda Ocarina of Time/Requiem of Spirit.mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Requiem of Spirit.ogg"
   },
+  {
+    "uuid": "957d8043-f9d1-43d7-856b-9f6d8755635f",
+    "creationDate": "2026-05-18T19:04:29.146Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Saria's Song",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Saria's Song.mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Saria's Song.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
