@@ -58794,5 +58794,25 @@
     "file": "The Legend of Zelda The Wind Waker/Yacht Game Failure.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Yacht Game Failure.ogg"
   },
+  {
+    "uuid": "e71a99fb-305e-4df6-8a7f-544148d2888b",
+    "creationDate": "2026-05-18T02:01:35.436Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Ganondorf Battle",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Ganondorf Battle.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Ganondorf Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
