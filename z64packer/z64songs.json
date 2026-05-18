@@ -59263,5 +59263,24 @@
     "file": "The Legend of Zelda Ocarina of Time/Saria's Song.mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Saria's Song.ogg"
   },
+  {
+    "uuid": "88e71432-4e90-4ec5-a982-a7c88a7241fa",
+    "creationDate": "2026-05-18T19:05:18.622Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Serenade of Water",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Serenade of Water.mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Serenade of Water.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
