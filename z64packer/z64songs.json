@@ -59525,5 +59525,25 @@
     "file": "The Legend of Zelda Ocarina of Time/Kaepora Gaebora (Polka Mix).mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Kaepora Gaebora (Polka Mix).ogg"
   },
+  {
+    "uuid": "5af666af-2f0c-42e1-8b7d-4f3cea8d9936",
+    "creationDate": "2026-05-18T19:34:29.090Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Shop (Ska Mix)",
+    "composers": [
+      "Koji Kondo",
+      "Dr. Fruitcake"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Shop (Ska Mix).mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Shop (Ska Mix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
