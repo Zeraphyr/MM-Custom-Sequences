@@ -59363,5 +59363,26 @@
     "file": "The Legend of Zelda Ocarina of Time/Epona's Song (Melody Mix).mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Epona's Song (Melody Mix).ogg"
   },
+  {
+    "uuid": "e72d5617-7763-42f6-bf40-9c7cfe06e44b",
+    "creationDate": "2026-05-18T19:17:08.902Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Ganondorf's Theme (Symphonic Mix)",
+    "composers": [
+      "Koji Kondo",
+      "Link (VGMusic)"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Ganondorf's Theme (Symphonic Mix).mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Ganondorf's Theme (Symphonic Mix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
