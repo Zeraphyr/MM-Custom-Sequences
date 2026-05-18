@@ -58968,5 +58968,25 @@
     "file": "The Legend of Zelda The Wind Waker/Get Baton Song.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Get Baton Song.ogg"
   },
+  {
+    "uuid": "865e17c7-b7b9-4f42-8d1f-debbffd2a21a",
+    "creationDate": "2026-05-18T02:21:41.688Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Puppet Ganon (Snake Mode)",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Puppet Ganon (Snake Mode).mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Puppet Ganon (Snake Mode).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
