@@ -58834,5 +58834,25 @@
     "file": "The Legend of Zelda The Wind Waker/Ganon's Castle (Medley).mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Ganon's Castle (Medley).ogg"
   },
+  {
+    "uuid": "b30c6c92-8816-4512-97fa-4e451ca82eb6",
+    "creationDate": "2026-05-18T02:11:52.400Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Get Item",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Get Item.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Get Item.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
