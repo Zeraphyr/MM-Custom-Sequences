@@ -59505,5 +59505,25 @@
     "file": "The Legend of Zelda Ocarina of Time/Master Sword (Remix).mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Master Sword (Remix).ogg"
   },
+  {
+    "uuid": "6b2b7955-a5da-4bdc-905e-01abbf20e220",
+    "creationDate": "2026-05-18T19:32:30.878Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Kaepora Gaebora (Polka Mix)",
+    "composers": [
+      "Koji Kondo",
+      "BTHive"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "6"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Kaepora Gaebora (Polka Mix).mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Kaepora Gaebora (Polka Mix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
