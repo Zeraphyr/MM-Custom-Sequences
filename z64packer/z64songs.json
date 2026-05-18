@@ -59302,5 +59302,25 @@
     "file": "The Legend of Zelda Ocarina of Time/Zelda's Lullaby.mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Zelda's Lullaby.ogg"
   },
+  {
+    "uuid": "f78cd233-a02e-4f6b-ad53-9d99ce458ec8",
+    "creationDate": "2026-05-18T19:10:09.905Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Bolero of Fire (Symphony Mix)",
+    "composers": [
+      "Koji Kondo",
+      "Aaron Ritchie"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Bolero of Fire (Symphony Mix).mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Bolero of Fire (Symphony Mix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
