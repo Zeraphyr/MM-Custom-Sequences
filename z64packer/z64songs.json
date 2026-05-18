@@ -59466,5 +59466,25 @@
     "file": "The Legend of Zelda Ocarina of Time/Kakariko Village (Campfire Mix).mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Kakariko Village (Campfire Mix).ogg"
   },
+  {
+    "uuid": "497a96de-7e4c-4f2d-aebd-be003407216a",
+    "creationDate": "2026-05-18T19:28:21.620Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Kokiri Forest (Party Mix)",
+    "composers": [
+      "Koji Kondo",
+      "Ihsman07"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Kokiri Forest (Party Mix).mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Kokiri Forest (Party Mix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
