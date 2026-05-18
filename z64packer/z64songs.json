@@ -59205,5 +59205,24 @@
     "file": "The Legend of Zelda Ocarina of Time/Nocturne of Shadow.mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Nocturne of Shadow.ogg"
   },
+  {
+    "uuid": "017ac970-933c-4909-9867-35cdbc716a28",
+    "creationDate": "2026-05-18T19:02:20.731Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Prelude of Light",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Prelude of Light.mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Prelude of Light.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
