@@ -59553,5 +59553,25 @@
       "Asra"
     ]
   },
+  {
+    "uuid": "251b2fac-5726-4e1b-bb7e-1fa00e7e7271",
+    "creationDate": "2026-05-18T19:37:21.645Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Temple of Time (Medieval Mix)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Temple of Time (Medieval Mix).mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Temple of Time (Medieval Mix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
