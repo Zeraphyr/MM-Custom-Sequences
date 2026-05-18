@@ -58911,5 +58911,24 @@
     "file": "The Legend of Zelda The Wind Waker/Get Small Item.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Get Small Item.ogg"
   },
+  {
+    "uuid": "b357f3e5-8a7e-430c-9cbc-12388da1435a",
+    "creationDate": "2026-05-18T02:17:46.929Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Get Treasure Box",
+    "composers": [
+      "Kenta Nagata"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Get Treasure Box.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Get Treasure Box.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
