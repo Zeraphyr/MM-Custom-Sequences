@@ -59424,5 +59424,26 @@
     "file": "The Legend of Zelda Ocarina of Time/Goron City (Arranged).mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Goron City (Arranged).ogg"
   },
+  {
+    "uuid": "e1b2c8ad-7749-47fd-a291-c252dabc074c",
+    "creationDate": "2026-05-18T19:25:34.630Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Ice Cavern (Haunted Mix)",
+    "composers": [
+      "Koji Kondo",
+      "Aaron Ritchie"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Ice Cavern (Haunted Mix).mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Ice Cavern (Haunted Mix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
