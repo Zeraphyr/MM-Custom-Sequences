@@ -58735,7 +58735,10 @@
     ],
     "file": "The Legend of Zelda The Wind Waker/Ballad of Gales.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Ballad of Gales.ogg",
-    "lastUpdateDate": "2026-05-18T03:16:08.041Z"
+    "lastUpdateDate": "2026-05-18T03:16:08.041Z",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "484ec27c-458e-4f07-b447-20cf3c351f4c",
@@ -59113,7 +59116,10 @@
       "10"
     ],
     "file": "The Legend of Zelda The Wind Waker/Song of Passing (Baton).mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Song of Passing (Baton).ogg"
+    "preview": "The Legend of Zelda The Wind Waker/Song of Passing (Baton).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b70773a7-17b4-44f8-8bce-39b68affec3b",
@@ -59133,7 +59139,10 @@
       "10"
     ],
     "file": "The Legend of Zelda The Wind Waker/Wind God's Aria (Baton).mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Wind God's Aria (Baton).ogg"
+    "preview": "The Legend of Zelda The Wind Waker/Wind God's Aria (Baton).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "608f311c-b1a3-4d2f-a508-679b847b75ea",
@@ -59153,7 +59162,10 @@
       "10"
     ],
     "file": "The Legend of Zelda The Wind Waker/Wind's Requiem (Baton).mmrs",
-    "preview": "The Legend of Zelda The Wind Waker/Wind's Requiem (Baton).ogg"
+    "preview": "The Legend of Zelda The Wind Waker/Wind's Requiem (Baton).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
