@@ -58854,5 +58854,24 @@
     "file": "The Legend of Zelda The Wind Waker/Get Item.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Get Item.ogg"
   },
+  {
+    "uuid": "fa19acb4-7620-43bf-91d1-7dabad5739cb",
+    "creationDate": "2026-05-18T02:13:08.616Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Get Master Sword",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Get Master Sword.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Get Master Sword.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
