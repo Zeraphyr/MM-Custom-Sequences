@@ -59115,5 +59115,25 @@
     "file": "The Legend of Zelda The Wind Waker/Song of Passing (Baton).mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Song of Passing (Baton).ogg"
   },
+  {
+    "uuid": "b70773a7-17b4-44f8-8bce-39b68affec3b",
+    "creationDate": "2026-05-18T03:19:04.909Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Wind God's Aria (Baton)",
+    "composers": [
+      "Hajime Wakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Wind God's Aria (Baton).mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Wind God's Aria (Baton).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
