@@ -59186,5 +59186,24 @@
     "file": "The Legend of Zelda Ocarina of Time/Minuet of Forest.mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Minuet of Forest.ogg"
   },
+  {
+    "uuid": "6607ff03-0e00-4aa1-bb99-d9cc7d4e3af9",
+    "creationDate": "2026-05-18T19:01:17.657Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Nocturne of Shadow",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Nocturne of Shadow.mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Nocturne of Shadow.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
