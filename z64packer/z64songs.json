@@ -58930,5 +58930,24 @@
     "file": "The Legend of Zelda The Wind Waker/Get Treasure Box.mmrs",
     "preview": "The Legend of Zelda The Wind Waker/Get Treasure Box.ogg"
   },
+  {
+    "uuid": "d0d3e940-9c9d-436c-967e-78789ae94c07",
+    "creationDate": "2026-05-18T02:19:22.837Z",
+    "game": "The Legend of Zelda: The Wind Waker",
+    "song": "Grandma's Theme",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "file": "The Legend of Zelda The Wind Waker/Grandma's Theme.mmrs",
+    "preview": "The Legend of Zelda The Wind Waker/Grandma's Theme.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
