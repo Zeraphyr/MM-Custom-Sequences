@@ -59282,5 +59282,25 @@
     "file": "The Legend of Zelda Ocarina of Time/Serenade of Water.mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Serenade of Water.ogg"
   },
+  {
+    "uuid": "0be5289e-e8eb-4c12-9936-73e9198368a6",
+    "creationDate": "2026-05-18T19:05:58.931Z",
+    "game": "The Legend of Zelda: Ocarina of Time",
+    "song": "Zelda's Lullaby",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "The Legend of Zelda Ocarina of Time/Zelda's Lullaby.mmrs",
+    "preview": "The Legend of Zelda Ocarina of Time/Zelda's Lullaby.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
