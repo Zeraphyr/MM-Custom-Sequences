@@ -1348,12 +1348,14 @@
   {
     "game": "Pokémon Black & White",
     "series": "Pokémon Series",
-    "logo": "https://i.imgur.com/2ztGqSb.png"
+    "logo": "https://i.imgur.com/2ztGqSb.png",
+    "short_name": "Pokémon BW"
   },
   {
     "game": "Pokémon Black 2 & White 2",
     "series": "Pokémon Series",
-    "logo": "https://i.imgur.com/c5WIW1K.png"
+    "logo": "https://i.imgur.com/c5WIW1K.png",
+    "short_name": "Pokémon B2W2"
   },
   {
     "game": "Pokémon Card GB2: Great Rocket-Dan Sanjo",
@@ -1370,7 +1372,7 @@
     "game": "Pokémon Diamond, Pearl & Platinum",
     "series": "Pokémon Series",
     "logo": "https://i.imgur.com/Ykk9fjh.png",
-    "short_name": "Pokémon DPPT"
+    "short_name": "Pokémon DPPt"
   },
   {
     "game": "Pokémon Gold, Silver & Crystal",
@@ -1382,7 +1384,7 @@
     "game": "Pokémon Mystery Dungeon: Explorers of Sky",
     "series": "Pokémon Series",
     "logo": "https://i.imgur.com/xOB3NJx.png",
-    "short_name": "Pokémon Mystery Dungeon: Sky"
+    "short_name": "Pokémon MD Explorers of Sky"
   },
   {
     "game": "Pokémon Puzzle League",
@@ -1392,7 +1394,8 @@
   {
     "game": "Pokémon Red, Blue & Yellow",
     "series": "Pokémon Series",
-    "logo": "https://i.imgur.com/qTolwwr.png"
+    "logo": "https://i.imgur.com/qTolwwr.png",
+    "short_name": "Pokémon RBY"
   },
   {
     "game": "Pokémon Ruby, Sapphire & Emerald",
@@ -1418,7 +1421,8 @@
   {
     "game": "Pokémon Trading Card Game",
     "series": "Pokémon Series",
-    "logo": "https://i.imgur.com/N7NrDJb.png"
+    "logo": "https://i.imgur.com/N7NrDJb.png",
+    "short_name": "Pokémon TCG"
   },
   {
     "game": "Pokémon X & Y",
@@ -1428,7 +1432,8 @@
   {
     "game": "Pokémon XD: Gale of Darkness",
     "series": "Pokémon Series",
-    "logo": "https://i.imgur.com/szZ6kYe.png"
+    "logo": "https://i.imgur.com/szZ6kYe.png",
+    "short_name": "Pokémon XD"
   },
   {
     "game": "Portal",
@@ -2552,7 +2557,8 @@
   {
     "game": "Pokémon Scarlet & Violet",
     "series": "Pokémon Series",
-    "logo": "https://cdn2.steamgriddb.com/logo_thumb/f4791973a5e61fb90ebb6944348dccd4.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/f4791973a5e61fb90ebb6944348dccd4.png",
+    "short_name": "Pokémon SV"
   },
   {
     "game": "Fire Emblem: Three Houses",
@@ -2634,7 +2640,8 @@
   {
     "game": "Pokémon HeartGold & SoulSilver",
     "series": "Pokémon Series",
-    "logo": "https://cdn2.steamgriddb.com/logo_thumb/bf25356fd2a6e038f1a3a59c26687e80.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/bf25356fd2a6e038f1a3a59c26687e80.png",
+    "short_name": "Pokémon HGSS"
   },
   {
     "game": "A Hat in Time",
@@ -2904,7 +2911,8 @@
   {
     "game": "Pokémon Ranger: Shadows of Almia",
     "series": "Pokémon Series",
-    "logo": "https://cdn2.steamgriddb.com/logo_thumb/e3978ba7ecdecc63be5f5bf0281a0ed6.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/e3978ba7ecdecc63be5f5bf0281a0ed6.png",
+    "short_name": "Pokémon Ranger SoA"
   },
   {
     "game": "Pokémon Ranger",
@@ -2914,7 +2922,8 @@
   {
     "game": "Pokémon Omega Ruby & Alpha Sapphire",
     "series": "Pokémon Series",
-    "logo": "https://cdn2.steamgriddb.com/logo_thumb/b37f6ff7029b365b5c6f15eb27fe7d6f.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/b37f6ff7029b365b5c6f15eb27fe7d6f.png",
+    "short_name": "Pokémon ORAS"
   },
   {
     "game": "An Untitled Story",
@@ -3399,7 +3408,8 @@
   {
     "game": "Pokémon FireRed: Rocket Edition",
     "series": "Pokémon Series",
-    "logo": "https://cdn2.steamgriddb.com/logo_thumb/a18c683dc35acbddc52d82d74d01672c.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/a18c683dc35acbddc52d82d74d01672c.png",
+    "short_name": "Pokémon FRRE"
   },
   {
     "game": "Final Fantasy XII",
@@ -3529,7 +3539,8 @@
   {
     "game": "Pokémon Mystery Dungeon: Red Rescue Team",
     "series": "Pokémon Series",
-    "logo": "https://cdn2.steamgriddb.com/logo_thumb/65fd95b22c5680766c110f8d1ab21a4b.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/65fd95b22c5680766c110f8d1ab21a4b.png",
+    "short_name": "Pokémon MD Red Rescue Team"
   },
   {
     "game": "Genshin Impact",
@@ -3546,7 +3557,8 @@
   {
     "game": "Pokémon Mystery Dungeon: Explorers of Time",
     "series": "Pokémon Series",
-    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ec26fc2eb2b75aece19c70392dc744c2.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ec26fc2eb2b75aece19c70392dc744c2.png",
+    "short_name": "Pokémon MD Explorers of Time"
   },
   {
     "game": "Johann Sebastian Bach",
@@ -3735,16 +3747,28 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/3b7cd3a5ad79da7f656f33072ad212fe.png"
   },
   {
-    "game": "Pokémon Mystery Dungeon Rescue Team DX"
+    "game": "Pokémon Mystery Dungeon: Rescue Team DX",
+    "series": "Pokémon Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ca7e09eacf1ae34bc819d495c5adfed9.png",
+    "short_name": "Pokémon MD Rescue Team DX"
   },
   {
-    "game": "Pokémon Sword & Shield"
+    "game": "Pokémon Sword & Shield",
+    "series": "Pokémon Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/02567434553db59eacf24d06396e5d7b.png",
+    "short_name": "Pokémon SwSh"
   },
   {
-    "game": "Pokémon Let's Go, Pikachu! & Let's Go, Eevee!"
+    "game": "Pokémon Let's Go, Pikachu! & Let's Go, Eevee!",
+    "series": "Pokémon Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/b37242925ffe0da400d9b98c254b9fcd.png",
+    "short_name": "Pokémon LGPE"
   },
   {
-    "game": "Pokémon Ultra Sun and Ultra Moon"
+    "game": "Pokémon Ultra Sun and Ultra Moon",
+    "series": "Pokémon Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/e3c9cb08585a40829bc88130b0b8ebdf.png",
+    "short_name": "Pokémon USUM"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
