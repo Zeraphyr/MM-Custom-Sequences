@@ -59753,5 +59753,25 @@
     "file": "Pokémon HeartGold & SoulSilver/Bell Tower.mmrs",
     "preview": "Pokémon HeartGold & SoulSilver/Bell Tower.ogg"
   },
+  {
+    "uuid": "74c2ee2a-a497-433a-ba52-7583b01c6ddf",
+    "creationDate": "2026-05-19T01:56:58.121Z",
+    "game": "Pokémon Mystery Dungeon: Red Rescue Team",
+    "song": "Personality Test",
+    "composers": [
+      "Arata Iiyoshi",
+      "Atsuhiro Ishizuna"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Pokémon Mystery Dungeon Red Rescue Team/Personality Test.mmrs",
+    "preview": "Pokémon Mystery Dungeon Red Rescue Team/Personality Test.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
