@@ -59973,5 +59973,25 @@
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Good Sentry Duty.mmrs",
     "preview": "Pokémon Mystery Dungeon Explorers of Sky/Good Sentry Duty.ogg"
   },
+  {
+    "uuid": "eb275f82-2ab7-458d-a68b-8271b192e1a3",
+    "creationDate": "2026-05-19T17:08:25.814Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Decent Sentry Duty",
+    "composers": [
+      "Keisuke Ito"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Decent Sentry Duty.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Decent Sentry Duty.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
