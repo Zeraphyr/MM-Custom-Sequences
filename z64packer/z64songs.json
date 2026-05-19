@@ -60013,5 +60013,24 @@
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Failed Sentry Duty.mmrs",
     "preview": "Pokémon Mystery Dungeon Explorers of Sky/Failed Sentry Duty.ogg"
   },
+  {
+    "uuid": "5af6f2ac-5c40-4b39-bb4d-217411375f5f",
+    "creationDate": "2026-05-19T17:10:54.298Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Goodnight (Unused Alternate)",
+    "composers": [
+      "Arata Iiyoshi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Goodnight (Unused Alternate).mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Goodnight (Unused Alternate).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
