@@ -60201,5 +60201,30 @@
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Perfect Sentry Duty.mmrs",
     "preview": "Pokémon Mystery Dungeon Explorers of Sky/Perfect Sentry Duty.ogg"
   },
+  {
+    "uuid": "1f6eb9cf-b6b9-4aca-8c51-bd164e242059",
+    "creationDate": "2026-05-19T22:21:48.835Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Unused Creepy Test Track",
+    "composers": [
+      "Arata Iiyoshi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "notes": "TODO: Properly document which song this is (khinsider, or tcrf).",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6",
+      "16",
+      "157"
+    ],
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Unused Creepy Test Track.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Unused Creepy Test Track.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
