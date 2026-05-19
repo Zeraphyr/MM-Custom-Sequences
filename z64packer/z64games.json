@@ -3734,5 +3734,17 @@
     "series": "Yo-kai Watch Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/3b7cd3a5ad79da7f656f33072ad212fe.png"
   },
+  {
+    "game": "Pokémon Mystery Dungeon Rescue Team DX"
+  },
+  {
+    "game": "Pokémon Sword & Shield"
+  },
+  {
+    "game": "Pokémon Let's Go, Pikachu! & Let's Go, Eevee!"
+  },
+  {
+    "game": "Pokémon Ultra Sun and Ultra Moon"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

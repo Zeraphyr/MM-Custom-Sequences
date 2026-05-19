@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -59692,7 +59692,10 @@
       "7"
     ],
     "file": "Pokémon Black 2 & White 2/Victory Lies Before You!.mmrs",
-    "preview": "Pokémon Black 2 & White 2/Victory Lies Before You!.ogg"
+    "preview": "Pokémon Black 2 & White 2/Victory Lies Before You!.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e25fff7c-1a5a-4109-a4f5-c86eba7f45f0",
@@ -59711,12 +59714,15 @@
       "10"
     ],
     "file": "Pokémon Colosseum/Colosseum Battle Round 1 Intro.mmrs",
-    "preview": "Pokémon Colosseum/Colosseum Battle Round 1 Intro.ogg"
+    "preview": "Pokémon Colosseum/Colosseum Battle Round 1 Intro.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4a548b7e-f5ee-4936-918d-ee16d18eaf4d",
     "creationDate": "2026-05-19T01:51:02.263Z",
-    "game": "Pokémon: Let's Go, Pikachu! & Let's Go, Eevee!",
+    "game": "Pokémon Let's Go, Pikachu! & Let's Go, Eevee!",
     "song": "Battle! (Trainer Battle)",
     "composers": [
       "Shota Kageyama"
@@ -59731,7 +59737,10 @@
       "7"
     ],
     "file": "Pokémon Let's Go, Pikachu! & Let's Go, Eevee!/Battle! (Trainer Battle).mmrs",
-    "preview": "Pokémon Let's Go, Pikachu! & Let's Go, Eevee!/Battle! (Trainer Battle).ogg"
+    "preview": "Pokémon Let's Go, Pikachu! & Let's Go, Eevee!/Battle! (Trainer Battle).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c5578798-296e-414e-b735-f67e987a9c75",
@@ -59751,7 +59760,10 @@
       "3"
     ],
     "file": "Pokémon HeartGold & SoulSilver/Bell Tower.mmrs",
-    "preview": "Pokémon HeartGold & SoulSilver/Bell Tower.ogg"
+    "preview": "Pokémon HeartGold & SoulSilver/Bell Tower.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "74c2ee2a-a497-433a-ba52-7583b01c6ddf",
@@ -59771,7 +59783,10 @@
       "16"
     ],
     "file": "Pokémon Mystery Dungeon Red Rescue Team/Personality Test.mmrs",
-    "preview": "Pokémon Mystery Dungeon Red Rescue Team/Personality Test.ogg"
+    "preview": "Pokémon Mystery Dungeon Red Rescue Team/Personality Test.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "42e8d1dc-0eaa-4192-b9c5-8b983d9c1ec1",
@@ -59793,12 +59808,15 @@
       "157"
     ],
     "file": "Pokémon Mystery Dungeon Red Rescue Team/Final Moments.mmrs",
-    "preview": "Pokémon Mystery Dungeon Red Rescue Team/Final Moments.ogg"
+    "preview": "Pokémon Mystery Dungeon Red Rescue Team/Final Moments.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "baffe475-27f1-47a9-8dc2-29cae94c37b5",
     "creationDate": "2026-05-19T02:40:28.099Z",
-    "game": "Pokémon Mystery Dungeon: Rescue Team DX",
+    "game": "Pokémon Mystery Dungeon Rescue Team DX",
     "song": "Great Canyon",
     "composers": [
       "Keisuke Ito"
@@ -59814,7 +59832,10 @@
       "3"
     ],
     "file": "Pokémon Mystery Dungeon Rescue Team DX/Great Canyon.mmrs",
-    "preview": "Pokémon Mystery Dungeon Rescue Team DX/Great Canyon.ogg"
+    "preview": "Pokémon Mystery Dungeon Rescue Team DX/Great Canyon.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "9e8c39b8-370d-4c66-88fa-7af4ffb2fe32",
@@ -59835,7 +59856,10 @@
       "7"
     ],
     "file": "Pokémon Omega Ruby & Alpha Sapphire/Battle! (Lorekeeper Zinnia).mmrs",
-    "preview": "Pokémon Omega Ruby & Alpha Sapphire/Battle! (Lorekeeper Zinnia).ogg"
+    "preview": "Pokémon Omega Ruby & Alpha Sapphire/Battle! (Lorekeeper Zinnia).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "95cee216-d7cc-41cf-a49b-4728d4d5d9cc",
@@ -59854,7 +59878,10 @@
       "3"
     ],
     "file": "Pokémon Ruby, Sapphire & Emerald/Fallarbor Town.mmrs",
-    "preview": "Pokémon Ruby, Sapphire & Emerald/Fallarbor Town.ogg"
+    "preview": "Pokémon Ruby, Sapphire & Emerald/Fallarbor Town.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "60f2713e-4160-4a84-93f1-58899cb23f28",
@@ -59874,7 +59901,10 @@
       "3"
     ],
     "file": "Pokémon Sword & Shield/Battle! (Marnie).mmrs",
-    "preview": "Pokémon Sword & Shield/Battle! (Marnie).ogg"
+    "preview": "Pokémon Sword & Shield/Battle! (Marnie).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "77b38f4d-64e4-4ebe-83e1-7f6846bc6982",
@@ -59896,7 +59926,10 @@
       "157"
     ],
     "file": "Pokémon Sword & Shield/Battle! (Eternatus ~ Phase 3) (Piano).mmrs",
-    "preview": "Pokémon Sword & Shield/Battle! (Eternatus ~ Phase 3) (Piano).ogg"
+    "preview": "Pokémon Sword & Shield/Battle! (Eternatus ~ Phase 3) (Piano).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "edf40729-53bf-4ae1-a8ed-1ec24b071ded",
@@ -59915,7 +59948,10 @@
       "7"
     ],
     "file": "Pokémon Ultra Sun and Ultra Moon/Showdown! (Ultra Necrozma).mmrs",
-    "preview": "Pokémon Ultra Sun and Ultra Moon/Showdown! (Ultra Necrozma).ogg"
+    "preview": "Pokémon Ultra Sun and Ultra Moon/Showdown! (Ultra Necrozma).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
