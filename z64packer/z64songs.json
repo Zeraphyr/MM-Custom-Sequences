@@ -60032,5 +60032,30 @@
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Goodnight (Unused Alternate).mmrs",
     "preview": "Pokémon Mystery Dungeon Explorers of Sky/Goodnight (Unused Alternate).ogg"
   },
+  {
+    "uuid": "d490509f-add6-4f92-8853-9ba23167974b",
+    "creationDate": "2026-05-19T17:14:44.725Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Team Charm's Theme (Unused)",
+    "composers": [
+      "Arata Iiyoshi",
+      "Keisuke Ito"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Team Charm's Theme (Unused).mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Team Charm's Theme (Unused).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
