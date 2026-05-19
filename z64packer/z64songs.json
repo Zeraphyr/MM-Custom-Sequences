@@ -60103,5 +60103,24 @@
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Through the Sea of Time.mmrs",
     "preview": "Pokémon Mystery Dungeon Explorers of Sky/Through the Sea of Time.ogg"
   },
+  {
+    "uuid": "44c69154-cfa2-4f54-a087-ad9f2daef926",
+    "creationDate": "2026-05-19T17:19:56.000Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Title Theme (Unused Alternate 1)",
+    "composers": [
+      "Arata Iiyoshi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Title Theme (Unused Alternate 1).mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Title Theme (Unused Alternate 1).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
