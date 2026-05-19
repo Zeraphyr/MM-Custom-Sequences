@@ -59773,5 +59773,27 @@
     "file": "Pokémon Mystery Dungeon Red Rescue Team/Personality Test.mmrs",
     "preview": "Pokémon Mystery Dungeon Red Rescue Team/Personality Test.ogg"
   },
+  {
+    "uuid": "42e8d1dc-0eaa-4192-b9c5-8b983d9c1ec1",
+    "creationDate": "2026-05-19T02:12:23.447Z",
+    "game": "Pokémon Mystery Dungeon: Red Rescue Team",
+    "song": "Final Moments",
+    "composers": [
+      "Arata Iiyoshi",
+      "Atsuhiro Ishizuna"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "notes": "Warning: I couldn't pinpoint exactly which song this is in the soundtrack, so it has the name \"Final Moments\", the one Asra gave it.",
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16",
+      "157"
+    ],
+    "file": "Pokémon Mystery Dungeon Red Rescue Team/Final Moments.mmrs",
+    "preview": "Pokémon Mystery Dungeon Red Rescue Team/Final Moments.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
