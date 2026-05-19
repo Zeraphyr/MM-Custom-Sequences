@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -59971,7 +59971,10 @@
       "10"
     ],
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Good Sentry Duty.mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Good Sentry Duty.ogg"
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Good Sentry Duty.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "eb275f82-2ab7-458d-a68b-8271b192e1a3",
@@ -59991,7 +59994,10 @@
       "10"
     ],
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Decent Sentry Duty.mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Decent Sentry Duty.ogg"
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Decent Sentry Duty.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "bdbbc50b-96c9-4013-867c-1c799997cb95",
@@ -60011,7 +60017,10 @@
       "10"
     ],
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Failed Sentry Duty.mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Failed Sentry Duty.ogg"
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Failed Sentry Duty.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "5af6f2ac-5c40-4b39-bb4d-217411375f5f",
@@ -60030,7 +60039,10 @@
       "16"
     ],
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Goodnight (Unused Alternate).mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Goodnight (Unused Alternate).ogg"
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Goodnight (Unused Alternate).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d490509f-add6-4f92-8853-9ba23167974b",
@@ -60055,7 +60067,10 @@
       "7"
     ],
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Team Charm's Theme (Unused).mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Team Charm's Theme (Unused).ogg"
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Team Charm's Theme (Unused).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "7cf9f0b1-fb7e-4329-b886-d94cad1a6f17",
@@ -60076,7 +60091,10 @@
       "3"
     ],
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Treeshroud Forest.mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Treeshroud Forest.ogg"
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Treeshroud Forest.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "7ae2764e-f169-4785-b4d0-8e77d88bdec3",
@@ -60101,7 +60119,10 @@
       "157"
     ],
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Through the Sea of Time.mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Through the Sea of Time.ogg"
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Through the Sea of Time.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "44c69154-cfa2-4f54-a087-ad9f2daef926",
@@ -60120,7 +60141,10 @@
       "10"
     ],
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Title Theme (Unused Alternate 1).mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Title Theme (Unused Alternate 1).ogg"
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Title Theme (Unused Alternate 1).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "feb75f11-1676-40a2-bb03-38b49f0a8c9d",
@@ -60139,7 +60163,10 @@
       "10"
     ],
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Title Theme (Unused Alternate 2).mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Title Theme (Unused Alternate 2).ogg"
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Title Theme (Unused Alternate 2).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "217c9118-5456-464b-9a2e-f1da07373ed8",
@@ -60159,7 +60186,10 @@
       "10"
     ],
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Mission Success.mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Mission Success.ogg"
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Mission Success.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "bce8674c-428b-43e5-b508-f4739a8d66b7",
@@ -60179,7 +60209,10 @@
       "10"
     ],
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Mission Failed.mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Mission Failed.ogg"
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Mission Failed.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4ce3e0bf-4a04-4c3d-aebc-9a72bebba5fe",
@@ -60199,7 +60232,10 @@
       "10"
     ],
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Perfect Sentry Duty.mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Perfect Sentry Duty.ogg"
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Perfect Sentry Duty.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1f6eb9cf-b6b9-4aca-8c51-bd164e242059",
@@ -60224,7 +60260,10 @@
       "157"
     ],
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Unused Creepy Test Track.mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Unused Creepy Test Track.ogg"
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Unused Creepy Test Track.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "692d8f4f-02b7-4bbd-abd5-065c28104872",
@@ -60244,7 +60283,10 @@
       "10"
     ],
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Team Charm's Theme Bridge (Unused).mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Team Charm's Theme Bridge (Unused).ogg"
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Team Charm's Theme Bridge (Unused).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
