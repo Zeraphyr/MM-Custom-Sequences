@@ -59795,5 +59795,26 @@
     "file": "Pokémon Mystery Dungeon Red Rescue Team/Final Moments.mmrs",
     "preview": "Pokémon Mystery Dungeon Red Rescue Team/Final Moments.ogg"
   },
+  {
+    "uuid": "baffe475-27f1-47a9-8dc2-29cae94c37b5",
+    "creationDate": "2026-05-19T02:40:28.099Z",
+    "game": "Pokémon Mystery Dungeon: Rescue Team DX",
+    "song": "Great Canyon",
+    "composers": [
+      "Keisuke Ito"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Pokémon Mystery Dungeon Rescue Team DX/Great Canyon.mmrs",
+    "preview": "Pokémon Mystery Dungeon Rescue Team DX/Great Canyon.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
