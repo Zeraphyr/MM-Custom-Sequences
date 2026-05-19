@@ -59898,5 +59898,24 @@
     "file": "Pokémon Sword & Shield/Battle! (Eternatus ~ Phase 3) (Piano).mmrs",
     "preview": "Pokémon Sword & Shield/Battle! (Eternatus ~ Phase 3) (Piano).ogg"
   },
+  {
+    "uuid": "edf40729-53bf-4ae1-a8ed-1ec24b071ded",
+    "creationDate": "2026-05-19T03:07:17.376Z",
+    "game": "Pokémon Ultra Sun and Ultra Moon",
+    "song": "Showdown! (Ultra Necrozma)",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Pokémon Ultra Sun and Ultra Moon/Showdown! (Ultra Necrozma).mmrs",
+    "preview": "Pokémon Ultra Sun and Ultra Moon/Showdown! (Ultra Necrozma).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
