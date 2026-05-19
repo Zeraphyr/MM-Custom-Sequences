@@ -59713,5 +59713,25 @@
     "file": "Pokémon Colosseum/Colosseum Battle Round 1 Intro.mmrs",
     "preview": "Pokémon Colosseum/Colosseum Battle Round 1 Intro.ogg"
   },
+  {
+    "uuid": "4a548b7e-f5ee-4936-918d-ee16d18eaf4d",
+    "creationDate": "2026-05-19T01:51:02.263Z",
+    "game": "Pokémon: Let's Go, Pikachu! & Let's Go, Eevee!",
+    "song": "Battle! (Trainer Battle)",
+    "composers": [
+      "Shota Kageyama"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Pokémon Let's Go, Pikachu! & Let's Go, Eevee!/Battle! (Trainer Battle).mmrs",
+    "preview": "Pokémon Let's Go, Pikachu! & Let's Go, Eevee!/Battle! (Trainer Battle).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
