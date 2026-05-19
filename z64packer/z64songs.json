@@ -59694,5 +59694,24 @@
     "file": "Pokémon Black 2 & White 2/Victory Lies Before You!.mmrs",
     "preview": "Pokémon Black 2 & White 2/Victory Lies Before You!.ogg"
   },
+  {
+    "uuid": "e25fff7c-1a5a-4109-a4f5-c86eba7f45f0",
+    "creationDate": "2026-05-19T01:46:22.128Z",
+    "game": "Pokémon Colosseum",
+    "song": "Colosseum Battle Round 1 Intro",
+    "composers": [
+      "Tsukasa Tawada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Pokémon Colosseum/Colosseum Battle Round 1 Intro.mmrs",
+    "preview": "Pokémon Colosseum/Colosseum Battle Round 1 Intro.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
