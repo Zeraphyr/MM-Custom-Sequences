@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -59952,6 +59952,299 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
+  },
+  {
+    "uuid": "0311a567-4a80-43f8-b29b-bcc740214122",
+    "creationDate": "2026-05-19T17:07:03.761Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Good Sentry Duty",
+    "composers": [
+      "Keisuke Ito"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Good Sentry Duty.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Good Sentry Duty.ogg"
+  },
+  {
+    "uuid": "eb275f82-2ab7-458d-a68b-8271b192e1a3",
+    "creationDate": "2026-05-19T17:08:25.814Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Decent Sentry Duty",
+    "composers": [
+      "Keisuke Ito"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Decent Sentry Duty.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Decent Sentry Duty.ogg"
+  },
+  {
+    "uuid": "bdbbc50b-96c9-4013-867c-1c799997cb95",
+    "creationDate": "2026-05-19T17:09:13.153Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Failed Sentry Duty",
+    "composers": [
+      "Keisuke Ito"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Failed Sentry Duty.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Failed Sentry Duty.ogg"
+  },
+  {
+    "uuid": "5af6f2ac-5c40-4b39-bb4d-217411375f5f",
+    "creationDate": "2026-05-19T17:10:54.298Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Goodnight (Unused Alternate)",
+    "composers": [
+      "Arata Iiyoshi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Goodnight (Unused Alternate).mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Goodnight (Unused Alternate).ogg"
+  },
+  {
+    "uuid": "d490509f-add6-4f92-8853-9ba23167974b",
+    "creationDate": "2026-05-19T17:14:44.725Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Team Charm's Theme (Unused)",
+    "composers": [
+      "Arata Iiyoshi",
+      "Keisuke Ito"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Team Charm's Theme (Unused).mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Team Charm's Theme (Unused).ogg"
+  },
+  {
+    "uuid": "7cf9f0b1-fb7e-4329-b886-d94cad1a6f17",
+    "creationDate": "2026-05-19T17:15:40.724Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Treeshroud Forest",
+    "composers": [
+      "Arata Iiyoshi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Treeshroud Forest.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Treeshroud Forest.ogg"
+  },
+  {
+    "uuid": "7ae2764e-f169-4785-b4d0-8e77d88bdec3",
+    "creationDate": "2026-05-19T17:16:45.602Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Through the Sea of Time",
+    "composers": [
+      "Arata Iiyoshi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "5",
+      "6",
+      "16",
+      "157"
+    ],
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Through the Sea of Time.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Through the Sea of Time.ogg"
+  },
+  {
+    "uuid": "44c69154-cfa2-4f54-a087-ad9f2daef926",
+    "creationDate": "2026-05-19T17:19:56.000Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Title Theme (Unused Alternate 1)",
+    "composers": [
+      "Arata Iiyoshi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Title Theme (Unused Alternate 1).mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Title Theme (Unused Alternate 1).ogg"
+  },
+  {
+    "uuid": "feb75f11-1676-40a2-bb03-38b49f0a8c9d",
+    "creationDate": "2026-05-19T17:20:52.495Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Title Theme (Unused Alternate 2)",
+    "composers": [
+      "Arata Iiyoshi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Title Theme (Unused Alternate 2).mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Title Theme (Unused Alternate 2).ogg"
+  },
+  {
+    "uuid": "217c9118-5456-464b-9a2e-f1da07373ed8",
+    "creationDate": "2026-05-19T17:23:45.065Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Mission Success",
+    "composers": [
+      "Arata Iiyoshi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Mission Success.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Mission Success.ogg"
+  },
+  {
+    "uuid": "bce8674c-428b-43e5-b508-f4739a8d66b7",
+    "creationDate": "2026-05-19T17:24:24.029Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Mission Failed",
+    "composers": [
+      "Arata Iiyoshi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Mission Failed.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Mission Failed.ogg"
+  },
+  {
+    "uuid": "4ce3e0bf-4a04-4c3d-aebc-9a72bebba5fe",
+    "creationDate": "2026-05-19T17:25:32.124Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Perfect Sentry Duty",
+    "composers": [
+      "Keisuke Ito"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Perfect Sentry Duty.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Perfect Sentry Duty.ogg"
+  },
+  {
+    "uuid": "1f6eb9cf-b6b9-4aca-8c51-bd164e242059",
+    "creationDate": "2026-05-19T22:21:48.835Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Unused Creepy Test Track",
+    "composers": [
+      "Arata Iiyoshi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "notes": "TODO: Properly document which song this is (khinsider, or tcrf).",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6",
+      "16",
+      "157"
+    ],
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Unused Creepy Test Track.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Unused Creepy Test Track.ogg"
+  },
+  {
+    "uuid": "692d8f4f-02b7-4bbd-abd5-065c28104872",
+    "creationDate": "2026-05-19T22:27:52.489Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Team Charm's Theme Bridge (Unused)",
+    "composers": [
+      "Unknown"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Team Charm's Theme Bridge (Unused).mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Team Charm's Theme Bridge (Unused).ogg"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
