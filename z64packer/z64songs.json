@@ -59816,5 +59816,26 @@
     "file": "Pokémon Mystery Dungeon Rescue Team DX/Great Canyon.mmrs",
     "preview": "Pokémon Mystery Dungeon Rescue Team DX/Great Canyon.ogg"
   },
+  {
+    "uuid": "9e8c39b8-370d-4c66-88fa-7af4ffb2fe32",
+    "creationDate": "2026-05-19T02:46:28.150Z",
+    "game": "Pokémon Omega Ruby & Alpha Sapphire",
+    "song": "Battle! (Lorekeeper Zinnia)",
+    "composers": [
+      "Shota Kageyama",
+      "Hitomi Sato"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Pokémon Omega Ruby & Alpha Sapphire/Battle! (Lorekeeper Zinnia).mmrs",
+    "preview": "Pokémon Omega Ruby & Alpha Sapphire/Battle! (Lorekeeper Zinnia).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
