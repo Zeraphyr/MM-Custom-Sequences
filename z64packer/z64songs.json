@@ -60078,5 +60078,30 @@
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Treeshroud Forest.mmrs",
     "preview": "Pokémon Mystery Dungeon Explorers of Sky/Treeshroud Forest.ogg"
   },
+  {
+    "uuid": "7ae2764e-f169-4785-b4d0-8e77d88bdec3",
+    "creationDate": "2026-05-19T17:16:45.602Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Through the Sea of Time",
+    "composers": [
+      "Arata Iiyoshi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3",
+      "4",
+      "5",
+      "6",
+      "16",
+      "157"
+    ],
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Through the Sea of Time.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Through the Sea of Time.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
