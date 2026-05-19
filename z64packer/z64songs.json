@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -59672,6 +59672,250 @@
     "uuid": "bddba0d6-d461-4e6e-bc27-7b85a53a4d84",
     "file": "The Legend of Zelda Ocarina of Time/Song of Storms (Sioux Mix).mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Song of Storms (Sioux Mix).ogg"
+  },
+  {
+    "uuid": "80e1bd9e-8646-48b4-95ce-6913ea96cff0",
+    "creationDate": "2026-05-19T01:43:19.162Z",
+    "game": "Pokémon Black 2 & White 2",
+    "song": "Victory Lies Before You!",
+    "composers": [
+      "Junichi Masuda",
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Pokémon Black 2 & White 2/Victory Lies Before You!.mmrs",
+    "preview": "Pokémon Black 2 & White 2/Victory Lies Before You!.ogg"
+  },
+  {
+    "uuid": "e25fff7c-1a5a-4109-a4f5-c86eba7f45f0",
+    "creationDate": "2026-05-19T01:46:22.128Z",
+    "game": "Pokémon Colosseum",
+    "song": "Colosseum Battle Round 1 Intro",
+    "composers": [
+      "Tsukasa Tawada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Pokémon Colosseum/Colosseum Battle Round 1 Intro.mmrs",
+    "preview": "Pokémon Colosseum/Colosseum Battle Round 1 Intro.ogg"
+  },
+  {
+    "uuid": "4a548b7e-f5ee-4936-918d-ee16d18eaf4d",
+    "creationDate": "2026-05-19T01:51:02.263Z",
+    "game": "Pokémon: Let's Go, Pikachu! & Let's Go, Eevee!",
+    "song": "Battle! (Trainer Battle)",
+    "composers": [
+      "Shota Kageyama"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Pokémon Let's Go, Pikachu! & Let's Go, Eevee!/Battle! (Trainer Battle).mmrs",
+    "preview": "Pokémon Let's Go, Pikachu! & Let's Go, Eevee!/Battle! (Trainer Battle).ogg"
+  },
+  {
+    "uuid": "c5578798-296e-414e-b735-f67e987a9c75",
+    "creationDate": "2026-05-19T01:53:26.570Z",
+    "game": "Pokémon HeartGold & SoulSilver",
+    "song": "Bell Tower",
+    "composers": [
+      "Shota Kageyama"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Pokémon HeartGold & SoulSilver/Bell Tower.mmrs",
+    "preview": "Pokémon HeartGold & SoulSilver/Bell Tower.ogg"
+  },
+  {
+    "uuid": "74c2ee2a-a497-433a-ba52-7583b01c6ddf",
+    "creationDate": "2026-05-19T01:56:58.121Z",
+    "game": "Pokémon Mystery Dungeon: Red Rescue Team",
+    "song": "Personality Test",
+    "composers": [
+      "Arata Iiyoshi",
+      "Atsuhiro Ishizuna"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "Pokémon Mystery Dungeon Red Rescue Team/Personality Test.mmrs",
+    "preview": "Pokémon Mystery Dungeon Red Rescue Team/Personality Test.ogg"
+  },
+  {
+    "uuid": "42e8d1dc-0eaa-4192-b9c5-8b983d9c1ec1",
+    "creationDate": "2026-05-19T02:12:23.447Z",
+    "game": "Pokémon Mystery Dungeon: Red Rescue Team",
+    "song": "Final Moments",
+    "composers": [
+      "Arata Iiyoshi",
+      "Atsuhiro Ishizuna"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "notes": "Warning: I couldn't pinpoint exactly which song this is in the soundtrack, so it has the name \"Final Moments\", the one Asra gave it.",
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16",
+      "157"
+    ],
+    "file": "Pokémon Mystery Dungeon Red Rescue Team/Final Moments.mmrs",
+    "preview": "Pokémon Mystery Dungeon Red Rescue Team/Final Moments.ogg"
+  },
+  {
+    "uuid": "baffe475-27f1-47a9-8dc2-29cae94c37b5",
+    "creationDate": "2026-05-19T02:40:28.099Z",
+    "game": "Pokémon Mystery Dungeon: Rescue Team DX",
+    "song": "Great Canyon",
+    "composers": [
+      "Keisuke Ito"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Pokémon Mystery Dungeon Rescue Team DX/Great Canyon.mmrs",
+    "preview": "Pokémon Mystery Dungeon Rescue Team DX/Great Canyon.ogg"
+  },
+  {
+    "uuid": "9e8c39b8-370d-4c66-88fa-7af4ffb2fe32",
+    "creationDate": "2026-05-19T02:46:28.150Z",
+    "game": "Pokémon Omega Ruby & Alpha Sapphire",
+    "song": "Battle! (Lorekeeper Zinnia)",
+    "composers": [
+      "Shota Kageyama",
+      "Hitomi Sato"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Pokémon Omega Ruby & Alpha Sapphire/Battle! (Lorekeeper Zinnia).mmrs",
+    "preview": "Pokémon Omega Ruby & Alpha Sapphire/Battle! (Lorekeeper Zinnia).ogg"
+  },
+  {
+    "uuid": "95cee216-d7cc-41cf-a49b-4728d4d5d9cc",
+    "creationDate": "2026-05-19T02:49:18.173Z",
+    "game": "Pokémon Ruby, Sapphire & Emerald",
+    "song": "Fallarbor Town",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Pokémon Ruby, Sapphire & Emerald/Fallarbor Town.mmrs",
+    "preview": "Pokémon Ruby, Sapphire & Emerald/Fallarbor Town.ogg"
+  },
+  {
+    "uuid": "60f2713e-4160-4a84-93f1-58899cb23f28",
+    "creationDate": "2026-05-19T02:52:28.445Z",
+    "game": "Pokémon Sword & Shield",
+    "song": "Battle! (Marnie)",
+    "composers": [
+      "Minako Adachi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "3"
+    ],
+    "file": "Pokémon Sword & Shield/Battle! (Marnie).mmrs",
+    "preview": "Pokémon Sword & Shield/Battle! (Marnie).ogg"
+  },
+  {
+    "uuid": "77b38f4d-64e4-4ebe-83e1-7f6846bc6982",
+    "creationDate": "2026-05-19T03:02:00.296Z",
+    "game": "Pokémon Sword & Shield",
+    "song": "Battle! (Eternatus ~ Phase 3) (Piano)",
+    "composers": [
+      "Go Ichinose",
+      "Minako Adachi",
+      "Toby Fox"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "5",
+      "7",
+      "157"
+    ],
+    "file": "Pokémon Sword & Shield/Battle! (Eternatus ~ Phase 3) (Piano).mmrs",
+    "preview": "Pokémon Sword & Shield/Battle! (Eternatus ~ Phase 3) (Piano).ogg"
+  },
+  {
+    "uuid": "edf40729-53bf-4ae1-a8ed-1ec24b071ded",
+    "creationDate": "2026-05-19T03:07:17.376Z",
+    "game": "Pokémon Ultra Sun and Ultra Moon",
+    "song": "Showdown! (Ultra Necrozma)",
+    "composers": [
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Pokémon Ultra Sun and Ultra Moon/Showdown! (Ultra Necrozma).mmrs",
+    "preview": "Pokémon Ultra Sun and Ultra Moon/Showdown! (Ultra Necrozma).ogg"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
