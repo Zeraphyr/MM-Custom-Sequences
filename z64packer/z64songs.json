@@ -60122,5 +60122,24 @@
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Title Theme (Unused Alternate 1).mmrs",
     "preview": "Pokémon Mystery Dungeon Explorers of Sky/Title Theme (Unused Alternate 1).ogg"
   },
+  {
+    "uuid": "feb75f11-1676-40a2-bb03-38b49f0a8c9d",
+    "creationDate": "2026-05-19T17:20:52.495Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Title Theme (Unused Alternate 2)",
+    "composers": [
+      "Arata Iiyoshi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "9",
+      "10"
+    ],
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Title Theme (Unused Alternate 2).mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Title Theme (Unused Alternate 2).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
