@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -59672,6 +59672,27 @@
     "uuid": "bddba0d6-d461-4e6e-bc27-7b85a53a4d84",
     "file": "The Legend of Zelda Ocarina of Time/Song of Storms (Sioux Mix).mmrs",
     "preview": "The Legend of Zelda Ocarina of Time/Song of Storms (Sioux Mix).ogg"
+  },
+  {
+    "uuid": "80e1bd9e-8646-48b4-95ce-6913ea96cff0",
+    "creationDate": "2026-05-19T01:43:19.162Z",
+    "game": "Pokémon Black 2 & White 2",
+    "song": "Victory Lies Before You!",
+    "composers": [
+      "Junichi Masuda",
+      "Go Ichinose"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "7"
+    ],
+    "file": "Pokémon Black 2 & White 2/Victory Lies Before You!.mmrs",
+    "preview": "Pokémon Black 2 & White 2/Victory Lies Before You!.ogg"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
