@@ -60226,5 +60226,25 @@
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Unused Creepy Test Track.mmrs",
     "preview": "Pokémon Mystery Dungeon Explorers of Sky/Unused Creepy Test Track.ogg"
   },
+  {
+    "uuid": "692d8f4f-02b7-4bbd-abd5-065c28104872",
+    "creationDate": "2026-05-19T22:27:52.489Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Team Charm's Theme Bridge (Unused)",
+    "composers": [
+      "Unknown"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Team Charm's Theme Bridge (Unused).mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Team Charm's Theme Bridge (Unused).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
