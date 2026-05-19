@@ -60161,5 +60161,25 @@
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Mission Success.mmrs",
     "preview": "Pokémon Mystery Dungeon Explorers of Sky/Mission Success.ogg"
   },
+  {
+    "uuid": "bce8674c-428b-43e5-b508-f4739a8d66b7",
+    "creationDate": "2026-05-19T17:24:24.029Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Mission Failed",
+    "composers": [
+      "Arata Iiyoshi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Mission Failed.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Mission Failed.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
