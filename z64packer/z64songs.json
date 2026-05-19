@@ -60141,5 +60141,25 @@
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Title Theme (Unused Alternate 2).mmrs",
     "preview": "Pokémon Mystery Dungeon Explorers of Sky/Title Theme (Unused Alternate 2).ogg"
   },
+  {
+    "uuid": "217c9118-5456-464b-9a2e-f1da07373ed8",
+    "creationDate": "2026-05-19T17:23:45.065Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Mission Success",
+    "composers": [
+      "Arata Iiyoshi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Mission Success.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Mission Success.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
