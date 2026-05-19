@@ -60057,5 +60057,26 @@
     "file": "Pokémon Mystery Dungeon Explorers of Sky/Team Charm's Theme (Unused).mmrs",
     "preview": "Pokémon Mystery Dungeon Explorers of Sky/Team Charm's Theme (Unused).ogg"
   },
+  {
+    "uuid": "7cf9f0b1-fb7e-4329-b886-d94cad1a6f17",
+    "creationDate": "2026-05-19T17:15:40.724Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Treeshroud Forest",
+    "composers": [
+      "Arata Iiyoshi"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Treeshroud Forest.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Treeshroud Forest.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
