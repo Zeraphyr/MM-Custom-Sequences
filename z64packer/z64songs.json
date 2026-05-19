@@ -59733,5 +59733,25 @@
     "file": "Pokémon Let's Go, Pikachu! & Let's Go, Eevee!/Battle! (Trainer Battle).mmrs",
     "preview": "Pokémon Let's Go, Pikachu! & Let's Go, Eevee!/Battle! (Trainer Battle).ogg"
   },
+  {
+    "uuid": "c5578798-296e-414e-b735-f67e987a9c75",
+    "creationDate": "2026-05-19T01:53:26.570Z",
+    "game": "Pokémon HeartGold & SoulSilver",
+    "song": "Bell Tower",
+    "composers": [
+      "Shota Kageyama"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Pokémon HeartGold & SoulSilver/Bell Tower.mmrs",
+    "preview": "Pokémon HeartGold & SoulSilver/Bell Tower.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
