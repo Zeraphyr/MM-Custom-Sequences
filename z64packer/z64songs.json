@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -59952,6 +59952,26 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
+  },
+  {
+    "uuid": "0311a567-4a80-43f8-b29b-bcc740214122",
+    "creationDate": "2026-05-19T17:07:03.761Z",
+    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "song": "Good Sentry Duty",
+    "composers": [
+      "Keisuke Ito"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "file": "Pokémon Mystery Dungeon Explorers of Sky/Good Sentry Duty.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Good Sentry Duty.ogg"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
