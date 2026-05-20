@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -60280,6 +60280,26 @@
     "uuid": "dac1b50f-731e-4e51-8185-cdf25844f838",
     "file": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Temporal Tower.mmrs",
     "preview": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Temporal Tower.ogg"
+  },
+  {
+    "uuid": "fcb66788-f91d-4492-ad1c-1bc98556e32d",
+    "creationDate": "2026-05-20T19:13:34.927Z",
+    "game": "Tales of Destiny",
+    "song": "Leon ~Victim of Fate~",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Tales of Destiny/Leon ~Victim of Fate~.mmrs",
+    "preview": "Tales of Destiny/Leon ~Victim of Fate~.ogg"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
