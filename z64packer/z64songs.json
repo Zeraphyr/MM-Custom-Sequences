@@ -41476,32 +41476,6 @@
     "usesFormmask": false
   },
   {
-    "uuid": "00e4b8ff-27bb-44a3-a19e-dd6ee79c7a40",
-    "creationDate": "2026-04-25T02:43:41.778Z",
-    "game": "Pokémon Mystery Dungeon: Explorers of Time, Darkness & Sky",
-    "song": "Temporal Tower",
-    "composers": [
-      "Arata liyoshi"
-    ],
-    "converters": [
-      "Ainurmusician64"
-    ],
-    "type": "bgm",
-    "categories": [
-      "0",
-      "1",
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
-    "usesCustomBank": true,
-    "file": "Pokémon Mystery Dungeon Explorers of Time/Temporal Tower.mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Time/Temporal Tower.ogg",
-    "usesCustomSamples": false,
-    "usesFormmask": false
-  },
-  {
     "uuid": "cb144f09-cd1f-42b2-8228-0fc3a9df0794",
     "creationDate": "2026-04-25T02:45:41.888Z",
     "game": "Pokémon Mystery Dungeon: Red & Blue Rescue Team",
@@ -60287,6 +60261,25 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
+  },
+  {
+    "game": "Pokémon Mystery Dungeon: Explorers of Time, Darkness & Sky",
+    "song": "Temporal Tower",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "dac1b50f-731e-4e51-8185-cdf25844f838",
+    "file": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Temporal Tower.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Temporal Tower.ogg"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
