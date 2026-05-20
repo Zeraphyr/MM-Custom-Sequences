@@ -60751,5 +60751,25 @@
     "file": "Valkyrie Profile/Epic Poem to Sacred Death.mmrs",
     "preview": "Valkyrie Profile/Epic Poem to Sacred Death.ogg"
   },
+  {
+    "uuid": "c64e3b16-e616-4dc4-b89d-e42cbff267e5",
+    "creationDate": "2026-05-20T20:32:25.981Z",
+    "game": "Pokémon Colosseum",
+    "song": "Relic Forest",
+    "composers": [
+      "Tsukasa Tawada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Pokémon Colosseum/Relic Forest.mmrs",
+    "preview": "Pokémon Colosseum/Relic Forest.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
