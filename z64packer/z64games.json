@@ -1381,12 +1381,6 @@
     "short_name": "Pokémon GSC"
   },
   {
-    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
-    "series": "Pokémon Series",
-    "logo": "https://i.imgur.com/xOB3NJx.png",
-    "short_name": "Pokémon MD Explorers of Sky"
-  },
-  {
     "game": "Pokémon Puzzle League",
     "series": "Pokémon Series",
     "logo": "https://i.imgur.com/IuYzeB6.png"
@@ -3537,10 +3531,10 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/6a3b6ffa5dbf8a5abcad2135e5bc77d9.png"
   },
   {
-    "game": "Pokémon Mystery Dungeon: Red Rescue Team",
+    "game": "Pokémon Mystery Dungeon: Red & Blue Rescue Team",
     "series": "Pokémon Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/65fd95b22c5680766c110f8d1ab21a4b.png",
-    "short_name": "Pokémon MD Red Rescue Team"
+    "short_name": "Pokémon MD Rescue Team"
   },
   {
     "game": "Genshin Impact",
@@ -3555,10 +3549,10 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/6f8caa0e6413027cb7a12f945151cb8d.png"
   },
   {
-    "game": "Pokémon Mystery Dungeon: Explorers of Time",
+    "game": "Pokémon Mystery Dungeon: Explorers of Time, Darkness & Sky",
     "series": "Pokémon Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/ec26fc2eb2b75aece19c70392dc744c2.png",
-    "short_name": "Pokémon MD Explorers of Time"
+    "short_name": "Pokémon MD Explorers"
   },
   {
     "game": "Johann Sebastian Bach",

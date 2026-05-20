@@ -7785,7 +7785,7 @@
   {
     "uuid": "ce5079ea-be9c-4511-b328-adfaf2476600",
     "creationDate": "2026-03-14T18:05:04.287Z",
-    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "game": "Pokémon Mystery Dungeon: Explorers of Time, Darkness & Sky",
     "song": "Do Your Best, As Always!",
     "composers": [
       "Arata Iiyoshi"
@@ -7802,7 +7802,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Mystery Dungeon Explorers of Sky/Do Your Best, As Always!.mmrs",
+    "file": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Do Your Best, As Always!.mmrs",
     "preview": "https://www.youtube.com/watch?v=UL1oLO7DsYM"
   },
   {
@@ -8651,7 +8651,7 @@
   {
     "uuid": "480444cb-9ac9-4a15-899e-f3ae9b60e4c8",
     "creationDate": "2026-03-16T00:17:50.137Z",
-    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "game": "Pokémon Mystery Dungeon: Explorers of Time, Darkness & Sky",
     "song": "Skypeak Final Pass",
     "composers": [
       "Arata Iiyoshi",
@@ -8671,7 +8671,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Mystery Dungeon Explorers of Sky/Skypeak Final Pass.mmrs",
+    "file": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Skypeak Final Pass.mmrs",
     "preview": "https://www.youtube.com/watch?v=3qBLEfCkfW8"
   },
   {
@@ -8830,7 +8830,7 @@
   {
     "uuid": "e02be6ea-2ff0-48f8-8a8e-6b10c5c6b351",
     "creationDate": "2026-03-16T22:36:15.546Z",
-    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "game": "Pokémon Mystery Dungeon: Explorers of Time, Darkness & Sky",
     "song": "Dialga",
     "composers": [
       "Arata Iiyoshi",
@@ -8848,13 +8848,13 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Mystery Dungeon Explorers of Sky/Dialga.mmrs",
+    "file": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Dialga.mmrs",
     "preview": "https://www.youtube.com/watch?v=7VTnJ4F7Rck"
   },
   {
     "uuid": "42707c58-dbd6-4cbd-8a5b-8c178ceab200",
     "creationDate": "2026-03-16T22:37:05.711Z",
-    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "game": "Pokémon Mystery Dungeon: Explorers of Time, Darkness & Sky",
     "song": "Highland",
     "composers": [
       "Arata Iiyoshi",
@@ -8873,13 +8873,13 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Mystery Dungeon Explorers of Sky/Highland.mmrs",
+    "file": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Highland.mmrs",
     "preview": "https://www.youtube.com/watch?v=sxNLwBOo7gU"
   },
   {
     "uuid": "22857dac-1a44-4438-a43e-33ac08b95794",
     "creationDate": "2026-03-16T22:38:21.819Z",
-    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "game": "Pokémon Mystery Dungeon: Explorers of Time, Darkness & Sky",
     "song": "Hidden Land",
     "composers": [
       "Arata Iiyoshi",
@@ -8898,7 +8898,7 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "Pokémon Mystery Dungeon Explorers of Sky/Hidden Land.mmrs",
+    "file": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Hidden Land.mmrs",
     "preview": "https://www.youtube.com/watch?v=weUGopU7pEI"
   },
   {
@@ -41478,7 +41478,7 @@
   {
     "uuid": "00e4b8ff-27bb-44a3-a19e-dd6ee79c7a40",
     "creationDate": "2026-04-25T02:43:41.778Z",
-    "game": "Pokémon Mystery Dungeon: Explorers of Time",
+    "game": "Pokémon Mystery Dungeon: Explorers of Time, Darkness & Sky",
     "song": "Temporal Tower",
     "composers": [
       "Arata liyoshi"
@@ -41504,7 +41504,7 @@
   {
     "uuid": "cb144f09-cd1f-42b2-8228-0fc3a9df0794",
     "creationDate": "2026-04-25T02:45:41.888Z",
-    "game": "Pokémon Mystery Dungeon: Red Rescue Team",
+    "game": "Pokémon Mystery Dungeon: Red & Blue Rescue Team",
     "song": "Main Menu",
     "composers": [
       "Arata liyoshi"
@@ -41519,8 +41519,8 @@
       "6"
     ],
     "usesCustomBank": true,
-    "file": "Pokémon Mystery Dungeon Red Rescue Team/Main Menu.mmrs",
-    "preview": "Pokémon Mystery Dungeon Red Rescue Team/Main Menu.ogg",
+    "file": "Pokémon Mystery Dungeon Red & Blue Rescue Team/Main Menu.mmrs",
+    "preview": "Pokémon Mystery Dungeon Red & Blue Rescue Team/Main Menu.ogg",
     "usesCustomSamples": false,
     "usesFormmask": false
   },
@@ -42162,7 +42162,7 @@
     "usesFormmask": false
   },
   {
-    "game": "Pokémon Mystery Dungeon: Red Rescue Team",
+    "game": "Pokémon Mystery Dungeon: Red & Blue Rescue Team",
     "song": "Sky Tower",
     "composers": [
       "Arata Iiyoshi",
@@ -42182,7 +42182,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "0d2eb3b8-0684-45b0-b1fd-04c0bbc872d1",
-    "file": "Pokémon Mystery Dungeon Red Rescue Team/Sky Tower.mmrs",
+    "file": "Pokémon Mystery Dungeon Red & Blue Rescue Team/Sky Tower.mmrs",
     "preview": "https://www.youtube.com/watch?v=1DbvEuMzOGI"
   },
   {
@@ -59768,7 +59768,7 @@
   {
     "uuid": "74c2ee2a-a497-433a-ba52-7583b01c6ddf",
     "creationDate": "2026-05-19T01:56:58.121Z",
-    "game": "Pokémon Mystery Dungeon: Red Rescue Team",
+    "game": "Pokémon Mystery Dungeon: Red & Blue Rescue Team",
     "song": "Personality Test",
     "composers": [
       "Arata Iiyoshi",
@@ -59782,8 +59782,8 @@
       "6",
       "16"
     ],
-    "file": "Pokémon Mystery Dungeon Red Rescue Team/Personality Test.mmrs",
-    "preview": "Pokémon Mystery Dungeon Red Rescue Team/Personality Test.ogg",
+    "file": "Pokémon Mystery Dungeon Red & Blue Rescue Team/Personality Test.mmrs",
+    "preview": "Pokémon Mystery Dungeon Red & Blue Rescue Team/Personality Test.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -59791,7 +59791,7 @@
   {
     "uuid": "42e8d1dc-0eaa-4192-b9c5-8b983d9c1ec1",
     "creationDate": "2026-05-19T02:12:23.447Z",
-    "game": "Pokémon Mystery Dungeon: Red Rescue Team",
+    "game": "Pokémon Mystery Dungeon: Red & Blue Rescue Team",
     "song": "Final Moments",
     "composers": [
       "Arata Iiyoshi",
@@ -59807,8 +59807,8 @@
       "16",
       "157"
     ],
-    "file": "Pokémon Mystery Dungeon Red Rescue Team/Final Moments.mmrs",
-    "preview": "Pokémon Mystery Dungeon Red Rescue Team/Final Moments.ogg",
+    "file": "Pokémon Mystery Dungeon Red & Blue Rescue Team/Final Moments.mmrs",
+    "preview": "Pokémon Mystery Dungeon Red & Blue Rescue Team/Final Moments.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -59956,7 +59956,7 @@
   {
     "uuid": "0311a567-4a80-43f8-b29b-bcc740214122",
     "creationDate": "2026-05-19T17:07:03.761Z",
-    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "game": "Pokémon Mystery Dungeon: Explorers of Time, Darkness & Sky",
     "song": "Good Sentry Duty",
     "composers": [
       "Keisuke Ito"
@@ -59970,8 +59970,8 @@
       "9",
       "10"
     ],
-    "file": "Pokémon Mystery Dungeon Explorers of Sky/Good Sentry Duty.mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Good Sentry Duty.ogg",
+    "file": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Good Sentry Duty.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Good Sentry Duty.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -59979,7 +59979,7 @@
   {
     "uuid": "eb275f82-2ab7-458d-a68b-8271b192e1a3",
     "creationDate": "2026-05-19T17:08:25.814Z",
-    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "game": "Pokémon Mystery Dungeon: Explorers of Time, Darkness & Sky",
     "song": "Decent Sentry Duty",
     "composers": [
       "Keisuke Ito"
@@ -59993,8 +59993,8 @@
       "9",
       "10"
     ],
-    "file": "Pokémon Mystery Dungeon Explorers of Sky/Decent Sentry Duty.mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Decent Sentry Duty.ogg",
+    "file": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Decent Sentry Duty.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Decent Sentry Duty.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -60002,7 +60002,7 @@
   {
     "uuid": "bdbbc50b-96c9-4013-867c-1c799997cb95",
     "creationDate": "2026-05-19T17:09:13.153Z",
-    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "game": "Pokémon Mystery Dungeon: Explorers of Time, Darkness & Sky",
     "song": "Failed Sentry Duty",
     "composers": [
       "Keisuke Ito"
@@ -60016,8 +60016,8 @@
       "9",
       "10"
     ],
-    "file": "Pokémon Mystery Dungeon Explorers of Sky/Failed Sentry Duty.mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Failed Sentry Duty.ogg",
+    "file": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Failed Sentry Duty.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Failed Sentry Duty.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -60025,7 +60025,7 @@
   {
     "uuid": "5af6f2ac-5c40-4b39-bb4d-217411375f5f",
     "creationDate": "2026-05-19T17:10:54.298Z",
-    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "game": "Pokémon Mystery Dungeon: Explorers of Time, Darkness & Sky",
     "song": "Goodnight (Unused Alternate)",
     "composers": [
       "Arata Iiyoshi"
@@ -60038,8 +60038,8 @@
       "6",
       "16"
     ],
-    "file": "Pokémon Mystery Dungeon Explorers of Sky/Goodnight (Unused Alternate).mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Goodnight (Unused Alternate).ogg",
+    "file": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Goodnight (Unused Alternate).mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Goodnight (Unused Alternate).ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -60047,7 +60047,7 @@
   {
     "uuid": "d490509f-add6-4f92-8853-9ba23167974b",
     "creationDate": "2026-05-19T17:14:44.725Z",
-    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "game": "Pokémon Mystery Dungeon: Explorers of Time, Darkness & Sky",
     "song": "Team Charm's Theme (Unused)",
     "composers": [
       "Arata Iiyoshi",
@@ -60066,8 +60066,8 @@
       "5",
       "7"
     ],
-    "file": "Pokémon Mystery Dungeon Explorers of Sky/Team Charm's Theme (Unused).mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Team Charm's Theme (Unused).ogg",
+    "file": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Team Charm's Theme (Unused).mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Team Charm's Theme (Unused).ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -60075,7 +60075,7 @@
   {
     "uuid": "7cf9f0b1-fb7e-4329-b886-d94cad1a6f17",
     "creationDate": "2026-05-19T17:15:40.724Z",
-    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "game": "Pokémon Mystery Dungeon: Explorers of Time, Darkness & Sky",
     "song": "Treeshroud Forest",
     "composers": [
       "Arata Iiyoshi"
@@ -60090,8 +60090,8 @@
       "2",
       "3"
     ],
-    "file": "Pokémon Mystery Dungeon Explorers of Sky/Treeshroud Forest.mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Treeshroud Forest.ogg",
+    "file": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Treeshroud Forest.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Treeshroud Forest.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -60099,7 +60099,7 @@
   {
     "uuid": "7ae2764e-f169-4785-b4d0-8e77d88bdec3",
     "creationDate": "2026-05-19T17:16:45.602Z",
-    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "game": "Pokémon Mystery Dungeon: Explorers of Time, Darkness & Sky",
     "song": "Through the Sea of Time",
     "composers": [
       "Arata Iiyoshi"
@@ -60118,8 +60118,8 @@
       "16",
       "157"
     ],
-    "file": "Pokémon Mystery Dungeon Explorers of Sky/Through the Sea of Time.mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Through the Sea of Time.ogg",
+    "file": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Through the Sea of Time.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Through the Sea of Time.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -60127,7 +60127,7 @@
   {
     "uuid": "44c69154-cfa2-4f54-a087-ad9f2daef926",
     "creationDate": "2026-05-19T17:19:56.000Z",
-    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "game": "Pokémon Mystery Dungeon: Explorers of Time, Darkness & Sky",
     "song": "Title Theme (Unused Alternate 1)",
     "composers": [
       "Arata Iiyoshi"
@@ -60140,8 +60140,8 @@
       "9",
       "10"
     ],
-    "file": "Pokémon Mystery Dungeon Explorers of Sky/Title Theme (Unused Alternate 1).mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Title Theme (Unused Alternate 1).ogg",
+    "file": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Title Theme (Unused Alternate 1).mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Title Theme (Unused Alternate 1).ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -60149,7 +60149,7 @@
   {
     "uuid": "feb75f11-1676-40a2-bb03-38b49f0a8c9d",
     "creationDate": "2026-05-19T17:20:52.495Z",
-    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "game": "Pokémon Mystery Dungeon: Explorers of Time, Darkness & Sky",
     "song": "Title Theme (Unused Alternate 2)",
     "composers": [
       "Arata Iiyoshi"
@@ -60162,8 +60162,8 @@
       "9",
       "10"
     ],
-    "file": "Pokémon Mystery Dungeon Explorers of Sky/Title Theme (Unused Alternate 2).mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Title Theme (Unused Alternate 2).ogg",
+    "file": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Title Theme (Unused Alternate 2).mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Title Theme (Unused Alternate 2).ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -60171,7 +60171,7 @@
   {
     "uuid": "217c9118-5456-464b-9a2e-f1da07373ed8",
     "creationDate": "2026-05-19T17:23:45.065Z",
-    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "game": "Pokémon Mystery Dungeon: Explorers of Time, Darkness & Sky",
     "song": "Mission Success",
     "composers": [
       "Arata Iiyoshi"
@@ -60185,8 +60185,8 @@
       "9",
       "10"
     ],
-    "file": "Pokémon Mystery Dungeon Explorers of Sky/Mission Success.mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Mission Success.ogg",
+    "file": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Mission Success.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Mission Success.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -60194,7 +60194,7 @@
   {
     "uuid": "bce8674c-428b-43e5-b508-f4739a8d66b7",
     "creationDate": "2026-05-19T17:24:24.029Z",
-    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "game": "Pokémon Mystery Dungeon: Explorers of Time, Darkness & Sky",
     "song": "Mission Failed",
     "composers": [
       "Arata Iiyoshi"
@@ -60208,8 +60208,8 @@
       "9",
       "10"
     ],
-    "file": "Pokémon Mystery Dungeon Explorers of Sky/Mission Failed.mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Mission Failed.ogg",
+    "file": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Mission Failed.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Mission Failed.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -60217,7 +60217,7 @@
   {
     "uuid": "4ce3e0bf-4a04-4c3d-aebc-9a72bebba5fe",
     "creationDate": "2026-05-19T17:25:32.124Z",
-    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "game": "Pokémon Mystery Dungeon: Explorers of Time, Darkness & Sky",
     "song": "Perfect Sentry Duty",
     "composers": [
       "Keisuke Ito"
@@ -60231,8 +60231,8 @@
       "9",
       "10"
     ],
-    "file": "Pokémon Mystery Dungeon Explorers of Sky/Perfect Sentry Duty.mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Perfect Sentry Duty.ogg",
+    "file": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Perfect Sentry Duty.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Perfect Sentry Duty.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -60240,7 +60240,7 @@
   {
     "uuid": "1f6eb9cf-b6b9-4aca-8c51-bd164e242059",
     "creationDate": "2026-05-19T22:21:48.835Z",
-    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "game": "Pokémon Mystery Dungeon: Explorers of Time, Darkness & Sky",
     "song": "Unused Creepy Test Track",
     "composers": [
       "Arata Iiyoshi"
@@ -60259,8 +60259,8 @@
       "16",
       "157"
     ],
-    "file": "Pokémon Mystery Dungeon Explorers of Sky/Unused Creepy Test Track.mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Unused Creepy Test Track.ogg",
+    "file": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Unused Creepy Test Track.mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Unused Creepy Test Track.ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
@@ -60268,7 +60268,7 @@
   {
     "uuid": "692d8f4f-02b7-4bbd-abd5-065c28104872",
     "creationDate": "2026-05-19T22:27:52.489Z",
-    "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "game": "Pokémon Mystery Dungeon: Explorers of Time, Darkness & Sky",
     "song": "Team Charm's Theme Bridge (Unused)",
     "composers": [
       "Unknown"
@@ -60282,8 +60282,8 @@
       "9",
       "10"
     ],
-    "file": "Pokémon Mystery Dungeon Explorers of Sky/Team Charm's Theme Bridge (Unused).mmrs",
-    "preview": "Pokémon Mystery Dungeon Explorers of Sky/Team Charm's Theme Bridge (Unused).ogg",
+    "file": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Team Charm's Theme Bridge (Unused).mmrs",
+    "preview": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Team Charm's Theme Bridge (Unused).ogg",
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
