@@ -60608,5 +60608,27 @@
     "file": "Chrono Cross/People Imprisoned by Destiny.mmrs",
     "preview": "Chrono Cross/People Imprisoned by Destiny.ogg"
   },
+  {
+    "uuid": "04cfadc5-7f60-4eea-a717-130e346bb66c",
+    "creationDate": "2026-05-20T20:04:34.970Z",
+    "game": "Kingdom Hearts",
+    "song": "Riku",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "Kingdom Hearts/Riku.mmrs",
+    "preview": "Kingdom Hearts/Riku.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
