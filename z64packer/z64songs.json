@@ -60572,5 +60572,23 @@
     "file": "Chrono Cross/The Dead Sea -Tower of Geddon- (Variant B).mmrs",
     "preview": "Chrono Cross/The Dead Sea -Tower of Geddon- (Variant B).ogg"
   },
+  {
+    "uuid": "41473fdd-927e-487f-a3b4-8e1b02b51770",
+    "creationDate": "2026-05-20T19:57:11.287Z",
+    "game": "Kirby Super Star",
+    "song": "Gourmet Race",
+    "composers": [
+      "Jun Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "file": "Kirby Super Star/Gourmet Race.mmrs",
+    "preview": "Kirby Super Star/Gourmet Race.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
