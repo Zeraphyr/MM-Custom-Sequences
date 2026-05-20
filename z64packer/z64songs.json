@@ -60711,5 +60711,25 @@
     "file": "Tales of Destiny/Leon's End.mmrs",
     "preview": "Tales of Destiny/Leon's End.ogg"
   },
+  {
+    "uuid": "1c59a732-a618-4456-8551-17e164dd80f5",
+    "creationDate": "2026-05-20T20:25:37.996Z",
+    "game": "Chrono Cross",
+    "song": "Garden of God",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Chrono Cross/Garden of God.mmrs",
+    "preview": "Chrono Cross/Garden of God.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
