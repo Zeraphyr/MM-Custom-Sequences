@@ -60339,5 +60339,23 @@
     "file": "Final Fantasy VIII/The Legendary Beast.mmrs",
     "preview": "Final Fantasy VIII/The Legendary Beast.ogg"
   },
+  {
+    "uuid": "e32bc9a5-1e8d-434c-b0dc-3c5150fcdfbd",
+    "creationDate": "2026-05-20T19:25:23.692Z",
+    "game": "Mega Man Zero 4",
+    "song": "Nothing Beats",
+    "composers": [
+      "Shinichi Itakura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "Mega Man Zero 4/Nothing Beats.mmrs",
+    "preview": "Mega Man Zero 4/Nothing Beats.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
