@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -60299,7 +60299,10 @@
       "7"
     ],
     "file": "Tales of Destiny/Leon ~Victim of Fate~.mmrs",
-    "preview": "Tales of Destiny/Leon ~Victim of Fate~.ogg"
+    "preview": "Tales of Destiny/Leon ~Victim of Fate~.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "611f95d4-4d66-4487-8cff-ff2fa144b6c2",
@@ -60318,7 +60321,10 @@
       "7"
     ],
     "file": "Sony Ericsson/MusicDJ - Techno.mmrs",
-    "preview": "Sony Ericsson/MusicDJ - Techno.ogg"
+    "preview": "Sony Ericsson/MusicDJ - Techno.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e8dc584f-30dd-4727-9020-fe9209b84a4f",
@@ -60337,7 +60343,10 @@
       "7"
     ],
     "file": "Final Fantasy VIII/The Legendary Beast.mmrs",
-    "preview": "Final Fantasy VIII/The Legendary Beast.ogg"
+    "preview": "Final Fantasy VIII/The Legendary Beast.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e32bc9a5-1e8d-434c-b0dc-3c5150fcdfbd",
@@ -60355,12 +60364,15 @@
       "7"
     ],
     "file": "Mega Man Zero 4/Nothing Beats.mmrs",
-    "preview": "Mega Man Zero 4/Nothing Beats.ogg"
+    "preview": "Mega Man Zero 4/Nothing Beats.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "53f8e5a6-1bd7-4468-93a3-50665009eb8e",
     "creationDate": "2026-05-20T19:29:17.192Z",
-    "game": ".hack//MUTATION",
+    "game": ".hackMUTATION",
     "song": "Phase #2 Innis",
     "composers": [
       "Chikayo Fukuda"
@@ -60373,7 +60385,10 @@
       "7"
     ],
     "file": ".hackMUTATION/Phase #2 Innis.mmrs",
-    "preview": ".hackMUTATION/Phase #2 Innis.ogg"
+    "preview": ".hackMUTATION/Phase #2 Innis.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "65434941-da68-404e-b4da-030c5faa6636",
@@ -60393,7 +60408,10 @@
       "3"
     ],
     "file": "Tales of Destiny/The Storm and Stress.mmrs",
-    "preview": "Tales of Destiny/The Storm and Stress.ogg"
+    "preview": "Tales of Destiny/The Storm and Stress.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d8774664-781e-45d2-b897-604dcf6f92e6",
@@ -60412,7 +60430,10 @@
       "7"
     ],
     "file": "Mega Man 8/Boss Battle.mmrs",
-    "preview": "Mega Man 8/Boss Battle.ogg"
+    "preview": "Mega Man 8/Boss Battle.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "15a1a998-6dd2-4e07-add9-c8029ef7f96e",
@@ -60432,7 +60453,10 @@
       "16"
     ],
     "file": "Chrono Cross/Dream Fragments.mmrs",
-    "preview": "Chrono Cross/Dream Fragments.ogg"
+    "preview": "Chrono Cross/Dream Fragments.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "ec8cdcd3-cb91-4b69-8def-4acca0eb4b6f",
@@ -60454,7 +60478,10 @@
       "157"
     ],
     "file": "Mega Man Zero/Infiltration.mmrs",
-    "preview": "Mega Man Zero/Infiltration.ogg"
+    "preview": "Mega Man Zero/Infiltration.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "635d01cc-6b97-49bf-bad6-de45ccbf97c9",
@@ -60473,7 +60500,10 @@
       "1"
     ],
     "file": "Chrono Cross/Fields of Time.mmrs",
-    "preview": "Chrono Cross/Fields of Time.ogg"
+    "preview": "Chrono Cross/Fields of Time.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "457f8736-89ba-4129-a7ad-9d35db2a313d",
@@ -60492,7 +60522,10 @@
       "3"
     ],
     "file": "RPG Maker XP/Town 03.mmrs",
-    "preview": "RPG Maker XP/Town 03.ogg"
+    "preview": "RPG Maker XP/Town 03.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "94096f19-a062-432b-93da-138bfab23950",
@@ -60512,7 +60545,10 @@
       "6"
     ],
     "file": "Tales of the Abyss/Confrontation.mmrs",
-    "preview": "Tales of the Abyss/Confrontation.ogg"
+    "preview": "Tales of the Abyss/Confrontation.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b4c4d037-1ed4-45b3-a9b6-e01254017c31",
@@ -60532,7 +60568,10 @@
       "3"
     ],
     "file": "RPG Maker XP/Castle 01.mmrs",
-    "preview": "RPG Maker XP/Castle 01.ogg"
+    "preview": "RPG Maker XP/Castle 01.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "53695df2-666a-4090-8404-2040e8bf3acf",
@@ -60551,7 +60590,10 @@
       "3"
     ],
     "file": "Windows XP/Town (Variant B).mmrs",
-    "preview": "Windows XP/Town (Variant B).ogg"
+    "preview": "Windows XP/Town (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "112ba8ae-c5ac-43d3-8ca1-0be252dc2214",
@@ -60570,7 +60612,10 @@
       "3"
     ],
     "file": "Chrono Cross/The Dead Sea -Tower of Geddon- (Variant B).mmrs",
-    "preview": "Chrono Cross/The Dead Sea -Tower of Geddon- (Variant B).ogg"
+    "preview": "Chrono Cross/The Dead Sea -Tower of Geddon- (Variant B).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "41473fdd-927e-487f-a3b4-8e1b02b51770",
@@ -60588,7 +60633,10 @@
       "4"
     ],
     "file": "Kirby Super Star/Gourmet Race.mmrs",
-    "preview": "Kirby Super Star/Gourmet Race.ogg"
+    "preview": "Kirby Super Star/Gourmet Race.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "685a8861-6e30-4b6a-99e7-3bad72cc3499",
@@ -60606,7 +60654,10 @@
       "6"
     ],
     "file": "Chrono Cross/People Imprisoned by Destiny.mmrs",
-    "preview": "Chrono Cross/People Imprisoned by Destiny.ogg"
+    "preview": "Chrono Cross/People Imprisoned by Destiny.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "04cfadc5-7f60-4eea-a717-130e346bb66c",
@@ -60628,7 +60679,10 @@
       "6"
     ],
     "file": "Kingdom Hearts/Riku.mmrs",
-    "preview": "Kingdom Hearts/Riku.ogg"
+    "preview": "Kingdom Hearts/Riku.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c0f8a811-75b3-4f3a-9cf3-adc1d6ba2364",
@@ -60648,7 +60702,10 @@
       "3"
     ],
     "file": "The Legend of Dragoon/Royal Capital.mmrs",
-    "preview": "The Legend of Dragoon/Royal Capital.ogg"
+    "preview": "The Legend of Dragoon/Royal Capital.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c8e2ec0c-5df9-4329-8f19-788ed6ec885f",
@@ -60669,7 +60726,10 @@
       "1"
     ],
     "file": "Super Smash Bros. Melee/Saria's Song.mmrs",
-    "preview": "Super Smash Bros. Melee/Saria's Song.ogg"
+    "preview": "Super Smash Bros. Melee/Saria's Song.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b79fcfd8-6b8b-4471-b131-3fd44ae8ecd3",
@@ -60690,7 +60750,10 @@
       "16"
     ],
     "file": "Ragnarok Online/Not So Far Away.mmrs",
-    "preview": "Ragnarok Online/Not So Far Away.ogg"
+    "preview": "Ragnarok Online/Not So Far Away.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "520b5a0f-aa3d-4853-ada2-7bb69c79abb9",
@@ -60709,7 +60772,10 @@
       "157"
     ],
     "file": "Tales of Destiny/Leon's End.mmrs",
-    "preview": "Tales of Destiny/Leon's End.ogg"
+    "preview": "Tales of Destiny/Leon's End.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1c59a732-a618-4456-8551-17e164dd80f5",
@@ -60729,7 +60795,10 @@
       "6"
     ],
     "file": "Chrono Cross/Garden of God.mmrs",
-    "preview": "Chrono Cross/Garden of God.ogg"
+    "preview": "Chrono Cross/Garden of God.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "977c4ea1-6b64-4f53-96ad-3a732d88e8af",
@@ -60749,7 +60818,10 @@
       "16"
     ],
     "file": "Valkyrie Profile/Epic Poem to Sacred Death.mmrs",
-    "preview": "Valkyrie Profile/Epic Poem to Sacred Death.ogg"
+    "preview": "Valkyrie Profile/Epic Poem to Sacred Death.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c64e3b16-e616-4dc4-b89d-e42cbff267e5",
@@ -60769,7 +60841,10 @@
       "6"
     ],
     "file": "Pokémon Colosseum/Relic Forest.mmrs",
-    "preview": "Pokémon Colosseum/Relic Forest.ogg"
+    "preview": "Pokémon Colosseum/Relic Forest.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "571b1bf2-ca33-417c-bcc0-6fa80267abd5",
@@ -60787,7 +60862,10 @@
       "121"
     ],
     "file": "Chrono Cross/Victory (A Cry of Summer).mmrs",
-    "preview": "Chrono Cross/Victory (A Cry of Summer).ogg"
+    "preview": "Chrono Cross/Victory (A Cry of Summer).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "32822c4f-9175-4bff-8c0c-1d56f495fe1e",
@@ -60806,7 +60884,10 @@
       "157"
     ],
     "file": "Kingdom Hearts/Simple and Clean.mmrs",
-    "preview": "Kingdom Hearts/Simple and Clean.ogg"
+    "preview": "Kingdom Hearts/Simple and Clean.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e4169193-b6a7-4bbe-93f3-cb391af9f959",
@@ -60828,7 +60909,10 @@
       "157"
     ],
     "file": "Kingdom Hearts/Simple and Clean (Battle Mix).mmrs",
-    "preview": "Kingdom Hearts/Simple and Clean (Battle Mix).ogg"
+    "preview": "Kingdom Hearts/Simple and Clean (Battle Mix).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

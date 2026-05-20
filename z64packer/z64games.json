@@ -3764,5 +3764,23 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/e3c9cb08585a40829bc88130b0b8ebdf.png",
     "short_name": "Pokémon USUM"
   },
+  {
+    "game": "Ragnarok Online"
+  },
+  {
+    "game": ".hackMUTATION"
+  },
+  {
+    "game": "Sony Ericsson"
+  },
+  {
+    "game": "Mega Man Zero"
+  },
+  {
+    "game": "The Legend of Dragoon"
+  },
+  {
+    "game": "RPG Maker XP"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
