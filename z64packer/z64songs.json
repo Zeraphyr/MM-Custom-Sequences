@@ -60514,5 +60514,25 @@
     "file": "Tales of the Abyss/Confrontation.mmrs",
     "preview": "Tales of the Abyss/Confrontation.ogg"
   },
+  {
+    "uuid": "b4c4d037-1ed4-45b3-a9b6-e01254017c31",
+    "creationDate": "2026-05-20T19:46:38.138Z",
+    "game": "RPG Maker XP",
+    "song": "Castle 01",
+    "composers": [
+      "Unknown"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "RPG Maker XP/Castle 01.mmrs",
+    "preview": "RPG Maker XP/Castle 01.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
