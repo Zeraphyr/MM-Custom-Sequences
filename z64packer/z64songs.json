@@ -60553,5 +60553,24 @@
     "file": "Windows XP/Town (Variant B).mmrs",
     "preview": "Windows XP/Town (Variant B).ogg"
   },
+  {
+    "uuid": "112ba8ae-c5ac-43d3-8ca1-0be252dc2214",
+    "creationDate": "2026-05-20T19:54:33.937Z",
+    "game": "Chrono Cross",
+    "song": "The Dead Sea -Tower of Geddon- (Variant B)",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Chrono Cross/The Dead Sea -Tower of Geddon- (Variant B).mmrs",
+    "preview": "Chrono Cross/The Dead Sea -Tower of Geddon- (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
