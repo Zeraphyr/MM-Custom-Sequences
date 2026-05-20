@@ -60375,5 +60375,25 @@
     "file": ".hackMUTATION/Phase #2 Innis.mmrs",
     "preview": ".hackMUTATION/Phase #2 Innis.ogg"
   },
+  {
+    "uuid": "65434941-da68-404e-b4da-030c5faa6636",
+    "creationDate": "2026-05-20T19:32:02.892Z",
+    "game": "Tales of Destiny",
+    "song": "The Storm and Stress",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Tales of Destiny/The Storm and Stress.mmrs",
+    "preview": "Tales of Destiny/The Storm and Stress.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
