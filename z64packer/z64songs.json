@@ -60789,5 +60789,24 @@
     "file": "Chrono Cross/Victory (A Cry of Summer).mmrs",
     "preview": "Chrono Cross/Victory (A Cry of Summer).ogg"
   },
+  {
+    "uuid": "32822c4f-9175-4bff-8c0c-1d56f495fe1e",
+    "creationDate": "2026-05-20T20:35:01.991Z",
+    "game": "Kingdom Hearts",
+    "song": "Simple and Clean",
+    "composers": [
+      "Hikaru Utada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7",
+      "157"
+    ],
+    "file": "Kingdom Hearts/Simple and Clean.mmrs",
+    "preview": "Kingdom Hearts/Simple and Clean.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
