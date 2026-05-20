@@ -60808,5 +60808,27 @@
     "file": "Kingdom Hearts/Simple and Clean.mmrs",
     "preview": "Kingdom Hearts/Simple and Clean.ogg"
   },
+  {
+    "uuid": "e4169193-b6a7-4bbe-93f3-cb391af9f959",
+    "creationDate": "2026-05-20T20:39:54.917Z",
+    "game": "Kingdom Hearts",
+    "song": "Simple and Clean (Battle Mix)",
+    "composers": [
+      "Hikaru Utada",
+      "Zach Jones"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "6",
+      "157"
+    ],
+    "file": "Kingdom Hearts/Simple and Clean (Battle Mix).mmrs",
+    "preview": "Kingdom Hearts/Simple and Clean (Battle Mix).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
