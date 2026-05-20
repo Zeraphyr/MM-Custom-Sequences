@@ -60456,5 +60456,24 @@
     "file": "Mega Man Zero/Infiltration.mmrs",
     "preview": "Mega Man Zero/Infiltration.ogg"
   },
+  {
+    "uuid": "635d01cc-6b97-49bf-bad6-de45ccbf97c9",
+    "creationDate": "2026-05-20T19:41:06.610Z",
+    "game": "Chrono Cross",
+    "song": "Fields of Time",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Chrono Cross/Fields of Time.mmrs",
+    "preview": "Chrono Cross/Fields of Time.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
