@@ -3765,22 +3765,31 @@
     "short_name": "Pokémon USUM"
   },
   {
-    "game": "Ragnarok Online"
+    "game": "Ragnarok Online",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/23fb42c7ddc1017599541a953efb68bb.png"
   },
   {
-    "game": ".hackMUTATION"
+    "game": ".hack∕∕MUTATION",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ef1b9b0b9c5ad1de09b779f4f97ca59b.png"
   },
   {
-    "game": "Sony Ericsson"
+    "game": "Sony Ericsson",
+    "series": "Consoles and BIOS",
+    "logo": "https://en.wikipedia.org/wiki/File:Sony_Ericsson.svg"
   },
   {
-    "game": "Mega Man Zero"
+    "game": "Mega Man Zero",
+    "series": "Mega Man Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/b4892f808f9efbd561cecbfbec3ad20d.png"
   },
   {
-    "game": "The Legend of Dragoon"
+    "game": "The Legend of Dragoon",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/dce1f234d6424aa61f8e7ce0baffd9af.png"
   },
   {
-    "game": "RPG Maker XP"
+    "game": "RPG Maker XP",
+    "series": "RPG Maker Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/8c15857537ac1c1216ffb4d2fb1d6805.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
