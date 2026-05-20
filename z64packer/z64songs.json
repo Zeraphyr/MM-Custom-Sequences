@@ -60475,5 +60475,24 @@
     "file": "Chrono Cross/Fields of Time.mmrs",
     "preview": "Chrono Cross/Fields of Time.ogg"
   },
+  {
+    "uuid": "457f8736-89ba-4129-a7ad-9d35db2a313d",
+    "creationDate": "2026-05-20T19:43:25.936Z",
+    "game": "RPG Maker XP",
+    "song": "Town 03",
+    "composers": [
+      "Samy Shbib"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "RPG Maker XP/Town 03.mmrs",
+    "preview": "RPG Maker XP/Town 03.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
