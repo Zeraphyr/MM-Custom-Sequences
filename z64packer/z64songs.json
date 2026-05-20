@@ -60434,5 +60434,27 @@
     "file": "Chrono Cross/Dream Fragments.mmrs",
     "preview": "Chrono Cross/Dream Fragments.ogg"
   },
+  {
+    "uuid": "ec8cdcd3-cb91-4b69-8def-4acca0eb4b6f",
+    "creationDate": "2026-05-20T19:39:05.860Z",
+    "game": "Mega Man Zero",
+    "song": "Infiltration",
+    "composers": [
+      "Ippo Yamada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "6",
+      "157"
+    ],
+    "file": "Mega Man Zero/Infiltration.mmrs",
+    "preview": "Mega Man Zero/Infiltration.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
