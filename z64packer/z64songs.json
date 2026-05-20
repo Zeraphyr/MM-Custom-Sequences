@@ -60630,5 +60630,25 @@
     "file": "Kingdom Hearts/Riku.mmrs",
     "preview": "Kingdom Hearts/Riku.ogg"
   },
+  {
+    "uuid": "c0f8a811-75b3-4f3a-9cf3-adc1d6ba2364",
+    "creationDate": "2026-05-20T20:06:22.754Z",
+    "game": "The Legend of Dragoon",
+    "song": "Royal Capital",
+    "composers": [
+      "Dennis Martin",
+      "Takeo Miratsu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "The Legend of Dragoon/Royal Capital.mmrs",
+    "preview": "The Legend of Dragoon/Royal Capital.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
