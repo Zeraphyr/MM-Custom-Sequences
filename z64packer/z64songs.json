@@ -60590,5 +60590,23 @@
     "file": "Kirby Super Star/Gourmet Race.mmrs",
     "preview": "Kirby Super Star/Gourmet Race.ogg"
   },
+  {
+    "uuid": "685a8861-6e30-4b6a-99e7-3bad72cc3499",
+    "creationDate": "2026-05-20T20:00:56.967Z",
+    "game": "Chrono Cross",
+    "song": "People Imprisoned by Destiny",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "file": "Chrono Cross/People Imprisoned by Destiny.mmrs",
+    "preview": "Chrono Cross/People Imprisoned by Destiny.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
