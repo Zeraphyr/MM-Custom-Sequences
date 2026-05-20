@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -60280,6 +60280,555 @@
     "uuid": "dac1b50f-731e-4e51-8185-cdf25844f838",
     "file": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Temporal Tower.mmrs",
     "preview": "Pokémon Mystery Dungeon Explorers of Time, Darkness & Sky/Temporal Tower.ogg"
+  },
+  {
+    "uuid": "fcb66788-f91d-4492-ad1c-1bc98556e32d",
+    "creationDate": "2026-05-20T19:13:34.927Z",
+    "game": "Tales of Destiny",
+    "song": "Leon ~Victim of Fate~",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Tales of Destiny/Leon ~Victim of Fate~.mmrs",
+    "preview": "Tales of Destiny/Leon ~Victim of Fate~.ogg"
+  },
+  {
+    "uuid": "611f95d4-4d66-4487-8cff-ff2fa144b6c2",
+    "creationDate": "2026-05-20T19:17:40.993Z",
+    "game": "Sony Ericsson",
+    "song": "MusicDJ - Techno",
+    "composers": [
+      "Örjan Strandberg"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Sony Ericsson/MusicDJ - Techno.mmrs",
+    "preview": "Sony Ericsson/MusicDJ - Techno.ogg"
+  },
+  {
+    "uuid": "e8dc584f-30dd-4727-9020-fe9209b84a4f",
+    "creationDate": "2026-05-20T19:20:29.218Z",
+    "game": "Final Fantasy VIII",
+    "song": "The Legendary Beast",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Final Fantasy VIII/The Legendary Beast.mmrs",
+    "preview": "Final Fantasy VIII/The Legendary Beast.ogg"
+  },
+  {
+    "uuid": "e32bc9a5-1e8d-434c-b0dc-3c5150fcdfbd",
+    "creationDate": "2026-05-20T19:25:23.692Z",
+    "game": "Mega Man Zero 4",
+    "song": "Nothing Beats",
+    "composers": [
+      "Shinichi Itakura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": "Mega Man Zero 4/Nothing Beats.mmrs",
+    "preview": "Mega Man Zero 4/Nothing Beats.ogg"
+  },
+  {
+    "uuid": "53f8e5a6-1bd7-4468-93a3-50665009eb8e",
+    "creationDate": "2026-05-20T19:29:17.192Z",
+    "game": ".hack//MUTATION",
+    "song": "Phase #2 Innis",
+    "composers": [
+      "Chikayo Fukuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": ".hackMUTATION/Phase #2 Innis.mmrs",
+    "preview": ".hackMUTATION/Phase #2 Innis.ogg"
+  },
+  {
+    "uuid": "65434941-da68-404e-b4da-030c5faa6636",
+    "creationDate": "2026-05-20T19:32:02.892Z",
+    "game": "Tales of Destiny",
+    "song": "The Storm and Stress",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Tales of Destiny/The Storm and Stress.mmrs",
+    "preview": "Tales of Destiny/The Storm and Stress.ogg"
+  },
+  {
+    "uuid": "d8774664-781e-45d2-b897-604dcf6f92e6",
+    "creationDate": "2026-05-20T19:33:43.201Z",
+    "game": "Mega Man 8",
+    "song": "Boss Battle",
+    "composers": [
+      "Shusaku Uchiyama"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Mega Man 8/Boss Battle.mmrs",
+    "preview": "Mega Man 8/Boss Battle.ogg"
+  },
+  {
+    "uuid": "15a1a998-6dd2-4e07-add9-c8029ef7f96e",
+    "creationDate": "2026-05-20T19:35:11.623Z",
+    "game": "Chrono Cross",
+    "song": "Dream Fragments",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Chrono Cross/Dream Fragments.mmrs",
+    "preview": "Chrono Cross/Dream Fragments.ogg"
+  },
+  {
+    "uuid": "ec8cdcd3-cb91-4b69-8def-4acca0eb4b6f",
+    "creationDate": "2026-05-20T19:39:05.860Z",
+    "game": "Mega Man Zero",
+    "song": "Infiltration",
+    "composers": [
+      "Ippo Yamada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "6",
+      "157"
+    ],
+    "file": "Mega Man Zero/Infiltration.mmrs",
+    "preview": "Mega Man Zero/Infiltration.ogg"
+  },
+  {
+    "uuid": "635d01cc-6b97-49bf-bad6-de45ccbf97c9",
+    "creationDate": "2026-05-20T19:41:06.610Z",
+    "game": "Chrono Cross",
+    "song": "Fields of Time",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Chrono Cross/Fields of Time.mmrs",
+    "preview": "Chrono Cross/Fields of Time.ogg"
+  },
+  {
+    "uuid": "457f8736-89ba-4129-a7ad-9d35db2a313d",
+    "creationDate": "2026-05-20T19:43:25.936Z",
+    "game": "RPG Maker XP",
+    "song": "Town 03",
+    "composers": [
+      "Samy Shbib"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "RPG Maker XP/Town 03.mmrs",
+    "preview": "RPG Maker XP/Town 03.ogg"
+  },
+  {
+    "uuid": "94096f19-a062-432b-93da-138bfab23950",
+    "creationDate": "2026-05-20T19:45:04.630Z",
+    "game": "Tales of the Abyss",
+    "song": "Confrontation",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "Tales of the Abyss/Confrontation.mmrs",
+    "preview": "Tales of the Abyss/Confrontation.ogg"
+  },
+  {
+    "uuid": "b4c4d037-1ed4-45b3-a9b6-e01254017c31",
+    "creationDate": "2026-05-20T19:46:38.138Z",
+    "game": "RPG Maker XP",
+    "song": "Castle 01",
+    "composers": [
+      "Unknown"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "RPG Maker XP/Castle 01.mmrs",
+    "preview": "RPG Maker XP/Castle 01.ogg"
+  },
+  {
+    "uuid": "53695df2-666a-4090-8404-2040e8bf3acf",
+    "creationDate": "2026-05-20T19:52:28.615Z",
+    "game": "Windows XP",
+    "song": "Town (Variant B)",
+    "composers": [
+      "Nathan Grigg"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Windows XP/Town (Variant B).mmrs",
+    "preview": "Windows XP/Town (Variant B).ogg"
+  },
+  {
+    "uuid": "112ba8ae-c5ac-43d3-8ca1-0be252dc2214",
+    "creationDate": "2026-05-20T19:54:33.937Z",
+    "game": "Chrono Cross",
+    "song": "The Dead Sea -Tower of Geddon- (Variant B)",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3"
+    ],
+    "file": "Chrono Cross/The Dead Sea -Tower of Geddon- (Variant B).mmrs",
+    "preview": "Chrono Cross/The Dead Sea -Tower of Geddon- (Variant B).ogg"
+  },
+  {
+    "uuid": "41473fdd-927e-487f-a3b4-8e1b02b51770",
+    "creationDate": "2026-05-20T19:57:11.287Z",
+    "game": "Kirby Super Star",
+    "song": "Gourmet Race",
+    "composers": [
+      "Jun Ishikawa"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4"
+    ],
+    "file": "Kirby Super Star/Gourmet Race.mmrs",
+    "preview": "Kirby Super Star/Gourmet Race.ogg"
+  },
+  {
+    "uuid": "685a8861-6e30-4b6a-99e7-3bad72cc3499",
+    "creationDate": "2026-05-20T20:00:56.967Z",
+    "game": "Chrono Cross",
+    "song": "People Imprisoned by Destiny",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "file": "Chrono Cross/People Imprisoned by Destiny.mmrs",
+    "preview": "Chrono Cross/People Imprisoned by Destiny.ogg"
+  },
+  {
+    "uuid": "04cfadc5-7f60-4eea-a717-130e346bb66c",
+    "creationDate": "2026-05-20T20:04:34.970Z",
+    "game": "Kingdom Hearts",
+    "song": "Riku",
+    "composers": [
+      "Yoko Shimomura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "Kingdom Hearts/Riku.mmrs",
+    "preview": "Kingdom Hearts/Riku.ogg"
+  },
+  {
+    "uuid": "c0f8a811-75b3-4f3a-9cf3-adc1d6ba2364",
+    "creationDate": "2026-05-20T20:06:22.754Z",
+    "game": "The Legend of Dragoon",
+    "song": "Royal Capital",
+    "composers": [
+      "Dennis Martin",
+      "Takeo Miratsu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "The Legend of Dragoon/Royal Capital.mmrs",
+    "preview": "The Legend of Dragoon/Royal Capital.ogg"
+  },
+  {
+    "uuid": "c8e2ec0c-5df9-4329-8f19-788ed6ec885f",
+    "creationDate": "2026-05-20T20:11:20.913Z",
+    "game": "Super Smash Bros. Melee",
+    "song": "Saria's Song",
+    "composers": [
+      "Koji Kondo",
+      "Hirokazu Ando",
+      "Shogo Sakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Super Smash Bros. Melee/Saria's Song.mmrs",
+    "preview": "Super Smash Bros. Melee/Saria's Song.ogg"
+  },
+  {
+    "uuid": "b79fcfd8-6b8b-4471-b131-3fd44ae8ecd3",
+    "creationDate": "2026-05-20T20:13:06.622Z",
+    "game": "Ragnarok Online",
+    "song": "Not So Far Away",
+    "composers": [
+      "soundTeMP"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Ragnarok Online/Not So Far Away.mmrs",
+    "preview": "Ragnarok Online/Not So Far Away.ogg"
+  },
+  {
+    "uuid": "520b5a0f-aa3d-4853-ada2-7bb69c79abb9",
+    "creationDate": "2026-05-20T20:23:43.926Z",
+    "game": "Tales of Destiny",
+    "song": "Leon's End",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "157"
+    ],
+    "file": "Tales of Destiny/Leon's End.mmrs",
+    "preview": "Tales of Destiny/Leon's End.ogg"
+  },
+  {
+    "uuid": "1c59a732-a618-4456-8551-17e164dd80f5",
+    "creationDate": "2026-05-20T20:25:37.996Z",
+    "game": "Chrono Cross",
+    "song": "Garden of God",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Chrono Cross/Garden of God.mmrs",
+    "preview": "Chrono Cross/Garden of God.ogg"
+  },
+  {
+    "uuid": "977c4ea1-6b64-4f53-96ad-3a732d88e8af",
+    "creationDate": "2026-05-20T20:27:08.302Z",
+    "game": "Valkyrie Profile",
+    "song": "Epic Poem to Sacred Death",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Valkyrie Profile/Epic Poem to Sacred Death.mmrs",
+    "preview": "Valkyrie Profile/Epic Poem to Sacred Death.ogg"
+  },
+  {
+    "uuid": "c64e3b16-e616-4dc4-b89d-e42cbff267e5",
+    "creationDate": "2026-05-20T20:32:25.981Z",
+    "game": "Pokémon Colosseum",
+    "song": "Relic Forest",
+    "composers": [
+      "Tsukasa Tawada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6"
+    ],
+    "file": "Pokémon Colosseum/Relic Forest.mmrs",
+    "preview": "Pokémon Colosseum/Relic Forest.ogg"
+  },
+  {
+    "uuid": "571b1bf2-ca33-417c-bcc0-6fa80267abd5",
+    "creationDate": "2026-05-20T20:33:39.974Z",
+    "game": "Chrono Cross",
+    "song": "Victory (A Cry of Summer)",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "121"
+    ],
+    "file": "Chrono Cross/Victory (A Cry of Summer).mmrs",
+    "preview": "Chrono Cross/Victory (A Cry of Summer).ogg"
+  },
+  {
+    "uuid": "32822c4f-9175-4bff-8c0c-1d56f495fe1e",
+    "creationDate": "2026-05-20T20:35:01.991Z",
+    "game": "Kingdom Hearts",
+    "song": "Simple and Clean",
+    "composers": [
+      "Hikaru Utada"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7",
+      "157"
+    ],
+    "file": "Kingdom Hearts/Simple and Clean.mmrs",
+    "preview": "Kingdom Hearts/Simple and Clean.ogg"
+  },
+  {
+    "uuid": "e4169193-b6a7-4bbe-93f3-cb391af9f959",
+    "creationDate": "2026-05-20T20:39:54.917Z",
+    "game": "Kingdom Hearts",
+    "song": "Simple and Clean (Battle Mix)",
+    "composers": [
+      "Hikaru Utada",
+      "Zach Jones"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "5",
+      "6",
+      "157"
+    ],
+    "file": "Kingdom Hearts/Simple and Clean (Battle Mix).mmrs",
+    "preview": "Kingdom Hearts/Simple and Clean (Battle Mix).ogg"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
