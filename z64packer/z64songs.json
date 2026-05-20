@@ -60534,5 +60534,24 @@
     "file": "RPG Maker XP/Castle 01.mmrs",
     "preview": "RPG Maker XP/Castle 01.ogg"
   },
+  {
+    "uuid": "53695df2-666a-4090-8404-2040e8bf3acf",
+    "creationDate": "2026-05-20T19:52:28.615Z",
+    "game": "Windows XP",
+    "song": "Town (Variant B)",
+    "composers": [
+      "Nathan Grigg"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3"
+    ],
+    "file": "Windows XP/Town (Variant B).mmrs",
+    "preview": "Windows XP/Town (Variant B).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
