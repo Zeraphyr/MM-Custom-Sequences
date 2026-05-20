@@ -60771,5 +60771,23 @@
     "file": "Pokémon Colosseum/Relic Forest.mmrs",
     "preview": "Pokémon Colosseum/Relic Forest.ogg"
   },
+  {
+    "uuid": "571b1bf2-ca33-417c-bcc0-6fa80267abd5",
+    "creationDate": "2026-05-20T20:33:39.974Z",
+    "game": "Chrono Cross",
+    "song": "Victory (A Cry of Summer)",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "121"
+    ],
+    "file": "Chrono Cross/Victory (A Cry of Summer).mmrs",
+    "preview": "Chrono Cross/Victory (A Cry of Summer).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
