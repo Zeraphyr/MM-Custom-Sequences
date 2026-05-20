@@ -60671,5 +60671,26 @@
     "file": "Super Smash Bros. Melee/Saria's Song.mmrs",
     "preview": "Super Smash Bros. Melee/Saria's Song.ogg"
   },
+  {
+    "uuid": "b79fcfd8-6b8b-4471-b131-3fd44ae8ecd3",
+    "creationDate": "2026-05-20T20:13:06.622Z",
+    "game": "Ragnarok Online",
+    "song": "Not So Far Away",
+    "composers": [
+      "soundTeMP"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Ragnarok Online/Not So Far Away.mmrs",
+    "preview": "Ragnarok Online/Not So Far Away.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
