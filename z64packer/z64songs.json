@@ -60320,5 +60320,24 @@
     "file": "Sony Ericsson/MusicDJ - Techno.mmrs",
     "preview": "Sony Ericsson/MusicDJ - Techno.ogg"
   },
+  {
+    "uuid": "e8dc584f-30dd-4727-9020-fe9209b84a4f",
+    "creationDate": "2026-05-20T19:20:29.218Z",
+    "game": "Final Fantasy VIII",
+    "song": "The Legendary Beast",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Final Fantasy VIII/The Legendary Beast.mmrs",
+    "preview": "Final Fantasy VIII/The Legendary Beast.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
