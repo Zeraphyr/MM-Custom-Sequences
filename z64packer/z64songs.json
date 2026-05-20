@@ -60414,5 +60414,25 @@
     "file": "Mega Man 8/Boss Battle.mmrs",
     "preview": "Mega Man 8/Boss Battle.ogg"
   },
+  {
+    "uuid": "15a1a998-6dd2-4e07-add9-c8029ef7f96e",
+    "creationDate": "2026-05-20T19:35:11.623Z",
+    "game": "Chrono Cross",
+    "song": "Dream Fragments",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Chrono Cross/Dream Fragments.mmrs",
+    "preview": "Chrono Cross/Dream Fragments.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
