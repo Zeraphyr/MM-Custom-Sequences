@@ -60731,5 +60731,25 @@
     "file": "Chrono Cross/Garden of God.mmrs",
     "preview": "Chrono Cross/Garden of God.ogg"
   },
+  {
+    "uuid": "977c4ea1-6b64-4f53-96ad-3a732d88e8af",
+    "creationDate": "2026-05-20T20:27:08.302Z",
+    "game": "Valkyrie Profile",
+    "song": "Epic Poem to Sacred Death",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6",
+      "16"
+    ],
+    "file": "Valkyrie Profile/Epic Poem to Sacred Death.mmrs",
+    "preview": "Valkyrie Profile/Epic Poem to Sacred Death.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
