@@ -60494,5 +60494,25 @@
     "file": "RPG Maker XP/Town 03.mmrs",
     "preview": "RPG Maker XP/Town 03.ogg"
   },
+  {
+    "uuid": "94096f19-a062-432b-93da-138bfab23950",
+    "creationDate": "2026-05-20T19:45:04.630Z",
+    "game": "Tales of the Abyss",
+    "song": "Confrontation",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "Tales of the Abyss/Confrontation.mmrs",
+    "preview": "Tales of the Abyss/Confrontation.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
