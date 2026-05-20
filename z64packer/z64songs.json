@@ -60650,5 +60650,26 @@
     "file": "The Legend of Dragoon/Royal Capital.mmrs",
     "preview": "The Legend of Dragoon/Royal Capital.ogg"
   },
+  {
+    "uuid": "c8e2ec0c-5df9-4329-8f19-788ed6ec885f",
+    "creationDate": "2026-05-20T20:11:20.913Z",
+    "game": "Super Smash Bros. Melee",
+    "song": "Saria's Song",
+    "composers": [
+      "Koji Kondo",
+      "Hirokazu Ando",
+      "Shogo Sakai"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Super Smash Bros. Melee/Saria's Song.mmrs",
+    "preview": "Super Smash Bros. Melee/Saria's Song.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
