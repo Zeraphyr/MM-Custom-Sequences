@@ -60301,5 +60301,24 @@
     "file": "Tales of Destiny/Leon ~Victim of Fate~.mmrs",
     "preview": "Tales of Destiny/Leon ~Victim of Fate~.ogg"
   },
+  {
+    "uuid": "611f95d4-4d66-4487-8cff-ff2fa144b6c2",
+    "creationDate": "2026-05-20T19:17:40.993Z",
+    "game": "Sony Ericsson",
+    "song": "MusicDJ - Techno",
+    "composers": [
+      "Örjan Strandberg"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Sony Ericsson/MusicDJ - Techno.mmrs",
+    "preview": "Sony Ericsson/MusicDJ - Techno.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
