@@ -60692,5 +60692,24 @@
     "file": "Ragnarok Online/Not So Far Away.mmrs",
     "preview": "Ragnarok Online/Not So Far Away.ogg"
   },
+  {
+    "uuid": "520b5a0f-aa3d-4853-ada2-7bb69c79abb9",
+    "creationDate": "2026-05-20T20:23:43.926Z",
+    "game": "Tales of Destiny",
+    "song": "Leon's End",
+    "composers": [
+      "Motoi Sakuraba",
+      "Shinji Tamura"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "157"
+    ],
+    "file": "Tales of Destiny/Leon's End.mmrs",
+    "preview": "Tales of Destiny/Leon's End.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
