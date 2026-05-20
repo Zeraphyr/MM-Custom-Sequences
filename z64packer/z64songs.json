@@ -3373,7 +3373,7 @@
   {
     "uuid": "41136ca5-c7b7-409c-b7b2-34526d3f0b06",
     "creationDate": "2026-03-12T01:00:38.988Z",
-    "game": "Fate/EXTRA",
+    "game": "Fate∕EXTRA",
     "song": "Duel",
     "composers": [
       "Shinji Hosoe"
@@ -3390,7 +3390,7 @@
     "usesCustomBank": true,
     "usesCustomSamples": false,
     "usesFormmask": false,
-    "file": "FateEXTRA/Duel.mmrs",
+    "file": "Fate∕EXTRA/Duel.mmrs",
     "preview": "https://www.youtube.com/watch?v=kREwxplB4tg"
   },
   {
