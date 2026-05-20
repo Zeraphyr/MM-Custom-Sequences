@@ -60395,5 +60395,24 @@
     "file": "Tales of Destiny/The Storm and Stress.mmrs",
     "preview": "Tales of Destiny/The Storm and Stress.ogg"
   },
+  {
+    "uuid": "d8774664-781e-45d2-b897-604dcf6f92e6",
+    "creationDate": "2026-05-20T19:33:43.201Z",
+    "game": "Mega Man 8",
+    "song": "Boss Battle",
+    "composers": [
+      "Shusaku Uchiyama"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "4",
+      "7"
+    ],
+    "file": "Mega Man 8/Boss Battle.mmrs",
+    "preview": "Mega Man 8/Boss Battle.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
