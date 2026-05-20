@@ -60357,5 +60357,23 @@
     "file": "Mega Man Zero 4/Nothing Beats.mmrs",
     "preview": "Mega Man Zero 4/Nothing Beats.ogg"
   },
+  {
+    "uuid": "53f8e5a6-1bd7-4468-93a3-50665009eb8e",
+    "creationDate": "2026-05-20T19:29:17.192Z",
+    "game": ".hack//MUTATION",
+    "song": "Phase #2 Innis",
+    "composers": [
+      "Chikayo Fukuda"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "7"
+    ],
+    "file": ".hackMUTATION/Phase #2 Innis.mmrs",
+    "preview": ".hackMUTATION/Phase #2 Innis.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
