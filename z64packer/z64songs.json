@@ -61111,5 +61111,25 @@
     "file": "Skies of Arcadia/Dungeon Cave.mmrs",
     "preview": "Skies of Arcadia/Dungeon Cave.ogg"
   },
+  {
+    "uuid": "6e542348-987b-48c7-b0eb-ab019001669d",
+    "creationDate": "2026-05-21T00:35:13.253Z",
+    "game": "Metroid Prime 3: Corruption",
+    "song": "Bryyo",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "doncamillo",
+      "Asra"
+    ],
+    "notes": "Used in Master of Time as \"Fire Temple\"",
+    "type": "bgm",
+    "categories": [
+      "2"
+    ],
+    "file": "Metroid Prime 3 Corruption/Bryyo.mmrs",
+    "preview": "Metroid Prime 3 Corruption/Bryyo.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
