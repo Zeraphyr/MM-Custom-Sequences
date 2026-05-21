@@ -60980,5 +60980,26 @@
     "file": "MediEvil/The Crystal Caves.mmrs",
     "preview": "MediEvil/The Crystal Caves.ogg"
   },
+  {
+    "uuid": "1f196ca8-b571-4c54-9282-df237b55320a",
+    "creationDate": "2026-05-21T00:15:58.269Z",
+    "game": "Super Mario Land 2: 6 Golden Coins",
+    "song": "Wario's Castle",
+    "composers": [
+      "Kazumi Totaka"
+    ],
+    "converters": [
+      "doncamillo",
+      "Asra"
+    ],
+    "notes": "Used in Master of Time as \"Death Temple\"",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2"
+    ],
+    "file": "Super Mario Land 2 6 Golden Coins/Wario's Castle.mmrs",
+    "preview": "https://www.youtube.com/watch?v=TRvbawp1QG0"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
