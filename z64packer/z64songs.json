@@ -61240,5 +61240,30 @@
     "file": "Super Metroid/Lower Brinstar.mmrs",
     "preview": "Super Metroid/Lower Brinstar.ogg"
   },
+  {
+    "uuid": "d448f7bc-ebd4-4379-8810-3c6aee640300",
+    "creationDate": "2026-05-21T01:01:31.256Z",
+    "game": "Castlevania 64",
+    "song": "Main Menu",
+    "composers": [
+      "Masahiko Kimura",
+      "Motoaki Furukawa",
+      "Mariko Egawa"
+    ],
+    "converters": [
+      "doncamillo",
+      "Asra"
+    ],
+    "notes": "Used in Master of Time as \"Pirate's Lair\"",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Castlevania 64/Main Menu.mmrs",
+    "preview": "Castlevania 64/Main Menu.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
