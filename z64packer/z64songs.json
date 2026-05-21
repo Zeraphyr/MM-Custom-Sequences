@@ -60958,5 +60958,27 @@
     "file": "Warhammer Shadow of the Horned Rat/Looking (Arr. Master of Time).mmrs",
     "preview": "Warhammer Shadow of the Horned Rat/Looking (Arr. Master of Time).ogg"
   },
+  {
+    "uuid": "3bb04b29-40e8-4f3b-8c43-30b357edfa0a",
+    "creationDate": "2026-05-21T00:12:00.290Z",
+    "game": "MediEvil",
+    "song": "The Crystal Caves",
+    "composers": [
+      "Paul Arnold",
+      "Andrew Barnabas"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "notes": "Used in Master of Time as \"Kalki's Forest\"",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "0"
+    ],
+    "file": "MediEvil/The Crystal Caves.mmrs",
+    "preview": "MediEvil/The Crystal Caves.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
