@@ -61381,5 +61381,26 @@
     "file": "Bram Stoker's Dracula (SNES)/Ruined Stables.mmrs",
     "preview": "Bram Stoker's Dracula (SNES)/Ruined Stables.ogg"
   },
+  {
+    "uuid": "92dd7918-c0d8-4fd9-8eb3-68ff009c161a",
+    "creationDate": "2026-05-21T01:30:59.247Z",
+    "game": "Final Fantasy X",
+    "song": "The Trials",
+    "composers": [
+      "Nobuo Uematsu"
+    ],
+    "converters": [
+      "doncamillo",
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "4"
+    ],
+    "file": "Final Fantasy X/The Trials.mmrs",
+    "preview": "Final Fantasy X/The Trials.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
