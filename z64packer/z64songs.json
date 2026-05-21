@@ -61265,5 +61265,27 @@
     "file": "Castlevania 64/Main Menu.mmrs",
     "preview": "Castlevania 64/Main Menu.ogg"
   },
+  {
+    "uuid": "34a8513d-0b90-40a3-831f-6af54386c22b",
+    "creationDate": "2026-05-21T01:07:22.293Z",
+    "game": "The Elder Scrolls: Arena",
+    "song": "Dungeon Theme 4",
+    "composers": [
+      "Eric Heberling"
+    ],
+    "converters": [
+      "doncamillo",
+      "Asra"
+    ],
+    "notes": "Used in Master of Time as \"Small Grottos\"",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "157"
+    ],
+    "file": "The Elder Scrolls Arena/Dungeon Theme 4.mmrs",
+    "preview": "The Elder Scrolls Arena/Dungeon Theme 4.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
