@@ -61088,5 +61088,28 @@
     "file": "Doom/Suspense.mmrs",
     "preview": "https://www.youtube.com/watch?v=Qx4-kn66oXo"
   },
+  {
+    "uuid": "15d0d1a6-6899-4bcb-9156-10cc86be9d94",
+    "creationDate": "2026-05-21T00:31:12.254Z",
+    "game": "Skies of Arcadia",
+    "song": "Dungeon Cave",
+    "composers": [
+      "Yutaka Minobe",
+      "Tatsuyuki Maeda"
+    ],
+    "converters": [
+      "doncamillo",
+      "Asra"
+    ],
+    "notes": "Used in Master of Time as \"Patrick's Manor\"",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "Skies of Arcadia/Dungeon Cave.mmrs",
+    "preview": "Skies of Arcadia/Dungeon Cave.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
