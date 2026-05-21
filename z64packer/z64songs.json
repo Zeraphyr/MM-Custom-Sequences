@@ -61131,5 +61131,27 @@
     "file": "Metroid Prime 3 Corruption/Bryyo.mmrs",
     "preview": "Metroid Prime 3 Corruption/Bryyo.ogg"
   },
+  {
+    "uuid": "f459885a-1da4-428e-80bd-6c18aa701d25",
+    "creationDate": "2026-05-21T00:40:43.296Z",
+    "game": "The Elder Scrolls II: Daggerfall",
+    "song": "Home Sweet Home",
+    "composers": [
+      "Eric Heberling"
+    ],
+    "converters": [
+      "doncamillo",
+      "Asra"
+    ],
+    "notes": "Used in Master of Time as \"Forest Grottos, Mine\"",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "The Elder Scrolls II Daggerfall/Home Sweet Home.mmrs",
+    "preview": "The Elder Scrolls II Daggerfall/Home Sweet Home.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
