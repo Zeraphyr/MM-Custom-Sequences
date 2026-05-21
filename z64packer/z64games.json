@@ -2305,6 +2305,7 @@
   },
   {
     "game": "Warhammer 40,000: Darktide",
+    "series": "Warhammer Series",
     "logo": "https://i.imgur.com/1GYetQG.png"
   },
   {
@@ -2710,7 +2711,8 @@
   {
     "game": "The Elder Scrolls V: Skyrim",
     "series": "The Elder Scrolls Series",
-    "logo": "https://cdn2.steamgriddb.com/logo_thumb/810dfbbebb17302018ae903e9cb7a483.png"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/810dfbbebb17302018ae903e9cb7a483.png",
+    "short_name": "Skyrim"
   },
   {
     "game": "Shin Megami Tensei V",
@@ -3792,40 +3794,60 @@
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/8c15857537ac1c1216ffb4d2fb1d6805.png"
   },
   {
-    "game": "Skies of Arcadia"
+    "game": "Skies of Arcadia",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/a6155b0da06d1ad154ad2d039d1fadf4.png"
   },
   {
-    "game": "Bram Stoker's Dracula (SNES)"
+    "game": "Bram Stoker's Dracula (SNES)",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/ce4c4d595b49a33ce5f485e5672dc2ea.png"
   },
   {
-    "game": "The Elder Scrolls Arena"
+    "game": "The Elder Scrolls: Arena",
+    "series": "The Elder Scrolls Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/dbd456d85889141a5bca8a0b51abcd7a.png",
+    "short_name": "Arena"
   },
   {
-    "game": "The Elder Scrolls II Daggerfall"
+    "game": "The Elder Scrolls II: Daggerfall",
+    "series": "The Elder Scrolls Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/b7574793f15c6db2537254b5732da315.png",
+    "short_name": "Daggerfall"
   },
   {
-    "game": "Castlevania 64"
+    "game": "Castlevania 64",
+    "series": "Castlevania Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/72a7dd9f91089b8fabd3edc4c9db7ed1.png"
   },
   {
-    "game": "Warhammer Shadow of the Horned Rat"
+    "game": "Warhammer: Shadow of the Horned Rat",
+    "series": "Warhammer Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/b9630ac535ef1a4d05dc8f8b1298c731.png"
   },
   {
-    "game": "Johannes Brahms"
+    "game": "Johannes Brahms",
+    "series": "Classical Compositions",
+    "logo": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-515578680-copy.jpg"
   },
   {
-    "game": "Ecco 2 Tides of Time"
+    "game": "Ecco: The Tides of Time",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/e724e5ad0d0df625744239ef1c60e5e8.png"
   },
   {
-    "game": "Mortal Kombat Trilogy"
+    "game": "Mortal Kombat Trilogy",
+    "series": "Mortal Kombat Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/6e3b0bf8b7d5956ae572b15cd7ddb0e1.png"
   },
   {
-    "game": "Turok 2 Seeds of Evil"
+    "game": "Turok 2: Seeds of Evil",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/3bd4017318837e92a66298c7855f4427.png"
   },
   {
-    "game": "MediEvil"
+    "game": "MediEvil",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/a188af0bc920853d3673ab71c5f2a440.png"
   },
   {
-    "game": "Asterix"
+    "game": "Asterix",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/37614cd638a3b268d2de3795ec1a292b.png"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

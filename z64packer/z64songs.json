@@ -60941,7 +60941,7 @@
   {
     "uuid": "c9852667-7573-4f9e-bc23-61d6d2c10a80",
     "creationDate": "2026-05-21T00:07:41.920Z",
-    "game": "Warhammer Shadow of the Horned Rat",
+    "game": "Warhammer: Shadow of the Horned Rat",
     "song": "Looking (Arr. Master of Time)",
     "composers": [
       "James Hannigan",
@@ -61164,7 +61164,7 @@
   {
     "uuid": "f459885a-1da4-428e-80bd-6c18aa701d25",
     "creationDate": "2026-05-21T00:40:43.296Z",
-    "game": "The Elder Scrolls II Daggerfall",
+    "game": "The Elder Scrolls II: Daggerfall",
     "song": "Home Sweet Home",
     "composers": [
       "Eric Heberling"
@@ -61213,7 +61213,7 @@
   {
     "uuid": "6ed72340-3538-476e-a36d-b74ea42c0fe3",
     "creationDate": "2026-05-21T00:48:31.274Z",
-    "game": "Turok 2 Seeds of Evil",
+    "game": "Turok 2: Seeds of Evil",
     "song": "Adon-Hub",
     "composers": [
       "Darren Mitchell"
@@ -61316,7 +61316,7 @@
   {
     "uuid": "34a8513d-0b90-40a3-831f-6af54386c22b",
     "creationDate": "2026-05-21T01:07:22.293Z",
-    "game": "The Elder Scrolls Arena",
+    "game": "The Elder Scrolls: Arena",
     "song": "Dungeon Theme 4",
     "composers": [
       "Eric Heberling"
@@ -61367,7 +61367,7 @@
   {
     "uuid": "31ae8592-36bc-4d11-afb2-3a8124133649",
     "creationDate": "2026-05-21T01:15:06.307Z",
-    "game": "Ecco 2 Tides of Time",
+    "game": "Ecco: The Tides of Time",
     "song": "Fault Zone",
     "composers": [
       "Attila Dobos",
@@ -61384,7 +61384,7 @@
       "3",
       "6"
     ],
-    "file": "Ecco 2 Tides of Time/Fault Zone.mmrs",
+    "file": "Ecco The Tides of Time/Fault Zone.mmrs",
     "preview": "https://www.youtube.com/watch?v=NlHJs1ZrVqo",
     "usesCustomBank": false,
     "usesCustomSamples": false,
