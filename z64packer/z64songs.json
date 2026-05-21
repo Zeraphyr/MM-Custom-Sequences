@@ -61216,5 +61216,29 @@
     "file": "Asterix/Egypt (Arr. Master of Time).mmrs",
     "preview": "Asterix/Egypt (Arr. Master of Time).ogg"
   },
+  {
+    "uuid": "76e32386-21b7-4963-b997-f84101f2f142",
+    "creationDate": "2026-05-21T00:56:36.248Z",
+    "game": "Super Metroid",
+    "song": "Lower Brinstar",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "doncamillo",
+      "Asra"
+    ],
+    "notes": "Used in Master of Time as \"Lozan Path\"",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "Super Metroid/Lower Brinstar.mmrs",
+    "preview": "Super Metroid/Lower Brinstar.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
