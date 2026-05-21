@@ -61287,5 +61287,28 @@
     "file": "The Elder Scrolls Arena/Dungeon Theme 4.mmrs",
     "preview": "The Elder Scrolls Arena/Dungeon Theme 4.ogg"
   },
+  {
+    "uuid": "b3be323f-22ef-4483-a930-53d0d4c8c72e",
+    "creationDate": "2026-05-21T01:11:49.310Z",
+    "game": "The Legend of Zelda: Oracle of Seasons",
+    "song": "Snake's Remains",
+    "composers": [
+      "Minako Adachi",
+      "Kiyohiro Sada"
+    ],
+    "converters": [
+      "doncamillo",
+      "Asra"
+    ],
+    "notes": "Used in Master of Time as \"Temple of Agility\"",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "1",
+      "3"
+    ],
+    "file": "The Legend of Zelda Oracle of Seasons/Snake's Remains.mmrs",
+    "preview": "The Legend of Zelda Oracle of Seasons/Snake's Remains.mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
