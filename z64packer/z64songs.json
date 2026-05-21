@@ -61333,5 +61333,29 @@
     "file": "Ecco 2 Tides of Time/Fault Zone.mmrs",
     "preview": "https://www.youtube.com/watch?v=NlHJs1ZrVqo"
   },
+  {
+    "uuid": "b9f17582-e5dc-4545-aba7-46c1ed809aae",
+    "creationDate": "2026-05-21T01:18:59.463Z",
+    "game": "The Elder Scrolls: Arena",
+    "song": "Dungeon Theme 3",
+    "composers": [
+      "Eric Heberling"
+    ],
+    "converters": [
+      "doncamillo",
+      "Asra"
+    ],
+    "notes": "Used in Master of Time as \"Wisdom Temple, Ocean Tower\"",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "usesCustomBank": true,
+    "file": "The Elder Scrolls Arena/Dungeon Theme 3.mmrs",
+    "preview": "https://www.youtube.com/watch?v=NYkdnB19R6U"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
