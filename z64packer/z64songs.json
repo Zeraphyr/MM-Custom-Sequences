@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -60913,6 +60913,27 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
+  },
+  {
+    "uuid": "a7d8b4f9-d8ab-41e4-af27-1636a42eb296",
+    "creationDate": "2026-05-21T00:03:14.360Z",
+    "game": "The Legend of Zelda: A Link to the Past",
+    "song": "Dark World (Arr. Master of Time)",
+    "composers": [
+      "Koji Kondo"
+    ],
+    "converters": [
+      "doncamilo",
+      "Asra"
+    ],
+    "notes": "Used in Master of Time as \"Abello Town\"",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "The Legend of Zelda A Link to the Past/Dark World (Arr. Master of Time).mmrs",
+    "preview": "https://www.youtube.com/watch?v=BnSwxCtxdFQ"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
