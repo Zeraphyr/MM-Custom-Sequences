@@ -61686,5 +61686,156 @@
     "file": "Metroid/Kraid's Lair (Variant B).mmrs",
     "preview": ""
   },
+  {
+    "game": "The Legend of Zelda: Phantom Hourglass",
+    "song": "Set Sail for Adventure",
+    "composers": [
+      "Kenta Nagata",
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4",
+      "5",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "f5711e71-5d61-4bb2-b0ea-84d74347e03f",
+    "file": "The Legend of Zelda Phantom Hourglass/Set Sail for Adventure.mmrs",
+    "preview": ""
+  },
+  {
+    "game": "The Legend of Zelda: Spirit Tracks",
+    "song": "Fleeing by Demon Train",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Nyxael"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "5",
+      "7"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "8716188b-cbbb-4fba-b89d-63d2e86c3a7d",
+    "file": "The Legend of Zelda Spirit Tracks/Fleeing by Demon Train.mmrs",
+    "preview": ""
+  },
+  {
+    "game": "The Legend of Zelda: Skyward Sword",
+    "song": "Fi's Theme",
+    "composers": [
+      "Takeshi Hama"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "400e3183-696a-4f3c-a096-920d78a201e2",
+    "file": "The Legend of Zelda Skyward Sword/Fi's Theme.mmrs",
+    "preview": ""
+  },
+  {
+    "game": "The Legend of Zelda: Skyward Sword",
+    "song": "Ghirahim's Theme (Variant B)",
+    "composers": [
+      "Takeshi Hama"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "d93e6304-0319-4862-b180-f013cd5464b8",
+    "file": "The Legend of Zelda Skyward Sword/Ghirahim's Theme (Variant B).mmrs",
+    "preview": ""
+  },
+  {
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "Courage",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "6"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "3476410b-b739-4679-9fd5-df5efb000975",
+    "file": "The Legend of Zelda Twilight Princess/Courage.mmrs",
+    "preview": ""
+  },
+  {
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "STAR Game (Variant A)",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "a74f0778-f3df-44ea-bf79-2ead44f93de9",
+    "file": "The Legend of Zelda Twilight Princess/STAR Game (Variant A).mmrs",
+    "preview": ""
+  },
+  {
+    "game": "The Legend of Zelda: Twilight Princess",
+    "song": "STAR Game (Variant B)",
+    "composers": [
+      "Toru Minegishi"
+    ],
+    "converters": [
+      "Senate"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "ace6e99a-0de5-4f52-b9c8-b33ee490aeb0",
+    "file": "The Legend of Zelda Twilight Princess/STAR Game (Variant B).mmrs",
+    "preview": ""
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
