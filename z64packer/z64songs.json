@@ -61153,5 +61153,26 @@
     "file": "The Elder Scrolls II Daggerfall/Home Sweet Home.mmrs",
     "preview": "The Elder Scrolls II Daggerfall/Home Sweet Home.ogg"
   },
+  {
+    "uuid": "80e86c0c-c062-4a49-af73-220cfcc54409",
+    "creationDate": "2026-05-21T00:45:43.439Z",
+    "game": "Mortal Kombat Trilogy",
+    "song": "Menu",
+    "composers": [
+      "Dan Forden"
+    ],
+    "converters": [
+      "doncamillo",
+      "Asra"
+    ],
+    "notes": "Used in Master of Time as \"Hospital Theme\"",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "157"
+    ],
+    "file": "Mortal Kombat Trilogy/Menu.mmrs",
+    "preview": "Mortal Kombat Trilogy/Menu.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
