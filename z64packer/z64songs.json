@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -60933,12 +60933,15 @@
       "1"
     ],
     "file": "The Legend of Zelda A Link to the Past/Dark World (Arr. Master of Time).mmrs",
-    "preview": "https://www.youtube.com/watch?v=BnSwxCtxdFQ"
+    "preview": "https://www.youtube.com/watch?v=BnSwxCtxdFQ",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c9852667-7573-4f9e-bc23-61d6d2c10a80",
     "creationDate": "2026-05-21T00:07:41.920Z",
-    "game": "Warhammer: Shadow of the Horned Rat",
+    "game": "Warhammer Shadow of the Horned Rat",
     "song": "Looking (Arr. Master of Time)",
     "composers": [
       "James Hannigan",
@@ -60956,7 +60959,10 @@
       "5"
     ],
     "file": "Warhammer Shadow of the Horned Rat/Looking (Arr. Master of Time).mmrs",
-    "preview": "Warhammer Shadow of the Horned Rat/Looking (Arr. Master of Time).ogg"
+    "preview": "Warhammer Shadow of the Horned Rat/Looking (Arr. Master of Time).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "3bb04b29-40e8-4f3b-8c43-30b357edfa0a",
@@ -60978,7 +60984,10 @@
       "0"
     ],
     "file": "MediEvil/The Crystal Caves.mmrs",
-    "preview": "MediEvil/The Crystal Caves.ogg"
+    "preview": "MediEvil/The Crystal Caves.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "1f196ca8-b571-4c54-9282-df237b55320a",
@@ -60999,7 +61008,10 @@
       "2"
     ],
     "file": "Super Mario Land 2 6 Golden Coins/Wario's Castle.mmrs",
-    "preview": "https://www.youtube.com/watch?v=TRvbawp1QG0"
+    "preview": "https://www.youtube.com/watch?v=TRvbawp1QG0",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "e503eefe-7870-4ceb-8fb1-b15b4cca978f",
@@ -61020,7 +61032,10 @@
       "4"
     ],
     "file": "Banjo-Kazooie Nuts & Bolts/Hero Klungo Sssavesss Teh World.mmrs",
-    "preview": "Banjo-Kazooie Nuts & Bolts/Hero Klungo Sssavesss Teh World.ogg"
+    "preview": "Banjo-Kazooie Nuts & Bolts/Hero Klungo Sssavesss Teh World.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "a3e19f09-cdd0-4dff-a2b6-c3ea5f950ad3",
@@ -61040,7 +61055,10 @@
       "3"
     ],
     "file": "Johannes Brahms/Hungarian Dance No. 5 (Arr. Master of Time).mmrs",
-    "preview": "Johannes Brahms/Hungarian Dance No. 5 (Arr. Master of Time).ogg"
+    "preview": "Johannes Brahms/Hungarian Dance No. 5 (Arr. Master of Time).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "0f46f69f-2a10-4765-b515-046614349a57",
@@ -61062,7 +61080,10 @@
       "144"
     ],
     "file": "WarioWare Touched!/Ashley's Song (Arr. Master of Time).mmrs",
-    "preview": "WarioWare Touched!/Ashley's Song (Arr. Master of Time).ogg"
+    "preview": "WarioWare Touched!/Ashley's Song (Arr. Master of Time).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "c89705e2-ee90-4f09-bef4-25a195ec1f9c",
@@ -61086,7 +61107,10 @@
       "157"
     ],
     "file": "Doom/Suspense.mmrs",
-    "preview": "https://www.youtube.com/watch?v=Qx4-kn66oXo"
+    "preview": "https://www.youtube.com/watch?v=Qx4-kn66oXo",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "15d0d1a6-6899-4bcb-9156-10cc86be9d94",
@@ -61109,7 +61133,10 @@
       "6"
     ],
     "file": "Skies of Arcadia/Dungeon Cave.mmrs",
-    "preview": "Skies of Arcadia/Dungeon Cave.ogg"
+    "preview": "Skies of Arcadia/Dungeon Cave.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "6e542348-987b-48c7-b0eb-ab019001669d",
@@ -61129,12 +61156,15 @@
       "2"
     ],
     "file": "Metroid Prime 3 Corruption/Bryyo.mmrs",
-    "preview": "Metroid Prime 3 Corruption/Bryyo.ogg"
+    "preview": "Metroid Prime 3 Corruption/Bryyo.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "f459885a-1da4-428e-80bd-6c18aa701d25",
     "creationDate": "2026-05-21T00:40:43.296Z",
-    "game": "The Elder Scrolls II: Daggerfall",
+    "game": "The Elder Scrolls II Daggerfall",
     "song": "Home Sweet Home",
     "composers": [
       "Eric Heberling"
@@ -61151,7 +61181,10 @@
       "6"
     ],
     "file": "The Elder Scrolls II Daggerfall/Home Sweet Home.mmrs",
-    "preview": "The Elder Scrolls II Daggerfall/Home Sweet Home.ogg"
+    "preview": "The Elder Scrolls II Daggerfall/Home Sweet Home.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "80e86c0c-c062-4a49-af73-220cfcc54409",
@@ -61172,12 +61205,15 @@
       "157"
     ],
     "file": "Mortal Kombat Trilogy/Menu.mmrs",
-    "preview": "Mortal Kombat Trilogy/Menu.ogg"
+    "preview": "Mortal Kombat Trilogy/Menu.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "6ed72340-3538-476e-a36d-b74ea42c0fe3",
     "creationDate": "2026-05-21T00:48:31.274Z",
-    "game": "Turok 2: Seeds of Evil",
+    "game": "Turok 2 Seeds of Evil",
     "song": "Adon-Hub",
     "composers": [
       "Darren Mitchell"
@@ -61193,7 +61229,10 @@
       "6"
     ],
     "file": "Turok 2 Seeds of Evil/Adon-Hub.mmrs",
-    "preview": "Turok 2 Seeds of Evil/Adon-Hub.ogg"
+    "preview": "Turok 2 Seeds of Evil/Adon-Hub.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "9a4d8325-2c08-470f-86a7-013693bb1b0d",
@@ -61214,7 +61253,10 @@
       "2"
     ],
     "file": "Asterix/Egypt (Arr. Master of Time).mmrs",
-    "preview": "Asterix/Egypt (Arr. Master of Time).ogg"
+    "preview": "Asterix/Egypt (Arr. Master of Time).ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "76e32386-21b7-4963-b997-f84101f2f142",
@@ -61238,7 +61280,10 @@
       "6"
     ],
     "file": "Super Metroid/Lower Brinstar.mmrs",
-    "preview": "Super Metroid/Lower Brinstar.ogg"
+    "preview": "Super Metroid/Lower Brinstar.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "d448f7bc-ebd4-4379-8810-3c6aee640300",
@@ -61263,12 +61308,15 @@
       "3"
     ],
     "file": "Castlevania 64/Main Menu.mmrs",
-    "preview": "Castlevania 64/Main Menu.ogg"
+    "preview": "Castlevania 64/Main Menu.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "34a8513d-0b90-40a3-831f-6af54386c22b",
     "creationDate": "2026-05-21T01:07:22.293Z",
-    "game": "The Elder Scrolls: Arena",
+    "game": "The Elder Scrolls Arena",
     "song": "Dungeon Theme 4",
     "composers": [
       "Eric Heberling"
@@ -61285,7 +61333,10 @@
       "157"
     ],
     "file": "The Elder Scrolls Arena/Dungeon Theme 4.mmrs",
-    "preview": "The Elder Scrolls Arena/Dungeon Theme 4.ogg"
+    "preview": "The Elder Scrolls Arena/Dungeon Theme 4.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b3be323f-22ef-4483-a930-53d0d4c8c72e",
@@ -61308,12 +61359,15 @@
       "3"
     ],
     "file": "The Legend of Zelda Oracle of Seasons/Snake's Remains.mmrs",
-    "preview": "The Legend of Zelda Oracle of Seasons/Snake's Remains.mp3"
+    "preview": "The Legend of Zelda Oracle of Seasons/Snake's Remains.mp3",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "31ae8592-36bc-4d11-afb2-3a8124133649",
     "creationDate": "2026-05-21T01:15:06.307Z",
-    "game": "Ecco 2: Tides of Time",
+    "game": "Ecco 2 Tides of Time",
     "song": "Fault Zone",
     "composers": [
       "Attila Dobos",
@@ -61331,12 +61385,15 @@
       "6"
     ],
     "file": "Ecco 2 Tides of Time/Fault Zone.mmrs",
-    "preview": "https://www.youtube.com/watch?v=NlHJs1ZrVqo"
+    "preview": "https://www.youtube.com/watch?v=NlHJs1ZrVqo",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b9f17582-e5dc-4545-aba7-46c1ed809aae",
     "creationDate": "2026-05-21T01:18:59.463Z",
-    "game": "The Elder Scrolls: Arena",
+    "game": "The Elder Scrolls Arena",
     "song": "Dungeon Theme 3",
     "composers": [
       "Eric Heberling"
@@ -61355,7 +61412,9 @@
     ],
     "usesCustomBank": true,
     "file": "The Elder Scrolls Arena/Dungeon Theme 3.mmrs",
-    "preview": "https://www.youtube.com/watch?v=NYkdnB19R6U"
+    "preview": "https://www.youtube.com/watch?v=NYkdnB19R6U",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "199aa0b2-11d4-4207-b42b-63f2a3a5f94c",
@@ -61379,7 +61438,10 @@
       "3"
     ],
     "file": "Bram Stoker's Dracula (SNES)/Ruined Stables.mmrs",
-    "preview": "Bram Stoker's Dracula (SNES)/Ruined Stables.ogg"
+    "preview": "Bram Stoker's Dracula (SNES)/Ruined Stables.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "92dd7918-c0d8-4fd9-8eb3-68ff009c161a",
@@ -61400,7 +61462,10 @@
       "4"
     ],
     "file": "Final Fantasy X/The Trials.mmrs",
-    "preview": "Final Fantasy X/The Trials.ogg"
+    "preview": "Final Fantasy X/The Trials.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

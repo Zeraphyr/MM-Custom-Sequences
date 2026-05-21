@@ -3791,5 +3791,41 @@
     "series": "RPG Maker Series",
     "logo": "https://cdn2.steamgriddb.com/logo_thumb/8c15857537ac1c1216ffb4d2fb1d6805.png"
   },
+  {
+    "game": "Skies of Arcadia"
+  },
+  {
+    "game": "Bram Stoker's Dracula (SNES)"
+  },
+  {
+    "game": "The Elder Scrolls Arena"
+  },
+  {
+    "game": "The Elder Scrolls II Daggerfall"
+  },
+  {
+    "game": "Castlevania 64"
+  },
+  {
+    "game": "Warhammer Shadow of the Horned Rat"
+  },
+  {
+    "game": "Johannes Brahms"
+  },
+  {
+    "game": "Ecco 2 Tides of Time"
+  },
+  {
+    "game": "Mortal Kombat Trilogy"
+  },
+  {
+    "game": "Turok 2 Seeds of Evil"
+  },
+  {
+    "game": "MediEvil"
+  },
+  {
+    "game": "Asterix"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
