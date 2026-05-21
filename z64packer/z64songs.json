@@ -61042,5 +61042,27 @@
     "file": "Johannes Brahms/Hungarian Dance No. 5 (Arr. Master of Time).mmrs",
     "preview": "Johannes Brahms/Hungarian Dance No. 5 (Arr. Master of Time).ogg"
   },
+  {
+    "uuid": "0f46f69f-2a10-4765-b515-046614349a57",
+    "creationDate": "2026-05-21T00:24:30.294Z",
+    "game": "WarioWare: Touched!",
+    "song": "Ashley's Song (Arr. Master of Time)",
+    "composers": [
+      "Masanobu Matsunaga",
+      "Yasuhisa Baba",
+      "Masaru Tajima"
+    ],
+    "converters": [
+      "doncamillo",
+      "Asra"
+    ],
+    "notes": "Used in Master of Time (Demo) as \"Shop\"",
+    "type": "bgm",
+    "categories": [
+      "144"
+    ],
+    "file": "WarioWare Touched!/Ashley's Song (Arr. Master of Time).mmrs",
+    "preview": "WarioWare Touched!/Ashley's Song (Arr. Master of Time).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
