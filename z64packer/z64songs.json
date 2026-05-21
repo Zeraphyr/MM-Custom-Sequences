@@ -61174,5 +61174,26 @@
     "file": "Mortal Kombat Trilogy/Menu.mmrs",
     "preview": "Mortal Kombat Trilogy/Menu.ogg"
   },
+  {
+    "uuid": "6ed72340-3538-476e-a36d-b74ea42c0fe3",
+    "creationDate": "2026-05-21T00:48:31.274Z",
+    "game": "Turok 2: Seeds of Evil",
+    "song": "Adon-Hub",
+    "composers": [
+      "Darren Mitchell"
+    ],
+    "converters": [
+      "doncamillo",
+      "Asra"
+    ],
+    "notes": "Used in Master of Time as \"Intro Cutscene\"",
+    "type": "bgm",
+    "categories": [
+      "16",
+      "6"
+    ],
+    "file": "Turok 2 Seeds of Evil/Adon-Hub.mmrs",
+    "preview": "Turok 2 Seeds of Evil/Adon-Hub.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
