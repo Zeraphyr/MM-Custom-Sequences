@@ -61195,5 +61195,26 @@
     "file": "Turok 2 Seeds of Evil/Adon-Hub.mmrs",
     "preview": "Turok 2 Seeds of Evil/Adon-Hub.ogg"
   },
+  {
+    "uuid": "9a4d8325-2c08-470f-86a7-013693bb1b0d",
+    "creationDate": "2026-05-21T00:52:49.293Z",
+    "game": "Asterix",
+    "song": "Egypt (Arr. Master of Time)",
+    "composers": [
+      "Alberto José González"
+    ],
+    "converters": [
+      "doncamillo",
+      "Asra"
+    ],
+    "notes": "Used in Master of Time as \"Light Temple\"",
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2"
+    ],
+    "file": "Asterix/Egypt (Arr. Master of Time).mmrs",
+    "preview": "Asterix/Egypt (Arr. Master of Time).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
