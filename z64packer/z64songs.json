@@ -61357,5 +61357,29 @@
     "file": "The Elder Scrolls Arena/Dungeon Theme 3.mmrs",
     "preview": "https://www.youtube.com/watch?v=NYkdnB19R6U"
   },
+  {
+    "uuid": "199aa0b2-11d4-4207-b42b-63f2a3a5f94c",
+    "creationDate": "2026-05-21T01:24:09.275Z",
+    "game": "Bram Stoker's Dracula (SNES)",
+    "song": "Ruined Stables",
+    "composers": [
+      "Andy Brock",
+      "Matt Furniss"
+    ],
+    "converters": [
+      "doncamillo",
+      "Asra"
+    ],
+    "notes": "A Master of Time unused track",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "file": "Bram Stoker's Dracula (SNES)/Ruined Stables.mmrs",
+    "preview": "Bram Stoker's Dracula (SNES)/Ruined Stables.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
