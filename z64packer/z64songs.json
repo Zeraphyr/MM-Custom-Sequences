@@ -61064,5 +61064,29 @@
     "file": "WarioWare Touched!/Ashley's Song (Arr. Master of Time).mmrs",
     "preview": "WarioWare Touched!/Ashley's Song (Arr. Master of Time).ogg"
   },
+  {
+    "uuid": "c89705e2-ee90-4f09-bef4-25a195ec1f9c",
+    "creationDate": "2026-05-21T00:27:51.262Z",
+    "game": "Doom",
+    "song": "Suspense",
+    "composers": [
+      "Bobby Prince"
+    ],
+    "converters": [
+      "doncamillo",
+      "Asra"
+    ],
+    "notes": "Used in Master of Time as \"Select File / Desert\"",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "2",
+      "3",
+      "6",
+      "157"
+    ],
+    "file": "Doom/Suspense.mmrs",
+    "preview": "https://www.youtube.com/watch?v=Qx4-kn66oXo"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
