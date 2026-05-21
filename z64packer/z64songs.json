@@ -61001,5 +61001,26 @@
     "file": "Super Mario Land 2 6 Golden Coins/Wario's Castle.mmrs",
     "preview": "https://www.youtube.com/watch?v=TRvbawp1QG0"
   },
+  {
+    "uuid": "e503eefe-7870-4ceb-8fb1-b15b4cca978f",
+    "creationDate": "2026-05-21T00:19:35.383Z",
+    "game": "Banjo-Kazooie Nuts & Bolts",
+    "song": "Hero Klungo Sssavesss Teh World",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "doncamillo",
+      "Asra"
+    ],
+    "notes": "Used in Master of Time (Demo) as \"Bombchu Bowling Minigame\"",
+    "type": "bgm",
+    "categories": [
+      "3",
+      "4"
+    ],
+    "file": "Banjo-Kazooie Nuts & Bolts/Hero Klungo Sssavesss Teh World.mmrs",
+    "preview": "Banjo-Kazooie Nuts & Bolts/Hero Klungo Sssavesss Teh World.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
