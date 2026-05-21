@@ -61310,5 +61310,28 @@
     "file": "The Legend of Zelda Oracle of Seasons/Snake's Remains.mmrs",
     "preview": "The Legend of Zelda Oracle of Seasons/Snake's Remains.mp3"
   },
+  {
+    "uuid": "31ae8592-36bc-4d11-afb2-3a8124133649",
+    "creationDate": "2026-05-21T01:15:06.307Z",
+    "game": "Ecco 2: Tides of Time",
+    "song": "Fault Zone",
+    "composers": [
+      "Attila Dobos",
+      "András Magyari"
+    ],
+    "converters": [
+      "doncamillo",
+      "Asra"
+    ],
+    "notes": "Used in Master of Time as \"Water Temple\"",
+    "type": "bgm",
+    "categories": [
+      "2",
+      "3",
+      "6"
+    ],
+    "file": "Ecco 2 Tides of Time/Fault Zone.mmrs",
+    "preview": "https://www.youtube.com/watch?v=NlHJs1ZrVqo"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
