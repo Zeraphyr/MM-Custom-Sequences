@@ -61022,5 +61022,25 @@
     "file": "Banjo-Kazooie Nuts & Bolts/Hero Klungo Sssavesss Teh World.mmrs",
     "preview": "Banjo-Kazooie Nuts & Bolts/Hero Klungo Sssavesss Teh World.ogg"
   },
+  {
+    "uuid": "a3e19f09-cdd0-4dff-a2b6-c3ea5f950ad3",
+    "creationDate": "2026-05-21T00:22:05.256Z",
+    "game": "Johannes Brahms",
+    "song": "Hungarian Dance No. 5 (Arr. Master of Time)",
+    "composers": [
+      "Johannes Brahms"
+    ],
+    "converters": [
+      "doncamillo",
+      "Asra"
+    ],
+    "notes": "Used in Master of Time (Demo) as \"Sagnol Bank\"",
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "file": "Johannes Brahms/Hungarian Dance No. 5 (Arr. Master of Time).mmrs",
+    "preview": "Johannes Brahms/Hungarian Dance No. 5 (Arr. Master of Time).ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
