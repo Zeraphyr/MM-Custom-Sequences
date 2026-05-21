@@ -61393,7 +61393,7 @@
   {
     "uuid": "b9f17582-e5dc-4545-aba7-46c1ed809aae",
     "creationDate": "2026-05-21T01:18:59.463Z",
-    "game": "The Elder Scrolls Arena",
+    "game": "The Elder Scrolls: Arena",
     "song": "Dungeon Theme 3",
     "composers": [
       "Eric Heberling"
@@ -61466,6 +61466,225 @@
     "usesCustomBank": false,
     "usesCustomSamples": false,
     "usesFormmask": false
+  },
+  {
+    "game": "Banjo-Tooie",
+    "song": "Cloud Cuckooland",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "37ba1b08-ba7f-4e0b-a35b-a1190f09bda3",
+    "file": "Banjo-Tooie/Cloud Cuckooland.mmrs",
+    "preview": ""
+  },
+  {
+    "game": "Banjo-Tooie",
+    "song": "Hailfire Peak (Fire Side)",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "eb3db6df-4d01-4a27-b7c3-4f142031e7a8",
+    "file": "Banjo-Tooie/Hailfire Peak (Fire Side).mmrs",
+    "preview": ""
+  },
+  {
+    "game": "Banjo-Tooie",
+    "song": "Jinjo Village",
+    "composers": [
+      "Grant Kirkhope"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "1",
+      "2",
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "2796c9ee-378e-4ca9-81a3-3a5183247a1a",
+    "file": "Banjo-Tooie/Jinjo Village.mmrs",
+    "preview": ""
+  },
+  {
+    "game": "Joshua8600",
+    "song": "James Yeah",
+    "composers": [
+      "Joshua8600"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "f72a8400-a775-4020-8e29-1b2da12df309",
+    "file": "Joshua8600/James Yeah.mmrs",
+    "preview": "Joshua8600/James Yeah.mp3"
+  },
+  {
+    "game": "Joshua8600",
+    "song": "Mythic Prize V2",
+    "composers": [
+      "Joshua8600"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "d855c6ef-2d00-4a9c-aa32-e447a30c8e5c",
+    "file": "Joshua8600/Mythic Prize V2.mmrs",
+    "preview": ""
+  },
+  {
+    "game": "Joshua8600",
+    "song": "Mythic Prize",
+    "composers": [
+      "Joshua8600"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "fanfare",
+    "categories": [
+      "8",
+      "9",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "50d09cc2-4ff4-4929-b217-bddc9c8ffac8",
+    "file": "Joshua8600/Mythic Prize.mmrs",
+    "preview": ""
+  },
+  {
+    "game": "Joshua8600",
+    "song": "Scalar Meetings",
+    "composers": [
+      "Joshua8600"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "8",
+      "19",
+      "10"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "408cf1d7-0fdc-4dd7-9542-e23438ba107d",
+    "file": "Joshua8600/Scalar Meetings.mmrs",
+    "preview": ""
+  },
+  {
+    "game": "Mario Party",
+    "song": "Mario's Rainbow Castle (Variant B)",
+    "composers": [
+      "Yasunori Mitsuda"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2",
+      "157"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "3747471c-d748-4c9a-ba13-9a6990fd234c",
+    "file": "Mario Party/Mario's Rainbow Castle (Variant B).mmrs",
+    "preview": ""
+  },
+  {
+    "game": "Mario Tennis",
+    "song": "Game Point (Variant B)",
+    "composers": [
+      "Motoi Sakuraba"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "2"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "068d703b-4932-4815-8335-6c2c7b323906",
+    "file": "Mario Tennis/Game Point (Variant B).mmrs",
+    "preview": ""
+  },
+  {
+    "game": "Metroid",
+    "song": "Kraid's Lair (Variant B)",
+    "composers": [
+      "Kenji Yamamoto"
+    ],
+    "converters": [
+      "Joshua8600"
+    ],
+    "type": "bgm",
+    "categories": [
+      "3"
+    ],
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "uuid": "6824f0ed-e46e-4dbc-8c8e-03067424f47a",
+    "file": "Metroid/Kraid's Lair (Variant B).mmrs",
+    "preview": ""
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
